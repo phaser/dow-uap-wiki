@@ -77,4 +77,42 @@ User requested a sustainable way to "transform large PDFs into manageable ones".
 
 Re-ingestion using these OCR'd texts begins after this log entry.
 
+## [2026-05-08] ingest | 62-HQ-83894 Section 10 — full re-ingest from OCR
+
+First file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 184)`; now `Coverage: full (184 pages)`. The OCR pass fundamentally changed what we know about this section.
+
+### Key correction
+
+- **Date range was wrong**: existing summary stated "predominantly 1966 – October 1967". The file actually spans **August 1966 – June 1977** — eleven years across three FBI directorships (Hoover → L. Patrick Gray III → Clarence Kelley) and four presidents (Johnson → Nixon → Ford → Carter).
+
+### New material added
+
+Eight major new cases / artifacts not previously surfaced:
+
+- **18 Jan 1967, Chesapeake VA — James Collins abduction report** — transparent oblong craft, 4-ft humanoid pilots in trousers and T-shirts, ~8 hours missing time. **Predates the May 1968 *Look Magazine* publication of the Hill case** by 18 months. New entity page: [[entities/james-collins-chesapeake-1967]].
+- **26 Apr 1967, Miami FL — Paul L. Peyerl Black-Forest saucer claim** — Luftwaffe test pilot reporting a 1944 photographed 21-ft saucer with "designer KUEHR" and specific bipropellant fuel chemistry (H₂O₂/CH₃OH suggesting Walter HWK 109-509 cross-pollination). New entity page: [[entities/paul-peyerl-1967]].
+- **25 Jul 1967, Newark — Ivan T. Sanderson UAO book chapters 13-14** alleging FBI / military impersonation. (Linked from MIB concept page.)
+- **Aug 1967 — IGAP / "ufo contact" magazine enclosure** preserves three primary documents otherwise unindexed in this corpus: Lt. Col. George P. Freeman's 17 Mar 1967 letter inviting Steckling to the Pentagon; Paul D. Lowman Jr.'s 20 Feb 1967 NASA Goddard letter to Steckling; and the El Paso Times 5 Mar 1967 story on the **White Sands Missile Range 29-personnel mass sighting (2 Mar 1967)**. New entity page: [[entities/white-sands-march-1967]].
+- **19 Mar 1969, Mount Holly NJ — Edward A. Stewart Jr. Pan Am 707 / Elkton MD theory**: alleges UFO "air-mine" downed Pan Am Flight 214 on 8 Dec 1963, escalates to a "Russian missiles camouflaged as flying saucers" theory. Letter cc'd to Nixon, Hoover, two senators, and SecDef Laird.
+- **14 May 1969, Del City OK — Larry Stephens MIB letter to Hoover**: earliest documented FBI inquiry on the Men-in-Black folklore in this corpus, with structurally complete folklore detail. New entity page: [[entities/larry-stephens-mib-letter-1969]]; concept page [[concepts/men-in-black]] updated.
+- **22 Aug 1974, Milwaukee WI — NMCC inquiry on metal object recovery**: Major Horn at NMCC called FBI within 6 hrs of Milwaukee PD recovering a "13×8×5 inch metallic object with internal heat source"; the Pentagon's command-and-control center inquiring directly is itself notable.
+- **14 Jun 1977, Washington DC — Carter White House UFO inquiry**: Stanley Schneider (OSTP) called FBI for Jody Powell asking whether there was any executive-branch coordination on UFO information. Cochran (FBI) replied that there was none.
+
+Plus a copy of the **January 1977 Air Force UFO Fact Sheet** with the full **1947-1969 Project Blue Book sighting tally (12,618 sightings, peak 1952)** — used to seed new entity pages [[entities/project-blue-book]] and [[entities/condon-committee]].
+
+### Cross-page updates
+
+- [[concepts/men-in-black]] — added Stephens 1969 letter and Sanderson 1967 UAO book as documented examples.
+- [[entities/socorro-zamora-1964]] — added the December 1966 internal Bureau provenance note acknowledging that the Albuquerque Office produced the original Zamora witness statement.
+
+### Index changes
+
+- Section 10 line in the FBI 62-HQ-83894 catalog updated from "Renaud / Korendor channeling" to a full content gloss.
+- 4 new entity pages added under "Specific incidents / events": Collins, Peyerl, White Sands, Stephens.
+- 2 new entity pages added under "USAF / USAAF programs": Project Blue Book, Condon Committee.
+
+### Coverage changes
+
+- `62-hq-83894-section-10.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
 

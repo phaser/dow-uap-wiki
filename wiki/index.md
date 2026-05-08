@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Start here for any query. Schema lives in [`../CLAUDE.md`](../CLAUDE.md). Activity log at [`log.md`](log.md).
 
-**Counts (2026-05-08):** 105 summaries · 40 concepts · 41 entities · 4 syntheses · 112 raw PDFs.
+**Counts (2026-05-08):** 105 summaries · 40 concepts · 47 entities · 4 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
 
 ---
 
@@ -28,7 +28,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Section 7](summaries/62-hq-83894-section-7.md)
 - [Section 8](summaries/62-hq-83894-section-8.md)
 - [Section 9](summaries/62-hq-83894-section-9.md)
-- [Section 10](summaries/62-hq-83894-section-10.md) — Renaud / Korendor channeling
+- [Section 10](summaries/62-hq-83894-section-10.md) — 1966-1977 late-Hoover/post-Hoover correspondence: Collins Chesapeake VA abduction (Jan 1967), Peyerl Black-Forest saucer (Apr 1967), IGAP/Adamski enclosure with NASA Goddard + Pentagon Steckling visits, Stewart Pan Am 707 theory (1969), Stephens MIB letter (May 1969), Milwaukee object recovery (Aug 1974), Carter White House inquiry (Jun 1977)
 - [Serial 130](summaries/62-hq-83894-serial-130.md)
 - [Serial 164](summaries/62-hq-83894-serial-164.md) — AFOIN Memo No. 4 "Unconventional Aircraft" (Cabell, 1949)
 - [Serial 220](summaries/62-hq-83894-serial-220.md)
@@ -197,7 +197,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 
 ### USAF / USAAF programs
 
-- [Project SIGN](entities/project-sign.md) · [Project GRUDGE](entities/project-grudge.md) · [Project TWINKLE](entities/project-twinkle.md)
+- [Project SIGN](entities/project-sign.md) · [Project GRUDGE](entities/project-grudge.md) · [Project TWINKLE](entities/project-twinkle.md) · [Project Blue Book](entities/project-blue-book.md) · [Condon Committee](entities/condon-committee.md)
 
 ### Units
 
@@ -224,6 +224,10 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Unidentified Helicopter, 1999-12-31](entities/unidentified-helicopter-19991231.md)
 - [Paired Object, 1999-12-31](entities/paired-object-19991231.md)
 - [Western U.S. Helicopter Orb Engagement (2025)](entities/western-us-helicopter-orb-2025.md)
+- [James Collins Chesapeake VA Abduction Report (18 Jan 1967)](entities/james-collins-chesapeake-1967.md)
+- [Paul L. Peyerl Black-Forest Saucer Photograph Claim (Miami FBI, 26 Apr 1967)](entities/paul-peyerl-1967.md)
+- [White Sands Missile Range Mass Sighting (2 Mar 1967)](entities/white-sands-march-1967.md)
+- [Larry Stephens MIB Letter to Hoover (Del City OK, 14 May 1969)](entities/larry-stephens-mib-letter-1969.md)
 
 ### Reports / policy documents
 

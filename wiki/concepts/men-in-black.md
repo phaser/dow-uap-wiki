@@ -4,7 +4,7 @@ type: concept
 tags: [terminology, 1950s, 1960s, folklore]
 created: 2026-05-08
 updated: 2026-05-08
-sources: ["raw/65_hs1-834228961_62-hq-83894_serial_403.pdf"]
+sources: ["raw/65_hs1-834228961_62-hq-83894_serial_403.pdf", "raw/65_hs1-834228961_62-hq-83894_section_10.pdf"]
 confidence: medium
 ---
 
@@ -23,6 +23,8 @@ confidence: medium
 
 - Gray Barker's *They Knew Too Much About Flying Saucers*, dust jacket in [[summaries/62-hq-83894-serial-403]]
 - Albert K. Bender — the originating witness/contactee, named in the FBI file
+- **Larry Stephens citizen letter to J. Edgar Hoover, 14 May 1969 (Del City OK)**, in [[summaries/62-hq-83894-section-10]] — the earliest documented FBI inquiry on the MIB folklore in this corpus. Stephens summarizes the rumor in unusual structural detail: men "with oriental features wearing dark clothes... terrorizing people who have had close-up views of UFO's", impersonating "armed forces officers and FBI investigators", riding in "black or dark automobiles that either have old licence tags or none at all", attempting to run down witnesses, making "macabre phone calls", silencing investigators, opening mail, tapping telephones, photographing witnesses' homes. Hoover's reply via Helen W. Gandy (21 May 1969) declines: "the FBI has no information it can send to you regarding the rumors you have heard." See [[entities/larry-stephens-mib-letter-1969]].
+- **Ivan T. Sanderson UAO book chapters 13–14, submitted to FBI Newark July 1967**, in [[summaries/62-hq-83894-section-10]] — the chapters allege impersonation of FBI Agents and military personnel, an explicitly MIB-aligned framing. See [[entities/ivan-t-sanderson]].
 
 ## Related Concepts
 
@@ -33,3 +35,4 @@ confidence: medium
 ## Sources
 
 - `raw/65_hs1-834228961_62-hq-83894_serial_403.pdf`
+- `raw/65_hs1-834228961_62-hq-83894_section_10.pdf`

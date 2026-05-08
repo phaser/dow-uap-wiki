@@ -15,8 +15,8 @@ confidence: high
 - **Date range of records**: cases sampled span **December 1947 – August 1948**, with the bulk concentrated **February–July 1948**. The volume **bridges Project SIGN's early disc-wave catalog (vol. 1-100) and the late-1948 transitional phase that becomes Project GRUDGE** (covered in vol. 173-233).
 - **Page count**: 178 pages (PDF).
 - **Classification markings observed**: covers stamped **RESTRICTED**.
-- **File size**: 231 MB original (178 MB after OCR — exceeds GitHub's 100 MB per-file limit; gitignored, regenerable via `scripts/ocr.sh`).
-- **Raw path**: `raw/38_143685_box7_incident_summaries_101-172.pdf` ; OCR'd: `raw/ocr/38_143685_box7_incident_summaries_101-172.pdf` (excluded from git for size).
+- **File size**: 178 MB (OCR'd, replaces the 231 MB original in place; PDF gitignored locally — exceeds GitHub's 100 MB per-file limit).
+- **Raw path**: `raw/38_143685_box7_incident_summaries_101-172.pdf` (gitignored locally); text extract: `raw/ocr/38_143685_box7_incident_summaries_101-172.txt`.
 
 ## Coverage
 

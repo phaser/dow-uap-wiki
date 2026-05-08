@@ -15,8 +15,8 @@ confidence: high
 - **Date range of records**: cases sampled span **August–December 1948**. Earliest dated event in the volume is **Incident 187 (19 August 1948 — Godman AFB Venus tracking)**; latest dated material runs into mid-December 1948 (Incident 227 covers a meteor-typing analysis "Interval Dec 5-13"; Incident 230 cross-references the Perseid shower). The volume therefore spans the operational transition from **Project SIGN → Project GRUDGE** (formal renaming February 1949) and captures the increasing analytical sophistication that came with that transition.
 - **Page count**: 144 pages (PDF).
 - **Classification markings observed**: cover sheets stamped (OCR distorted) — mostly "RESTRICTED"; a handful Confidential.
-- **File size**: ~49 MB original (~41 MB after OCR).
-- **Raw path**: `raw/38_143685_box7_incident_summaries_173-233.pdf` ; OCR'd: `raw/ocr/38_143685_box7_incident_summaries_173-233.pdf`.
+- **File size**: 41 MB (OCR'd, replaces the ~49 MB original in place).
+- **Raw path**: `raw/38_143685_box7_incident_summaries_173-233.pdf` (gitignored locally); text extract: `raw/ocr/38_143685_box7_incident_summaries_173-233.txt`.
 
 ## Coverage
 

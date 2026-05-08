@@ -15,8 +15,10 @@ pattern.
 ## Layout
 
 ```
-raw/                    # source PDFs. Populated by dow_uap_downloader. Gitignored.
+raw/                    # source PDFs (gitignored). Populated by dow_uap_downloader, then OCR'd in place by scripts/ocr.sh.
+raw/ocr/                # plain-text extracts of every OCR'd page (committed; ~10 MB total).
 dow_uap_downloader/     # .NET 8 CLI that fetches the war.gov UAP manifest
+scripts/                # ocr.sh (full-corpus OCR pass) and triage.sh (signal-density survey)
 wiki/                   # LLM-maintained knowledge base (Obsidian vault)
   index.md              #   master catalog — start here
   log.md                #   append-only activity log
@@ -29,9 +31,11 @@ SOURCES.md              # provenance: filename → war.gov manifest URL
 CLAUDE.md               # instructions for the LLM curator
 ```
 
-`raw/` is not committed (some PDFs exceed GitHub's 100MB per-file limit and
-the corpus is reproducible from the manifest). To populate it from a fresh
-clone, run the downloader — see below.
+`raw/` is not committed — the OCR'd PDFs are large (~1.9 GB total, several
+files >100 MB) and the corpus is reproducible from the war.gov manifest. To
+populate it from a fresh clone: run the downloader, then `scripts/ocr.sh` (in
+that order). The committed `raw/ocr/*.txt` extracts are the canonical
+searchable form of the corpus regardless of whether the PDFs are present.
 
 ## Sources
 

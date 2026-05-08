@@ -58,12 +58,15 @@ User requested a sustainable way to "transform large PDFs into manageable ones".
 - Wrapper: `scripts/ocr.sh` — iterates `raw/*.pdf`, idempotent (skips files already in `raw/ocr/`), per-file logs at `raw/ocr/.logs/<name>.log`.
 - Survey of OCR quality across the previously-`sampled` files: clean-word ratio 89–95 %; word density per page varies an order of magnitude (FBI HQ section 10 ≈ 370 words/page vs Army incident-summary forms ≈ 130 words/page).
 
-### Outputs
+### Outputs (after the layout consolidation — see below)
 
-- 112 OCR'd PDFs in `raw/ocr/<name>.pdf` (preserves visual layout + adds searchable text layer).
-- Plain-text sidecars at `raw/ocr/.txt/<name>.txt` (used by `scripts/triage.sh` and direct inspection — much faster than re-OCR'ing).
-- 4 PDFs still exceed GitHub's 100 MB per-file limit after OCR (`section_6`, `incident_summaries_1-100`, `incident_summaries_101-172`, `box186 flying-discs-1949`); excluded from git, regenerable locally via `scripts/ocr.sh`. Their `.txt` extracts in `raw/ocr/.txt/` are committed, so the searchable content is in the repo even when the PDF isn't.
-- `.gitignore` keeps the original `raw/` scans excluded but un-ignores the OCR'd subtree (minus the four oversize files).
+- 112 OCR'd PDFs in `raw/<name>.pdf` (replaced the original scans in place; visual layout preserved, searchable text layer added).
+- 112 plain-text extracts in `raw/ocr/<name>.txt` (~10 MB total, the canonical grep-able form of the corpus).
+- `raw/*.pdf` is gitignored (~1.9 GB local-only, regenerable from the war.gov manifest via `dow_uap_downloader` + `scripts/ocr.sh`). `raw/ocr/*.txt` is committed.
+
+### Layout consolidation
+
+Initial structure was `raw/<name>.pdf` (originals) + `raw/ocr/<name>.pdf` (OCR'd) + `raw/ocr/.txt/<name>.txt` (per-file plaintext, only generated for the 6 triaged files). User pointed out the OCR'd PDFs were still large (OCR adds a text layer; it doesn't shrink the page rasters) and asked for the cleaner layout described above: replace originals with OCR'd in place, drop the duplicate PDF tree, keep only the per-file text extract flat under `raw/ocr/`. Repo dropped from ~1.7 GB of tracked OCR'd PDFs to ~10 MB of tracked text extracts.
 
 ### Triage
 

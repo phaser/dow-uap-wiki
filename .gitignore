@@ -1,0 +1,16 @@
+# Source PDFs — populated by running dow_uap_downloader. Excluded from git
+# because several files exceed GitHub's 100MB per-file limit and the corpus
+# is reproducible from the war.gov manifest documented in SOURCES.md.
+raw/
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vs/
+.idea/
+*.swp

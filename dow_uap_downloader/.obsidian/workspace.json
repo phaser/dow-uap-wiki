@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "7b2a357e055de837",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b82a4bbba258430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b16ee2c80966b0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89e4bbaa89560df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49f16b72c426991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf6697ed3b0fef6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02ea31684bf7b46e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8dee9f15241f07cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "754ab01bcfc5ce13",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b207b31f0c50c85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05dd898eec71fbb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/fbi-photo-b21.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for fbi-photo-b21"
+            }
+          },
+          {
+            "id": "30a44ecd8e1d1674",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/fbi-photo-b21.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from fbi-photo-b21"
+            }
+          },
+          {
+            "id": "711c325af5744f0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1dbd8a56dfd15e83",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73f8026a41d2912c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/fbi-photo-b21.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of fbi-photo-b21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7b16ee2c80966b0b",
+  "lastOpenFiles": [
+    "wiki/summaries/62-hq-83894-serial-403.md",
+    "wiki/entities/clinton-county-aaf.md",
+    "wiki/concepts/meteorite-vs-craft-ambiguity.md",
+    "wiki/concepts/lunar-anomaly.md",
+    "raw/fbi-photo-b21.pdf",
+    "wiki/concepts/balloon-like-uap.md",
+    "wiki/syntheses/fbi-institutional-posture.md",
+    "wiki/concepts/ghost-rockets.md",
+    "wiki/concepts/policy-on-first-contact.md",
+    "wiki/concepts/diplomatic-uap-rhetoric.md",
+    "wiki/concepts/light-extinction-event.md",
+    "wiki/concepts/orbs-launching-orbs.md",
+    "wiki/entities/western-us-helicopter-orb-2025.md",
+    "wiki/entities/415th-nfs.md",
+    "wiki/entities/hunter-policy-memo-1963.md",
+    "wiki/entities/borman-gemini-7.md",
+    "wiki/entities/state-dept.md",
+    "wiki/entities/cometa-report.md",
+    "wiki/summaries/341-numerical-file-5-2500.md",
+    "wiki/summaries/255-ufos-and-defense.md",
+    "wiki/entities/482-atks.md",
+    "wiki/concepts/cold-thermal-signature.md",
+    "wiki/concepts/orb.md",
+    "wiki/summaries/army-intelligence-collection-1948-1955.md",
+    "wiki/concepts/slag-residue.md",
+    "wiki/concepts/saucer-hoax.md",
+    "wiki/concepts/unconventional-aircraft.md",
+    "downloads/pr20_p1.png",
+    "downloads/d65_p8.png",
+    "downloads/d65_p7.png",
+    "downloads/d65_p1.png",
+    "downloads/d63_p8.png",
+    "downloads/d63_p7.png",
+    "downloads/d63_p6.png",
+    "downloads/d63_p1.png",
+    "raw/fbi-photo-b22.pdf",
+    "raw/fbi-photo-b23.pdf",
+    "raw/fbi-photo-b24.pdf",
+    "downloads/d60_p6.png",
+    "downloads/d60_p5.png",
+    "concepts"
+  ]
+}

@@ -142,4 +142,32 @@ None this round — the major findings touch entities ([[entities/project-sign]]
 
 - `army-incident-summaries-173-233.md`: `sampled` → `full`; `confidence: medium` → `high`.
 
+## [2026-05-08] ingest | Army Incident Summaries 101–172 (Box 7) — full re-ingest from OCR
+
+Third file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-18 of 178)` covering Incidents 101-102 only; now `Coverage: full (178 pages)`.
+
+### Key findings
+
+- The volume spans **December 1947 – August 1948** with the bulk in **February–July 1948**, bridging the SIGN early-disc-wave catalog (vol. 1-100) and the late-1948 transitional phase (vol. 173-233).
+- **Bakersfield CA March 1948 burning-aircraft wave (Incidents 106-109)**: multi-source "falling aircraft on fire with red-and-black smoke" descriptions sometimes including a parachute drifting eastward; sheriff's office, USAF, and rescue searches found no debris. Investigated by Lt Col Donald L. Springer (4th Air Force, Hamilton Field).
+- **Ashley/Delaware OH 8 April 1948 cylinder cluster (Incidents 112-112c)**: six independent witnesses across two towns ~10 mi apart described a slow-moving daylight cylindrical object with vapor streamers; one witness (Mrs. Selah Stephens) used the phrase "opalescent like mother of pearl"; pastor and newspaper-reporter among the witnesses; Delaware airport alerted but never detected arrival.
+- **Selfridge Field MI 25 + 28 May 1948 paired sightings (Incidents 134, 135)**: Lt Kokolonis (Corps of Engineers) reported 5 silvery-gold disc-shaped objects in stepped-up line-astern formation, 300-400 ft size at 8,000 ft, 500+ mph; M/Sgt Ernest Davis Jr. reported a single 4-ft brass-colored sphere from the same area three days later.
+- **Rapid City AFB / 28th Bomb Group August 1948**: Maj Elmer H. Hamer (Intelligence Officer) reported approximately 12 yellowish-white elliptical objects in tight diamond formation, 100+ ft length, 500+ mph — one of the largest formation reports in the SIGN corpus.
+- **Scandinavian "ghost rocket" continuity (Incidents 132-133)**: December 1947 Oslo + February 1948 Norway/Denmark/Sweden objects "with green tails... from the direction of Peenemünde" — over a year and a half after the famous 1946 Swedish wave, suggesting the [[concepts/ghost-rockets|ghost-rocket]] phenomenon persisted. Investigator note: "trend ... to appear at 2130 hours might be significant."
+- **Pacific theater first pilot pursuit (Incident 111)**: 1st Lt Robert L. Meyers, 67 FS / 18 FG, observed two silver "flying-wing-type" objects ~30 ft × 20 ft over the Philippines on 1 April 1948.
+- **First citizen "foreign-aircraft" sound report (Incident 110)**: anonymous Hamilton MD housewife reports unusual nighttime aircraft-sounds via FBI Baltimore → Second Army → AMC. The cold-war framing distinguishes this from the "flying disc" framing dominant elsewhere in the volume.
+- **Oak Ridge TN adjacency (Incident 136a)**: Tryus W. Setliff (Oakridge TN) co-witnessed the 30 June 1948 ball-of-fire over Knoxville — early documentation of an [[concepts/atomic-energy-site-overflight|atomic-energy site]] adjacency case.
+
+### Cross-page updates
+
+None this round (the major findings touch existing entities; new dedicated entity pages for the Selfridge formation case, the Rapid City diamond formation, and the Bakersfield wave are deferred).
+
+### Index changes
+
+- "Incident Summaries 101–172" line updated from "Norcatur fireball, La Paz vs. Markham" stub to a full content gloss.
+
+### Coverage changes
+
+- `army-incident-summaries-101-172.md`: `sampled` → `full`; `confidence: medium` → `high`.
+
 

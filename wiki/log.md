@@ -115,4 +115,31 @@ Plus a copy of the **January 1977 Air Force UFO Fact Sheet** with the full **194
 
 - `62-hq-83894-section-10.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
+## [2026-05-08] ingest | Army Incident Summaries 173–233 (Box 7) — full re-ingest from OCR
+
+Second file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-18 of 144)` covering Incidents 174-178 only; now `Coverage: full (144 pages)`. The OCR pass surfaced the volume's geographic and analytical character which the small sample missed.
+
+### Key findings
+
+- The volume spans **August–December 1948** (earliest dated event is Incident 187, 19 Aug 1948 Godman AFB; latest is mid-Dec 1948 Perseid-shower attributions in Incident 230). The volume therefore captures the **transitional period** from Project SIGN into Project GRUDGE (formal renaming February 1949).
+- **First substantial non-CONUS case load** in the SIGN incident corpus: Hawaii, Japan (Iruka Shima radar+visual; Wakkanai radar), Korea, Philippines (Clark AFB), Germany (Neubiberg), Atlantic Canada (Goose Bay Labrador). Geographic scope expanded materially vs. the CONUS-only earlier volumes.
+- **Andrews AFB pursuit case (Incident 207A, 18 Nov 1948)**: 2nd Lt Henry G. Combs USAFR pursued an "oblong ball" with continuous glowing white light at 1700-7500 ft for 10-12 minutes, recorded vertical climbs the object outclimbed, 80–600 mph speed range, dull-gray response when his landing-light was put on it. One of the most operationally substantive single-pilot pursuit cases in the early-program record but absent from the standard canon.
+- **Godman AFB Venus case (Incident 187, 19 Aug 1948)**: theodolite-tracked spherical bright silver object at 30,000-40,000 ft over Godman AFB Kentucky — same airfield as the [[entities/mantell-incident|Mantell case]] seven months earlier — definitively identified as the planet **Venus** by Mr. Moore (Head Astrologer, University of Louisville) with MCI verification. Useful additional context for the Mantell-was-Venus debate.
+- **Wakkanai Japan (Incident 198, 6 Nov 1948)**: 1 hr 5 min radar circling track over the Wakkanai station (Hokkaido N tip, ~40 km from Soviet-held Sakhalin) evaluated as **Soviet "Ferret" electronic-reconnaissance mission**. One of the earliest unambiguous "UFO → Soviet ELINT" reattributions in the corpus.
+- **MIT cosmic-ray balloon misidentification (Incident 194, 3 Nov 1948)**: two 52d Fighter Wing P-51s pursued and Strategic Air Command initially classed as "heavenly body"; subsequently identified as a cluster of eight cosmic-ray research balloons from MIT.
+- **First explicit J. Allen Hynek consultancy reference**: the Incident 197/198 cross-reference note re: Comet 1948 V (the "Eclipse Comet" discovered by Dr. Harley Wood, Sydney) directs the case to "Dr. Hynek for his viewpoint" — earliest mention of Hynek by name in this corpus's incident-summary track.
+- **Crescent City CA mass sighting (Incidents 200-200c, 17 Oct 1948)**: four independent witnesses (barber, fisherman, dry cleaner, housewife) at separate vantage points, each character-vetted; consistent silver egg/bullet-shape descriptions.
+
+### Cross-page updates
+
+None this round — the major findings touch entities ([[entities/project-sign]], [[entities/project-grudge]], [[entities/mantell-incident]], [[entities/wright-patterson-afb]]) that already exist; new dedicated entity pages for Combs/Andrews-pursuit and Wakkanai-Soviet-Ferret are deferred to keep the per-file ingest tractable.
+
+### Index changes
+
+- Section "Incident Summaries 173–233" line updated from a stub to a full content gloss.
+
+### Coverage changes
+
+- `army-incident-summaries-173-233.md`: `sampled` → `full`; `confidence: medium` → `high`.
+
 

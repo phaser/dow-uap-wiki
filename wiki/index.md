@@ -20,7 +20,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 
 ### FBI — Headquarters file 62-HQ-83894 ("Flying Discs" / UFO HQ investigation)
 
-- [Section 1](summaries/62-hq-83894-section-1.md)
+- [Section 1](summaries/62-hq-83894-section-1.md) — Jun-Aug 1947: Schulgen-FBI cooperation negotiation, Hoover's "Iowa case" remark, Bureau Bulletin No. 42, Davidson/Brown Kelso B-25 crash and Maury Island sequel, Portland police 4 July multi-officer event, Rhodes Phoenix + Turrentine Norfolk photos, Mrs. Merchant Santa Fe AEC thread, the "Memorandum of Importance" etheric-origin treatise
 - [Section 2](summaries/62-hq-83894-section-2.md) — includes Rhodes Phoenix photos negotiation
 - [Section 3](summaries/62-hq-83894-section-3.md) — Maury Island CIC investigation, Kelso B-25 crash
 - [Section 4](summaries/62-hq-83894-section-4.md) — green-fireball wave, Chiles-Whitted

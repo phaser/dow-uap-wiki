@@ -173,6 +173,35 @@ None this round (the major findings touch existing entities; new dedicated entit
 
 - `army-incident-summaries-101-172.md`: `sampled` → `full`; `confidence: medium` → `high`.
 
+## [2026-05-09] ingest | 62-HQ-83894 Section 1 — full re-ingest from OCR
+
+Fourth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 185)`; now `Coverage: full (185 pages)`.
+
+### Key findings
+
+- **Schulgen / Reynolds 9 July 1947 cooperation negotiation** preserved verbatim. Brig. Gen. George F. Schulgen (Chief, Requirements Intelligence Branch, AAC Intelligence) "assured Mr. Reynolds that there are no War Department or Navy classified research projects presently being conducted which could in any way be tied up with the flying disks" — at the exact moment the Roswell-area events were unfolding.
+- **Hoover's marginal notation** on the cooperation memo: "I would do it but before agreeing to it we must insist upon full access to discs recovered. For instance in the **Ia. case the Army grabbed it and would not let us have it for cursory examination**." The "Iowa case" reference is unidentified within this section — material lead worth tracing.
+- **Bureau Bulletin No. 42, 30 July 1947** — formal directive to all field offices to investigate flying-disc reports under AAF cooperation; followed by an internal early-August ADDENDUM where the Bureau began stepping back ("a great bulk of those alleged discs reported found have been pranks").
+- **Davidson + Brown Kelso B-25 crash, 1 August 1947** — Capt. William L. Davidson and Lt Frank M. Brown, 4th AAF HQ San Francisco, killed when their plane crashed at Kelso WA returning from interviews (27 July 1947) with Kenneth Arnold, Capt. E. J. Smith / Ralph Stevens (United Airlines), Dave Johnson (Idaho Statesman), and Dick Rankin. AAF Intelligence McChord "screened" the wreckage; Tacoma News Tribune reported the plane was carrying parts of a Maury Island disc; AAF analysis later identified fragments as Tacoma-slag-mill material.
+- **Portland Police 4 July 1947 multi-officer event** — formal CIC 6th Army memorandum by SA Keith A. Sorensen; multiple officer witnesses (Lissy + Ellis Car #82, Patterson Car #15, McDowell Precinct #1's pigeons, Harbor Patrol Capt. Prehn, Sergeant Cross Oregon State Police).
+- **William Rhoads Phoenix photographs (7 July 1947)** preserved as Exhibits 1+2 of CIC-AAF SA Lynn C. Aldrich's memorandum; canonical photographic primary record.
+- **Bill Turrentine Norfolk VA photograph (8 July 1947)** — 15-year-old's third-floor-porch shot of an oval/football object at 1/100 sec; published in Norfolk Ledger-Dispatch; SA Thomas J. Connor interview 8 August 1947.
+- **Mrs. Gwynne M. Merchant / Santa Fe NM thread** — repeat-visitor to the Santa Fe Resident Agency in July 1947 reporting flying-object phenomena around Park View, Tierra Amarilla, and Canjilon NM; discussed with **Sidney Newburger, Chief of Security and Intelligence for the Atomic Energy Commission**. Earliest AEC / Los Alamos-security entanglement with the UFO topic in this corpus.
+- **The "Memorandum of Importance" from 3615 Pine Place, San Diego CA (8 July 1947)** — anonymous one-page treatise on the **etheric / interpenetrating-plane theory of UFO origin** ("etheric planet which interpenetrates with our own", "Lokas or Talas", "apports", "vibratory rate of our dense matter", visitors as "human-like but much larger in size"). Address 3615 Pine Place matches Meade Layne / Borderland Sciences Research Foundation. Earliest preserved primary-source statement of the etheric/interdimensional UFO hypothesis in the FBI's primary file — arriving the same week as the Schulgen-Reynolds negotiation.
+- **Hoax inundation series** preserved in detail: Brasky Grafton WI saw blade ("priest had been drinking quite heavily"), Parker Laurel MD Gulf-Oil-sign + garbage-can, Hanson Black River Falls WI cardboard, East St. Louis IL pressed-paper locomotive packing washers, Birmingham AL carnival searchlights, Lewiston ID weed seeds, Lodi CA crop duster.
+
+### Cross-page updates
+
+None this round; major findings touch existing entities ([[entities/fbi]], [[entities/j-edgar-hoover]], [[entities/kenneth-arnold]], [[entities/rhodes-phoenix-photographs]], [[entities/maury-island-affair]], [[entities/harold-dahl]]). Dedicated entity pages for the Davidson-Brown Kelso crash, the Mrs. Merchant / Sidney Newburger AEC liaison, and the "Memorandum of Importance" / Meade Layne BSRF attribution are deferred but flagged as natural follow-ups.
+
+### Index changes
+
+- "Section 1" line updated from a stub to a full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-section-1.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
 ## [2026-05-08] synthesis | Top 10 Disclosure-Relevant Documents
 
 User-prompted curated ranking of the ten primary-source documents in this corpus most relevant to the contemporary (2017–2026) UAP disclosure context. Synthesis at [[syntheses/disclosure-movement-top-10]]. Lists Hunter NASC 1963 memo, DoW Western US 2026 slides + USPER, 2020 Arabian Gulf cluster, FBI HQ 62-HQ-83894 Section 10, Maury Island Affair, Apollo 11 technical debrief, Socorro/Zamora, Borman Gemini-7, FBI 62-HQ-83894 Sub A scrapbook, USAIRA Prague 1955 Czechoslovakia disc — with comparison table, "what's not in the corpus" honest gap-list (Roswell, Tic-Tac, AATIP DIRDs, etc.), and three suggested next-synthesis directions (institutional-handling timeline, abduction-primary-source page anchored on the newly-surfaced Collins 1967 report, recovered-material review). Confidence: `medium` — items are verified but the ranking reflects editorial weighting.

@@ -247,4 +247,4 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 
 ## Journal
 
-- _(populated by user-directed sessions; empty for now)_
+- [2026-05-09 — Post-OCR Re-ingestion Track: Resume Here](journal/2026-05-09-post-ocr-reingestion-resume-here.md) — handoff document for continuing the 17-file `sampled` → `full` re-ingestion pass; status, priority order, working method, conventions, open threads.

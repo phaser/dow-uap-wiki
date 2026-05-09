@@ -202,6 +202,39 @@ None this round; major findings touch existing entities ([[entities/fbi]], [[ent
 
 - `62-hq-83894-section-1.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
+## [2026-05-09] ingest | 62-HQ-83894 Section 5 (209 pages, full read)
+
+Seventh file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 209)`; now `Coverage: full (209 pages OCR'd)`.
+
+### Key findings
+
+- **The Guy Hottel memo (22 March 1950)** — preserved in full. The famous "three saucers, nine bodies" memo. SA Guy Hottel (SAC, Washington) reports that SA R. H. Kurtzman received information from "Kartahowe, Special Investigator, Sex Squad, Metropolitan Police Department" (informant identity obscured). The informant — an Air Force investigator — stated that **three flying saucers had been recovered in New Mexico**: each circular with raised centers, approximately 50 feet in diameter, each occupied by **three 3-foot-tall human-shaped bodies in metallic cloth of fine texture, bandaged in blackout-suit fashion**. The saucers were detected because government high-powered radar in the area interfered with their control mechanisms. This is the **most-viewed page in the FBI Vault**.
+- **Knoxville / Oak Ridge radar tracking (March 1–8, 1950)** — Stuart E. Adcock (radio station WROL) used surplus Army APN-7 radar to detect objects at 40,000–100,000 ft over Oak Ridge. Multi-agency response: AEC Security, OSI, CIA (technician dispatched), Naval Reserve, 3rd Army, USAF NEPA. Colonel C. D. Gasser (NEPA engineering officer) and Captain Robert Cross examined Adcock's equipment; found him "technically incorrect" and with "some degree of inebriation." Despite this, Gasser stated 100,000 ft flight was "absolutely possible." Adcock's reliability ultimately deemed "extremely dubious" after he couldn't be found. AEC's procedural critique: "an impressive lack of any agency actually taking the responsibility."
+- **U.S. News & World Report (April 7, 1950)** — full-page "FLYING SAUCERS — THE REAL STORY: U.S. BUILT FIRST ONE IN 1942." Comprehensive article arguing saucers are real Navy VTOL aircraft (Zimmerman NACA 1942 model → Chance-Vought XF5U Flying Flapjack). Current saucers use variable-direction jet nozzles, speed 400–500+ mph, vertical takeoff, hover. White Sands ground instruments measured saucer at "well over the speed of sound." Bureau filed without comment.
+- **Peter Cameron Jones LA mountains (Aug 1947)** — full letter preserved via Winchell/Cuneo (July 1949). Silver/green top-shaped object with windows and "life within"; knocked him down when departing. LA SAC negative (no record of Jones at given address).
+- **George Koehler Denver lectures (Jan–Mar 1950)** — claimed Mojave Desert disc with three-foot-tall dead occupants; Newton Oil Co. connection; *True Magazine* article; visited by Don Shoemaker. Denver OSI considered him "probable mental case."
+- **Michael Halfery Mars photographs (May 1950, New Orleans)** — $1.00 purchase of saucer + Mars-man photos; CID forwarded to FBI. Intelligence Branch rated source "usually reliable," information "probably true."
+- **Lewis Ward "Russian drawings" (Apr 1950, Yuba City)** — claimed contact with "Ubalsky" and Russian saucer blueprints. Later assessed as "abnormal mentally" by FBI interviewer.
+- **Al Hixenbourg Louisville film (Jun 28, 1950)** — Times photographer's 16mm saucer film; debunked by fellow photographers as match-trick; Winchell comment received.
+- **Alice TX disc hoax (Jul 4, 1950)** — welded airplane-wing elliptical object, "DO NOT TOUCH" markings, serial X-147A.
+- **Martin "Danse Macabre" letter (Jul 25, 1950)** — Hughes-funded one-way bombing saucer by German WWI ace; Chicago indices negative.
+- **Walter D. Jones Toronto sighting (Jul 19, 1950)** — hazy light object circling farm 35 min; Toronto Soviet-Friendship Council treasurer.
+- **DCOMSA comprehensive analysis** — five-theory debunking; 75% known causes; mass hysteria attribution.
+- **Donald Keyhoe book note** — FBI Crime Records Section review of "The Flying Saucers are Real"; false FBI references noted.
+
+### Cross-page updates
+
+- None this round; new entity pages created for Hottel, Adcock, Gasser, Jones, Koehler, Halfery, Hixenbourg, and Keyhoe.
+
+### Index changes
+
+- "Section 5" line updated from stub to full content gloss.
+- 8 new entity pages added under "Individuals": Hottel, Adcock, Gasser, Jones, Koehler, Halfery, Hixenbourg, Keyhoe.
+
+### Coverage changes
+
+- `62-hq-83894-section-5.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
 ## [2026-05-09] ingest | Army Incident Summaries 1-100 (Box 7) — full re-ingest from OCR
 
 Fifth file in the post-OCR re-ingestion track, completing the Army incident-summaries trio (1-100, 101-172, 173-233). Previously `Coverage: sampled (pages 1-20 and 100-115 of 209)`; now `Coverage: full (209 pages)`.

@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Start here for any query. Schema lives in [`../CLAUDE.md`](../CLAUDE.md). Activity log at [`log.md`](log.md).
 
-**Counts (2026-05-08):** 105 summaries · 40 concepts · 47 entities · 4 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
+**Counts (2026-05-09):** 105 summaries · 40 concepts · 55 entities · 4 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
 
 ---
 
@@ -24,7 +24,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Section 2](summaries/62-hq-83894-section-2.md) — Jul-Sep 1947: complete Kenneth Arnold first-person statement + Brown CIC interview (16 Jul 1947, ~2 weeks before Brown's Kelso crash death), full Rhodes Phoenix photo chain-of-custody (Fugate / Brower negotiation), "Radio Ham" Newsday coded message decoded by FBI Lab as Martian-origin claim, Twin Falls SAC Banister "hysteria or panic" teletype, Hatfield/Ellison Myrtle Creek pilot pursuit, Parker Vermont superintendent paired-objects letter
 - [Section 3](summaries/62-hq-83894-section-3.md) — Jul-Sep 1947: Maury Island / Kelso B-25 crash (complete Springer CIC report, Arnold sworn deposition, Arnold FBI interview, Palmer June 26 + August 5 letters, anonymous-caller transcript, Vogel admission, Crisman background, Shoop/McHenry/Strapp/Scott/Nauman MuroAAB statements, Savage Oklahoma City disc, Stewart Hamilton Field P-80 pursuit, Brummett/Decker Redmond wingless objects, Anchorage Alaska sphere, Switzer Placerville chromium object, Urie Snake River canyon sighting, Danforth IL "instrument" hoax, 4AF specimen analysis (plaster of paris + Baldwin 1910 speaker + bakelite coils), Philadelphia Aug 6 multi-witness flaming object, Guam Harmon Field crescent objects, Schulgen subversive-investigation request, FBI discontinuation via Bureau Bulletin No. 57)
 - [Section 4](summaries/62-hq-83894-section-4.md) — Sep 1947–Mar 1949: FBI discontinuation via Bureau Bulletin No. 57, Gasser Oak Ridge NEPA confidential briefing (man-made missiles, Russian 4+ years experimentation, North Pole/Ural trajectory, atomic fuel, Czechoslovakia crash), green fireball wave (La Paz Starvation Peak: 5200 Å yellow-green, horizontal, 2 sec, no noise, 10+ incidents, copper compound spectrum), Kirtland OSI multi-state 30 Jan 1949 sighting, Chiles-Whitted Eastern Airlines DC-3 (100-ft wingless fuselage, lighted windows, fiery tail), Camp Hood/Killeen flares, Parrott Merced clicking object (USAF Major, 2,200 hrs), Parrott object (solid mass, 4-5 ft, dull metal, 90° turn), Harrison Fort Smith mirror-bright object, Project Grudge formal naming, Winchell-Ripley "Japanese saucer" debunked by OSI Carpenter, Palmer "soul world" theory via Lochrie, Scranton PA Shaffer house fire (object struck roof, 12-hr burn, Mg/Al/Fe/Ca ash), Virginia/Tennessee cigar-streak, Alexandria LA "saucer seers convention," Mantell pursuit radio transcript, Dayton Journal-Herald "30% balloons/30% conventional/40% unexplained," ADC "ash can covers" letter + SF objection, Fugate "hazy recollection" Rhodes interview follow-up, Flyin' Saucer toy (Morrison/Fractions/PIPCO), Noack tow-target/kite hoax, Merced Castle AFB Jacobs/Bremer, Marquardt former AEC employee fire incident, Cromwell/Lippincott "saucers from Spain" rumor, Utah Ogden/Logan/Mantua silver object, Bethel AK Peck/Daly DC-3 wing, Portland Police multi-witness, Parker Vermont preserved letter, Mrs. Gardner/Mrs. Durand/Mrs. McCaul/Hoover dismissive letters, C.W. Stevens/Ziff-Davis inquiry, Peter Cameron Jones LA prank, G-2 higher authorities "natural explanation" prediction, periodic-sightings warning
-- [Section 5](summaries/62-hq-83894-section-5.md)
+- [Section 5](summaries/62-hq-83894-section-5.md) — Jul 1949–Sep 1950: **Guy Hottel memo (22 Mar 1950)** — three recovered saucers in New Mexico, each ~50 ft diameter, each with three 3-foot-tall humanoid occupants in metallic blackout suits; **Knoxville / Oak Ridge radar tracking (Mar 1–8, 1950)** — Stuart Adcock amateur radar at 40,000–100,000 ft over Oak Ridge; multi-agency response (AEC, OSI, CIA, Naval Reserve, 3rd Army); procedural gaps documented by Colonel Gasser; **U.S. News & World Report (Apr 7, 1950)** — full-page "Flying Saucers — The Real Story" arguing for Navy VTOL / Chance-Vought XF5U program; **Peter Cameron Jones** LA mountains saucer (Aug 1947, via Winchell/Cuneo); **George Koehler** Denver lectures (Jan–Mar 1950), three-foot-tall dead occupants at Mojave disc; **Jonathan Caldwell** Maryland disks (Aug 1949); **Glen Sprouce** yellow rocket-object WV (Sep 1949); **Michael Halfery** Mars photographs New Orleans (May 1950); **Lewis Ward** "Russian drawings" Yuba City (Apr 1950); **Al Hixenbourg** Louisville Times saucer film (Jun 1950), debunked by fellow photographers; **Alice TX disc hoax** (Jul 4, 1950), welded airplane-wing object with "DO NOT TOUCH" markings; **Martin "Danse Macabre" letter** (Jul 25, 1950), Hughes-funded one-way bombing saucer by German WWI ace; **Walter D. Jones** Toronto circling-light sighting (Jul 19, 1950); **DCOMSA comprehensive analysis** — five-theory debunking, 75% known causes, mass hysteria attribution; **Donald Keyhoe** book review note
 - [Section 6](summaries/62-hq-83894-section-6.md) — Liddel Skyhook hypothesis (Mantell), green fireballs
 - [Section 7](summaries/62-hq-83894-section-7.md)
 - [Section 8](summaries/62-hq-83894-section-8.md)
@@ -242,6 +242,14 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Maj. Gen. Charles P. Cabell, USAF (AFOIN Memo No. 4 author)](entities/cabell-charles-p.md)
 - [Dr. Lincoln La Paz (Director, Institute of Meteoritics, UNM)](entities/lapaz-lincoln.md)
 - [Norman G. Markham (U.S. Army, 1948 ETH letter)](entities/markham-norman-g.md)
+- [Guy Hottel (FBI SAC, Washington; Hottel memo author)](entities/guy-hottel.md)
+- [Stuart E. Adcock (Knoxville radio operator; Oak Ridge radar observer)](entities/stuart-adcock.md)
+- [Col. C. D. Gasser (USAF Material Command, NEPA Oak Ridge)](entities/c-d-gasser.md)
+- [Peter Cameron Jones (LA hiker; saucer witness claim via Winchell)](entities/peter-cameron-jones.md)
+- [George Koehler (Denver UFO claimant; Mojave Desert saucer lectures)](entities/george-koehler.md)
+- [Michael Halfery (New Orleans saucer / Mars-photograph seller)](entities/michael-halfery.md)
+- [Al Hixenbourg (Louisville Times photographer; debunked saucer film)](entities/al-hixenbourg.md)
+- [Donald Keyhoe (UFO author; "The Flying Saucers are Real")](entities/donald-keyhoe.md)
 
 ---
 

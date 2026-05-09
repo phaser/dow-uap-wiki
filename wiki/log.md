@@ -258,3 +258,36 @@ Sixth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pa
 User-prompted curated ranking of the ten primary-source documents in this corpus most relevant to the contemporary (2017–2026) UAP disclosure context. Synthesis at [[syntheses/disclosure-movement-top-10]]. Lists Hunter NASC 1963 memo, DoW Western US 2026 slides + USPER, 2020 Arabian Gulf cluster, FBI HQ 62-HQ-83894 Section 10, Maury Island Affair, Apollo 11 technical debrief, Socorro/Zamora, Borman Gemini-7, FBI 62-HQ-83894 Sub A scrapbook, USAIRA Prague 1955 Czechoslovakia disc — with comparison table, "what's not in the corpus" honest gap-list (Roswell, Tic-Tac, AATIP DIRDs, etc.), and three suggested next-synthesis directions (institutional-handling timeline, abduction-primary-source page anchored on the newly-surfaced Collins 1967 report, recovered-material review). Confidence: `medium` — items are verified but the ranking reflects editorial weighting.
 
 
+
+## [2026-05-09] re-ingest | 62-HQ-83894 Section 3 (190 pages, full read)
+
+- Upgraded `62-hq-83894-section-3.md` from `Coverage: sampled (pages 1-20 and 100-120 of 190)` to `Coverage: full (190 pages OCR'd)`.
+- **Novel material surfaced (not in sampled pages):**
+  - **Muroc Army Air Field sightings (8 July 1947)** — complete witness corpus: Shoop (5-8 metallic objects), McHenry (2 silver discs + 1 circling object), Strapp (ovular object with fin/nob projections, 90 sec duration), Scott (secretary witness), Nauman (2 discs + 1 maneuvering object). All AAF-dismissed as "nothing to be reported."
+  - **R.A. Switzer Placerville (14 Aug)** — polished chromium object with unexplained smoke trail; Agent Moon's "no explanation" assessment.
+  - **Ward L. Stewart Hamilton Field (29 July)** — two milky-white objects following P-80 at 3-4x speed; UC Berkeley machine shop chief / pilot witness.
+  - **Byron B. Savage Oklahoma City (17-21 May)** — flat disc at 10,000-18,000 ft, size of six B-29s, 3x jet speed; "probably atomic" conclusion.
+  - **Brummett / Decker Redmond (13 Aug)** — wingless, tailless, "lighter than aluminum" objects at 3x plane speed.
+  - **Anchorage Alaska** — two army officers, spherical metallic object traveling against wind.
+  - **Danforth IL "instrument"** — old radio loudspeaker parts; no Mogul connection.
+  - **4AF McCoy specimen analysis (25 Aug)** — plaster of paris, Baldwin 1910 speaker diaphragm, bakelite coils, Polymet capacitor. All hoax.
+  - **Guam Harmon Field (14 Aug)** — three enlisted men, two crescent-shaped objects at 2x fighter speed.
+  - **Urie Snake River Canyon (13 Aug)** — sky-blue object at 75 ft with fiery glow; trees "spun around as if in a vacuum."
+  - **Palmer's August 5, 1947 letter** — post-crash letter urging Arnold to continue; "nearly forty years" of disk knowledge; "red corpses in your eyeball."
+  - **Anonymous caller full transcript** — blow-by-blow descriptions of Winthrop Hotel room 502; "All I am interested in is seeing that this information gets back to New Jersey."
+  - **FBI discontinuation memo chain** — Springer's "ash can covers, toilet seats" letter → SAC SF objection ("insulting to the Bureau") → Ladd memo recommending protest → Bureau Bulletin No. 57 (1 Oct 1947) formal discontinuation.
+  - **Warden Henry / McHill Ellensburg-Seattle (5 May)** — silver object disintegrating into persistent "pillar of gas."
+  - **Philadelphia Aug 6 multi-witness** — Snyder (ex-B-24 pilot), Kelly (retired police), Naddle, Fine — all corroborating bluish-white flaming object.
+
+### Cross-page updates
+
+- None yet — entity pages for Muroc AAF, Harmon Field Guam, Wright Field, Air Defense Command, Byron Savage, Ward Stewart, Muroc witnesses (Shoop, McHenry, Strapp, Scott, Nauman) are candidates for future creation.
+
+### Index changes
+
+- "Section 3" line updated from stub ("Maury Island CIC investigation, Kelso B-25 crash") to full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-section-3.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+

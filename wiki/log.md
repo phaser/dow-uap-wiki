@@ -228,6 +228,31 @@ Fifth file in the post-OCR re-ingestion track, completing the Army incident-summ
 
 - `army-incident-summaries-1-100.md`: `sampled` → `full`; `confidence: medium` → `high`.
 
+## [2026-05-09] ingest | 62-HQ-83894 Section 2 — full re-ingest from OCR
+
+Sixth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 194)`; now `Coverage: full (194 pages)`.
+
+### Key findings
+
+- **The complete Kenneth Arnold packet** is in this section: SA **Frank M. Brown's CIC 4th AF interview report dated 16 July 1947** (Brown died 1 August 1947 in the Kelso WA B-25 crash, so this is one of his final work-products), Arnold's full first-person statement of the 24 June 1947 sighting (eight-day-clock sweep-second-hand timing across the Mt. Rainier → Mt. Adams 50-mile span yielding the canonical ~1,700-mph figure; "geese flying in a diagonal chain-like line" analogy; "mirror bright", "longer than wide, thickness about 1/20th of their width"; consultations with Yakima friend Al Baxter and Pendleton OR ex-Army Air Forces pilot Sonny Robinson), Arnold's autobiographical sketch (born 1915 Minnesota, Olympic fancy-diving trials 1932, Great Western Fire Control Supply 1940), and David N. Johnson's corroborating interview at the Idaho Daily Statesman.
+- **Full Rhodes Phoenix photographs chain-of-custody** preserved: Phoenix file 62-213 SA J. Bailey Brower's report documents George Fugate Jr. (A-2 4th AF) calling at the Phoenix office 29 August 1947, Brower's introduction to Rhodes "only as a representative of the United States government" at Fugate's request, Fugate's silence when Rhodes asked whether negatives would be returned, Brower's insistence that Rhodes be advised of Fugate's identity AND that the negatives would not be returned, and Rhodes's 30 August 1947 surrender of the negatives "with the full understanding that they were being given to the Army and that he would not get them back." Phoenix office "did not receive the Bureau teletype" instructing no joint investigation until after the matter had been handled — a documented procedural breach.
+- **"Radio Ham" coded message in Newsday** — Mrs. A. G. Sarbanis decoded a 10 July 1947 letter-to-the-editor as a Martian-origin claim ("I AWAIT ATOMIC WAR DISRUPTING ORDER... I [ALSO?] SENT FLYING DIS[CS]... [WILL?] SET UP WORLD ORDER UNDER MARTIANS"); FBI Laboratory confirmed the decoding as substantively correct. Editor Jack Altschul attributed the original to "some local screwball." FBI declined to pursue the FCC amateur-radio cross-walk that the Lab offered.
+- **Twin Falls multi-formation event Banister teletype** preserved with verbatim text: "It is believed continued appearance of such objects without official explanation may result in hysteria or panic Twin Falls, Idaho." AAF response on 25 August 1947 denied any research at Twin Falls.
+- **Hatfield / Ellison Myrtle Creek OR pilot pursuit (6 August 1947)** — silver sphere ~1,000 mph estimated by flight computer, two consecutive take-offs.
+- **A. Courtney Parker (Vermont State Dept of Education)** preserved-in-full 17 September 1947 letter on his Rix Ledges paired-objects sighting.
+
+### Cross-page updates
+
+- [[entities/kenneth-arnold]] — confidence raised from `medium` to `high`; full first-person-statement details, Brown CIC interview verdict, Arnold's biographical sketch, and Brown's 15-days-before-Kelso-crash timeline added.
+
+### Index changes
+
+- "Section 2" line updated from "includes Rhodes Phoenix photos negotiation" stub to a full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-section-2.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
 ## [2026-05-08] synthesis | Top 10 Disclosure-Relevant Documents
 
 User-prompted curated ranking of the ten primary-source documents in this corpus most relevant to the contemporary (2017–2026) UAP disclosure context. Synthesis at [[syntheses/disclosure-movement-top-10]]. Lists Hunter NASC 1963 memo, DoW Western US 2026 slides + USPER, 2020 Arabian Gulf cluster, FBI HQ 62-HQ-83894 Section 10, Maury Island Affair, Apollo 11 technical debrief, Socorro/Zamora, Borman Gemini-7, FBI 62-HQ-83894 Sub A scrapbook, USAIRA Prague 1955 Czechoslovakia disc — with comparison table, "what's not in the corpus" honest gap-list (Roswell, Tic-Tac, AATIP DIRDs, etc.), and three suggested next-synthesis directions (institutional-handling timeline, abduction-primary-source page anchored on the newly-surfaced Collins 1967 report, recovered-material review). Confidence: `medium` — items are verified but the ranking reflects editorial weighting.

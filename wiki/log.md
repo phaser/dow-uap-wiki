@@ -202,6 +202,32 @@ None this round; major findings touch existing entities ([[entities/fbi]], [[ent
 
 - `62-hq-83894-section-1.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
+## [2026-05-09] ingest | Army Incident Summaries 1-100 (Box 7) — full re-ingest from OCR
+
+Fifth file in the post-OCR re-ingestion track, completing the Army incident-summaries trio (1-100, 101-172, 173-233). Previously `Coverage: sampled (pages 1-20 and 100-115 of 209)`; now `Coverage: full (209 pages)`.
+
+### Key findings
+
+- **The complete Mantell incident witness corpus** (Incidents 33 / 33a-33g) — previously absent from the sampled pages — is now in the wiki. Witnesses: T/Sgt Quinton A. Blackwell, 1st Lt Paul I. Orner, PFC Stanley Oliver, Capt. J. F. Duesler Jr., Capt. Cary W. Carter, Col. Guy F. Hix, Capt. Thomas F. Mantell himself, Lt. C. W. Thomas, an anonymous Madisonville KY witness with a **Finch telescope**, and pursuing-flight pilot NG 800. Mantell's verbatim radio transmissions are preserved across multiple witness reports. **AMC file note: "Apparently, Mantell blacked out at 20,000 ft."** — pre-empting the Skyhook hypothesis with an oxygen-deprivation framing. Same-night Venus / comet hypothesis preserved with investigator's parenthetical "(?)".
+- **First substantive overseas-theater pilot encounters** in the SIGN corpus: Capt. Peck / Co-pilot Daly **NW of Bethel Alaska 4 August 1947** (saucer-as-large-as-C-54 pursuit; pilot rated "not the imaginative type"); Capt. Griffin / 2nd Officer Polhems **Pan Am Pacific Midway-Oahu 12 September 1947** (intense white light split into two reddish lights at ~1,000 knots, ruling out meteor "for the manner in which it held altitude"); SS *Burgeo* **off Newfoundland 20 July 1947** (4-5 silvery-to-red flashes, faster than tracer bullets).
+- **Twin Falls ID multi-formation police mass-witness event (19 August 1947)** — sequence of 1 / 10 / 5-6 / 35-50 objects in triangular formations NE, then groups of 3-5-7 returning SW, witnessed by the Twin Falls Housing Authority executive Mr. Hedstrom + family + neighbors + three Twin Falls PD officers. **Largest pre-1948 mass-formation count in the SIGN corpus.**
+- **Pentagon-level scientific officer witness**: Lt Col F. L. Walker Jr. (GSC, Scientific Branch, Research Group, R&DD WDGS) saw a horizontal bright orange glow at Silver Springs OH on 10 August 1947 and ruled out comet hypothesis based on the 70°-arc-vanishing-in-mid-air signature.
+- **Polished-nickel hovering disc (R. J. Madden, Pacific Telephone & Telegraph, 25 mi NE of Helena MT, 29 July 1947)** — 3 ft × 3-4 inches thick, vertical 50-100 ft oscillation, then "swooping NE at tremendous speed" and "melted into thin air."
+- **Chromium rectangular vanishing-into-smoke-ball (Switzer, Placerville CA, 14 August 1947)** — object engulfed in 10-ft-diameter dark grey smoke and disappeared completely with no falling particles.
+- **Case-numbering not strictly chronological** confirmed: Incidents 78-91 contain late-June 1947 events (28-30 June 1947) — pre-Arnold-publicity sightings ingested retroactively as the wave matured.
+
+### Cross-page updates
+
+- [[entities/mantell-incident]] — confidence raised from `medium` to `high`; full witness corpus + verbatim radio transmissions added; the "Mantell blacked out" file note and the same-night Venus / comet astronomer note added; cross-link to [[summaries/62-hq-83894-section-6]] for the Liddel Skyhook hypothesis preserved.
+
+### Index changes
+
+- "Incident Summaries 1-100" line updated from "Muroc cluster, Portland police wave" stub to a full content gloss including the new findings.
+
+### Coverage changes
+
+- `army-incident-summaries-1-100.md`: `sampled` → `full`; `confidence: medium` → `high`.
+
 ## [2026-05-08] synthesis | Top 10 Disclosure-Relevant Documents
 
 User-prompted curated ranking of the ten primary-source documents in this corpus most relevant to the contemporary (2017–2026) UAP disclosure context. Synthesis at [[syntheses/disclosure-movement-top-10]]. Lists Hunter NASC 1963 memo, DoW Western US 2026 slides + USPER, 2020 Arabian Gulf cluster, FBI HQ 62-HQ-83894 Section 10, Maury Island Affair, Apollo 11 technical debrief, Socorro/Zamora, Borman Gemini-7, FBI 62-HQ-83894 Sub A scrapbook, USAIRA Prague 1955 Czechoslovakia disc — with comparison table, "what's not in the corpus" honest gap-list (Roswell, Tic-Tac, AATIP DIRDs, etc.), and three suggested next-synthesis directions (institutional-handling timeline, abduction-primary-source page anchored on the newly-surfaced Collins 1967 report, recovered-material review). Confidence: `medium` — items are verified but the ranking reflects editorial weighting.

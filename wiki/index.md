@@ -56,7 +56,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 ### Army / Air Force — Project SIGN incident summaries (1947–1948)
 
 - [Army 1948 General Vol. 1](summaries/army-1948-general-vol-1.md) — the 26-field intake check-list
-- [Incident Summaries 1–100 (Box 7)](summaries/army-incident-summaries-1-100.md) — Muroc cluster, Portland police wave
+- [Incident Summaries 1–100 (Box 7)](summaries/army-incident-summaries-1-100.md) — Jun 1947-Jan 1948: Muroc 8 July cluster, Portland police 4 July wave, Twin Falls ID 35-50 object triangular formations, Pan Am Capt. Griffin Pacific 1,000-knot light-split, Capt. Peck Bethel Alaska C-54-class saucer pursuit, full Mantell witness corpus (Inc 33-33g) with verbatim radio transmissions, Lt Col Walker Pentagon scientific witness
 - [Incident Summaries 101–172 (Box 7)](summaries/army-incident-summaries-101-172.md) — Feb-Aug 1948: Bakersfield CA "burning aircraft" wave (Inc 106-109), Ashley/Delaware OH 6-witness cylinder (Inc 112), Selfridge MI disc formations (Inc 134-135), Rapid City SD 12-object diamond, Scandinavian Peenemünde-direction ghost-rockets (Inc 132-133), Philippines pilot pursuit (Inc 111)
 - [Incident Summaries 173–233 (Box 7)](summaries/army-incident-summaries-173-233.md) — 1948 Aug-Dec, first non-CONUS cluster (Japan / Korea / Philippines / Germany / Goose Bay), Andrews AFB pursuit (Lt. Combs Nov 1948), Godman AFB Venus tracking (Aug 1948), Wakkanai-Japan Soviet "Ferret" radar attribution, MIT cosmic-ray-balloon misidentification
 - [Box 186 / 319.1 Flying Discs 1949](summaries/box186-319.1-flying-discs-1949.md)

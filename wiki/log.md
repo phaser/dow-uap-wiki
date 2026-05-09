@@ -235,7 +235,37 @@ Seventh file in the post-OCR re-ingestion track. Previously `Coverage: sampled (
 
 - `62-hq-83894-section-5.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
-## [2026-05-09] ingest | Army Incident Summaries 1-100 (Box 7) — full re-ingest from OCR
+## [2026-05-09] ingest | 62-HQ-83894 Section 6 (271 pages, full read)
+
+Eighth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 271)`; now `Coverage: full (271 pages OCR'd)`.
+
+### Key findings
+
+- **Dr. LaPaz 10-point analysis of green fireballs vs. meteors** — Ten significant differences: horizontal path (genuine meteors rarely move horizontally), very low height vs. 40+ miles for meteors, velocity less than meteoric but greater than V-2/jets, no noise (genuine meteors always accompanied by violent noise), brightness variation differs, frequency peaks at 2030 local time (coincides with neither meteor shower max nor meteorite fall max), green color distinguishing feature, lateral movement, penetration to lower altitudes, maneuvers impossible for meteors. Half meteoric; other half (green fireballs + discs) believed to be U.S. guided missiles, or if not, Soviet missiles from Urals (<15 min to NM).
+- **Los Alamos conferences (Feb 17, 1949 + Oct 14, 1949)** — Multi-agency: Fourth Army, AFSP, UNM, FBI, AEC, UC, USAF Scientific Advisory Board, Geophysical Research Division AMC, OSI. **"A logical explanation was not proffered... generally concluded that the phenomenon existed and should be studied scientifically."** Continued occurrence near sensitive installations = "cause for concern."
+- **Stanfield photograph (Sighting No. 175, Datil NM, Feb 24–25, 1950)** — Holloman AFB Cpl. Lerius B. Stanfield photograph; LaPaz analysis: angular diameter ~1/4 degree, angular velocity >0.5 deg/min. Not moon (too small), not Venus (too large), not star (motion double diurnal rotation). Object genuinely moving.
+- **Project Twinkle / Land-Air Inc.** — Geophysical Research Division AMC Cambridge MA contracted Land-Air Inc. Alamogordo NM for scientific study. Vaughn NM observation posts. May 24, 1950: 8–10 objects sighted. 24-hour day-watch as "Project Twinkle." Dr. Mirarchi (Project Engineer) briefed on FBI espionage/sabotage jurisdiction.
+- **Oak Ridge radar detections (Dec 1950–Jan 1951)** — 663rd AC&W Squadron McGhee Tyson Airport: Dec 18 (NEPA employees bright circular light over AEC area, Hood/Hribar/Steele/Carss/Gray/Frey); Dec 19 (Miller/Calkins/Coneybear/Mooneyham/Bly circular light with darkening perimeter); Dec 20 (radar "very, very slow" paint, F-82 "perfect intercept orbiting small smoke cloud"); Dec 14 (3-hour radar event, scope photos by Lt. Robinson); Jan 16 (western light through 20× scope: "many peculiar forms with lines, cores, tails"; Clevenger: fits "all flying saucers ever described").
+- **LOOK magazine (January 1951)** — Liddel Skyhook balloon explanation in full. "Flying saucers were, and are, undeniably real." 100-ft balloons, 200 mph, up to 19 miles. $40M/year program. Mantell was chasing Skyhook balloon. "Squadrons" = clusters of 20–30 small balloons. "Unheard of until ONR's experiments began."
+- **Aaron Hitchens New Haven sighting (Oct 20, 1950)** — Winchester Repeating Arms Chemical Engineer; sphere with steady golden-orange glow; 10× Venus diameter; 400–700 mph; wife/daughter corroborated; "very reliable and sincere."
+- **Hoover → LA SAC on Frank Scully (Oct 13, 1950)** — Investigation of alleged communist activities since late 1930s. Follow-up Oct 18 ordered "IMMEDIATELY RESULTS." Answer not in this section.
+- **Ladd memo (Oct 9, 1950)** — 3–4 complaints/month; OSI "fails to indicate space ships or missiles from any other planet." No Korean War increase.
+- **Philadelphia parachute-disc (Sep 26, 1950)** — Vare Blvd; "soap suds"; officers' report preserved in full.
+
+### Cross-page updates
+
+- None this round; new entity pages created for LaPaz, Liddel, Scully, Land-Air Inc., Mirarchi, and Hitchens.
+
+### Index changes
+
+- "Section 6" line updated from stub to full content gloss.
+- 6 new entity pages added under "Individuals" and "Organizations": LaPaz, Liddel, Scully, Land-Air Inc., Mirarchi, Hitchens.
+
+### Coverage changes
+
+- `62-hq-83894-section-6.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
+## [2026-05-09] ingest | 62-HQ-83894 Section 5 (209 pages, full read)
 
 Fifth file in the post-OCR re-ingestion track, completing the Army incident-summaries trio (1-100, 101-172, 173-233). Previously `Coverage: sampled (pages 1-20 and 100-115 of 209)`; now `Coverage: full (209 pages)`.
 

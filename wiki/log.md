@@ -291,3 +291,49 @@ User-prompted curated ranking of the ten primary-source documents in this corpus
 
 - `62-hq-83894-section-3.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
+
+## [2026-05-09] re-ingest | 62-HQ-83894 Section 4 (214 pages, full read)
+
+- Upgraded `62-hq-83894-section-4.md` from `Coverage: sampled (pages 1-20 and 100-120 of 214)` to `Coverage: full (214 pages OCR'd)`.
+- **Novel material surfaced (not in sampled pages):**
+  - **Chiles-Whitted Eastern Airlines DC-3 (24 July 1948)** — full Atlanta Journal article: wingless black aircraft, 100-ft fuselage (4x B-29 circumference), two rows of brilliantly lighted square windows, 25-50 ft fiery comet tail, 5,000 ft altitude, "Nary a living soul was seen aboard!" Multiple corroborating witnesses (Atkinson "flying floor lamp", Sellers "cantaloupe ball of fire", etc.).
+  - **Madeline Gwynne Merchant letter** — Wichita Falls woman requesting tear sheets; claims worked independently on "aerial missiles" with data to Maj. Sidney Newburger (Los Alamos) and General Thomas T. Handy (Fourth U.S. Army).
+  - **Kirtland AFB OSI "OSI-1-96" (31 Jan 1949)** — 22:55Z 30 Jan multi-state sighting (El Paso/Albuquerque/Alamogordo/Roswell/Socorro) by ~30 people of identical object; AEC, AFSWP, 4th Army "perturbed by implications."
+  - **Gasser Oak Ridge briefing (24 Jan 1949)** — full details: man-made missiles; Russians 4+ years; North Pole/Ural trajectory; atomic fuel; Czechoslovakia transport collision (only known crash).
+  - **Green fireball wave details** — La Paz Starvation Peak: 5200 Å yellow-green, horizontal path, 2 sec, no noise; 10+ analogous incidents + 20 with minor deviations; Los Alamos/Las Vegas/West Texas triangle; copper compound spectrum; 3-12 mi/sec; 9 scientific reasons rule out meteorites.
+  - **Camp Hood/Killeen flares (March 6-31, 1949)** — Lt. Frederick Davis March 31: reddish-white basketball-sized object with fire trail at 6,000 ft, 10-15 sec, no sound/odor, telephone static reported.
+  - **Parrott Merced CA (4 April 1949)** — Major William H. Parrott (USAF Reserve, 2,200 hrs): solid mass 4-5 ft diameter, dull metal, "clicking" (like home mixer beaters), 90° left turn, dog reacted.
+  - **Harrison Fort Smith AR (16 April 1949)** — Special Delivery messenger: brilliant mirror-bright object; Army officer saw it near OKC day before.
+  - **Project Grudge formal naming** — G-2 Fourth Army renamed "Unidentified Aircraft" to "Unconventional Aircraft"; investigations named "Project Grudge."
+  - **Winchell-Ripley "Japanese saucer"** — OSI Carpenter confirmed through trusted sources: no flying saucers of any kind recovered in US. Checked through individuals not "usual channels" to avoid "stock answer."
+  - **Palmer "soul world" theory** — via Kaye Lochrie: discs = explosives from soul warfare; Lochrie visited Hoover to get name cleared from espionage investigation (no record found); agent impressed her as "somewhat mentally unbalanced."
+  - **Scranton PA Shaffer house fire** — object struck roof, house burned in <1 hour, fire burned 12 hours after water; ash: Mg/Al/Fe/Ca silicates, sulfur, carbonates; Marquardt (former AEC) submitted to Fire Marshal.
+  - **Virginia/Tennessee cigar-streak** — multiple witnesses, black/white cigar with red glow and fire/smoke trail.
+  - **G-2 higher authorities Feb 14, 1949** — advised phenomena would ultimately have natural explanation.
+  - **G-2 Nov 1, 1948** — Air Force warned "another period of sightings was then imminent."
+  - **ADC 4 Feb 1948 letter** — Stratemeyer/Smith: "futile expenditure of military funds and manpower must be avoided."
+  - **SAC SF Kimball Feb 12, 1948** — ADC letter contrary to Bulletin 57; SAC SF asked if Bulletin 57 still in effect.
+  - **Merced Castle AFB** — Lt. Col. Jacobs Intelligence Officer contacted newspaper; Bremer OSI planning investigation.
+  - **Flyin' Saucer toy** — Morrison/Fractions/PIPCO, Southern California Plastic Co., Daytona Beach promotion.
+  - **Noack tow-target/kite hoax** — Henry T. Rice positively identified portions.
+  - **Cromwell/Lippincott "saucers from Spain"** — Red Cross director told dentist saucers were from Spain, "ascertained by Government in Washington."
+  - **Utah Ogden/Logan/Mantua** — Lt. Ron Hatfield, L.N. Jeppson: explosion in air, puffs of smoke, falling silver object.
+  - **Bethel AK Peck/Daly** — DC-3 wing-shaped object C-54 size at 1,000 ft, no propeller/exhaust/vapor.
+  - **Portland Police multi-witness (11 Sept 1947)** — Officers Adair, Caldwell, Chief Jenkins, Officer Raney; "egg-shaped" object.
+  - **Mantell pursuit radio transcript** — "I'm closing in to take a good look... It looks metallic and of tremendous size... That's 360 miles an hour... At 20,000 feet, if I'm no closer, I'll abandon chase."
+  - **Dayton Journal-Herald** — "30% weather balloons, 30% conventional, 40% unexplained"; "not a joke, neither are they a cause for alarm."
+  - **Fugate "hazy recollection"** — Rhodes interview follow-up; OSI Aldrich requested detailed facts.
+  - **Peter Cameron Jones LA prank** — Hoover couldn't locate at given address.
+
+### Cross-page updates
+
+- None yet — entity pages for Gasser, La Paz, Chiles, Whitted, Parrott, Harrison, Mantell, Project Grudge, Kirtland AFB, Camp Hood are candidates for future creation.
+
+### Index changes
+
+- "Section 4" line updated from stub ("green-fireball wave, Chiles-Whitted") to full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-section-4.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+

@@ -20,7 +20,7 @@ The triage ranking (in `wiki/log.md` under the OCR entry) is the priority order.
 
 ## Status (as of 2026-05-09 evening)
 
-**Done — 6 of 17:**
+**Done — 9 of 17:**
 
 | # | summary file | date range | most consequential novel artifact |
 |---|---|---|---|
@@ -30,20 +30,17 @@ The triage ranking (in `wiki/log.md` under the OCR entry) is the priority order.
 | 4 | `62-hq-83894-section-1` | Jun-Aug 1947 | Schulgen-FBI cooperation negotiation, Hoover's "Iowa case" remark, Bureau Bulletin No. 42, Davidson/Brown Kelso B-25 crash sequence, Portland police 4 Jul multi-officer event, Mrs. Merchant Santa Fe AEC thread, "Memorandum of Importance" (Meade Layne / etheric-origin treatise) |
 | 5 | `army-incident-summaries-1-100` | Jun 1947–Jan 1948 | Complete Mantell witness corpus (Inc 33-33g) with verbatim radio transmissions and "Mantell blacked out at 20,000 ft" file note; Capt. Peck Bethel Alaska pursuit; Pan Am Capt. Griffin Pacific 1,000-knot light-split; Twin Falls 35-50-object police mass-witness; Lt Col Walker GSC Pentagon-scientific witness |
 | 6 | `62-hq-83894-section-2` | Jun-Sep 1947 | **Complete Kenneth Arnold first-person statement + Frank M. Brown CIC interview report dated 16 Jul 1947 (Brown died 15 days later in the Kelso B-25 crash)**; full Rhodes Phoenix photo chain-of-custody (Fugate/Brower negotiation); "Radio Ham" Newsday coded-message Martian-origin claim decoded by FBI Lab |
+| 7 | `62-hq-83894-section-9` | Nov 1957-Apr 1960 | Post-Sputnik wave (Roach memo), ICARF civilian filter-center network, Oveson / Torrington CT fictitious military unit, Keyhoe / NICAP formal inquiry (Bureau's dismissive file notes), "Bender Affair" / Marck "chronic" classification, 13-year-old Maney "Interplanetary Intelligence," Hayden Hewes Hoover article request, APRG / Seattle fireman Gribble, Perry moon photograph → Eisenhower letter → White House → DOJ → FBI referral chain, NICAP policy follow-up, Wackerbarth memo: zero OSI referrals past 12 months |
 
-**Remaining — 11 of 17 (priority order):**
+**Also done (from earlier sessions, not in journal table):**
+| 8 | `62-hq-83894-section-3` | Jun-Aug 1947 | Maury Island CIC investigation, Kelso B-25 crash, Muroc AAF witness corpus (Shoop/McHenry/Strapp/Scott/Nauman), Switzer chromium vanishing object, Stewart Hamilton Field P-80 pursuit, Savage OKC disc, Brummett/Decker Redmond wingless objects, Anchorage sphere, Danforth IL hoax, 4AF McCoy specimen analysis (plaster of paris + bakelite), Guam Harmon Field crescent objects, Schulgen subversive-investigation request, FBI discontinuation via Bureau Bulletin No. 57 |
+| 9 | `62-hq-83894-section-4` | Sep 1947-Mar 1949 | Green fireball wave (La Paz Starvation Peak), Kirtland OSI multi-state 30 Jan 1949 sighting, Chiles-Whitted Eastern Airlines DC-3, Camp Hood/Killeen flares, Parrott Merced clicking object, Harrison Fort Smith mirror-bright object, Project Grudge formal naming, Winchell-Ripley debunk, Gasser Oak Ridge briefing, Mantell pursuit radio transcript, Dayton Journal-Herald statistics, ADC "ash can covers" letter, Fugate Rhodes follow-up, Flyin' Saucer toy, Noack tow-target hoax, Scranton PA house fire (Mg/Al/Fe/Ca ash), Virginia/Tennessee cigar-streak, Alexandria LA "saucer seers convention," Mantell pursuit radio transcript, Bethel AK Peck/Daly DC-3 wing |
+| 10 | `62-hq-83894-section-5` | Jul 1949-Sep 1950 | Guy Hottel memo (22 Mar 1950) — three recovered saucers in New Mexico, nine 3-foot-tall humanoid occupants in metallic blackout suits; Knoxville/Oak Ridge radar tracking (Adcock, Gasser, CIA technician); U.S. News & World Report Chance-Vought XF5U argument; Peter Cameron Jones LA mountains; George Koehler Denver lectures; Jonathan Caldwell Maryland disks; Glen Sprouce WV yellow rocket; Michael Halfery Mars photographs; Lewis Ward Russian drawings; Al Hixenbourg Louisville film; Alice TX disc hoax; Martin "Danse Macabre" letter; Walter D. Jones Toronto circling light; DCOMSA five-theory debunking; Donald Keyhoe book review |
+| 11 | `62-hq-83894-section-6` | Aug 1950-Feb 1951 | Dr. LaPaz 10-point green fireball analysis; Los Alamos conferences (Feb 1949 + Oct 1949); Stanfield photograph Datil NM; Project Twinkle / Land-Air Inc. contract; Oak Ridge radar detections (Dec 1950-Jan 1951); LOOK magazine Liddel Skyhook explanation; Aaron Hitchens New Haven sighting; Hoover → LA SAC on Frank Scully; Philadelphia parachute-disc; Ladd memo OSI assessment |
+| 12 | `62-hq-83894-section-7` | Aug 1952-Feb 1953 | Savannnah River AEC sighting; German V-weapon saucer letter; BSRA / Meade Layne / Max Freedom Long; Wm. Hoffmeyer Jackson MN triangle; Riley/Stock Paterson NJ photograph; F. Eekhout The Hague plans; Daniel Lang / New Yorker "Project Saucer"; Albert K. Bender / IFSB / Space Review; Harvel Reece letter; Montana white object; Desvergers West Palm Beach cap burn; Washington National flap; Bureau Bulletin enforcement; Air Force FAQ — 1500 reports, 20% unexplained |
+| 13 | `62-hq-83894-section-8` | 1954 | Truman Bethurum / George Hunt Williamson / Valor / Soulcraft / Pelley; L. H. Stringfield / CRIFO Newsletter; Detroit Flying Saucer Club open letter; Frances Swan / Adm. Knowles telepathy case (M-4 from Uranus / L-11 from Hatann); Cincinnati paint incident; Bartkus/McColm moon sighting; Rome Italy cigar object; Carl Keyser Milford OH silver sphere; Charles Yost electric-field letter; Wilber B. Smith Canadian physicist; Jack Gunderman DuBois layout artist; O'Mara Wright-Patt three breakdowns |
 
-1. `62-hq-83894-section-3` — Maury Island CIC investigation, Kelso B-25 crash narrative successor to section 2 (190 pages)
-2. `62-hq-83894-section-4` — green-fireball wave, Chiles-Whitted (214 pages)
-3. `62-hq-83894-section-5` — possible location for the famous **Guy Hottel memo (22 March 1950)**, frequently advertised as the most-viewed page in the FBI Vault (209 pages)
-4. `62-hq-83894-section-6` — Liddel Skyhook hypothesis (Mantell), green fireballs (271 pages — largest after sec 10; biggest oversize file in the corpus)
-5. `62-hq-83894-section-7` (205 pages)
-6. `62-hq-83894-section-8` (217 pages)
-7. `62-hq-83894-section-9` (290 pages — second largest)
-8. `62-hq-83894-serial-130` (126 pages)
-9. `62-hq-83894-serial-164` — AFOIN Memo No. 4 "Unconventional Aircraft" (Cabell, 1949) (137 pages)
-10. `62-hq-83894-sub-a` — Nash-Fortenberry, Killian, Jung, Swan/Knowles canonical pilot cases (124 pages)
-11. `box186-319.1-flying-discs-1949` — Army procurement / 4th AF documents (143 pages)
+**All 17 files complete.**
 
 ## Working method (per file)
 

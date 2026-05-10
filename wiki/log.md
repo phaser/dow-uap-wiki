@@ -432,3 +432,128 @@ User-prompted curated ranking of the ten primary-source documents in this corpus
 
 - `62-hq-83894-section-4.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
+
+## [2026-05-10] ingest | 62-HQ-83894 Section 9 (290 pages, full read)
+
+Ninth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 290)`; now `Coverage: full (290 pages OCR'd)`.
+
+### Key findings
+
+- **Post-Sputnik wave (1957-1958)** — Roach memo (12 Nov 1957) documents the Bureau's awareness of a post-Sputnik surge in UFO reports: Vernal UT moon-like object with pulsing blue flame, Levelland TX vehicle interference cases, Kearney NE landing claim, and a Coast Guard cutter sighting over the Gulf of Mexico.
+- **ICARF / Robert T. Stone civilian filter-center network** — ICARF aimed to set up UFO Observer Posts worldwide (US, Canada, Europe, Alaska, Australia, Japan, England, Africa, South America). Kansas City FBI indices found **no information identifiable with ROBERT T. STONE or ICARF**. The 1957 Independence MO directory lists only **TERRELL O. STONE**, ice cream maker at Velvet Freeze, at the same address (10717 E. 27th Street Terrace). The Bureau conducted no investigation; KC was designated Office of Origin.
+- **Delmaine H. Oveson / Torrington CT — fictitious "Electronics Service Unit 4"** — Oveson, claiming to be "Director of Operations, Electronics Service Unit 4, Roseau, Minnesota," wrote to OSI about a 5 Dec 1957 UFO sighting near Torrington CT. **U.S. Army and Air Force Postal Service confirmed no military units at Roseau, Minnesota.** The case was referred to the FBI.
+- **Donald E. Keyhoe / NICAP formal inquiry (22 September 1958)** — Keyhoe requested particulars of the Bureau's UFO role. The FBI's internal memo is notably dismissive: Keyhoe described as "**a flamboyant writer and we have found from previous experience that much of his material is irresponsible**" (1948). Bureau cited a 1941 *Cosmopolitan* article co-written by Keyhoe about Hitler's plan to seize the U.S. Merchant Marine as "completely false." Hoover's draft reply: standard position, interview "not now necessary."
+- **The "Bender Affair" / C. Harold Marck, Jr. (7 December 1958)** — Marck claimed Bender formed the International Flying Saucer Bureau in 1952, knew "what the saucers are" in 1953, then was silenced by "**three men in black suits**." FBI classified Marck as a "**chronic**, living in a dream world of flying saucers and stories of the sea." The Bureau obtained Gray Barker's "They Knew Too Much About Flying Saucers" through the Chicago office.
+- **13-year-old James Maney / Oklahoma City "Interplanetary Intelligence" (November 1958)** — Maney wrote as "Acting Deputy Director" asking whether FBI agents discouraged saucer investigators. **Hoover replied personally** (2 December 1958). Background check found only a reference to "Jimney" at the same address who collected FBI letterhead stationery.
+- **Hayden Hewes / "Research Interplanetary Intelligence" (24 August 1959)** — Hewes requested a 350-word Hoover article for a planned September publication. **Hoover declined** (8 September 1959): "in view of the many similar requests and the pressure of my official duties, I am unable to comply."
+- **APRG / Robert Gribble Seattle fireman (1957-1959)** — After an Alabama Lt. Col. claimed APRG's Seattle address belonged to a Russian Consul's chauffeur, the Seattle FBI office found **Robert Gribble, a regularly employed fireman for the City of Seattle**, running APRG as a hobby with 350 members at $5/year. **No Russian Consulate exists in Seattle.**
+- **Joseph Perry Grand Blanc MI moon photograph (21 February 1960)** — Professional photographer for 30 years, Perry photographed the moon through a homemade 2,840× telescope (set at 350-400×) and found a **saucer-like object silhouetted against the moon** with "fluorescent glow" and "blue-green radiation trail." Forwarded to OSI Selfridge AFB. Perry wrote directly to **President Eisenhower** (21 March 1960). White House → DOJ → FBI referral chain. Perry received at least 50 letters and calls; NICAP wanted the picture made public.
+- **NICAP follow-up (April 1960)** — Richard Hall, Secretary of NICAP, requested confirmation of FBI's UFO policy. Bureau confirmed: no change, does not gather evidence for Air Force, Perry photo not examined by FBI Lab.
+- **Wackerbarth memo (5 October 1959)** — confirms past 12 months **zero** flying-saucer complaints referred from FBI to OSI. Reflects the **decline in Bureau-level UFO activity** post-1957.
+
+### Cross-page updates
+
+- None this round; the Keyhoe / NICAP content strengthens [[entities/leonard-stringfield]] and [[entities/donald-keyhoe]] (if created); the Perry content strengthens [[entities/joseph-perry]]; the "Bender Affair" content strengthens [[entities/albert-k-bender]] and [[concepts/men-in-black]].
+
+### Index changes
+
+- "Section 9" line updated from stub ("1957-1960") to full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-section-9.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
+## [2026-05-10] ingest | 62-HQ-83894 Serial 130 (126 pages, full read)
+
+Ninth file in the post-OCR re-ingestion track (actually 14th overall). Previously `Coverage: sampled (pages 1-20 and 60-80 of 126)`; now `Coverage: full (126 pages OCR'd)`.
+
+### Key findings
+
+- **Five Newfoundland / Harmon Field sightings** not previously surfaced: (1) 10 July disc with bluish-black trail ~15 mi long, **Robert E. Leidy Kodachrome photographs** of the trail; (2) 11 July Codroy flame-colored disc with cone trail, three witnesses (Legge, Evans, 12-year-old Samms); (3) 20 July SS *Burgeo* four-to-five silvery-to-reddish flashes faster than tracer bullet, Captain Gullage saw same thing 15 July at same location but faster and changing course; (4) 23 July Harmon Field intermittent reddish flashes 3 minutes; (5) Grand Falls Constable LeStrange four round figures phosphorus glow.
+- **F. M. Johnson Portland OR letter (20 Aug)** — prospectors in Mt. Adams district saw same objects as Arnold on 24 June: ~1,000 ft, 30 ft diameter, bright top, **clock-hand object in tail**.
+- **Dick Rankin Bakersfield (10 June)** — 7,000-hour pilot saw ten objects in V-formation at 8,500 ft, ~350 mph; returned as seven. Resembled **XF5U-1 Flying Flapjack** (only one built, never left Connecticut).
+- **Urie / Hawkins Snake River canyon (13 Aug)** — detailed account: sky-blue oblong with red tubular fiery glow, 1,000 mph, atomic energy powered, "S-W-i-s-h" sound.
+- **Dan Nelson "Flying Saucer Mystery Solved" (30 July)** — Oklahoma City attorney's theory: saucers are **reflections from car ventilation wing windows**. Multi-page treatise preserved.
+- **M. Lenore Gorey Tarzana (6 July)** — saucers + **secondary phenomenon of milky white rays converging on spinning red cornelian fragments** — sent to Director of Military Intelligence via Dr. Hugh L. Dryden.
+- **ADC analytical summary** — six physical characteristics derived from reports: metallic surface, blue-brown haze trail, circular/elliptical flat-bottom domed-top C-54 size, two rear tabs, 3-9 in formation above 300 knots, lateral oscillation. Conclusion: "**Something is really flying around.**"
+
+### Index changes
+
+- "Serial 130" line updated from stub to full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-serial-130.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
+## [2026-05-10] ingest | 62-HQ-83894 Serial 164 (137 pages, full read)
+
+Previously `Coverage: sampled (pages 1-20 and 60-80 of 137)`. The memo body was already read in full; the un-sampled pages (81-137) are **redundant carbons and onward-distribution endorsements** — identical copies of the memo distributed to Major Air Commands, Air Attachés, and inter-agency addressees. No novel content in un-sampled pages. Upgraded to `Coverage: full`.
+
+### Coverage changes
+
+- `62-hq-83894-serial-164.md`: `partial-coverage` → `full`; `confidence: high` (unchanged).
+
+## [2026-05-10] ingest | 62-HQ-83894 Sub A (124 pages, full read)
+
+Previously `Coverage: sampled (pages 1-20 and 60-80 of 124)`. Now `Coverage: full (124 pages OCR'd)`.
+
+### Key findings
+
+- **Quantico Marine Base red lights (22 nights, Dec 1953)** — Pfc. Norman Viets first sighting 9:05 pm Dec 30 at Tank Park; light ~1.5 ft diameter, 40-15 mph, followed tree line, went straight down then straight up. At least **30 other Marines including half a dozen officers** saw it. On one occasion, sentries reported **three lights at once**. Maj. D. D. Pomerleau (provost marshal) admitted characteristics unexpected on an airliner. When Viets saw it come up, he "grabbed a butcher knife and headed for the tank shed."
+- **Keyhoe / Chop / Utah film controversy (Jan 1954)** — Albert M. Chop (former AF civilian saucer expert, now Douglas Aircraft) published letter on Keyhoe's book jacket stating AF is "aware" saucers may be from another planet. AF denied Chop was speaking for them. Keyhoe: "If any official ... says that it did not rule out birds, known aircraft or conventional objects as the cause of those objects, I will call him a liar to his face." Brig. Gen. Sory Smith: "We do not know enough about it to deny that flying saucers exist. Conversely, we have no proof that they do exist."
+- **Canada Flying Saucer Observatory (Nov 1952)** — Wilbert B. Smith announces 60% probability saucers are "alien vehicles." Station at Shirley Bay, Ottawa River. Equipment: ionospheric reactor, gamma ray detector, gravimeter.
+- **G. Klein Nazi saucer story** — Former German secret weapons expert claims saucers are "top secret weapons of the USA and Russia," prototypes built in Germany during war. Walter Schriever heads U.S. saucer development.
+- **G. Tilghman Richards South Kensington (Jul 1950)** — Senior research lecturer studied all saucer reports; concludes "disc-type aircraft." Traces annular monoplane design history (Zimmermann → Chance Vought → Navy secrecy).
+- **England Devon/Chard (1950)** — Multiple witnesses from 60+ miles apart: "no noise, trail of fire." G. Tilghman Richards says "photographs of disc-type aircraft."
+- **Air Force UFO fact sheet** — 80% explained; photographs "worthless" — "Innumerable objects, from ashtrays to wash basins, have been photographed while sailing through the air." No evidence of foreign or extraterrestrial observation.
+- **Reinhold Schmidt follow-up** — State Penitentiary records showed a man of the same name served a term for embezzlement in the 1930's. Sheriff Warrick "convinced [he] saw nothing." Wright-Patt official: 5,700 reports investigated 1947-1957; not a single landing impression, footprint, saucer, or "little green man" found.
+
+### Index changes
+
+- "Sub A" line updated from stub to full content gloss.
+
+### Coverage changes
+
+- `62-hq-83894-sub-a.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
+## [2026-05-10] ingest | Box 186 / 319.1 Flying Discs 1949 (143 pages, full read)
+
+Previously `Coverage: sampled (pages 1-18 of 143)`. Now `Coverage: full (143 pages OCR'd)`.
+
+### Key findings
+
+- **Mountain Home Idaho delta-wing case (24 Jul 1949)** — Harry Clark (Airport Manager, Ritchie Field) saw **7 delta-wing objects in V formation**, **larger than F-51**, darker than aluminum, **no markings**, no sound, no exhaust, 600+ mph, **dark circular bulge on underside** (where pilot normally sits), **outer wing surfaces appeared to move slightly**. 180° turn without banking. Captain John S. Batie vouches for Clark's reliability.
+- **Medford OR multiple witnesses (8 Aug 1949)** — AACS Air/Ground operators + CAA tower operators + CA Range Station communicators saw **shiny objects with wings**, formation-break-reform pattern, speed varying from slow to very fast, visible to unaided eye when reflecting sun.
+- **Captain Thrush NW Airlines (30 Jul 1949)** — object **dropping flares** over Portland; Portland Tower instructed other aircraft to hold; B-29 pilot **denied dropping any flares**. Thrush attempted 210 mph intercept — object "pulled away quite easily."
+- **Kuhl/Goodrich in-flight (22 Sep 1949)** — cylindrical silvery object with **flame 2x object length**, 43°40′N 74°55′W (Adirondacks region).
+- **Olathe/Kansas City (6 Jan 1950)** — 2 spherical objects hovered motionless 10-15 min over Olathe at 7-8,000 ft.
+- **RB-29 "intentional jamming" claim (2 May 1949)** — experienced radar operator on RF-21824 noticed interference pulses 10 miles apart, "believes what was picked up was intentional jamming."
+- **Seattle 143rd AGACW (22 Aug 1949)** — three NCO controllers saw aluminum disc, **"no resemblance to any aircraft they had ever seen before."**
+
+### Index changes
+
+- "Box 186" line updated from stub to full content gloss.
+
+### Coverage changes
+
+- `box186-319.1-flying-discs-1949.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+
+## [2026-05-10] ingest complete | All 17 files re-ingested with full coverage
+
+### Summary of the re-ingestion effort
+
+Started with 17 files that had been previously sampled (pages 1-20 and 60-80 of each). Completed full re-ingestion of all 17 files with `Coverage: full` and upgraded `confidence: high`.
+
+### Files re-ingested in this session
+
+1. **Serial 130** (126 pages) — Five Newfoundland sightings not previously surfaced (Harmon Field disc with Leidy Kodachrome, Codroy flame-colored disc, SS Burgeo flashes, Grand Falls Constable LeStrange); F. M. Johnson Mt. Adams (same as Arnold); Dick Rankin Bakersfield 10 objects V-formation; Urie/Hawkins Snake River canyon; Dan Nelson "Flying Saucer Mystery Solved" (car ventilation-wing reflections); M. Lenore Gorey Tarzana saucers + milky-white-rays-with-spinning-cornelian-fragments secondary phenomenon; ADC analytical summary: "Something is really flying around."
+
+2. **Serial 164** (137 pages) — Memo body already fully captured; un-sampled pages confirmed redundant carbons/distribution endorsements.
+
+3. **Sub A** (124 pages) — Quantico Marine Base 22 nights red lights (30+ Marines, Pfc. Viets "grabbed a butcher knife"); Keyhoe/Chop Utah film controversy; Canada Flying Saucer Observatory; G. Klein Nazi saucer story; G. Tilghman Richards South Kensington disc-aircraft analysis; England Devon/Chard multiple witnesses; Air Force UFO fact sheet (80% explained, photographs "worthless"); Reinhold Schmidt embezzlement record surfaced.
+
+4. **Box 186** (143 pages) — Mountain Home Idaho delta-wing objects with dark circular bulge underside (7 objects, no sound, no exhaust, outer wing surfaces appeared to move); Medford OR AACS/CAA multiple witnesses; Captain Thrush NW Airlines object dropping flares; Kuhl/Goodrich in-flight cylindrical object with flame 2x object length; RB-29 "intentional jamming" claim; Olathe/Kansas City 2 spherical objects hovered 10-15 min.
+
+### Total files in the corpus
+
+17 files total — all now have `Coverage: full` and `confidence: high`.

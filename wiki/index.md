@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Start here for any query. Schema lives in [`../CLAUDE.md`](../CLAUDE.md). Activity log at [`log.md`](log.md).
 
-**Counts (2026-05-09):** 105 summaries · 40 concepts · 68 entities · 4 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
+**Counts (2026-05-09):** 105 summaries · 40 concepts · 78 entities · 4 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
 
 ---
 
@@ -27,7 +27,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Section 5](summaries/62-hq-83894-section-5.md) — Jul 1949–Sep 1950: **Guy Hottel memo (22 Mar 1950)** — three recovered saucers in New Mexico, each ~50 ft diameter, each with three 3-foot-tall humanoid occupants in metallic blackout suits; **Knoxville / Oak Ridge radar tracking (Mar 1–8, 1950)** — Stuart Adcock amateur radar at 40,000–100,000 ft over Oak Ridge; multi-agency response (AEC, OSI, CIA, Naval Reserve, 3rd Army); procedural gaps documented by Colonel Gasser; **U.S. News & World Report (Apr 7, 1950)** — full-page "Flying Saucers — The Real Story" arguing for Navy VTOL / Chance-Vought XF5U program; **Peter Cameron Jones** LA mountains saucer (Aug 1947, via Winchell/Cuneo); **George Koehler** Denver lectures (Jan–Mar 1950), three-foot-tall dead occupants at Mojave disc; **Jonathan Caldwell** Maryland disks (Aug 1949); **Glen Sprouce** yellow rocket-object WV (Sep 1949); **Michael Halfery** Mars photographs New Orleans (May 1950); **Lewis Ward** "Russian drawings" Yuba City (Apr 1950); **Al Hixenbourg** Louisville Times saucer film (Jun 1950), debunked by fellow photographers; **Alice TX disc hoax** (Jul 4, 1950), welded airplane-wing object with "DO NOT TOUCH" markings; **Martin "Danse Macabre" letter** (Jul 25, 1950), Hughes-funded one-way bombing saucer by German WWI ace; **Walter D. Jones** Toronto circling-light sighting (Jul 19, 1950); **DCOMSA comprehensive analysis** — five-theory debunking, 75% known causes, mass hysteria attribution; **Donald Keyhoe** book review note
 - [Section 6](summaries/62-hq-83894-section-6.md) — Aug 1950–Feb 1951: **Dr. LaPaz 10-point analysis** of green fireballs vs. meteors; **Los Alamos conferences** (Feb 1949 + Oct 1949) — multi-agency, "logical explanation not proffered"; **Stanfield photograph** (Datil NM, Feb 1950), LaPaz analysis rules out moon/Venus/stars; **Project Twinkle / Land-Air Inc.** contract for Vaughn NM observation posts; **Oak Ridge radar detections** (Dec 1950–Jan 1951) — 663rd AC&W Squadron, F-82 intercepts, scope photos; **LOOK magazine (Jan 1951)** — Liddel Skyhook balloon explanation in full; **Aaron Hitchens** Winchester Repeating Arms sighting (Oct 20, 1950, New Haven); **Hoover → LA SAC on Frank Scully** (Oct 1950) — communist activity investigation; **Philadelphia parachute-disc** (Sep 26, 1950); **Ladd memo** (Oct 9, 1950) — OSI "fails to indicate space ships or missiles from any other planet"
 - [Section 7](summaries/62-hq-83894-section-7.md) — Aug 1952–Feb 1953: **Savannah River AEC sighting** (Aug 8, 1952); **German V-weapon saucer letter** (Cincinnati Enquirer, Aug 1952), constructor Riedel, "in Russian hands"; **BSRA / Meade Layne / Max Freedom Long** (San Diego), tidal wave predictions, saucers "in conversation," "disintegrators"; **Wm. Hoffmeyer** Jackson MN tin-foil + burned-clover triangle; **Riley/Stock Paterson NJ photograph** (Aug 31, 1952); **F. Eekhout** The Hague "workable flying disc" plans; **Daniel Lang / New Yorker** (Sep 6, 1952) Project Saucer article; FBI counter-intel; Ruppelt/Chop debunk FBI-saucer-investigation claims; **Albert K. Bender / IFSB / Space Review** (Jan 1953); **Harvel F. Reece** letter (Oct 21, 1952); **Montana white object** (Sep 19, 1952); **Desvergers West Palm Beach cap burn** (Aug 1952); **Washington National flap** (Jul 20 + Jul 26, 1952); **Bureau Bulletin enforcement** (Aug 18, 1952) — field offices not referring to OSI; **Air Force FAQ** pasted — 1500 reports, 20% unexplained, no orders to fire on saucers
-- [Section 8](summaries/62-hq-83894-section-8.md)
+- [Section 8](summaries/62-hq-83894-section-8.md) — 1954: **Truman Bethurum / George Hunt Williamson / Valor / Soulcraft / Pelley** (Cincinnati, June 1954); **L. H. Stringfield / CRIFO / Newsletter** (Sep 1954) — O'Mara "Flying saucers 'do exist'" exclusive interview; Detroit Flying Saucer Club open letter to President (Sep 22, 1954); **Frances Swan / Adm. Knowles telepathy case** (July 29, 1954) — M-4 / L-11 ships from Uranus / Hatann; "Affa" / "Ponnar" commanders; 5,000 mother ships; "fault lines" in Pacific; 5,000 "bells" to appear August 1954; ONI declined; **Cincinnati paint incident** (Sep 11, 1954) — yellow trim stained brown/black; hydrogen sulphide; **Bartkus/McColm moon sighting** (Rockford IL, Sep 5, 1954) — spherical object ascending from Mare Humboldtianum, 12,500 ft.; **Rome Italy cigar object** (Sep 18, 1954) — radar 39 min; **Carl Keyser** Milford OH silver sphere (Jul 23, 1954); **Charles Yost** St. Clair Shores electric-field letter (Nov 1953); **Wilber B. Smith** Canadian physicist Swan contact; **Jack Gunderman** DuBois layout artist; **O'Mara** Wright-Patt three breakdowns
 - [Section 9](summaries/62-hq-83894-section-9.md)
 - [Section 10](summaries/62-hq-83894-section-10.md) — 1966-1977 late-Hoover/post-Hoover correspondence: Collins Chesapeake VA abduction (Jan 1967), Peyerl Black-Forest saucer (Apr 1967), IGAP/Adamski enclosure with NASA Goddard + Pentagon Steckling visits, Stewart Pan Am 707 theory (1969), Stephens MIB letter (May 1969), Milwaukee object recovery (Aug 1974), Carter White House inquiry (Jun 1977)
 - [Serial 130](summaries/62-hq-83894-serial-130.md)
@@ -262,6 +262,18 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Daniel Lang (writer; New Yorker "Project Saucer" article)](entities/daniel-lang.md)
 - [Captain Joseph W. Ruppelt (ATIC, Wright-Patterson)](entities/joseph-ruppelt.md)
 - [Harvel F. Reece (citizen UFO correspondent)](entities/harvel-reece.md)
+- [Truman Bethurum (contactee; Redondo Beach CA)](entities/truman-bethurum.md)
+- [George Hunt Williamson (archeologist; Valor magazine)](entities/george-hunt-williamson.md)
+- [William Dudley Pelley (Soulcraft Press; Silver Legion)](entities/william-dudley-pelley.md)
+- [Valor magazine (Soulcraft Press; Noblesville IN)](entities/valor-magazine.md)
+- [Soulcraft Press (Noblesville IN; William Dudley Pelley)](entities/soulcraft-press.md)
+- [L. H. Stringfield (CRIFO director; Cincinnati UFO researcher)](entities/leonard-stringfield.md)
+- [Frances Swan (automatic writer; telepathic messages)](entities/frances-swan.md)
+- [Herbert B. Knowles (retired Rear Admiral; Swan case)](entities/herbert-b-knowles.md)
+- [Peter Bartkus / Theodore McColm (amateur astronomers; Rockford IL moon sighting)](entities/peter-bartkus.md)
+- [Detroit Flying Saucer Club (citizen UFO advocacy)](entities/detroit-flying-saucer-club.md)
+- [Civilian Research, Interplanetary Flying Objects (CRIFO)](entities/crifo.md)
+- [John Hutson (Bureau of Aeronautics Security Officer)](entities/john-hutson.md)
 
 ---
 

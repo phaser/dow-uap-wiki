@@ -202,41 +202,45 @@ None this round; major findings touch existing entities ([[entities/fbi]], [[ent
 
 - `62-hq-83894-section-1.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
-## [2026-05-09] ingest | 62-HQ-83894 Section 7 (205 pages, full read)
+## [2026-05-09] ingest | 62-HQ-83894 Section 8 (217 pages, full read)
 
-Ninth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 205)`; now `Coverage: full (205 pages OCR'd)`.
+Tenth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 217)`; now `Coverage: full (217 pages OCR'd)`.
 
 ### Key findings
 
-- **Summer 1952 wave** — year of the Washington National flap; greatly intensified saucer reporting nationwide; FBI mostly doing acknowledgement letters routed to OSI.
-- **Savannah River Plant AEC sighting (Aug 8, 1952, ~9:30 pm)** — two E. I. du Pont employees observe blue light with orange fringe, "shaped like a saucer," over 400 area at high speed NE.
-- **German V-weapon saucer letter (Aug 1952, Cincinnati Enquirer)** — anonymous letter in German; translated by FBI Cryptanalysis-Translation Section; claims V-weapon flying saucer tested in 1944, now in series production; 48–50 m diameter disc with 15–50 outer-rim circular nozzles; central plexiglass sphere holding atom-bomb / instrument payload; range 30–35,000 km; "in Russian hands"; signed "H. SCH."; cites **constructor Riedel** (Klaus Riedel, real German V-2 rocket engineer). Prototype "Nazi-saucer" claim.
-- **BSRA / Meade Layne / Max Freedom Long (Aug 1952, San Diego)** — Francis Ohm (member, operates insurance business in same building as FBI office) claims BSRA predicted Tehachapi earthquake; predicted Pacific tidal wave washing away Japanese islands, Hawaii, U.S. West Coast; predicted new Pacific island; claimed saucers are "factual and actual," "in conversation with the men operating the flying saucers," on "peaceful mission," have "disintegrators" to "disintegrate these planes completely in no time flat" if U.S. fires on them. FBI describes Ohm as "perfectly sane, sound individual."
-- **Hoffmeyer Jackson MN (Aug 1952)** — steady white light circling farm; shredded tin-foil sample found in pastures in round pile with clover "burned" underneath in triangle.
-- **Riley/Stock Paterson NJ photo (Aug 31, 1952)** — civilian photographer Riley + witness Stock allegedly photographed unidentified aerial object. FBI credit/criminal checks negative; no photo investigation conducted.
-- **F. Eekhout The Hague (May 5 / Oct 6, 1952)** — Dutch citizen visits FBI Washington office to discuss "workable flying disc" plans; promises silence; 5 months later writes Hoover from The Hague asking if silence agreement still valid, subject "become active in Europe." Hoover forwards to Air Force.
-- **Daniel Lang / New Yorker (Sep 6, 1952)** — full article pasted covering Project Saucer history, Major Boggs interviews, Chiles-Whitted, Kenneth Arnold, Fargo ND light pursuit, Dr. Hynek analysis, Dr. Fitts mass-suggestibility, Langmuir thunderstorm-paper conclusion, Washington flap (Jul 20 + Jul 26, 1952). FBI counter-intel investigation: Ruppelt/Chop debunk FBI-saucer-investigation claims; Lang gathered material ~2 years ago from newspapers.
-- **Albert K. Bender / IFSB / Space Review (Jan 1953)** — Robert D. Wolf (Civil Defense Director, Johnson County IN) writes Hoover asking if IFSB "cleared" or "subversive." IFSB officers: Bender (President/Editor), Max Krengel (VP/Treasurer), Allan C. Rievman (Secretary). British branch Bristol. Contents: Mayagüez PR; Norway/Sweden; Korea front; Gaillac France "angel hair"; Oloron France. Reverend Daw Charleston WV landing with "two small men in red." Bender will dissolve IFSB 1953 after "three men in black."
-- **Hoover → Wolf (Jan 27, 1953)** — "No references can be located in Bureau files on I.F.S.B."
-- **Montana white object (Sep 19, 1952)** — streaking 100 miles; no investigation.
-- **Desvergers West Palm Beach cap burn (Aug 1952)** — scoutmaster claims MBB object hovered, shot "red blob." FBI lab: burns present but inconsistencies (non-uniform singeing, fold under insignia shows no singeing — cap not being worn).
-- **Bureau Bulletin enforcement (Aug 18, 1952)** — field offices not referring flying-disc complaints to OSI per Bulletin #57 / SAC Letter #38. New SAC Letter issued directing prompt referral.
-- **Air Force FAQ pasted** — 1500 reports, ~20% unexplained; "No orders to fire on unidentified aerial phenomena"; future plans: diffraction grating cameras, Schmidt telescopes.
+- **Contactee movement** — Section 8 captures the FBI's reluctant brushes with the post-1952 contactee genre.
+- **Truman Bethurum / George Hunt Williamson / Valor / Soulcraft / Pelley (Cincinnati, June 1954)** — Thomas Eickhoff (Tom's Beauty Salon) reports Bethurum's Taft Auditorium lecture ($2/ticket); Bethurum claims 11 saucer boardings + "ravishing woman commandant" in Nevada desert (Daily Breeze, Dec 31, 1953). Williamson associated with Valor magazine / Soulcraft Press / William Dudley Pelley (onetime fascist Silver Legion founder). Eickhoff visits Lt. Col. O'Mara at Wright-Patterson (June 6, 1954): O'Mara denies saucers exist, calls Keyhoe "a fraud." Eickhoff relays to Keyhoe, who "was going to Washington with his attorneys." Dinner at L. H. Stringfield's home (7017 Britton Ave) with Bethurum, Williamson, Manspeaker, Zimmermann, Eickhoff. Bethurum lecture cancelled (disagreement over tickets).
+- **L. H. Stringfield / CRIFO / Newsletter (September 1954)** — Jack Gunderman (DuBois Company layout artist) forwards Stringfield's Newsletter. Key findings: O'Mara "Flying saucers 'do exist'" interview (Sep 21, 1954); three breakdowns (1) controlled saucer from outer space, (2) secret American saucer-like device, (3) unexplained natural phenomena. "Definitely not!" all American devices. Air Force "plans cooperation with public." International censorship: Chilean Naval Mission retracts Orrego Antarctic photos claim.
+- **Detroit Flying Saucer Club open letter to President (Sep 22, 1954)** — "government... is perfectly aware of such phenomena, but has adopted a policy of silence and secrecy." "Other countries have already acknowledged these phenomena and have publicly appointed governmental commissions." Calls for "honest and forthright acknowledgment."
+- **Frances Swan / Adm. Knowles telepathy case (July 29, 1954)** — John Hutson (Bureau of Aeronautics Security Officer) + Cdr. McQuiston brief FBI. Swan receives telepathic messages from "outer space" since May 27, 1954; writes for 4–5 hours without getting tired. Two ships: M-4 (from Uranus, Commander "Affa") and L-11 (from Hatann, Commander "Ponnar"). 150 mi wide × 200 mi long × 100 mi deep; ~5,000 mother ships (150–200 ft). Contact purpose: protect Earth from atomic/hydrogen bomb destruction ("disrupts magnetic field"); repair "fault lines" in Pacific. Schedule: 6 AM, 12 noon, 6 PM daily. Buzzing in left ear ("annoying and painful"). Husband Guy + daughter Dawlyn hear buzzing but can't receive. Swan says 5,000 "bells" or "flying saucers" would appear over many nations in late August 1954 if physical contact made. ONI declined (no evidence of foreign conversations). Knowles wrote to Senator Margaret Chase Smith → SecDef → Army/Navy/AF; also wrote to President.
+- **Cincinnati paint incident (Sep 11, 1954)** — yellow trim on houses stained brown/black; hydrogen sulphide from Millcreek Valley; Kettering Lab samples; Proctor & Gamble doctor; Allgeyer swelling.
+- **Bartkus/McColm moon sighting (Rockford IL, Sep 5, 1954)** — amateur astronomers; 6" Cassegranian reflector; spherical object ascending from Mare Humboldtianum; not following true orbit; 12,500 ft. estimated diameter.
+- **Rome Italy cigar object (Sep 18, 1954)** — radar 39 min; "parked" in mid-air; exhaust trail; Ciampino Airfield.
+- **Carl Keyser Milford OH silver sphere (Jul 23, 1954)** — Civil Defense Col. Smith reports; referred to OSI Wright-Patterson.
+- **Charles Yost St. Clair Shores electric-field letter (Nov 14, 1953)** — research kept secret; "connection with the flying saucer" secondary to electric field research; references "research foundation in Western United States."
+- **Wilber B. Smith Canadian physicist** — at Knowles' residence with family (unofficial); planned to contact "outer space" Aug 1, 1954 on high frequency.
+- **Hoover forwarding (Aug 9, 1954)** — Swan material to OSI, Army G-2, ONI.
 
 ### Cross-page updates
 
-- None this round; new entity pages created for Bender, IFSB, BSRA, Lang, Ruppelt, Reece, and Eekhout.
+- None this round; new entity pages created for Bethurum, Williamson, Pelley, Valor, Soulcraft Press, Stringfield, Swan, Knowles, Bartkus/McColm, Detroit Flying Saucer Club, CRIFO, and Hutson.
 
 ### Index changes
 
-- "Section 7" line updated from stub to full content gloss.
-- 7 new entity pages added under "Individuals" and "Organizations": Bender, IFSB, BSRA, Lang, Ruppelt, Reece, Eekhout.
+- "Section 8" line updated from stub to full content gloss.
+- 13 new entity pages added under "Individuals" and "Organizations": Bethurum, Williamson, Pelley, Valor, Soulcraft Press, Stringfield, Swan, Knowles, Bartkus/McColm, Detroit Flying Saucer Club, CRIFO, Hutson.
 
 ### Coverage changes
 
-- `62-hq-83894-section-7.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
+- `62-hq-83894-section-8.md`: `partial-coverage` → `full`; `confidence: medium` → `high`.
 
-## [2026-05-09] ingest | 62-HQ-83894 Section 5 (209 pages, full read)
+## [2026-05-09] ingest | 62-HQ-83894 Section 7 (205 pages, full read)
+
+Seventh file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pages 1-20 and 100-120 of 209)`; now `Coverage: full (209 pages OCR'd)`.
+
+### Key findings
+
+- **The Guy Hottel memo (22 March 1950)** — preserved in full. The famous "three saucers, nine bodies" memo. SA Guy Hottel (SAC, Washington) reports that SA R. H. Kurtzman received information from "Kartahowe, Special Investigator, Sex Squad, Metropolitan Police Department" (informant identity obscured). The informant — an Air Force investigator — stated that **three flying saucers had been recovered in New Mexico**: each circular with raised centers, approximately 50 feet in diameter, each occupied by **three 3-foot-tall human-shaped bodies in metallic cloth of fine texture, bandaged in blackout-suit fashion**. The saucers were detected because government high-powered radar in the area interfered with their control mechanisms. This is the **most-viewed page in the FBI Vault**.
 - **Knoxville / Oak Ridge radar tracking (March 1–8, 1950)** — Stuart E. Adcock (radio station WROL) used surplus Army APN-7 radar to detect objects at 40,000–100,000 ft over Oak Ridge. Multi-agency response: AEC Security, OSI, CIA (technician dispatched), Naval Reserve, 3rd Army, USAF NEPA. Colonel C. D. Gasser (NEPA engineering officer) and Captain Robert Cross examined Adcock's equipment; found him "technically incorrect" and with "some degree of inebriation." Despite this, Gasser stated 100,000 ft flight was "absolutely possible." Adcock's reliability ultimately deemed "extremely dubious" after he couldn't be found. AEC's procedural critique: "an impressive lack of any agency actually taking the responsibility."
 - **U.S. News & World Report (April 7, 1950)** — full-page "FLYING SAUCERS — THE REAL STORY: U.S. BUILT FIRST ONE IN 1942." Comprehensive article arguing saucers are real Navy VTOL aircraft (Zimmerman NACA 1942 model → Chance-Vought XF5U Flying Flapjack). Current saucers use variable-direction jet nozzles, speed 400–500+ mph, vertical takeoff, hover. White Sands ground instruments measured saucer at "well over the speed of sound." Bureau filed without comment.
 - **Peter Cameron Jones LA mountains (Aug 1947)** — full letter preserved via Winchell/Cuneo (July 1949). Silver/green top-shaped object with windows and "life within"; knocked him down when departing. LA SAC negative (no record of Jones at given address).

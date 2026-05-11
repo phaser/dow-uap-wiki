@@ -573,3 +573,29 @@ User asked whether the Top 10 ranking (originally written 2026-05-08) had change
 - **Dropped from top 10:** 1955 Czechoslovakia attaché report (too narrow), Hunter NASC memo dropped to #6 (still strong but below the Hottel memo), DoW Western US 2026 slides dropped to honourable mentions (sensor data only, no physical evidence).
 
 Full ranking and justifications at [[syntheses/disclosure-movement-top-10]]. Confidence: `high` — all underlying documents are now fully read.
+
+## [2026-05-11] synthesis | Ten Arguments for Non-Human Intelligence
+
+User requested a structured argument for the proposition that UFOs, aliens, and interdimensional beings are real, drawn from this corpus and broader knowledge. Created at [[syntheses/ten-arguments-non-human-intelligence]].
+
+### Structure
+
+Ten arguments, each grounded in primary-source documents:
+
+1. **Hottel memo** — Recovered craft + non-human occupants (FBI Vault's most-viewed page)
+2. **Los Alamos conferences** — Scientific establishment: "logical explanation not proffered"
+3. **Oak Ridge radar** — Hard sensor data over AEC installations, F-82 intercepts
+4. **O'Mara "do exist"** — Wright-Patt Intelligence Deputy Commander: "Definitely not [American devices]"
+5. **Green fireball wave** — 30+ incidents, spectral analysis, geographic confinement to nuclear triangle
+6. **Socorro / Zamora** — Cleanest physical-evidence case: landing trace, Blue Book "unidentified"
+7. **Pilot witness corpus** — Hundreds of credentialed observers across 1947-1949 (Powell, Mantell, Miller, etc.)
+8. **Hoover's "Iowa case"** — "The Army grabbed it and would not let us have it" — coverup narrative anchor
+9. **Contactee movement convergence** — Independent claimants with consistent cross-cultural patterns (Bethurum, Swan, Stringfield)
+10. **JFK timing / institutional response** — FBI escalation pattern suggests recognition of something sensitive
+
+### Honesty caveats
+
+- Roswell, Tic-Tac, AATIP, Grusch testimony — **not in this corpus**.
+- Corpus is strongest on 1947-1970 FBI/USAF institutional record and 2020-2026 DoW/AARO modern military record.
+- The 1980s–early-2000s middle period is thin.
+- Confidence: `medium` — the corpus provides strong documentary evidence for each claim, but the inference to non-human intelligence is interpretive.

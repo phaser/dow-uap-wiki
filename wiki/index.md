@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Start here for any query. Schema lives in [`../CLAUDE.md`](../CLAUDE.md). Activity log at [`log.md`](log.md).
 
-**Counts (2026-05-11):** 111 summaries · 40 concepts · 78 entities · 4 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
+**Counts (2026-05-11):** 111 summaries · 40 concepts · 78 entities · 5 syntheses · 112 raw PDFs (OCR'd; see `raw/ocr/`).
 
 ---
 
@@ -13,6 +13,7 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [2020 Arabian Gulf / Persian Gulf UAP Cluster](syntheses/2020-arabian-gulf-cluster.md) — 14+ events, 482 ATKS MQ-9 hot zone
 - [FBI Institutional Posture on UAP, 1947–2025](syntheses/fbi-institutional-posture.md) — Hoover-era investigation through 2025 re-engagement
 - [Top 10 Disclosure-Relevant Documents](syntheses/disclosure-movement-top-10.md) — updated 2026-05-11 after full post-OCR re-ingestion
+- [Ten Arguments for Non-Human Intelligence](syntheses/ten-arguments-non-human-intelligence.md) — evidence-based case from the primary-source record
 
 ---
 

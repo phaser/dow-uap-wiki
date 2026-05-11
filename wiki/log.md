@@ -557,3 +557,19 @@ Started with 17 files that had been previously sampled (pages 1-20 and 60-80 of 
 ### Total files in the corpus
 
 17 files total — all now have `Coverage: full` and `confidence: high`.
+
+## [2026-05-11] synthesis | Top 10 Disclosure-Relevant Documents — re-ranked
+
+User asked whether the Top 10 ranking (originally written 2026-05-08) had changed after the full post-OCR re-ingestion of all 17 sampled files. **Yes — materially.** The original was written mid-re-ingestion when the Hottel memo, Los Alamos conferences, and Oak Ridge radar detections were only "honourable mentions."
+
+### What changed
+
+- **#1 Guy Hottel memo** ("Three saucers, nine bodies") — was not on the radar; now the top-ranked document because it is the most-viewed page in the FBI Vault and the direct primary-source anchor for the crash-retrieval narrative.
+- **#2 Los Alamos conferences** (Feb + Oct 1949) — was an "honourable mention"; now #2 because the multi-agency conclusion "logical explanation not proffered" is one of the strongest scientific-establishment acknowledgments in the UAP record.
+- **#3 Oak Ridge radar over nuclear facilities** — was an "honourable mention"; now #3 because hard sensor data over AEC installations with F-82 intercepts is among the highest-weight evidence in the corpus.
+- **#4 O'Mara "do exist" (Section 8)** — was an "honourable mention"; now #4 because Lt. Col. O'Mara (Deputy Commander, Wright-Patt Intelligence) saying "Flying saucers 'do exist'" is a rare high-level military acknowledgment.
+- **#5 Green fireball wave** — was an "honourable mention"; now #5 because La Paz's Starvation Peak analysis with 10+ incidents + 20 deviations over a nuclear installation is the most sustained scientifically-documented fireball wave.
+- **#10 Hoover's "Iowa case" marginal note** — was not ranked; now #10 because it is the foundational primary-source statement for the "they recovered something and buried it" narrative, from Hoover himself.
+- **Dropped from top 10:** 1955 Czechoslovakia attaché report (too narrow), Hunter NASC memo dropped to #6 (still strong but below the Hottel memo), DoW Western US 2026 slides dropped to honourable mentions (sensor data only, no physical evidence).
+
+Full ranking and justifications at [[syntheses/disclosure-movement-top-10]]. Confidence: `high` — all underlying documents are now fully read.

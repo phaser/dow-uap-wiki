@@ -599,3 +599,29 @@ Ten arguments, each grounded in primary-source documents:
 - Corpus is strongest on 1947-1970 FBI/USAF institutional record and 2020-2026 DoW/AARO modern military record.
 - The 1980s–early-2000s middle period is thin.
 - Confidence: `medium` — the corpus provides strong documentary evidence for each claim, but the inference to non-human intelligence is interpretive.
+
+## [2026-05-11] ingest | 2 new files from manifest check
+
+Checked war.gov manifest for new material. Found **2 genuinely new files** (3rd candidate `18_100754_vol_2` and `59_64634` had special characters in filenames that the downloader couldn't parse from CSV):
+
+### Serial 153 — R. Presley Oak Ridge "Flying Saucer" Photographs (July 1947)
+
+- **Knoxville File #65-11**, classified "INTERNAL SECURITY."
+- 24-year-old R. Presley at 218 Illinois Avenue, Oak Ridge, TN took a photo of the mountain that developed showing a "flying saucer."
+- Presley quote: "Now don't start trying to explain it off. Just go ahead and say what it looks like. Sure. Sure. You're right. It is a Flying Saucer."
+- Filed under "Internal Security" rather than standard UFO investigation — notable given Oak Ridge's role as the Manhattan Project's uranium production site.
+- No follow-up investigation preserved in this serial.
+- Summary page: [[summaries/62-hq-83894-serial-153]].
+
+### D20 filename correction
+
+- Manifest corrected `dow-uap-d20-mission-report-southern-united-states-2020.pdf` → `dow-uap-d20-mission-report-southern-united-states-2023.pdf`.
+- Content: 77 EFS F-16 DCA mission from Prince Sultan Air Base, March 20, 2023, over Syria. "MULTIPLE POSS UAPS" at 2302Z.
+- Same incident as existing D20 summary; only filename was corrected (2020 → 2023).
+- SOURCES.md updated to reflect corrected filename.
+
+### Files not found
+
+- `18_100754_general_1946-7_vol_2.pdf` — AMC flying disc concern memos (companion to vol 1 we have). Filename has spaces; downloader couldn't parse from CSV.
+- `59_64634_711.5612[7-2852` — State Dept memo on "increased UFO reports" (July 18, 1952). Filename has brackets/special chars; downloader couldn't parse.
+- These would need manual download if desired.

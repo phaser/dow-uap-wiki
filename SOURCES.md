@@ -37,6 +37,7 @@ Fetched and downloaded via `dow_uap_downloader` (see `dow_uap_downloader/Program
 - `65_hs1-834228961_62-hq-83894_section_8.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_8.pdf>
 - `65_hs1-834228961_62-hq-83894_section_9.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf>
 - `65_hs1-834228961_62-hq-83894_serial_130.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf>
+- `65_hs1-834228961_62-hq-83894_serial_153.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf>
 - `65_hs1-834228961_62-hq-83894_serial_164.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_164.pdf>
 - `65_hs1-834228961_62-hq-83894_serial_220.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_220.pdf>
 - `65_hs1-834228961_62-hq-83894_serial_403.pdf` — <https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_403.pdf>
@@ -51,7 +52,7 @@ Fetched and downloaded via `dow_uap_downloader` (see `dow_uap_downloader/Program
 - `dow-uap-d16-mission-report-syria-july-2022.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf>
 - `dow-uap-d18-mission-report-iraq-december-2022.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf>
 - `dow-uap-d19-mission-report-syria-february-21-2023.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf>
-- `dow-uap-d20-mission-report-southern-united-states-2020.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2020.pdf>
+- `dow-uap-d20-mission-report-southern-united-states-2023.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2023.pdf>
 - `dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf>
 - `dow-uap-d25-mission-report-greece-january-2024.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf>
 - `dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf` — <https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf>

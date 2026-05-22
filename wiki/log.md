@@ -625,3 +625,69 @@ Checked war.gov manifest for new material. Found **2 genuinely new files** (3rd 
 - `18_100754_general_1946-7_vol_2.pdf` — AMC flying disc concern memos (companion to vol 1 we have). Filename has spaces; downloader couldn't parse from CSV.
 - `59_64634_711.5612[7-2852` — State Dept memo on "increased UFO reports" (July 18, 1952). Filename has brackets/special chars; downloader couldn't parse.
 - These would need manual download if desired.
+
+## [2026-05-22] ingest | Release 02 — 6 new documents
+
+Downloaded Release 02 document bundle from `https://www.war.gov/medialink/ufo/052226/release_02/release_02_document_bundle.zip` (66.7 MB, 6 PDFs). Ran OCR pipeline, created 6 summary pages, updated index and log.
+
+### Files ingested
+
+1. **ODNI-UAP-D001 — USPER Narrative, Senior USIC Orb Encounter (late 2025)**
+   - **First-person account** from a senior U.S. Intelligence Community officer.
+   - Helicopter deployment to investigate "thuds" and UAP orbs on a test range.
+   - **Extended close encounter (>1 hour)**: object split into two, approached within 10 feet of helicopter, countless orange orbs swarming, T-formation of 4-5 orange orbs, orbs matching fighter jet speed and flight path, triangle formation around helicopter.
+   - Object rose from ground (transmedium behavior), accelerated beyond helicopter capability.
+   - Summary: [[summaries/odni-uap-d001-usper-narrative-senior-usic]]
+
+2. **CIA-UAP-D001 — Intelligence Information Report, Sary Shagan Range, USSR (Nov 1972–Nov 1973)**
+   - Former Soviet citizen source at ABM test range in Kazakhstan.
+   - **Green circular object with concentric rings** observed late summer 1973 — no sound, no debris.
+   - System-75 (SA-2) and System-300/ABM-1 GALOSH warhead checkout details.
+   - Rumored laser weapon research with "power-beam antennas."
+   - Summary: [[summaries/cia-uap-d001-sary-shagan-ussr-1973]]
+
+3. **DOE-UAP-D001 — PANTEX Image**
+   - Ground surveillance radar image of unidentified object at Pantex Plant (Amarillo, TX).
+   - Enhanced imagery produced by Sandia National Labs.
+   - Primarily photographic; OCR text minimal.
+   - Summary: [[summaries/doe-uap-d001-pantex-image]]
+
+4. **DOE-UAP-D002 — James Tuck Correspondence (November 28, 1970s)**
+   - Physicist James L. Tuck requested simulated atomic bomb detonation data.
+   - Cited the **Condon Report's** discussion of atmospheric vortices related to UAP.
+   - Enclosure on **Einstein's unified field theory** and UAP propulsion.
+   - Summary: [[summaries/doe-uap-d002-james-tuck-correspondence]]
+
+5. **DOE-UAP-D003 — Pajarito Astronomers (May 20, 1986)**
+   - Los Alamos amateur astronomy club announcement.
+   - **Dr. John Warren (LANL AT-6)** guest speaker: "Why Should a Scientist be Concerned about UFO's?"
+   - Rare example of national laboratory scientist publicly addressing UAP.
+   - Summary: [[summaries/doe-uap-d003-pajarito-astronomers]]
+
+6. **DOW-UAP-D017 — General Correspondence of Sandia Base (April–August 1949)**
+   - **Major source file** (66 MB, 5,851 lines of OCR text).
+   - **Green fireball wave (Dec 1948–Feb 1949)** — multiple sightings across NM/TX triangle.
+   - **July 24, 1949 Socorro fireball** — copper, cobalt, and nickel particles collected in subsequent days. Unusually large copper particles (up to 100 microns), **perfect-sphere cobalt particles (12 microns)** — "quite unique."
+   - **16 February 1949 Los Alamos conference** — **Bradbury, Teller, LaPaz, Holloway, Reines, Manley** convened. **Teller argued against material-object hypothesis** based on acoustic analysis (8 mi/sec at 8-10 mi altitude would produce loud noise; none observed). Tentative opinion: "look to electronics and optics."
+   - OSI Summary of Information (April 1949) — comprehensive green fireball tabulation.
+   - Dr. LaPaz's Starvation Peak analysis with 10-point meteorite distinction.
+   - Camp Hood, TX visual lights (March 1949).
+   - Summary: [[summaries/dow-uap-d017-general-correspondence-of-sandia]]
+
+### Index changes
+
+- Added **Release 02** section to `index.md` under Summaries with all 6 entries.
+- Updated counts: 112 → **118 summaries**; 114 → **120 raw PDFs**.
+
+### Known gaps
+
+- PANTEX Image (D001) is primarily photographic — image content not OCR-readable.
+- James Tuck correspondence partially redacted ((b)(6) FOIA exemptions).
+- Pajarito Astronomers letter does not preserve the contents of Dr. Warren's talk.
+- Sandia D017 PDF is image-heavy; some pages (maps, charts) do not fully OCR.
+
+### Next steps
+
+- The **Sandia D017 file** is a high-value source that warrants a dedicated synthesis on the **green fireball wave** connecting the 1948-1949 events to the broader corpus.
+- The **USPER narrative (ODNI-D001)** may connect to the existing Western US Event slides and USPER statement — should check for overlap.
+- The **CIA Sary Shagan report** raises questions about Soviet ABM testing and whether the green concentric-circles phenomenon could be related to missile testing.

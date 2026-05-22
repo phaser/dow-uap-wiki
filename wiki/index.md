@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Start here for any query. Schema lives in [`../CLAUDE.md`](../CLAUDE.md). Activity log at [`log.md`](log.md).
 
-**Counts (2026-05-11):** 112 summaries · 40 concepts · 78 entities · 5 syntheses · 114 raw PDFs (OCR'd; see `raw/ocr/`).
+**Counts (2026-05-22):** 118 summaries · 40 concepts · 78 entities · 5 syntheses · 120 raw PDFs (OCR'd; see `raw/ocr/`).
 
 ---
 
@@ -143,6 +143,15 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 ### Visual / Artist materials
 
 - [Composite Sketch, 30 April 2024](summaries/2024-04-30-composite-sketch.md)
+
+### Department of War — Release 02 (22 May 2026)
+
+- [ODNI UAP D001 — USPER Narrative, Senior USIC Orb Encounter (2025)](summaries/odni-uap-d001-usper-narrative-senior-usic.md) — First-person account: helicopter deployment to investigate "thuds" and UAP orbs; extended close encounter with object splitting into two, approach within 10 feet of helicopter, T-formation of 4-5 orange orbs, orbs matching fighter jet speed and flight path, triangle formation
+- [CIA UAP D001 — Sary Shagan Range, USSR (Nov 1972–Nov 1973)](summaries/cia-uap-d001-sary-shagan-ussr-1973.md) — Former Soviet citizen source at ABM test range; green circular object with concentric rings observed late summer 1973; System-75 (SA-2) and System-300/ABM-1 GALOSH warhead checkout; rumored laser research
+- [DOE UAP D001 — PANTEX Image](summaries/doe-uap-d001-pantex-image.md) — Ground surveillance radar image of unidentified object; Sandia National Labs enhanced imagery
+- [DOE UAP D002 — James Tuck Correspondence](summaries/doe-uap-d002-james-tuck-correspondence.md) — Physicist James L. Tuck requests simulated atomic bomb detonation data; cites Condon Report's atmospheric vortices; enclosure on Einstein's unified field theory and UAP propulsion
+- [DOE UAP D003 — Pajarito Astronomers](summaries/doe-uap-d003-pajarito-astronomers.md) — LANL amateur astronomy club; Dr. John Warren (AT-6) guest speaker on "Why Should a Scientist be Concerned about UFO's?" (29 May 1986)
+- [DOW UAP D017 — General Correspondence of Sandia Base (1949)](summaries/dow-uap-d017-general-correspondence-of-sandia.md) — **Major source**: Green fireball wave (Dec 1948–Feb 1949), July 24 1949 Socorro fireball with copper/cobalt/nickel particle analysis, 16 Feb 1949 Los Alamos conference (Bradbury, Teller, LaPaz, Holloway, Reines), OSI Summary of Information (Apr 1949), Dr. LaPaz Starvation Peak analysis, Mandelkorn report
 
 ---
 

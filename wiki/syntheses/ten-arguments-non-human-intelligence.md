@@ -1,11 +1,11 @@
 ---
 title: "Ten Arguments for Non-Human Intelligence — Evidence from the Primary-Source Record"
 type: synthesis
-tags: [disclosure, non-human-intelligence, crash-retrieval, physical-trace, pilot-witnesses, radar, green-fireball, institutional-handling, coverup-narrative, abduction]
+tags: [disclosure, non-human-intelligence, crash-retrieval, physical-trace, pilot-witnesses, radar, green-fireball, institutional-handling, coverup-narrative, abduction, usper, modern-military, transmedium]
 created: 2026-05-11
-updated: 2026-05-11
-sources: ["wiki/index.md", "raw/65_hs1-834228961_62-hq-83894_section_5.pdf", "raw/65_hs1-834228961_62-hq-83894_section_6.pdf", "raw/65_hs1-834228961_62-hq-83894_section_8.pdf", "raw/65_hs1-834228961_62-hq-83894_section_1.pdf", "raw/65_hs1-834228961_62-hq-83894_section_4.pdf", "raw/65_hs1-834228961_62-hq-83894-serial-438.pdf", "raw/38_143685_box7_incident_summaries_1-100.pdf", "raw/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf"]
-confidence: medium
+updated: 2026-05-22
+sources: ["wiki/index.md", "raw/65_hs1-834228961_62-hq-83894_section_5.pdf", "raw/65_hs1-834228961_62-hq-83894_section_6.pdf", "raw/65_hs1-834228961_62-hq-83894_section_8.pdf", "raw/65_hs1-834228961_62-hq-83894_section_1.pdf", "raw/65_hs1-834228961_62-hq-83894_section_4.pdf", "raw/65_hs1-834228961_62-hq-83894-serial-438.pdf", "raw/38_143685_box7_incident_summaries_1-100.pdf", "raw/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf", "raw/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf", "raw/DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf", "raw/CIA-UAP-D001_Intelligence_Information_Report_USSR_1973.pdf", "raw/DOE-UAP-D002_JamesTuck_Correspondence.pdf", "raw/DOE-UAP-D003_Pajarito_Astronomers.pdf"]
+confidence: high
 ---
 
 ## Purpose
@@ -56,11 +56,17 @@ Lt. Col. John O'Mara, **Deputy Commander of Intelligence at Wright-Patterson AFB
 
 ### 5. The Green Fireball Wave: Sustained Scientifically Documented Campaign
 
-**Source:** [[summaries/62-hq-83894-section-4]] — Green fireball wave at Los Alamos, Dec 1948–Jan 1949.
+**Source:** [[summaries/62-hq-83894-section-4]] — Green fireball wave at Los Alamos, Dec 1948–Jan 1949; [[summaries/dow-uap-d017-general-correspondence-of-sandia]] — D017 Sandia correspondence, April–August 1949.
 
 Dr. Lincoln La Paz's Starvation Peak incident — a bright light with constant intensity, yellow-green color at 5200 Angstroms, horizontal path, constant angular velocity, two seconds duration, no accompanying noise. **Since December 5, 1948: more than ten incidents analogous** to Starvation Peak and **twenty others with minor deviations**, geographically confined to the Los Alamos / Las Vegas / West Texas triangle. Spectrum analysis suggests a **copper compound known to be used in rocket experiments**.
 
-**Why this matters:** This is not a single sighting. It is a multi-month campaign of observations over a nuclear installation, documented by a professional scientist (La Paz, Director of the Institute of Meteoritics at UNM) with spectral analysis. The geographic confinement to a triangle containing three nuclear facilities (Los Alamos, Las Vegas Test Facility, West Texas AEC sites) is structurally identical to modern UAP reports near military installations. The copper compound spectrum suggests a material signature consistent with rocketry. The consistency of the physical signature (horizontal path, no noise, constant intensity) across 30+ incidents is statistically significant.
+**Why this matters:** This is not a single sighting. It is a multi-month campaign of observations over a nuclear installation, documented by a professional scientist (La Paz, Director of the Institute of Meteoritics at UNM) with spectral analysis. The geographic confinement to a triangle containing three nuclear facilities (Los Alamos, Las Vegas Test Facility, West Texas AEC sites) is structurally identical to modern UAP reports near military installations. The consistency of the physical signature (horizontal path, no noise, constant intensity) across 30+ incidents is statistically significant.
+
+**Strengthened by Release 02 (D017):** The Sandia correspondence file adds critical new evidence:
+
+- **16 February 1949 Los Alamos conference** — Bradbury (Director), Teller, LaPaz, Holloway, Reines, Manley, and others convened to discuss the green fireball phenomenon. **Edward Teller performed a kinetic analysis**: a material object traveling at ~8 miles/sec would need ~20 grams mass; the shock wave from such an object at 8–10 mile altitude would produce loud noise easily audible 10 km from source. **No sound was observed. Therefore, "we should look to electronics and optics for an explanation rather than in the field of hydrodynamics."** Bradbury demurred on the electronic explanation. Mandelkorn's conclusion: "there is cause for concern of the continued occurrences of unexplainable phenomena of this nature in the vicinity of sensitive installations."
+- **July 24, 1949 Socorro fireball** — Orozter & Seely collected copper, cobalt, and nickel particles in subsequent days. **Unusually large copper particles (up to 100 microns)** — too large to be blown far by surface winds. **Three perfect-sphere cobalt particles (12 microns)** — "quite unique in the experience of the present investigators." Two particles gave nickel indications. The "residuum of possibility" of fireball association remains.
+- **OSI Summary of Information (April 19, 1949)** — comprehensive tabulation with six common characteristics: green color, horizontal path, speed between meteor and aircraft, no sound, no persistent trail, 1–5 second visibility. **No natural or man-made object ever determined to be responsible.**
 
 ### 6. Socorro / Lonnie Zamora: Cleanest Physical-Evidence Case
 
@@ -124,6 +130,26 @@ The FBI's institutional posture shifted dramatically in the early 1950s, coincid
 
 **Why this matters:** The FBI's response pattern — escalating from routine field-investigator dismissal to covert investigations, presidential-level forwarding, and counter-intelligence scrutiny — suggests an institutional recognition that the contactee movement was touching something sensitive. The timing is consequential: the contactee surge (1952-1954) coincides with the peak of the green fireball wave, the Hottel memo, and the Los Alamos conferences. The FBI's own file notes reveal an institution struggling to contain information that defied standard debunking categories.
 
+### 11. Modern Military Continuity: USPER Narrative — Credible Contemporary Encounter
+
+**Source:** [[summaries/odni-uap-d001-usper-narrative-senior-usic]] — ODNI USPER D001, late 2025.
+
+A **first-person account from a senior U.S. Intelligence Community officer** documents a multi-hour helicopter encounter with UAP on a test range:
+
+- **Object splitting into two** — a smaller object emerged from a larger one.
+- **Object approaching within 10 feet of the helicopter** — dropped below, then sped away.
+- **Countless orange orbs swarming** in all directions against the mountain backdrop.
+- **T-formation of 4–5 orange orbs** — oval-shaped, orange with white/yellow center, emitting light in all directions. Stationary for 10–15 seconds, then dimmed in reverse order and vanished.
+- **Orbs matching fighter jet speed and flight path** — flaring up one at a time in horizontal formation above fighter jets, then dimming sequentially and disappearing. Repeated several times.
+- **Triangle formation** around the helicopter.
+- **Extreme acceleration** — pilots "unable to match its speed."
+- **Transmedium behavior** — object rose from the ground.
+- **No photos taken** — narrator focused on threat assessment. Pilots and narrator were "virtually speechless."
+
+**Why this matters:** This is not a civilian sighting, a leaked military video, or a declassified Cold War memo. It is a **contemporary USPER report** — the formal U.S. Intelligence Community's own reporting mechanism — documenting a **credible, credentialed witness** (a senior USIC officer) who was actively deployed to investigate UAP on a military test range. The encounter exhibits the same signature behaviors documented throughout the historical corpus: splitting objects, orb swarms, formation flight, extreme acceleration, transmedium capability, and interaction with military aircraft. The structural continuity between this 2025 encounter and the 1947–1970 record is itself a significant argument: the phenomenology has not changed across nearly 80 years, and the institutional response mechanism (USPER) now formally captures what was once only available through FBI and Air Force channels.
+
+**Corroboration:** This narrative is consistent with the Western US Event slides (2026-05-08) and the existing USPER statement, suggesting a pattern of multi-source UAP reporting from the same test range region.
+
 ## What This Corpus Does NOT Support
 
 For intellectual honesty, several claims the disclosure community makes are **not supported** by this corpus:
@@ -134,24 +160,29 @@ For intellectual honesty, several claims the disclosure community makes are **no
 - **Project Aquarius DIA papers** — Not in this corpus.
 - **Grusch / Mellon NHI / biologics / crash-retrieval** testimony — Not in this corpus.
 
-The corpus is strongest on the **1947-1970 FBI / USAF institutional record** and the **2020-2026 DoW / AARO modern military record**. The 1980s–early-2000s middle period is thin.
+The corpus is strongest on the **1947–1970 FBI / USAF institutional record**, the **2020–2026 DoW / AARO modern military record**, and now the **contemporary USPER reporting mechanism**. The 1980s–early-2000s middle period remains thin.
 
 ## Pages Compared
 
-Summaries:
+### Summaries
 
-- [[summaries/62-hq-83894-section-5]]
-- [[summaries/62-hq-83894-section-6]]
-- [[summaries/62-hq-83894-section-8]]
-- [[summaries/62-hq-83894-section-4]]
-- [[summaries/62-hq-83894-section-1]]
-- [[summaries/62-hq-83894-serial-438]]
-- [[summaries/62-hq-83894-serial-130]]
-- [[summaries/box186-319.1-flying-discs-1949]]
-- [[summaries/army-incident-summaries-1-100]]
-- [[summaries/army-incident-summaries-101-172]]
-- [[summaries/62-hq-83894-sub-a]]
-- [[summaries/62-hq-83894-section-7]]
+- [[summaries/62-hq-83894-section-5]] (Hottel memo)
+- [[summaries/62-hq-83894-section-6]] (Los Alamos conferences, Oak Ridge radar)
+- [[summaries/62-hq-83894-section-8]] (O'Mara, contactee movement)
+- [[summaries/62-hq-83894-section-4]] (Green fireball wave)
+- [[summaries/62-hq-83894-section-1]] (Hoover's "Iowa case")
+- [[summaries/62-hq-83894-serial-438]] (Socorro / Zamora)
+- [[summaries/62-hq-83894-serial-130]] (Pilot witnesses)
+- [[summaries/box186-319.1-flying-discs-1949]] (Pilot witnesses)
+- [[summaries/army-incident-summaries-1-100]] (Pilot witnesses)
+- [[summaries/army-incident-summaries-101-172]] (Pilot witnesses)
+- [[summaries/62-hq-83894-sub-a]] (Contactee movement)
+- [[summaries/62-hq-83894-section-7]] (Contactee movement)
+- [[summaries/dow-uap-d017-general-correspondence-of-sandia]] (Los Alamos conference, green fireball wave, Socorro fireball particle analysis, OSI Summary of Information)
+- [[summaries/odni-uap-d001-usper-narrative-senior-usic]] (Modern military continuity)
+- [[summaries/cia-uap-d001-sary-shagan-ussr-1973]] (Soviet ABM range UAP observation)
+- [[summaries/doe-uap-d002-james-tuck-correspondence]] (Scientist engagement with UAP)
+- [[summaries/doe-uap-d003-pajarito-astronomers]] (LANL scientist public address on UAP)
 
 Entities:
 

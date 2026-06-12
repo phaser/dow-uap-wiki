@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/entities/joseph-ruppelt.md",
+                "file": "wiki/entities/clinton-county-aaf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "joseph-ruppelt"
+              "title": "clinton-county-aaf"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5
+    "width": 452.5
   },
   "right": {
     "id": "dcab56828799cd24",
@@ -185,6 +185,29 @@
   },
   "active": "8dfd9fbfb8a53570",
   "lastOpenFiles": [
+    "wiki/summaries/62-hq-83894-section-5.md",
+    "wiki/summaries/62-hq-83894-serial-153.md",
+    "raw/ocr/65_hs1-834228961_62-hq-83894_serial_153.pdf",
+    "raw/65_hs1-834228961_62-hq-83894_serial_153.pdf",
+    "raw/dow-uap-d20-mission-report-southern-united-states-2023.pdf",
+    "raw/dow-uap-d20-mission-report-southern-united-states-2023.pdf.part",
+    "raw/65_hs1-834228961_62-hq-83894_serial_153.pdf.part",
+    "dow_uap_downloader/obj/Debug/net8.0/dow_uap_downloader.sourcelink.json",
+    "wiki/syntheses/ten-arguments-non-human-intelligence.md",
+    "wiki/syntheses/disclosure-movement-top-10.md",
+    "wiki/summaries/62-hq-83894-section-6.md",
+    "wiki/syntheses/fbi-institutional-posture.md",
+    "wiki/summaries/german-armament-equipment-1944-1945.md",
+    "wiki/summaries/fbi-photo-b13.md",
+    "wiki/summaries/fbi-photo-b12.md",
+    "wiki/entities/land-air-inc.md",
+    "wiki/entities/frank-scully.md",
+    "wiki/syntheses/1947-flying-disc-wave.md",
+    "wiki/summaries/fbi-photo-b7.md",
+    "wiki/summaries/62-hq-83894-section-10.md",
+    "wiki/journal/2026-05-09-post-ocr-reingestion-resume-here.md",
+    "wiki/journal/2026-05-09-autopilot-mode.md",
+    "wiki/entities/joseph-ruppelt.md",
     "wiki/entities/john-hutson.md",
     "wiki/entities/crifo.md",
     "wiki/entities/detroit-flying-saucer-club.md",
@@ -194,32 +217,9 @@
     "wiki/entities/leonard-stringfield.md",
     "wiki/entities/soulcraft-press.md",
     "wiki/entities/valor-magazine.md",
-    "wiki/entities/william-dudley-pelley.md",
-    "wiki/entities/george-hunt-williamson.md",
-    "wiki/entities/truman-bethurum.md",
-    "wiki/entities/hamilton-field.md",
-    "wiki/entities/harvel-reece.md",
-    "wiki/entities/bsra.md",
-    "wiki/entities/apollo-11.md",
-    "wiki/entities/guy-hottel.md",
-    "wiki/entities/f-eekhout.md",
-    "wiki/entities/joseph-ruppelt.md",
-    "wiki/entities/daniel-lang.md",
-    "wiki/entities/international-flying-saucer-bureau.md",
-    "wiki/entities/albert-k-bender.md",
-    "wiki/entities/aaron-l-hitchens.md",
-    "wiki/entities/anthony-mirarchi.md",
-    "wiki/entities/land-air-inc.md",
-    "wiki/entities/frank-scully.md",
     "Untitled 1.base",
     "Untitled.base",
     "raw/ocr/western_us_event_slides_5.08.2026.txt",
-    "raw/ocr/usper-statement-redacted.txt",
-    "raw/ocr/serial-4-redacted_redacted.txt",
-    "raw/ocr/serial-3_redacted.txt",
-    "raw/ocr/nasa-uap-d7-skylab-technical-crew-debriefing-1973.txt",
-    "raw/ocr/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.txt",
-    "raw/ocr/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.txt",
-    "raw/ocr/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.txt"
+    "raw/ocr/usper-statement-redacted.txt"
   ]
 }

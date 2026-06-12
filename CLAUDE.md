@@ -146,3 +146,4 @@ When the user says "lint" or "health check":
 - All dates ISO 8601: `YYYY-MM-DD`.
 - Distinguish **what the document says** from **what is true** — primary sources record reports and beliefs; the wiki preserves that distinction (e.g., "the FBI memo states X" vs. "X happened").
 - Note redactions explicitly: `[REDACTED]` markers in the source should be preserved as such in summaries.
+- **Continue without approval:** when there is work to be done (pending ingest, lint fixes, index/log updates, or any clearly defined next step), proceed to the next task autonomously. Do not ask for permission to continue. Only pause to ask questions when there are genuine ambiguities, trade-offs to decide, or tasks requiring human judgment.

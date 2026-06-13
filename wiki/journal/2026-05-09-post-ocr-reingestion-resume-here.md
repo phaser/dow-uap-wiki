@@ -91,7 +91,7 @@ These items have been flagged in summary `Open Questions` sections and may be pr
 - `scripts/triage.sh` — per-file table of pages, OCR'd char count, line- and chunk-uniqueness, date-pattern density, incident-marker counts.
 - `wiki/index.md` — master catalog; one-line glosses per summary. Keep updated.
 - `wiki/log.md` — append-only chronological log. Keep updated per ingest.
-- `wiki/syntheses/disclosure-movement-top-10.md` — synthesis written this session; cite when the user asks "what's most important."
+- `wiki/syntheses/disclosure-movement-top-15.md` — synthesis written this session; cite when the user asks "what's most important."
 
 ## End-of-turn pattern that's been working
 

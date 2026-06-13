@@ -350,7 +350,7 @@ Sixth file in the post-OCR re-ingestion track. Previously `Coverage: sampled (pa
 
 ## [2026-05-08] synthesis | Top 10 Disclosure-Relevant Documents
 
-User-prompted curated ranking of the ten primary-source documents in this corpus most relevant to the contemporary (2017–2026) UAP disclosure context. Synthesis at [[syntheses/disclosure-movement-top-10]]. Lists Hunter NASC 1963 memo, DoW Western US 2026 slides + USPER, 2020 Arabian Gulf cluster, FBI HQ 62-HQ-83894 Section 10, Maury Island Affair, Apollo 11 technical debrief, Socorro/Zamora, Borman Gemini-7, FBI 62-HQ-83894 Sub A scrapbook, USAIRA Prague 1955 Czechoslovakia disc — with comparison table, "what's not in the corpus" honest gap-list (Roswell, Tic-Tac, AATIP DIRDs, etc.), and three suggested next-synthesis directions (institutional-handling timeline, abduction-primary-source page anchored on the newly-surfaced Collins 1967 report, recovered-material review). Confidence: `medium` — items are verified but the ranking reflects editorial weighting.
+User-prompted curated ranking of the ten primary-source documents in this corpus most relevant to the contemporary (2017–2026) UAP disclosure context. Synthesis at [[syntheses/disclosure-movement-top-15]]. Lists Hunter NASC 1963 memo, DoW Western US 2026 slides + USPER, 2020 Arabian Gulf cluster, FBI HQ 62-HQ-83894 Section 10, Maury Island Affair, Apollo 11 technical debrief, Socorro/Zamora, Borman Gemini-7, FBI 62-HQ-83894 Sub A scrapbook, USAIRA Prague 1955 Czechoslovakia disc — with comparison table, "what's not in the corpus" honest gap-list (Roswell, Tic-Tac, AATIP DIRDs, etc.), and three suggested next-synthesis directions (institutional-handling timeline, abduction-primary-source page anchored on the newly-surfaced Collins 1967 report, recovered-material review). Confidence: `medium` — items are verified but the ranking reflects editorial weighting.
 
 
 
@@ -572,11 +572,11 @@ User asked whether the Top 10 ranking (originally written 2026-05-08) had change
 - **#10 Hoover's "Iowa case" marginal note** — was not ranked; now #10 because it is the foundational primary-source statement for the "they recovered something and buried it" narrative, from Hoover himself.
 - **Dropped from top 10:** 1955 Czechoslovakia attaché report (too narrow), Hunter NASC memo dropped to #6 (still strong but below the Hottel memo), DoW Western US 2026 slides dropped to honourable mentions (sensor data only, no physical evidence).
 
-Full ranking and justifications at [[syntheses/disclosure-movement-top-10]]. Confidence: `high` — all underlying documents are now fully read.
+Full ranking and justifications at [[syntheses/disclosure-movement-top-15]]. Confidence: `high` — all underlying documents are now fully read.
 
 ## [2026-05-11] synthesis | Ten Arguments for Non-Human Intelligence
 
-User requested a structured argument for the proposition that UFOs, aliens, and interdimensional beings are real, drawn from this corpus and broader knowledge. Created at [[syntheses/ten-arguments-non-human-intelligence]].
+User requested a structured argument for the proposition that UFOs, aliens, and interdimensional beings are real, drawn from this corpus and broader knowledge. Created at [[syntheses/fifteen-arguments-non-human-intelligence]].
 
 ### Structure
 

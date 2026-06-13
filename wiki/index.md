@@ -12,8 +12,8 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [UAP Terminology Evolution](syntheses/uap-terminology-evolution.md) — foo-fighter → flying-disc → UFO → UAP across 80 years
 - [2020 Arabian Gulf / Persian Gulf UAP Cluster](syntheses/2020-arabian-gulf-cluster.md) — 14+ events, 482 ATKS MQ-9 hot zone
 - [FBI Institutional Posture on UAP, 1947–2025](syntheses/fbi-institutional-posture.md) — Hoover-era investigation through 2025 re-engagement
-- [Top 10 Disclosure-Relevant Documents](syntheses/disclosure-movement-top-10.md) — updated 2026-05-11 after full post-OCR re-ingestion
-- [Ten Arguments for Non-Human Intelligence](syntheses/ten-arguments-non-human-intelligence.md) — evidence-based case from the primary-source record
+- [Top 10 Disclosure-Relevant Documents](syntheses/disclosure-movement-top-15.md) — updated 2026-05-11 after full post-OCR re-ingestion
+- [Ten Arguments for Non-Human Intelligence](syntheses/fifteen-arguments-non-human-intelligence.md) — evidence-based case from the primary-source record
 
 ---
 

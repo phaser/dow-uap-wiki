@@ -1,0 +1,2493 @@
+
+
+===== PAGE 1 =====
+Action 
+MAIL CODE NAME 
+Approval 
+Call Me 
+Concurrence 
+file 
+Information 
+Investigate and Advise 
+NASA FORM 26 I •• 
+AND SPACE 
+ROUTING SLIP ADMINISTRATlo-1 NATIONAL AERONAUTICS 
+____ .l ,Nmote and Forward 
+Note and R_e_hl_rn__ _ 
+_ 
+_ __jL,P;;,,-;R;:e::q::-u•=s�I::::.::_____ 
+Per Teleph one Conversation 
+_ _ _ _J_ _:R .. e,.c,ommendation 
+See·Me 
+Signature 
+Circulate and De I s roy 
+(fL 
+1 J 
+'I, 
+h'.C.9--� 
+TEL. NO (· or ,ode) & EXT. 
+APR 69 PREVIOUS EDITIONS MAY BE USED 
+
+
+===== PAGE 2 =====
+Mission Operation Report 
+No. M-913-65-04 
+MEMORANDUM June 1, 1965 
+To A/Administrator 
+From M/Associate Administrator for Manned Space Flight 
+Subject: Gemini Flight Number Four (GT-4) Additional Flight Activities 
+Subsequent to the preparation of the GT-4 Mission Operation Report several 
+new procedures and items of equipment have progressed to a stage of flight 
+readiness. Consequently, three significant additiona l flight activities are 
+now possible and have been included in the mission. These activities are: 
+extra vehicular activities (EVA); extra vehicular propulsion; and demonstration 
+of rendezvous with the booster second stage. Additional details of these 
+flight plan activities are provided in the attached supplement to the basic 
+report. 
+Enclosure: 
+MOR No. 913-65-04 
+Change 1 
+FOR INTERNAL USE ONLY 
+
+
+===== PAGE 3 =====
+M-913-65-04 
+ADDI TIONAL GT-4 FLIGHT PLAN ACTI VITIES 
+Three additional special engineering and operational objectives are now 
+planned for the first four orbits of the GT-4 Mission: 
+1. Demonstration of extravehicular activities (EVA) using a 25 foot 
+umbilical. Potential future application includes crew transfer, in­
+flight repair, and inspection of orbiting objects. 
+2. Demonstration of extravehicular maneuvering using a simple, one­
+man propulsion unit. This device could be used with or without 
+a spacecraft tether on future missions. 
+3. Demonstration of rendezvous with the booster second stage. This 
+activity wil I provide valuable early information and maneuvering 
+procedures necessary to rendezvous with a target vehicle. Flashing 
+lights identical to those designed for the Gemini/Agena Vehicle 
+have been insta I led on the booster second stage for th is test. 
+The Flight Plan sequence involves post-launch separation from the launch 
+vehicle, then maneuvering to stop the spacecraft separation velocity. The 
+first two orbits wil I be flown with the spacecraft at distances less than one 
+quarter of a mile from the launch vehicle. Nighttime separation will be 
+sufficient to prevent the flashing lights from disturbing the pilot's visual dark 
+adaptation. The first orbit will be occupied with operational checks of the 
+spacecraft guidance, maneuvering, and environmental control systems. The 
+pilots will utilize the second orbit to prepare for the extravehicular activity. 
+This procedure involves unstowing and assembling a 25-foot umbilical, the 
+emergency oxygen pack, a maneuvering unit, and the cameras. Over Hawaii, 
+at daybreak, near the end of the second orbit, the cabin will be depressurized 
+and Jim McDivitt will maneuver to within close proximity of the booster. At 
+this point, the right hatch will be opened and Ed White will climb out and 
+hold on the right forward portion of the spacecraft unti I McDivitt gives him a 
+release command. Upon command, White wi II push off slowly and reorient 
+himself with the hand-held maneuvering unit to face the booster. A 35-mm still 
+camera (Zeiss-Contarex) mounted on the maneuvering unit will be used to photo­
+graph the booster and spacecraft with various earth/sky backgrounds. After 
+testing his ability to maneuver in a zero gravity environment, White will 
+maneuver back toward the spacecraft and ingress. The total time separated 
+from the spacecraft will be approximately 10 minutes. He will be inside 
+with the cabin repressurized by the time the spacecraft posses over Ascension 
+Island on the start of the third orbit. 
+Shortly ofter passing Ascension, McDivitt wil I maneuver ahead of the booster 
+with 5 feet per second separation velocity. Because this maneuver places the 
+spacecraft in a higher altitude and longer period orbit than the booster, it will 
+rise above and fall behind the booster. One orbit later, the spacecraft 
+6/1/65 Page 1 
+
+
+===== PAGE 4 =====
+M-913-65-04 
+will trail 16 miles behind the booster. At this point, a spacecraft retardation 
+maneuver of 13 feet per second will initiate the visual rendezvous sequence. 
+The spacecraft will approach the booster from behind and below. Because of 
+unknown variation in the atmospheric density and drag of the slowly tumbling 
+booster, the exact approach trajectory cannot be predicted. The flight crew 
+will measure elevation angles of the booster and wil I initiate rendezvous 
+maneuvers when the booster is approximately 45 degrees elevation angle above 
+the spacecraft. By observing the movement of the booster with respect to the 
+star background and with respect to the spacecraft inertial platform display, the 
+crew can determine the proper lateral maneuver to null the lateral componen t 
+of velocity thereby resulting in a spacecraft velocity vector which is directly 
+toward the booster. After removing the lateral velocity difference, the pilot 
+will apply a series of breaking maneuvers with the forward firing thrusters to 
+reduce the closing velocity. The flight crew will measure with onboard 
+instruments the total maneuvering velocity required for the rendezvous procedure. 
+The spacecraft should be back in close proximity of the launch vehicle over 
+the Northeast coast of South America at the beginning of the fifth orbit. 
+After the rendezvous operation is complete, the spacecraft will again separate 
+from the booster -this time using a maneuver which will place the Gemini 
+spacecraft on an orbit with a predicted lifetime of four days. 
+The EVA suit is the new G4C suit which replaces the G3C suit used so 
+successfully by the GT-3 flight crew. The G4C suit has the following new 
+features: 
+a. Helmet -incorporation of triple lens shield (visors) for visual, thermal, 
+impact, and micrometeorite protection. 
+b. Torso -
+1. Change to Nomex (HT-1) 11 Linknet11 in restraint layer for increased 
+structure I strength. 
+2. Incorporation of strain relief zipper in sealing closure. 
+3. Incorporation of redesigned ventilation inlet and outlet fittings with 
+automatic locking and redundant sealing features. 
+4. Replace Nomex (HT-1) coverlayer with integrated thermal and 
+mi crometeori ty cover layer. 
+c. Gloves -Incorporate new design with increased mobility, abrasion 
+resistance and thermal protection. 
+d. Bio-connector -Self-alighment, pin protective design. 
+6/1/65 Page 2 
+
+===== PAGE 5 =====
+M-913-65-04 
+Figure 1 depicts the 
+principal physical 
+differences between 
+the old G3C suit 
+and the new EVA 
+G4C suit. Figure 
+2 shows that with 
+one visor down on 
+the new G4C helmet, 
+there is practi caI ly 
+no attenutation of 
+Ii ght entering, whereas 
+Figure 3 shows that 
+with two of the visors 
+down there is a 
+noticeable difference 
+in the amount of 
+light that enters the 
+astronaut's eyes. 
+With the third visor 
+down, there would 
+be a similar decrease 
+in the amount of 
+I ight al lowed to enter 
+the helmet. 
+The multivarious layers 
+of materials used in 
+the EVA G4C suits 
+are delineated in 
+Figure 4. It should 
+be noted that the old 
+G3C suit consisted 
+only of the pressure 
+and restraint layers 
+of Figure 4 with the 
+HT -1 nylon outer 
+protective layer. 
+The EVA spacesuit 
+has received the 
+following qualifi­
+cation tests: FIG. 
+G-4C 
+OVER VISOR 
+SPACE 
+HELMET 
+6/1/65 Page 3 
+
+===== PAGE 6 =====
+____ • M-913-65-04 
+G-4C 
+OVERVISOR 
+SPACE 
+HELMET 
+FIG. 3 
+G-4C EXTRAVEHICULAR SUIT 
+HH NYLON OUITR 
+~6~~ T~~~~~} ~~~;:) 
+USE: WEAR AND 
+SOLAR REFLECTANCE 
+7 LAYERS ALUMINIZEO 
+MYLAR SEPARATED BY 
+7 LAYCAS UNWOVEN 
+DACRON SPACERS THERMAL AND 
+MICROMETEOROID 
+LAYERS 
+HH NYLON INNER MICROr,,'tnOROID 
+STOPPER LAYERS 
+!EACH 6. 8 OZ/YD2 WHIT[I USE: WEAR 
+ANO MICR0~,1£TEO ROI D PRO TE CT ION PRESSURE AND 
+RESTRAINT 
+LAYERS 
+r-----COTTON CONSTANT "[AR 
+~Ng~~;:r~~m 
+OXFORD NYLOt-i 
+COf.JORT LAY.R 
+11 oz,vo 2 swu 
+PRCSSURE LAYER 
+NEOPRE~E COATEO NYLON 
+11-1·2ozvo21 
+RESTRAINT lAVlR 
+UM( NH DACRON 
+Al.;Q HflO~ 
+u-J 4 oz vo 21 
+FIG. 4 
+6/1/65 Page 4 
+
+===== PAGE 7 =====
+M-913-65-04 
+a. Leakage 
+b. Proof pressure 
+c. 02 compatibility 
+d. Ejection envelope 
+e. Cold temperature 
+f. Rapid decompression 
+g. Life cycling 
+h. Visor testing 
+Should the 25-foot long tether fail in some manner, the pilot will be carrying 
+a chestpack that has been compatibility qualified with the G4C suit and con­
+sists principally of an emergency oxygen bottle with automatic valving. 
+It should be emphasized that both the primary and backup flight crews have 
+undergone 40 minutes cabin depressurization with the hatches open at a 
+simulated altitude of 150,000 feet in the chambers at McDonnell, St. Louis 
+during which time they practiced opening and closing the hatches, taking 
+pictures, and other actions that will take place during EVA. 
+The extravehicular maneuvering will be accomplished using a zero g Integral 
+Propulsion (ZIP) Unit as shown in Figure 5. This device is handheld and 
+accomplishes propulsion by jetting oxygen out through a single forward firing 
+nozzle and two aft firing nozzles as selected and aimed by the operator. It 
+includes a camera mounted for convenient extravehicular photography. 
+FIG. 5 
+6/1/65 Page 5 
+
+===== PAGE 8 =====
+Mission Operation Report 
+No. M-913-65-04 
+MEMORANDUM May 24, 1965 
+To A/Administrator 
+From M/Associate Administrator for Manned Space Flight 
+Subject: Gemini Flight Number Four (GT-4) 
+GT-4, the fourth in a series of twelve planned Gemini flights is scheduled to 
+be launched from Complex 19 at the John F. Kennedy Space Center on or after 
+3 June 1965. This wi 11 be the second manned Gemini mission and the longest 
+ever attempted by a two-man crew. The purpose of the mission is to further 
+demonstrate manned space flight for a period of four days. 
+The nominal launch time is 10 a.m. EDT (1400 GMT). The space vehicle is 
+to be launched on an azimuth of 72 degrees and the spacecraft wi 11 be inserted 
+into an initial orbit of 87-161 N.M. at an orbital inclination of 32.5 degrees. 
+The 62 revolution mission will have a duration of approximately 97 hours and 50 
+minutes. The primary and backup flight crews are of the "new generation, 11 being 
+members of the second group of astronauts. James A. McDivitt will be the 
+command pilot and Edward H. White, II will be the pilot. Because the duration 
+of the flight is one of the most significant aspects of their mission, the post-
+flight activities will involve expanded medical evaluation as compared with 
+previous missions, including at least 24 hours aboard the recovery aircraft carrier, 
+the USS WASP. 
+After conducting various orbital maneuvers and the thirteen experiments during the 
+four-day mission, the spacecraft wi 11 reenter and touchdown approximately 400 
+miles southwest of Bermuda for a water landing and carrier retrieval. 
+Enclosure 
+MOR Noo M-913-65-04 
+FOR INTERNAL USE ONLY 
+
+===== PAGE 9 =====
+Report No. M-913-65-04 
+MISSION OPERATION REPORT 
+GEMINI FLIGHT NUMBER FOUR 
+(GT-4) 
+OFFICE OF MANNED SPACE FLIGHT 
+FOR INTERNAL USE ONLY 
+
+===== PAGE 10 =====
+FOREWORD 
+MISSION OPERATION REPORTS are published expressly for the 
+use of NASA General Management as required by the Administra­
+tor in NASA Instruction 6-2-10 dated August 15, 1963 . The pur­
+pose of these reports is to provide NASA General Management with 
+timely, complete and definitive information on flight mission plans 
+and results from launchings with Scout class or larger vehicles. 
+Initial reports are to be prepared and issued for each flight project 
+just prior to launch. Following launch, updating reports for each 
+mission will be issued to keep General Management currently in­
+formed as provided in NASA Instruction 6-2-10. 
+Distribution of these reports has been specifically directed by Gen­
+eral Management and they are not available for additiona l or general 
+distribution . The Office of Pub I ic Affairs pub I ishes a comprehensive 
+series of pre-launch and post-launch reports on NASA flight missions 
+which are available for general distribution. 
+Pub I ishec and Distributed 
+by 
+OFFICE OF PROGRAM REPORTS 
+OFFICE OF PROGRAMMING 
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION 
+Washington, D. C. 20546 
+
+===== PAGE 11 =====
+Rtndczvous guidance 
+& recovery system ___ _ _, 
+11 Ft 
+8 Ft 
+Separation point 
+Oxidizer tank 
+•Equipment bay 
+27 Ft 
+Stage 11 engine 
+thrust chamber 
+108 Ft 
+10 Ft 
+Oxidizer 
+tank 
+Stage I engine 
+g1mbal point 
+•Equipment bay contains: 
+• Batteries· 
+• Malfunction detection system IMOSI units 
+• Range safety command control system 
+• Programmer 
+• Three-axis reference system !TARSI 
+• Radio guidance system IRGSI 
+• Autopilot 
+• Instrumentation and telemetry system 
+FIG. 
+5/24/65 M-913-65-04 
+GENERAL 
+Gemini Flight Number Four (GT-4) is the second 
+manned orbital flight in the Gemini Program and 
+the fourth flight in a series of twelve planned to 
+develop long-duration and rendezvous capability, 
+docking techniques, extra-vehicular activities, 
+and controlled reentry. The first three Gemini 
+flights demonstrated: orbital insertion capability; 
+spacecraft structural integrity; and spacecraft 
+systems performance and crew accommodation 
+qualities, respectively. This GT-4 mission is 
+intended to further demonstrate manned space 
+flight for a period of four days, the longest 
+ever flown by two astronauts. The space vehicle 
+is depicted in Figure 1. 
+MISSION OBJECTIVES 
+PRIMARY 
+• Demonstrate and evaluate the performance of 
+the Gemini spacecraft systems for a period 
+exceeding four days. 
+• Evaluate the effects of prolonged exposure 
+to the space environment on the two-man 
+flight crew in preparation for missions of 
+longer duration. 
+SECONDARY 
+• Demonstrate OAMS capability to perform retro fire 
+backup. 
+• Demonstrate the capability of the spacecraft and 
+flight crew to make significant in-plane and 
+out-of-plane maneuvers. 
+• Conduct further evaluation of spacecraft 
+systems as outlined below: 
+1. Structure and thermo I protection 
+2. Environmental Control Systems (ECS) 
+3. Crew stations 
+4. Guidance and Control System 
+5. Orbital Attitude and Maneuver System 
+(OAMS) 
+• Execute the fol I owing experiments: 
+• D-1, Basic Object Photography 
+• D-6, Surface Photography 
+• D-8, Radiation in Spacecraft 
+• D-9, Simple Navigation 
+• M-3, In-Flight Exercises 
+• M-4, In-Flight Phonocardiogram 
+• M-6, Bone Demineralization 
+• MSC-1, Electrostatic Charge 
+Page 1 
+
+===== PAGE 12 =====
+M-913-65-04 
+• MSC-2, Proton Electron Spectrometer 
+• MSC-3, Tri-Axis Magnetometer 
+• MSC-10, Two-Color Earth's Limb Photos 
+• S-5, Synoptic Terrain Photography 
+• S-6, Synoptic Weather Photography 
+UNUSUAL TASKS OF THIS MISSION 
+One of the interesting tasks of this mission is the duration of the flight. It 
+will be the longest ever to be conducted by a two-man crew. Another highly 
+interesting item is that control of the mission for the first time wil I be from the 
+Mission Control Center (MCC) Houston. Some elements of the Mission Control 
+Center at Cape Kennedy and the GSFC computing facility will be standing by as 
+a backup during the launch phase. The computing facilities at GSFC will also be 
+used as a backup to MCC-Houston during the orbital phase. Flight controllers will 
+man the MCC in three shifts to give complete round-the-clock coverage of the four­
+day mission. Crew control of reentry will be ac~omplished by tracking the roll 
+needle rather than nulling the down-range and cross-range needles as on GT-3. 
+The experiments will, of course, contribute much information for the scientific 
+and medical communities. The G4C suit which replaces the G3C suit used on 
+GT-3 has the fol lowing new features: a triple overvisor, a redundant pressure 
+closure seal (zipper), and thermal and meteoroid protection integrated in the 
+outer cover layer. Abort procedures to be utilized by the astronauts in the 
+unlikely event it becomes necessary for them to terminate . a mission before orbital 
+insertion are different from those used in the Mercury program. In that program, 
+the fireball that would have been created had a conflagration occurred on the pad, 
+would have been large enough to ABORT PROCEDURES engulf an ejecting astronaut, so 
+it was necessary to add an escape 
+rocket to I ift the entire spacecraft 
+free of the area. The GLV, on 
+the other hand, uses self-igniting 
+fuels which, upon mixing, create a 
+fi reba II sma II enough so that the 
+astronauts can eject from the 
+spacecraft in much the same man­
+ner as is done in today's high 
+performance jet aircraft. This 
+is called the Mode I abort pro­
+cedure. The three abort modes 
+are more fully defined by the 
+altitude and elapsed time-after­
+launch parameters depicted on 
+Figure 2. 
+FIG. 2 MOOE I -EJECT AfTEll SHUTDOWN 
+MOOE ll -SALVO RETROS AFTER SHUTDOWN 
+MODE ID -SHUTDOWN, SE PARATE, TURN AROUND, 
+RETROFIRE 
+-□~ OEIAYEO 
+MOOE n 
+(WA IT 5 
+SECS ) 
+15,000FT. _ _ ____.____ ~--'<-+--~-
+' ~' MOOE 
+I 50 
+SECONDS 
+SEA LEVEL-----------''-- --L--'--
+5/24/65 Page 2 
+
+===== PAGE 13 =====
+M-931-65-04 
+LAUNCH VEHICLE DESCRIPTION 
+The Gemini Launch Vehicle (GLV) has been modified by man-roting an Air Force 
+Titan II missile. The GLV has two stages, the first 71 feet long and the second 18 
+feet long; both stages have a diameter of 10 feet. The gross loaded weight of the 
+two stages is 337,521 pounds and they both burn storable hypergolic (self-igniting 
+upon mixture) propellants. First stage thrust is approximately 430,000 pounds at sea 
+level. Second stage thrust is approximately 100,000 pounds. The various systems of 
+the GLV have been detailed in previous Gemini MOR1s and what follows is additional 
+information concerning modifications made to GLV-4. The fuel dampener and oxidizer 
+standpipe used to suppress longitudinal oscillations have been redesigned. Butt welding 
+vice lapped joints have been utilized on the fuel tank conduits to eliminate minute 
+cracks. Malfunction Detection System circuitry has been redesigned to provide separate 
+indications of the subassembly thrust level and additional insulation has been applied to 
+provide increased fire protection. Sixteen T/M readout points have been removed 
+from the GLV because they are no longer required and one range safety circuit has 
+been added to the destruct system interlocking AGE and the GLV motor driven switch 
+control. This circuit will prevent switch cycling in the event that both set and reset 
+signals are inadvertently applied during checkout. 
+TABLE I 
+PROJECT COST 
+(In Millions) 
+FY 62 FY 63 FY 64 FY 65 FY 66 FY 67 Total 
+Spacecraft 30.3 205. 1 280.5 165.3 122.7 19. 1 823.0 
+Launch Vehicle 24.4 79. 1 122.7 115.4 88.6 8.5 438.7 
+Operational 
+Support 0 1 4.9 15. 7 27.7 30.8 13.0 92.2 
+Total RD & 0 54.8 289. 1 418.9 308.4 242. 1 40.6 1353.9 
+This level of funding will provide for twelve Gemini Launch Vehicles, twelve space­
+craft, seven Agena Target Vehicles, six Atlas booster missiles and the operational costs 
+of flight testing and the associated Ground Support Equipment. 
+SPACECRAFT 
+The spacecraft is 18. 75 feet long and its two sections, a reentry module and an adapter 
+section will weigh 7799 lbs. fully loaded with the astronauts onboard. The configuration 
+will be the same as was flown on GT-3 except for the following: minor changes have 
+been made to switch positions and nomenclature, three additional (total of six) adapter 
+5/24/65 Page 3 
+
+===== PAGE 14 =====
+M-913-65-04 
+batteries will be required, radial thrusting TCA's and burst diaphragms in the 11811 
+package that were removed for GT-3 are both installed on GT-4, and will act 
+through the Spacecraft Centers of Gravity. An HF antenna has been added to the 
+adapter section for orbital use and the HF transciever there has been removed. 
+The C-band phase shifter now has its own inverter, the recovery flashing light 
+can now be turned off during dayIight hours, the HF antenna on the cabin section 
+has been redesigned, and the adapter $-band transponder in the adapter section has 
+been replaced with a C-band transponder which will have a different pulse spacing 
+from the one in the spacecraft. In the GT-4 mission S/C, urine wi 11 be dumped 
+directly overboard from the urine bellows through a shut-off and selector valve, a 
+solenoid valve and a heated line. Redundancy is provided by the capability to 
+dump urine through the launch cooling heat exchanger (water boiler}. The main 
+chute disconnect cartridge has been changed from a 22-second time delay to a 
+zero second delay and new long-life attitude thrusters have been installed. 
+EXPERIMENTS 
+The 13 experiments are depicted and described on the following pages: 
+1. D-1, Basic Object Photography 
+In conducting this experiment, the as­
+tronauts will employ elaborate photo­
+optical equipment to investigate the 
+technical problems associated with 
+observing, evaluating, and photo­
+graphing objects in space. These 
+objects include the 2nd stage of 
+the launch vehicle and natural 
+celestial bodies such as the moon. 
+Data from this experiment will be 
+used to evaluate the astronauts' 
+ability to view and track objects, 
+and to maintain object-camera 
+orientation by maneuvering the 
+spacecraft. Equipment which wi 11 
+be used is illustrated in Figure 3. D-1 BASIC OBJECT 
+PHOTOGRAPHY 
+FIG. 3 
+5/24/65 Page 4 
+
+===== PAGE 15 =====
+2. D-6, Surface Photography 
+This experiment wi 11 investigate 
+the technical problems associated 
+with an astronaut's ability to 
+acquire, track, and photograph 
+terrestrial objects from a space­
+craft with more elaborate photo­
+opti ca I equipment than that used 
+previously. The astronaut will 
+photograph selected series of 
+objects during day-side and 
+night-side intervals of the flight 
+using specified Iens-fi Im combi­
+nations. The resulting data wi 11 
+be used to evaIuate the astronaut's 
+ability to maintain object-camera 
+orientation by maneuvering the 
+spacecraft. Figure 4 shows the 
+camera mount installed on the 
+spacecraft window. 
+3. D-8, Radiation in Spacecraft 
+Data from this experiment will be 
+used to supplement external radi­
+ation measurements in studying 
+the dose levels within the space­
+craft resulting from passes through 
+regions of varying radiation 
+intensity. Two tissue-equivalent, 
+current-mode ionization chambers 
+wi 11 be used to measure the 
+variation of absorbed dose-rate 
+inside the spacecraft. Five 
+small packets containing radia­
+tion detection and measurement 
+devices will be placed at 
+various locations in the cabin 
+to ascertain their suitability as 
+convenient dosimeters of space 
+radiation and measure total 
+accumulated dose. Figure 5 shows 
+some of the equipment to be used 
+for this experiment. M-913-65-04 
+0-6 SURFACE PHOTOGRAPHY 
+FIG. 4 
+D-8 RADIATION IN SPACECRAFT 
+(PORTABLE UNIT) 
+FIG. 5 
+5/24/65 Page 5 
+
+===== PAGE 16 =====
+the manner in which this exercise 
+wi 11 be performed. 
+5/24/65 Page 6 FIG. 7 4. D-9, Simple Navigation 
+This experiment is designed to 
+develop and test navigation pro­
+cedures which employ a simple 
+stadimetric device and a sextant 
+to make sightings and measurements 
+in space using the horizon and 
+stars as references. Data from 
+sightings wi 11 be used in compu­
+tations to determine orbital 
+parameters. These results wi 11 
+be compared with actual 
+parameters to determine the 
+accuracy of the procedures. 
+The hand held sextant to be used 
+is shown in Figure 6. 
+5. M-3, In-Flight Exerciser 
+The purpose of this experiment is 
+to assess the astronauts' capacity 
+to perform physi ca I work under 
+spacecraft conditions. Monitored 
+exercise wil I be performed by the 
+astronauts prior to the flight to 
+establish control data. l·sotonic 
+exercises employing a bungee 
+cord and involving the arms and 
+legs wi 11 be taken prior to and 
+a.fter exercising. Pulse rate wil I 
+be monitored continuously. The 
+inflight data obtained wil I be 
+compared with the control data 
+to determine the· capacity for 
+work in space. Figure 7 shows M-913-65-04 
+0-9 SIMPLE NAVIGATION 
+HAND HELD SPACE SEXTANT 
+MG5-8097 
+FIG. 6 
+M-3 IN-FLIGHT 
+EXERCISER 
+
+===== PAGE 17 =====
+6. M-4, In-Flight Phonocardiogram 
+The purpose of this experiment is 
+to measure the fatigue-stage of an 
+astronaut's heart muscle during a 
+long-duration flight. A microphone 
+wi ll be applied to an astronaut's 
+chest wal I at the cardiac apex. 
+Heart sounds detected during the 
+flight will be recorded on an on­
+board biomedical recorder. The 
+sound trace wi 11 be compared to 
+the waveform obtained from a 
+simultaneous infl ight electro­
+cardiogram to determine the time 
+interval between electrical 
+activation of the heart muscle 
+and the onset of ventricular 
+systrole. Figure 8 illustrates the 
+method of installation of the phono­
+cardiogram transducer. 
+7. M-6, Bone Demineralization 
+The purpose of this experiment 
+is to establish the occurrence 
+and degree of bone demi nera Ii­
+zation resulting from prolonged 
+weightlessness during spaceflight. 
+Spec ia I X-rays wi 11 be ta ken of 
+an astronaut's heel bone and the 
+terminal bone of the fifth digit 
+of the right hand. Three pre­
+flight and three postflight 
+exposures wi 11 be taken of these 
+two bones and compared to 
+determine if any bone deminerali­
+zation has occurred due to the 
+space flight. Figure 9 i 11 ustrates 
+the laboratory procedure which will 
+be used for this experiment. M-913-65-04 
+M-4 IN-FLIGHT 
+PHONOCARDIOGRAM 
+PROTOTYPE PHONOCARDIOGRAM 
+TRANSDUCER AND 
+SIGNAL CONDITIONER 
+FIG. 8 
+GEMINI EXPERIMENT NO. M·& 
+BONE DEMINERALIZATION 
+ESTABLISH DEGREE 
+PURPOSE OF BONE 
+DETERIORATION 
+EQUIPMENT STANDARD X-RAY 
+WEIGHT N/ A VOLUME N/ A 
+PRE AND POSTPROCEDURE FLIGHT x-RAY 
+LOCATION N/ A i" ' MG4-1886 
+FIG. 9 
+5/24/65 Page 7 
+
+===== PAGE 18 =====
+8. MSC-1, Electrostatic Charge 
+Before rendezvous missions are 
+attempted, an investigation 
+must be made of the possibility 
+of inadvertent ignition of 
+pyrotechnics and other detri-
+menta I effects due to discharge 
+of electrostatic charge potentials 
+during rendezvous. In this 
+experiment, an electrostatic­
+potential meter, which protrudes 
+through the wa 11 of the space-
+craft adapter assembly, wi 11 be 
+used to detect and measure any 
+accumulated electrostatic charge 
+that may be created on the 
+surface of the spacecraft by 
+ionization from engine exhaust. 
+This dota wi 11 be a no Iyzed to 
+determine if the charge is adequate 
+to create a rendezvous hazard. Fig­
+ure 10 shows the detector instal lotion. 
+9. MSC-2, Proton Electron 
+Spectrometer 
+This experiment is designed to 
+measure the quantity and energy 
+of protons and electrons present 
+immediately exterior to the 
+orbiting spacecraft. This wil I be 
+accomplished by means of a 
+scintillating-crystal, charged­
+particle analyzer mounted on 
+the adapter assembly of the 
+spacecraft. Data from this 
+experiment wil I be used to 
+correlate radiation measure-
+ments made inside the space­
+craft and to predict radiation 
+levels on future space missions. 
+The proton electron spectrometer 
+instal lotion is shown in Figure 11 . MSC-1 
+ELECTROSTATIC 
+CHARGE 
+FIG. 10 M-913-65-04 
+MSC-2 
+PROTON 
+ELECTRON 
+SPECTROMETER 
+FIG. 11 
+5/24/65 Page 8 
+
+===== PAGE 19 =====
+M-913-65-04 
+10. MSC-3, Tri-Axis Magnetometer 
+In this experiment, the 
+direction and magnitude 
+of the earth's magnetic 
+field with respect to the 
+spacecraft will be measured. 
+A tri-axis fluxgate magneto-
+meter, mounted in the adapter 
+assembly of the spacecraft wi 11 
+be used. The equipment instal lo­
+tion is shown in Figure 12. 
+-11. MSC-10, Two-Color Earth's 
+Limb Photos 
+The astronaut wil I obtain photo­
+graphs of the earth's limb using 
+a hand-held camera, black and 
+white film, and a special filter 
+mosaic which will allow each 
+picture to be taken partly 
+through a red filter and partly 
+through a blue filter. After 
+the flight, the negative will 
+be subjected to careful measure­
+ments, and the resulting data 
+will be used in statistical 
+analyses to evaluate the limb 
+radiance. These studies will 
+be used to determine if the 
+sun-lit earth's limit can be 
+reliably observed in the short­
+visible or near-ultraviolet spectral 
+region. The camera to be used for 
+this experiment is shown in Figure 13. MSC-3 TRI-AXIS 
+MAGNETOMETER 
+MSC-10 TWO-COLOR 
+EARTH'S LIMB PHOTOS 
+MG5·8105 
+FIG. 13 FIG. 12 
+5/24/65 Page 9 
+
+===== PAGE 20 =====
+12. S-5, Synoptic Terrain 
+Photography 
+The objective of this experi­
+ment is to obtain high quality 
+photographs of selected parts 
+of the earth's surface. The 
+spa1.,c:craft will be manually 
+oriented from an orbit mode 
+attitude to a moderately high 
+camera depression angle attitude. 
+After a series of photographs 
+has been taken, the spacecraft 
+will be reoriented to the orbit 
+mode attitude. Four spacecraft 
+orientation maneuvers will be 
+required during which approxi­
+mately 40 pictures will be 
+taken over areas of the 
+United States. Figure 14 shows 
+one of the photos taken by Gordon 
+Cooper which is similar to the 
+terrain photographs planned . 
+13. S-6, Synoptic Weather 
+Photography 
+The objective of this experi­
+ment is to learn more about 
+the earth's weather systems by 
+obtaining high quality photo­
+graphs of selected cloud for­
+mations. As in experiment 
+S-5, the spacecraft will be 
+oriented from an orbit mode 
+attitude to a moderately high 
+camera depression angle attitude. 
+After a series of photographs 
+has been taken, the spacecraft 
+wi 11 be reoriented to the orbit 
+mode attitude. Approximately 
+10 orientation maneuvers will 
+be required during which 
+approximately 40 pictures will 
+be taken. The photograph shown 
+in Figure 15 taken by Gordon 
+Cooper is similar to those planned 
+on this flight. 
+5/24/65 M-913-65-04 
+GEMINI DPEltllfNT NO. S.5 
+SYNOPTIC TERRAIN PHOTOGRAPHY 
+,.,.. .:t PURPOSE OITAIN HIGH QUALITY PHOTOGIAPHS 
+Of THI EARTH'SSUlfACf 
+EQUIPMENT 70MM CAMERA AND fllM 
+WEIGHT I LI. VOlUMI 0.036 CU. n. 
+PROCEDURE POSITION sm1mn, TAIi 
+PICTURES 
+LOCATION PRISSURIZID CAIIN 
+PMOTOGUIH Of THI HIIAlAUS IN THI NIDIA, IIIPAl, 11111 IOROII AHA, THIN IT ASTRONAUT 
+l. GOIDON C00,11, JI., DUIING HIS 22-01111 IA-f IIISSION. MC4· 1768 
+FIG. 14 
+GOIN OPIIIIINT NO. S-6 
+SYNOPTIC WEATHER PHOTOGRAPHY 
+PURPOSE OITAIN HIGH QUALITY aoue 
+PHOTOGIAPHS 
+EQUIPMENT 10 11 CAMDA Me ,u 
+WEIGHT I LI. YOlUMl 0.036 cu. n. 
+PROCEDURE POSITION SPACKWT Me TAIi 
+PNOTOGIAPIIS 
+lOCATION PIISSUIIZED WIN 
+PIIOIOGUPH Of ClOUDS AND lffl IUIIIA 11S1 COAi!. WIST Of UNOOII. TWI 1Y 
+ASIIOIIAUI l. IOIDOII COOPII, ll, DU-HIS 22-11 IA•t IIISSIOII. MC4· I767 
+FIG. 15 
+Page 10 
+
+===== PAGE 21 =====
+M-913-65-04 
+ASTRONAUTS 
+The Command Pilot for the GT-4 mission will be James A. McDivitt and the Pilot 
+will be Edward H. White, II. The backup flight crew will consist of Frank Borman 
+as Command Pilot and James A. Lovell, Jr., as Pilot. Their pictures and biographies 
+follow: 
+FIG. 16 FIG. 17 
+JAMES A. MCDIVITT 
+Born in Chicago, Illinois on June 10, 1929. He graduated first in his class from the 
+University of Michigan with a B. S. in aeronautical engineering. McDivitt is married 
+to the former Patricia A. Hass of Cleveland, Ohio and has three children. McDivitt 
+joined the Air Force in 1951 and is an Air Force Major. He was awarded three 
+Distinguished Flying Crosses, five Air Medals and the Choo Moo Medal from South 
+Korea. He is a graduate of the United States Air Force Experimental Test Pilot 
+School and the United States Air Force Aerospace Research pilot course. He served 
+at Edwards Air Force Base, California, as an experimental test pilot. McDivitt has 
+logged more than 3,000 hours flying time, including 2,500 hours in jet aircraft. 
+McDivitt was selected as an astronaut by NASA in September 1962. In addition to 
+participating in the overal I astronaut training program he has had additional specialized 
+duties. These duties include monitoring the design and development of the guidance 
+and navigation systems for the Gemini and Apollo spacecraft, as wel I as monitoring 
+the overall Apollo Command and Service Modules. 
+EDWARD H. WHITE II 
+Born in San Antonio, Texas, on November 14, 1930. White received his B.S. from 
+the United States Military Academy and his M.S. in aeronautical engineering from 
+5/24/65 Page 11 
+
+===== PAGE 22 =====
+M-913-65-04 
+I 
+' the University of Michigan. He is married to the former Patricia E. Finegan of 
+Washington, D.C. and has two children. White, an Air Force Major, received 
+flight training in Florida and Texas, following his graduation from West Point. 
+He attended the Air Force Test Pilot School at Edwards Air Force Base, 
+California, in 1959. White was later assigned to Wright-Patterson Air Force 
+Base, Ohio, as an experimental test pilot with the Aeronautical Systems 
+Division. In this assignment he made flight tests for research and weapons 
+systems development, wrote technical engineering reports, and made recommen­
+dations for improvement in aircraft design and construction. He has logged more 
+than 3,600 hours flying time, including more than 2,200 hours in jet aircraft. 
+White was named as a member of the astronaut team selected by NASA in 
+September 1962. 
+FRANK BORMAN 
+Born in Gary, Indiana on March 14, 1928. He re­
+ceived his B.S. from the United States Military Academy 
+and his M.S. in aeronautical engineering from the 
+California Institute of Technology. He is married to 
+the former Susan Bugbee of Tucson, Arizona and has 
+two sons. 
+Upon graduation from West Point, Borman, now an Air 
+Force Major, chose an Air Force career and received 
+his pilot training at Williams Air Force Base, California 
+From 1951 to 1956 he served with fighter squadrons in 
+the United States and in the Philippines and was an 
+instructor of thermodynamics and fluid mechanics at 
+the U.S. Military Academy, West Point. He was 
+graduated from the USAF Aerospace Research Pilots 
+School in 1960 and later served there as an instructor. 
+In this capacity he prepared and delivered academic 
+lectures and simulator briefings, and flight test brief­
+ings on the theory and practice of spacecraft testing. 
+Borman has logged more than 4,400 hours flying time, 
+including more than 3,600 hours in jet aircraft. 
+Borman was one of the nine astronauts named by NASA 
+in September l 962. 
+JAMES A. LOVELL, JR. 
+Born in Cleveland, Ohio, on March 25, 1928. He 
+received his B. S. from the United States Naval 
+Academy. Lovell is married to the former Merilyn 
+Gerlach of Milwaukee, Wisconsin and has three 
+children. 
+Love I I, a Navy Lieutenant Commander, received 
+flight training following his graduation from 
+Annapolis. He served in a number of Naval 
+5/24/65 Page 12 FIG. 18 
+FIG. 19 
+
+===== PAGE 23 =====
+•• 
+-M-913-65-04 
+aviator assignments including a three year tour as a test pilot at the Naval Air 
+Test Center at Patuxent River, Maryland. His duties there included service as 
+program manager for the F4H Weapon System Evaluation. Lovell was graduated 
+from the Aviation Safety School of the University of Southern California. He 
+served as flight instructor and safety officer with Fighter Squadron 101 at the 
+Naval Air Station at Oceana, Virginia. Lovell has logged 3,000 hours flying 
+time, including more than 2,000 hours in jet aircraft. 
+Love II was selected as an astronaut by NASA in September 1962. In addition to 
+participating in the overal I astronaut training program, he has been assigned 
+special duties. These duties included monitoring design and development of 
+recovery and crew life support systems. These include space suits, environmental 
+control system and developing techniques for lunar and earth landings and recovery. 
+The launch trajectory 
+for the GT-4 mission 
+wi 11 be similar to that 
+flown by GT-3. ln-
+sertion wi 11 be at the same 
+altitude, 87 miles, but 
+the first apogee of GT-4 
+will be 161 miles. The 
+Gemini launch sequence 
+is shown in Figure 20. 
+FLIGHT PLAN 
+In addition to the various 
+orbi ta I maneuvers to be 
+performed during the mis­
+sion, as ca Iled out in 
+Table II, other activities 
+will be taking place as 
+is shown below in Table 
+111, a summarization of 
+the Flight Plan. The 
+consumable items loaded 
+onboard the spacecraft 
+are shown in Table IV. TRAJECTORY 
+811Ul 
+MODE 111: SHUTDOWN j •SEPARATE SIC 
+5:10 CHANGE -·-·-•RETRO &REBffllYA200.m ABORT MOOl SEflllNCEL 2:48 START 11:SHUTDOWNT RADIO GUIDANCE j.SALVO RETROS . 
+1:40 CHANGABORT MOOE 
+1:19 MAX Q 2:34 BECO ~.ET11SON RETRO I 
+5.5G·s •=SEOllll:E TU 75,000' 1·-
+~ 42.000' IIElAYEO AQIE U:SfUTOOWN 
+•WAIT 5SECONDS 
+25.000' •SALVO RETim 
+•JETTISON RmO 
+SECTIII0:50 CHANGE ABORT····-···-· 15.000' •I.AIIN SBIIIIGMODE 
+Q:23 START PITCH 2500' 
+Q:20 STOP ROLL 012• l:EJECT 2000· 
+~l Q:10 START ROLL oas· 
+:OO LIFT OFF--... -_______ ... 
+0 50 • 
+RANG -NAUTICAL MIES -
+FIG. 20 • 
+5/24/65 Page 13 
+
+===== PAGE 24 =====
+MANEUVER HP/HA TRANSLA-~v AFTER POINT OF DIRECTION TIONAL 
+MANEUVERS APPLICATION OF THRUST THRUSTER PURPOSE 
+Separation l0FPS 87/161 N.M. SECO+2- FWD AFT S/ C-Booster Separation 
+1 ?FPS 91/161 N.M. 2d Apogee FWD FWD Adjust lifetime {for insertion dispersions. 
+Evaluate thruster operation. 
+2A 12FPS Apogee of FWD Left Ad just Iifetime. Evaluate thruster operation . 
+30th Rev. 
++TSC #1 Approx. 15 min Left Right 5FPS Evaluate thruster operation. Determine visual 
+after 2A characteristics of thruster plume . 
+TSC #2 5FPS 5 min. after Down Evaluate thruster operation. Determine visual Up 
+TSC #1 characterist ics of thruster plume. 
+TSC #3 5 min after 5FPS Down Evaluate thruster operation. Determine visual Up 
+TSC #2 characteristics of thruster plume. 
+27FPS 94/ 134 N.M. Perigee AFT Adjust lifetime. Evaluate 3-axis 
+fol lowing 2A 28 AFT 
+application. 
+4FPS 3A Apogee of FWD FWD Adjust Iifetime. Evaluate thruster operation. 
+45th Rev . 
+6FPS 93/ 124 N.M. Perigee AFT FWD Adjust lifetime. Evaluate thruster operation. 
+following 3B 
+1 l0FPS 62d Rev. 4 45/99 AFT AFT Achieve OAMS retrofire. Evaluate thruster 
+(45/97)* {or 66th Rev. )* operation. s:: 
+-b 
+(,J 
+I 
+0, 
+I °' 
+*FOR PACIFIC LANDING ~ 
++TRANSLATIONAL SYSTEM CHECK 
+
+===== PAGE 25 =====
+M-913-65-04 
+TABLE Ill 
+IN-FLIGHT ACTIVITIES 
+Time Revolution 
+HRS:MIN No. 
+0:12 1 
+1:45 2 
+4:35 3-4 
+7:45 5-6 
+11:15 7-8 
+13:05 9 
+17:05 11 
+19:52 13-14 
+24:00 16 
+25:58 17-18 
+29:25 19 
+31 :20 20 
+31 :40 21 
+33:20 22 
+43:00 28 
+44:25 29 
+46:48 30 
+47:33 31 
+52:30 33-34 
+54:35 35 
+56:35 36-37 
+41 
+70:26 46 
+76:30 49 
+77:20 50 
+90:45 58 
+95:45 61 
+96-35 62 
+97:32 
+97:46 63 
+5/24/65 EVENT 
+Insertion Check I ist 
+D-9 Experiment 
+Translation Maneuver 
+D-6 Experiment 
+MSC-1,2,3, and 10 Experiments 
+M-3 Experiment 
+MSC-2 and 3 Experiments 
+D-8 Experiment 
+D-9 Experiment 
+D-1 Experiment 
+M-3 Experiment 
+S-5 Experiment 
+HF Communication Tests 
+D-9 Experiment 
+S-6 Experiment 
+MSC-2 & # Experiments 
+D-8 Experiment 
+D-8 Experiment 
+S-6 Exoeriment 
+S-6 Experiment 
+S-5 Experiment 
+S-6 Experiment 
+M-3 Experiment 
+MSC-1 Experiment 
+Translation Maneuvers 
+Translation Maneuvers 
+Thruster Failure Check 
+Power Down S/C 
+S-5 Experiment 
+S-6 Experiment 
+M-3 Experiment 
+D-9 Experiment 
+MSC-2 & 3 Experiments 
+S-6 Experiment 
+D-9 Exoeriment 
+Translation Maneuvers 
+M-3 Experiment 
+Apollo Yaw Orientation 
+Power Down S/ C 
+M-3 Experiment 
+D-9 Exoeriment 
+Power Down S/ C 
+M-3 Experiment 
+Pre Retro Checklist, TR-5 Minutes 
+Checklist, TR-1 Minute Checklist 
+Retrofire, Retro Jettison, Post-Retro 
+Checklist 
+Reentry, Drogue Chute Deploy, Pilot 
+Chute Deploy, Main Chute Deploy, 
+Two-Point Suspension, Touchdown, 
+Post-Landing Checklist 
+Page 15 Function 
+CP p Dav Niaht 
+X X X 
+X X X 
+X X 
+X X 
+X X 
+X X 
+X X 
+X X 
+X 
+X X 
+X 
+X 
+X X X 
+X X 
+X X 
+X X 
+X X 
+X X 
+X X 
+X 
+X X 
+X X 
+X 
+X X 
+X X 
+X X 
+X X 
+X X X 
+X 
+X 
+X X 
+X X X 
+:.<. X 
+X X 
+X )( 
+X X 
+X 
+X X X X 
+X X X 
+X X 
+X X )( 
+X X X 
+X X 
+X X X 
+X X X 
+X X X 
+
+===== PAGE 26 =====
+M-913-65-03 
+TABLE IV 
+GT-4 CONSUMABLE LOADINGS 
+ITEM QUANTITY REMARKS 
+Batteries 
+OAMS Propel I ants 
+Odixizer 
+Fuel 
+Oxygen 
+Primary 
+Secondary 
+Lithium Hydroxide 
+Food 
+Drinking Water 
+Spacecraft 
+Adapter 
+RCS Propellants 
+O xidizer 
+Fuel 703 I bs. based 
+on a 2400 A-h 
+246 lbs 
+164 lbs 
+52 lbs 
+13 lbs 
+97 lbs 
+lb lbs 
+14 lbs 
+61 lbs 
+40. 4 lbs 
+3l.61bs Each battery has a 
+400 A-h capacity 
+Egress bottle are also 
+carried if ejection is 
+required. 
+LANDING SEQUENCE 
+At the end of the mission, the parachute 
+landing sequence shown in Figure 21 will 
+be employed. One item that should be 
+mentioned in this regard is that should the 
+84-foot main parachute fail to open, the 
+crew can abandon the spacecraft by eject­
+ing and using their personal parachutes to 
+effect a safe water landing. The latter 
+sequence would also be employed should 
+the spacecraft come in overland instead of 
+the intended water landing. 
+FIG. 21 GEMINI PARACHUTE LANDING SEQUENCE 
+50,000 FEET - HIGH ALTITUDE 
+DROGUE CHUTE 
+DEPLOYED\ 
+21 ,000 FEET -Oft:N CABIN VfNT t VALVE 
+10, 600 FEET - PILOT PARA.CHUTE 
+DEPLOYED 
+9,600 FEET - It A It SECTION 
+SEPARAT ION 
+9,000 FEET - MAINCHUTE 
+DEPLOYMENT 
+!' 
+6,700 FEET -TWO-POINT 
+SUSPENSION 
+1,500 FEET - CABIN WA.Tflt 
+SEAL CLOSED1_
+SEA LEVEL - TOUCHDOWN 
+~~- JffilSONCHUTf 
+~ -
+5/ 24/65 Page 16 
+
+===== PAGE 27 =====
+M-913-65-03 
+MISSION MANAGEMENT RESPONSIBILITY 
+The Gemini Program is managed by the Gemini Program Director who exercises his 
+direction through the Project Manager at the Manned Spacecraft Center. The direc­
+tion of a specific mission is accomplished by a Mission Director acting under the 
+cognizance of the Associate Administrator for Manned Space Flight from the time a 
+space vehicle is committed to flight test until the end of the Mission Period. 
+TITLE 
+Program Director (Acting) 
+Deputy Program Director 
+Program Manager 
+Mission Director 
+TRACKING & DATA 
+ACQUISITION 
+MSC 
+GSFC 
+ETR 
+Staff 
+Gemini Flight 
+Ops Rep 
+Requirements 
+Coordinator 
+Security 
+Officer 
+Meteorologica l. 
+Group NAME 
+Dr. G . E. Mueller 
+Mr. W.C. Schneider 
+Mr. C. W. Mathews 
+Mr. C.C. Kraft 
+PROGRAM MANAGEMENT 
+NASA HEADQUARTERS 
+Office of Manned Space Fliqht 
+I 
+PROJECT MANAGEMENT 
+Manned Soacecraft Center 
+I 
+SPACECRAFT 
+MSC 
+McDonnell Aircraft Co. 
+OPERATIONS ORGAN IZATION FOR MISS ION PERIOD ORGANIZATION 
+NASA Headquarters 
+NASA Headquarters 
+MSC 
+MSC 
+LAUNCH VEHICLE 
+MSC 
+SSD 
+Aerospace Corporation 
+Martin Company 
+Aerojet General 
+DOD Mgr for 
+MISSION DIRECTOR MS F Support ...___--.-_____,---- -----~ Operations 
+Gemini 
+Program 
+Manager 
+Deputy for 
+Flight 
+Operati ons DO D 
+Recovery 
+Director 
+Atlas/ Agena Medical Publ ic Fl ight 
+Crew 
+5/24/65 Launch D irector Affa irs 
+Director Director Director -------------- --------------------
+Page 17 Flight 
+Crew 
+Medical 
+Monitor 
+
+===== PAGE 28 =====
+M-913-65-04 
+TRACKING AND DATA ACQUISITION 
+The ground support network for GT-4 wi 11 be the Gemini Manned Space Flight 
+Network (MSFN) illustrated in Figure 22 and tabulated in Table V. There will 
+be, however, some minor modifications to the MSFN for the GT-4 mission. 
+These changes for the GT-4 fl ight are prima rily in locating the range tracking 
+ships in positions most advantageous fo r the orbits to be flown . 
+TABLE V -NETWORK REQ UIREMENTS FOR GT-4 
+Network Ra dar 
+G round Station Code C 
+Band 
+Merritt Island MILA X 
+Cope Ken nedy/ CNV/ 
+M iss ion Contro l MCC 
+Patrick AFB PAFB X 
+lr.:.""d Bahamas G BI X 
+Grand Turk GTI X 
+IAntiouo ANT X 
+Ascension Island ASC X 
+Valkario Fla. VA L 
+Eleuthera Island ELU 
+Bermuda BDA X 
+Conarv Is land CYI X 
+Kono N iae rio KNO 
+Tananarive TAN 
+Cornarvon CRO X 
+Canton Is land CTN 
+Hawaii HAW X 
+Guovmos Mex. GYM 
+Corous Christi TEX 
+Rose Knot Victor RKV 
+Coasta l Se ntrv CSQ 
+Ranae Tracker RTK X 
+Pt ArQuello, Cal CAL X 
+White Sa nd~ NM WHS X 
+Ea lin AFB EG L X 
+M SC, Houston MCC 
+ITe lemetry Airc raft (d) 
+NOTES: Tracki ng Telemetry 
+A/ G 
+Mistrom Acq. aid Gemini launch Spacec ra ft Commend 
+vehi cl e voi ce 
+or oth ers as I isted PCM FM/ FN Li nks R/T D/T RSDP * DCS Tone UHF HFreceived 
+GE-Mod 111 -G X X Xa 3 X X X X X 
+Xb Xo 3 Xb X Xe Xe 
+3 Xb X X Xe Xe 
+3 Xe X X Xe 
+X 
+X 
+X 3 Xb X X Xe 
+X 3 X X X X 
+X 2 Xo 
+2 Xo 
+X 3 X X X X 
+X 2 Xa 
+X 3 X X X X 
+X 3 X X X 
+X 3 X X X X 
+X 3 X X X X 
+X 3 X X X X 
+X 2 Xo 
+X 
+X 
+X 
+X X X 
+Xe Xe 
+Xe Xe 
+Xe Xe Xe Xe 
+Xe Xe 
+Xe Xe 
+Xe Xe 
+Xe Xe 
+Xe Xe . 
+Xe Xe 
+Xe Xe 
+Xe Xe 
+Xe Xe 
+X X 
+X X 
+Xe Xe 
+Xe Xe Fli ght 
+Controller 
+Manned 
+Sites 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+a - Record Only c -Remoted to ond from the MCC 
+b -Remoted to MCC d -Three telemetry aircraft in primary recovery area 
+* Remote Site Data Process (RSDP) 
+The ground network support facilities include the MCC-Houston, Cape Kennedy 
+(CNV), Air Force Eastern Test Range (AFETR) downrange stations, the MSFN, 
+and Goddard Space Flight Center (GSFC). Real time tracking and the acqui­
+sition of data for post flight evaluation will be provided by optical and photo­
+graphic systems, MISTRAM, GE Mod Ill radar, C-band radar, and the Impact 
+Predictor OP) 7094. The network as listed in Table V will monitor spacecraft 
+and launch vehicle PCM telemetry. The flight controller-manned stations, as 
+shown in Table V will display selected spacecraft data for real-time evaluation 
+and transmit these data to the MCC via teletype. The MCC will use both the 
+Digital Command System (DCS) for transmitting commands. All the remote sites 
+that are flight controller-manned, except for GYM, will have the DCS command 
+capability. Tone commands for use by the Range Safety Officer will be used for 
+manual fuel cutoff (MFCO), auxiliary second stage cutoff (ASCO), and Destruct. 
+5/24/65 Page 18 
+
+===== PAGE 29 =====
+-0 
+0 (0 
+(1) 
+I / /_ I \ / / l TH I \ /J I \ 
+P ,I C / I 
+w 
+I 
+0-<.n I 
+0 .i,..FIG. 22 
+
+===== PAGE 30 =====
+M-913-65-04 
+BACKGROUND 
+Project Gemini is the stepping stone between the comparatively simple one-man 
+orbital flights of Project Mercury and the complexities involved in the multi-man 
+lunar flights of Project Apollo. As such, Gemini's prime reason for being is to 
+increase knowledge of man's capabilities in space and in developing operational 
+techniques to support the Apollo Program. Thus, Gemini's objectives become: 
+a. 
+b. 
+c. Long-duration flights -up to fourteen 
+Rendezvous and maneuver in space 
+Docking with a target vehicle days 
+d. Extra-vehicular activities by the astronauts 
+e. Control led reentry 
+f. Operational training for al I flight personnel concerned 
+To accomplish these objectives, a series of flights have been planned of which 
+this GT-4 is the fourth. The first three demonstrated respectively: orbital 
+insertion capability, spacecraft structural integrity, and crew accommodation 
+qualities. The four-day manned flight will further demonstrate manned space 
+flight capabilities for the support of future missions of even longer duration. 
+The remaining eight Gemini flights, all of which will be manned by two 
+astronauts, are tabulated in Table VI ' with type of missson and approximate date 
+of flight: 
+Mission No. 
+GT-5 
+GTA-6 
+GT-7 
+GTA-8 
+GTA-9 
+GTA-10 
+GTA-11 
+GTA-12 TABLE VI 
+Mission Objectives 
+Seven-day flight with experiments* 
+Radar rendezvous and docking 
+14-day Extra-vehicular activities 
+Optical rendezvous and docking 
+Simultaneous countdown and 
+rendezvous 
+Direct rendezvous 
+Apollo-LEM rendezvous simulation 
+Apollo-LEM abort simulation Date 
+Latter 1965 
+Early 1966 
+Early 1966 
+Early 1966 
+Mid 1966 
+Mid 1966 
+Late 1966 
+Early 1967 
+*Includes rendezvous evaluation pod 
+The planned end-of-the-mission touchdown point is in the Atlantic Ocean approxi­
+mately 400 miles southwest of Bermuda as is shown in Figure 23. This is the primary 
+landing area. The GT-4 mission employs a zone concept for recovery which estab­
+lishes four recovery zones: East Atlantic, West Atlantic, West Pacific and Mid­
+Pacific. Each zone consists of a circular area with a radius of 240 nautical miles 
+in which various ships and planes will be stationed. An aircraft carrier will be sta­
+tioned only in the primary landing area as ii lustrated in the recovery forces diagram 
+5/24/65 Page 20 
+
+===== PAGE 31 =====
+00 M-913-65-04 
+GT-4 PRIMARY AND SECONDARY LANDING ZONES, 
+RECOVERY SHIP SUPPORT AND CONTINGENCY RESCUE FORCES 
+\);J DO 
+30" 
+~ 
+00 HICKAM 0 
+00 
+00 
+0 GUAM 
+O" 
+~ PRIMARY 
+l~ RECOVERYAREA 0 PAGO PAGO 
+8 " REEm;~ANEA 
+CVS CARRI ER 30" 
+00 OESTROYER 
+AO OILER 
+0 CO NTINGE NCY 
+RESCUE FORC ES /)};; 
+FIG. 23 
+of Figure 24. Other areas in the world along the ground tracks are called contingency 
+landing areas. Because these contingency landing areas are world-wide, it has been 
+necessary to pre-position certain aircraft with their associated crews, pararescuemen, 
+and paramedics so that they will be able to reach the spacecraft in sufficient time to 
+render aid to the downed astronauts. These contingency forces have been deployed to 
+the bases shown in Figure 23 . 
+It should be noted that there 
+are numerous types of aircraft 
+in the launch area and primary 
+landing area for telemetry, 
+weather reconnaissance, aerial 
+photography, and recovery 
+operations. In addition to 
+these aircraft there are also 
+several helicopters in the pri­
+mary recovery area from the 
+aircraft carrier that are carry­
+ing swimmers. These swimmers 
+deploy into the water and 
+attach an auxiliary flotation 
+collar to the spacecraft. Launc 
+area recovery forces are de­
+picted in Figure 25. RECOVERY AREA FORCES 
+ARS AIRCRAF T PRIMARY RECOV ERY ZONE 
+200 MILES BY 
+USS WASP AND 
+ONE DESTROYE R 
+AIRCRAFT 
+1 USAF SSB RELAY AIRCRAFT AT TOUCHDOWN POINT 
+3 WASP HELICOPTERS 
+1 WASP COMMAND (480 MILES N DIAM ETER ) 
+LANDING FOOTPRINT 
+(ELLIPSE -
+40 MILES) 
+~ ARS AIRCRAFT 
+FIG. 24 
+5/24/65 Page 21 
+
+===== PAGE 32 =====
+M-913-65-04 
+LAUNCH AREA RECOVERY FORCES 
+2 MINE 
+USA 
+M 113 
+LARK USMC 
+\ AMPHIBS LANDING FOOTPRINT 
+( 27 MILES LONG) 
+TANKS 
+FOUR HELICOPTERS 
+TWO PHOTO JETS 
+FIG. 25 
+5/24/65 Page 22 
+
+===== PAGE 33 =====
+NASA ROUTING SLIP 
+,. 
+2. CODE NAME (if ,,,msary) ACTION 
+APPROVAi. 
+CONCURRENCE 
+FILE 
+INFORMATION 
+INVESTIGATE ANO ADVISE 
+3. NOTE ANO FOIIWAR0 
+NOTE ANO RETURN 
+l'ER REQUEST 
+RECOMMENDATION 
+5. SEE ME 
+SIGNATURE 
+6. REPlY fOR SIGNATURE OF, 
+7. 
+REMARKS: 
+~ -Of4-· ~ 
+~ ~~~--
+&._. Q ~u' HL ~ 
+J)k ~-~ ~ 1-~tI 
+l · J>~~P1~,~s 
+~A--'J-~ ~<L -~ 
+f-i ~ o'\rv--J ~ J -;-T;/::i, er_ 
+lJ. 1/~ I 
+0ATE , 
+u.s. GOY[RMN[NT PRINTING o,,ict ~ 196-& 0,-1571845-NASA 'Form 26 (Rev. Jan. 1963) 
+
+===== PAGE 34 =====
+NASA ROUTING SLIP 
+CODE NAME (if 11«mary) ~ ACTION 
+APPROVAi. 
+1. -\6 ,-,----£ CONCURRENCE 
+FILE 
+2. J • (-i/--e_ INFORMATION 
+INVESTIGATE AND ADVISE 
+3. .. NOTE AND FORWARD 
+NOTE AND RETURN 
+"· PU REQUEST 
+IIECOMMENDA TION 
+5. SEE ME 
+SIGNATURE 
+6. REPLY FOR SIGNATURE OF: 
+7. 
+REMARKS , 
+~~1" CT'µ:;:- I 
+r#-ft{ J' c_ ©4;~"'1-
+frGJ'~ z.s--4. l I 
+. 
+FROM: I CODE : I NAME: IDATE :~0_ 
+C U.S. GOVIRNM! NT PRINTI NG Off' IC[ : 19H o,-67'8 4 5 NASA f orm 26 ( Rev. Jan. 1963) (/ 
+
+===== PAGE 35 =====
+EXl3 ROUTING SL IP 
+, -
+NA E INITI AL 
+N. G. FOSTER 
+R. L. cox 
+w. A. EATON 
+G. C . HRAB AL 
+R . A. MOKE 
+F. B. NEWMAN 
+' 
+0. SM ISTAD 
+B . BROCKER 
+~ M.M~ ~ 
+FILE -=> 
+E IA RKS 
+~ C,,vL() z;
+\..__ ----fLc..-
+
+===== PAGE 36 =====
+C..y 0~ AFT~NO<#,J Se-w,o~ <Dr 
+~ f. 9\& b c.,cn:I N-"• ~fl- l,'-\Jrc, 
+Belt 11 
+)'.,; or· ~;omc.;U1j r.r~ .Ulce t!,r,.t ,Lovt', from looking at t e ai!'.' 0 10vfedge on 
+Now t he air ~l ow was discovere d q1lit a number o· yea s ago when it was 
+stud ·cd .om t e ground the hard way and, uh uh, by etometer (?)' 
+,1.nd l,y ( tri11.nguJ.;.i. t • on) , by trying to determine how high it was it was 
+many yea r n h r oJ"<• on· 1,a<l ::om,1 j< <'>L how ll lg}1 tr,c air 1.i:low really was, 
+ancl .ir1 a rnorm:11. wv "Wj.ll .lrnl.i1:1d,· l1t)W in u. rrv-.1.l,L<·r- f ccr·ond.o Glenn and 
+-<! , ,. c..-.....it.. ~C u.rp ·nL(·r-wac ·· lil • Lo <:Lr:r-m i 11C: in u mutter [" seconds how jgh 
+it w:.J,,s . /\ncl tl1<: r1 lie: d:i.<t v.wu.y w:i.tl, :,0 y :r.1.rs of' hard wor·k. Aga.in the e 
+W"l.ls :L dis,·ov _ry 111a<'l.c Lh<..:.rc: hut LJ1c pc,int WIL~: t;hat in a few ~-conds from 
+th . :L ht vant 11~ poj_ri L ynu cnn d > tl jolJ. Nuw with tl'ic air glow t hen 
+.Looki ng 'U/~(' 011 LL so L of ul1, wt· 'll . . . a band we never mean by 
+LK't.nd ·t red. l' 1.•f't't:tly tlc~:i.1'.ncrl arnl J.jkc.: i n th· slide or som thing like 
+tlio.L.. it :;urn l,j IIK::; a Ji t;t;l • J'11z:1.y l,ut t:.l1is j s U1c air glow band and this 
+C rp ·11t r nnd. li_y r·ock. ·t pn.::;~i11r.; L11r-()t.1/'.h the 'L.i.r elow. TJb th·I s is t he air 
+glow dg on tl11tL we 1t1~v, _h .ard ttl,rn1t Ut:Ls mot'ni.ng uli it was used i n 
+er-com1 rtion vlit}, l:h _ u:,,xtu.n) X'P'l"imc .mL.; ancl ' O on. Now 1 just wanted 
+to 1:i vc y0 11 ::om(: idcu. ol.' wl1c-rc; we-:;l.1t11d. in 'lid/~l1tness. N w ub, before 
+~tr.Jwv--~ 
+C.-lc1 111 w-:tn l.n l1;rvc· ,'.onr· ,i!'I' 1rl ,1 tl1v thD1l1'.ht W' L(.; Lo have him irltimaJtl some 
+And NASA head-
+And. nil , ull, ,John Glenn 
+w,1:~ ; '. i v,·11 
+1i:; <I ,,v,'r .-L 1111.1.,-1,w, i 11l.('r·l',·1·,·11cc l'i.1 l.1·1 · ve1·y slrnilar to thls type that was 
+L1 1t· (;;,,xt,u;r. IJl 1 he , Ire: , 11!.; , did not have ve y much time 
+
+===== PAGE 37 =====
+Belt ll 2 
+l,o use it, but l,c did uh have a chanc to obse.,_ve the air glow 
+-rith the naked eye and he ·aw it edge on and he alle it, uh . 
+name for it at the mome t and . and really t he first time you see 
+a thing like that you don't know whether it haze or luminous sort; it 
+d.oes look hazy. Uni'or·l.;unal~ ly t 11 . pr·er;s and other people kept that t erm 
+•·l si:;t, ,•,)11:,;i••L.in1-~ 01 · dus t. p11:r:-tlc•J( \~_; :i 1ci so <,n . ReH-l ly, wbat Glenn saw 
+wn. air· p;l w-tlt:'.t' on :t Jumillou$ l 1t_y·,.,·. Thex·,· may be :i littl-· d st thee, 
+l..,.~ 
+may tinv " omctl1i Tl/'. to -::.u.y ul>oul: l.t1a t , l,ut, the pr.cdominate feature 
+is j t ·i.s a ~elf J wninout: 11-y r. Now, C:.1.r:-:per,Lcr has mar. time to observe 
+i.t . lle took t h int rfC'r:-nee filt •re• hack up with h j m and uh , he was 
+1:,.bl to tim a ::; La pas'"'inf( t h row~li U1c air f~low a s the star was setting 
+1..1.nd lie note i I_; n.rni tu Tl ·cl :Lt V y c-nre rully . throur;h the air 
+/'.low the u1)pt:r LI ; low r· and when :it cl .i :;appe1u· :c . From that careful 
+LimJ 11e; inJ'ut·ma.Li un ore wt1:~ utile to µ.i n ,town Uie exact time of' the air 
+1-'.low. Ro1w:li.ly •)() ldJ.u111eL(•1·. /\nd Lili s -i.o wl 1:iL took mnn,y many years to 
+do 1·1·,,m Ll1(' p:ni1111d l,_y l.1·.ir1.rw.1i.Ju.'\.:I,)11 ( ·:·) w-J1i <"I, i :~ ver ·y v ' r.y d.iffic:u.lt cause 
+you 1t<·vc1· l<.11ow l11n, l,u Lnk(· ,·,tr· u1· 1.11111. Ln1nsml ss.i on W<i.S 
+o ic;c1·vation. Uh, we had h ped 
+J. iglrt 1vl1:i<-il is very diffi ult to see 
+IH'1J.r-I.I1c :;1111 , c111 c trtl, yrn1 ,·itn ~;(' (' i t, c,1uy 1.ri 1('TI the s un :is , oh, some 
+
+===== PAGE 38 =====
+--C 
+l:r:lt ll 
+v/1 • some: L:i.rnr: sec :.;.3tronauts might 
+l.1c aolc to sec t hti.t . UJi, Coope was able to see the . light , and uh, 
+White and McDivitt saw the .. . light, ve ry well. Uh, the let 's see 
+there 's another point here; well, w '11 go ba k t o that in a moment. The 
+cason I 1,htnk have tt otl1e.r dcsji.'.ns I~ show what r:Fm be done. If we 
+lw.vr: Urne Lu ehow whuL 1·1n1 be don<· lly r~xLem.l.in t'. vi s1..ia1 obscr vt"i.tions we 
+,,.,:111 do so. UJ1 , :,om 01 · Ll1 ·s • n. w r :_:u]ts, 11t1 that McDivitt and White 
+we re able tu r or ar v ry . nLcr 'S Ung. Ul1 first of all, t hey saw a 
+structure in the air gl ow and this is the first time this i s eport ed. In 
+one inst ance a uh, . i s seen some structure i n the 
+~ir elow that they 're looking edge on turns (whlte) .... This has never 
+been obscrv d b fore. It is very hurd to observe this with a rocket; you 
+clan 't know when to fire the rocket to do that. They, they observed that. 
+They obcer-vcd . unothcr intc.;rcct:Lnp, tli·ine;. They observed mcteo oi ng into 
+Lh • 1:,.1r.th ':: -'Li..mu:..;phcrr: dnwn ·1ic1ow Lb .111. It .i :; the .first time a mcteo 
+1::: rcJ,ortccl f"r.um uh, uJ1 , npac l1y l.l!l ,rnL onui1L. And it. wa a very pecu-
+1.iar .xperjcnc:c l"or· i..11 rn I itru sure: b r·.-1use they saw the things below them 
+go ng own .I.nto t.hc ca1·t;h ' n utmo::;pltcr(: . Th_y saw when they were over 
+/\u t alia) they cuw u.J1 ave /1.ustru.lin they sn.w (southern) lights uh, 
+Lli·i.,.. 1tg :I. n ir.; L11e l'it·:::I; time J tli inl< Ll1·i s i s reported by astronauts . 
+. u loL Ile l. l:c r Lllan I c 1L1ld. m1 uh . and 
+l.l11..':;,• :i1· , :: wl, l,1 · r1i1-'.l 1L l.i1n,· pl1L't1,,1m·1111. 'rh 1·c ut·c some inte e ting twilight 
+pl 1c11<>n11'11u. I.I rd, i :~ d •i IT.i 1·1l.l L P lli.H•rv,' 1· 1·um oc·kc t s or satel ites and they 
+(Jh tllcy fow1d sunrise s more 
+
+===== PAGE 39 =====
+Belt ll l;. 
+spectacular than sunsets. I will try to explain that in a moment if I can. 
+Uh, going to go back a moment to what CooperJ uh, what Schirra 
+uh, saw during a twilight right after sunset. He observed) uh, the planet 
+Mars and he observed at twilight , the sun had just set, a very specta.­
+cular array of colas, he describes them very carefully in the report, 
+in the blue.: book, his 1iJ.ue book, and sumrna.rys blue book too. Uh, he 
+d.escr-ibcd a ro.th r :Lnt est:lng blue hand that ' "' three blue bands; 
+you r-an o.11 0chi c a. ' s hlues. Uh, . . . and he's able is true to 
+d.o qu • t w 11, \./ ith bl1t~s . He observe a da k blue, light blue, and a 
+dark blu /\nd t le worc.l "light" i1-i 1:1. d ··_ fi ult word. When one says 
+ljgh L on d.o sn ' l: know whether on m nns the lue was a lighter hue or 
+'j_t W:l:; brig! It J: • nut1 j t J it 1:ipp '1:1. ~ to be 1:1. iigr1t blue J and. one has 
+to use these wo tls or what t hey stand. Anyway, we uh, from what these 
+obse vations v re is (reportedly) on to a tape and is . (debriefing) 
+and afterwards we are all very consistent . We had an order to try to 
+construct this thing. The first time a ound it needed a little correction 
+wr1en lkhirra saw 1.t; th s cond t me around he was somewhat , he was 
+quit plca"ell w:i. Llt H . We di<ln 't quit -know wl at this thing (band) 
+was u. t; first· ,.,, 'r s Lill not too sure. Uh, we think it might be 
+I ook:i 111-~ . [; j rn le.::;:.; tube 1>c'c:tuse th . tomorrow is 
+11:;c· Ll1<: :;11.111c l, ·r:!111.Lqu v J\ r· t.:Lmi.ll1-; :Ls Carpenter Jiad stn.rted . Uh. we 
+l,h lrik 11(1:;ci 1,.1.Y-,m • :I.~-; l111,·c·rvj nt,~ Lil • O:lonisphcrc edge on. The ozonisphere 
+, ,. appr·ox·im11.L ·ly ul1 , 011 , L'r •om 10 t l'.> kilometers hitsh up to rO, some-
+t.!1inr, .L:ik that. It (H.·ems to huv u 11lll.Ximum around 2:> or 20 kil omete s . 
+1rh, l1J1 ozone 1i8 you know, is very ve y absorbing in the ultraviolet, 
+
+===== PAGE 40 =====
+BE.:lt 11 r:: 
+_.I 
+in ·:wL c·tir11plcLc , ,dJsorl 1;.1.nl; lw·J.ow 3000 !"or s ol;ir radiation c.:oming 
+'.rlu:, t'C :i.s anoL!1e r· weak band o ozone i n the ed, 
+y ll(Jw, t:tnd 1~, .c; 1 jn tbc • l,,,rnd uh, at, uh, distance 5000 . 
+6000 7000 and i J • ·1iy cl ock I ill absortion this way 
+Ur r1 rt w-D.I< 1r1.om· l,11.nd p1 · ::orr, _(;h:ir1r'. .l .i kc· l;hn./., . 
+And ·i (; clo :J s 11 tract, tt 
+\./c ·I.J, 1111 , L11,:n· i:: PrLly an 1·q, 1i vnlc·1d; oJ' ;2 rnjJirnc-tc1 ·s 
+tir· ) n1il:iinc ·l,c-r:; 
+:t l·,mcl~JJl 1er, , !.11:1.I; i:; 01 · 1·(1111 ·~:" , l,e:1·1.1.11::c' ,·,miplc l.1, (r:orrt,j ,1111.1.t:ion) o.L' th sw1-
+J :i,g}1 l: . llow,,vc1 ·, wl 1e:n ,yu1r lo k at l.lrJs c:u.ge c,11 you ' re look:ing throueh 
+:,o i I. <Loe,:: :11./.,tl-j,c:t out 11 lot uf' red 
+1'L1li('t '1' :: c;1•r·l.:r.i11.J_y ,1, ]nl. ()I' l '(•d, yr • IJ.c, 1✓, 11nd 1•1 ·<·<:11 :in 1,/ 1C' lilu · sky any-
+iv: '.Y . 
+/\11<1 1,_y ·1 l.l.1·:1.1 • 1, i 11,•~ i.11a1. ,111l. _y1•11 ,·11d_ up wi 1.11 nnnLl,l·t · kJ 11'1 of' blue . 
+I 11 i'·w l. , 1.11 i :: i :: 1•111:i.l. i I, 1-1.·1:: . 
+I~, . we 1·1·11 ' I, :-JLll'<' a rr l l.h('ll ycst.e:r'l.iay , 
+\,/t • 1•,. l.:tkh11 •: , 1.J,,,y l 1wl l11·c•1r l,:tkin1 ,'. w-il.11 Ll,cjr· 1'.11 1 ,:amc-·a tllll u.li , ~n the 
+, ·,l./l'1'i111'. ir, l,fi<-Lop 111" Llr<'~(• . 
+
+===== PAGE 57 =====
+8 
+/\s soo.-1 as j L w:.: exter ded after ul1ouL jO secor s or so . What ever 
+i L sa i.t in Lhe ·1 • ght . 
+jO seconds . 
+Have you got uny data buck on it yet? 
+;;e;v n <>n hr.: c:ornpu L r. 
+/\ny ul.l1er q,H:~t. i 1m:; on l.110::: U1re ··r 
+Wliat wus U1' c:o:.: 1. oi" Uie pho ogruJ1liy ·r 'J'Jie Wt;:.i.Lher and mar· ne 
+pl1oto 1-~raphy . 
+o·. you skip M C-10? 
+Okay 10. 
+I wou d like to say we got some good picLures und I appreciate it. 
+'!'here again , ll. w-u a pretty traiglil. forward experiment . We didn't 
+lmve any i L"i"i.culty ~rith iL . 
+T' ve P,OL a cou-p.l of q11e:.; L.i nc abo11L Lile FJS5 . I\ couple of things 
+thaL u.me up llli.; L night.. . You sa..i.d -.vnu know Llie syst ma tic photo-
+graphy aero::.: :; Ll1" lfnltc<l ~LateG , cvcr.v '..> secon s , how cli you t ime 
+that? 
+Count , or c:lock or how . 
+J. s ar t.e i.t1' t'V nt. Um r wi L!i Lhe ili1~i Lal Jock tha we got in 
+mL u t:·· uwl :.:e ·u11 ::; , fi.nd L 1e11 J cor1Lr,,1..Lcd spu. c raft o.n · then I 
+I :;<•t• , 1J.11 J•:d ,·riink •d LIii· cnJr1 ·ru. 111 at)(l took I It-' pictt r 
+llid 1.11<~ :;wn,· :rnl,.i•t;L , du _y t'lll l.l 1ink 1.l1u.l, one man could o this by 
+lii rm;(; I 1·. 'l'l,is 1.: iinpu t·l.nnl. l.,l .!\(' t'I i:~l1L plar1 , liO y ou think it 
+l,1ik ·:: ll<il,h frl/!rt l..i du i I. ·t 
+L Lhir1k so ; i L wou l cl lJ • v c; ry t1 · (•fjc-1tLL o time -jt, and '"'ontrol t he 
+:;p:1.('(•c · n _1,f"1. :1.:: yu, 1 Luke I.lit-pi.<·l.11r •:; . 
+
+===== PAGE 58 =====
+,.. ,., 
+Belt 13 9 
+I think you could get some degree of pictures, but I don't think 
+.hat you could get the same set that you got . The set we lostin 
+lhe souther n [JarL o • Mexico , :): beb.eve I did one time when Jim was 
+b.S.leep , but it was not near l y as long a period and I think it 
+was onJy 1>roliabl,f about 12 p.icLures . 'l'hls i s shorter :piece, but 
+tt,e c1.1untry i.sn ' t v ry Jung . 
+Yes . 
+W •11, w-ere focusing it u,en Ed. 
+Yeah, ( j us l, wanled t o get l L till :.;et up aheo.d of time, and by the 
+t.i.me we pas:c:ed t here we <lid.n 't chang l t, a grcaL deal. But on the 
+pass that we made across Lh United ~Lates, iL wo.s , I think, most 
+precisely held. straight own and w-r::. went much longer period of 
+time and there were contr ols that were made, and to sit t here and 
+1'.. ddle v1'th the controller and time yourself and turn the camera 
+and take the pi lure , you can ' t., do it, as exac.: L 1::1.s you can . • 
+Okay 1 w· 1 L -µu L Lh1 LL in as a l':Lrrnattve reque.~t f'or my experimen t 
+if at all pv:,sj l>J c , ltave boLlJ pi lot.:; on the joli . 
+l•'(ir niw of .v011r :ieq1, nee ricl.ures . 
+Y1:ul1 . 'l'h c;>S<; 0Ll1;e vrie.s, L/1e ta.r g !. ..... .. . 
+l•:nrl 01' !Jc] I. . 
+
+===== PAGE 59 =====
+-.. 
+Belt 14 
+o. K., I 'm ,~c,ing o pu Lhat . ...udrlrer;c prefer request for my experi­
+rmmt if Lht1.L i:,; f..t.L :.:1ll po:i'' i.ble to hl:I.V(; uoth pilots on he job for 
+any of your ~eq ence pictures . 
+Another one' s Target of Oppor unities if you on't nee the controls ••• •• 
+....... . . . . t.be one::: I.ha we ' ve got you w ren' L alls ro.igh ened o t •••••••••• 
+. . . . . you on' L nee: ':;r:ar i I.Y f>u:;:: CN<: t I.It m yuu know. 
+'l'l1 1.t1ing l.!le,y w nt. Lo Luk.~ fL T>i.t; IIr o[' iz ov'r her· iL's best Lo 
+Lake a picl.ur, . 
+You guys cerLa.inly hu.v• your eyec upen buy s11me of those things--
+l.hut volca11 shot \..hat re:;hoL sl..r11r.: ure espc<· i.u. ly, \..ha 's really 
+going Lo give u:; L 1e miJ •age . 
+Could you make a comment, ,just. on the general :; .u.billty of the 
+:;p cecraf't .. .. ... . ..pulsing und you ::toppe<l once , and you were wait-
+jng; how l ong djd 11. take for r ter: l,o build 11p , for instance , how 
+I on.g co ld 1:.1. (' Llow co n t. on 101:1ybe p,1 l l j ng po:;ition n gen ral? 
+Whoev r go . h r t.c:; :;Lopp d l ' ~uy i I, ta _:.; him a 1;ouple of ays 
+ror him toge ::1.ar-L·d . There ' s n(JLhi11{~ to make them i,?;O except that 
+rul.al.ine; rn:u·liinc•1·y wl1\t;l1 i:: p1·neUr·1Ll l,y nil••••• 
+l\t 1 l. yn11 11, v1• l.o n'1111·tnlh· 1·, I.Ii, >111-~I• , :t: : _y,>11 get• .v, 11r rat. •• :1.11 stopped 
+,vo1i' r · in(;r-t.i1Llly l'ix.'cl u1<l l11<: Ll1i11(' ' :... rota .i n~"; 1m erne .h yo so 
+.vuu. ' r r L ::t<.rpp<·d wiUi Lh • r e:: pr.::c I. l.lt:-1.L wha • y~,u wan • ••• 
+l•'ort..v llcgrc..::; Jl r rni nu!. . ...Jtt:1 · :.; ·<•1)11d . 
+in l.l 1: ~:atn· v•in , r!o you noLic<' 1rn.v rc:Lc:l.ive m,,l,ion i . he space-
+1· r 'L wh rn y u' r :i it:·· de, wl\ 'll you <l i..; Lur i L, when y ou move aro nd 
+1d, n. l l' 
+I ,·,Hild t'<'•·I 1,:c1 111,,virl{J , a1·nu11il , l11il 1-1l1<'l.i1c1· L r,~l it. 1 ving aro n 
+
+===== PAGE 60 =====
+I l5elt 14 2 
+was acLually oving Lhe spau: raft or whether Ia:; ....\i cau::e 
+1'elI, L '-' moving aroun cc:t.use he Wu'.; ti umping it, either tha , now I 
+.idn' move you really, Jut I 'm s,lrC! that you quite felt some (stabl e?) , 
+., I don't lm ow whether it was that kind of a ,hing I was feel ing 
+<>r wh t.t1e.r· l t, wan the :q11i.·eer1J.l'I, el'l'c!c·ts. I don't ••••••• 
+Y,>11 cJu11' l, l,1:nd Lo ...... _yn11 don't, l.1·11d I.,; 1.i<;l~ 11p Lhe:.;1' motion~ 
+l'l'Um 1.11\~ ::Jl l(' (.;CJ'llf ' \. • • ••• 
+rcrnc111b •r :;eve r ,'il Lim<•:; wh •fl I kicked into tl111 !'ootw IL thu.t you 
+111intioned ; you co, .LrJ heu.l' that , buL J 'w ~ur e 1.tnJ.t wa~ ,just :.;orne­
+i.,h'ng ,hat he heard, and tbat I di dn' I, r,.ally < i.stur Lhe motion of 
+,he s acecr aft . 
+Wl1F.1.t u.!Joll Lh • ext rnal ly .....I mea11 could you cli sturb ••••• 
+:;u r·c wu,r. . 
+I. kn •w l,h • t,j in :: whcri , 1vhen J k.i.ck ed offl\u L I u.l:rn loww i \, l,oo. 
+l111 r-d 011 I.he :;pac: c·1•1:J.i't , :·o I ...and U1i:; was t1 1,~ t.imes l,hat I wanted 
+utLc r , and U1at wus th· 11d of' LhL<l i.i; L all I.lie \o/H.Y \lit, l.o 1.11 
+Lirnc 1.LaL ,Jim r em:trk(: ., one Lime w !1t! 11 J. realJ.v 1,1md1e off it har , 
+:,.nd wlw rt 1; ::u.i d , " 11,-y , _yDu '1·t : p11t.l.i11/' : cu. e ,q· .wo d ~,:r ~e er 
+::,:c·ond <) rt U 11' ·:p!'.LC<•er l:l. 1'1, . " 
+'l'I 1<·n I ,:ull I,\ r' 'IJ(I I, tC ••••••• 
+w1L:: , wl1L:t 1, .vrn 1 1"1uw , 1vlt1'J1 .vo11' r'C' ::;i l.l i 111~ ut.. ,)n the en 01 
+l,lw 11"::c , 1u1cl .v n1 1 l\i<'k ,t,,wn <111 il, 
+
+===== PAGE 61 =====
+!'.e Li.. 14 
+::1,u.c •r:ral'L ......... . 
+l ucer , uh, t.ran::; ation of bigger p':.rcenta ge t.ha.n mine was ..... . . . 
+'Caus you'r only transJatine; your .. ........ . 
+. . . . . . need :;ome pictures , sir . 
+llc, wh 1L? 
+. . ... Di you ju ·t. fix yu11r::;,JJ' in one po::jtinr1 ... .. ? 
+I 1~::c:<1 p r o-pur Liona.lly 01 · Lhc..: l'1Jel l.!1ul, J use,1 , Jlr'Obabl.v , three quar ­
+L<;r ~_; or i.L Lra.n:d.1.Li.ne in 1LLJOut a L'or!.h or ii, just in the pitch and 
+yu.w maneuver:; t.liaL wer e mu.de 1:tnd l d i_1in ' t try Lo take out roll..... 
+un I cli.d.n ' t really (put in ) very mt1c:l1 roll; one time I called--I 
+c· lle out roll on my tape a cou.pl<.: ol' Li.mes but pitc 1•.••• 
+Cu ld you ....<lid yo11 lm e s t,a.nt. i..ho11gh L11at wh an he di these pitch 
+and yaw mane v r:; h warai ' i., t r ying f,o Lransl ate , he wa:3 actually 
+monr_;Lrfl.Ling Ltiat Lh.i:: r;ould be done? 
+Y<.::ut1 , al) 1 did wu: piL<;l1 c1 l i!.t.:l e Iii.I. r) c yaw :1 1. ·ttle hit , yaw, 
+d1i n JiLI.JP 01 · Lh i :: Ly-p<.: of m:rnc1ivc r·:: wil.h i t. , :ind to see il I could 
+::1.01) iL and p1J1. i11 jn :;...i .!1al. -1 did11 1 I. p11L a.JI I.he mo ions i.n too . 
+:;., iL w1J.::;n'1. l.r·1it.v, -1 :;<...::' wl11.1.I. Sim':; dr:-iving a1. ...tha you don't 
+1-1:1.nl, 1.0 :;n,v Lla.1.I. Lu Lr un:.: Lu. .c f' roni po i.111. A tti ll is hrce qus.r ers 
+i11 Lr 1,.n:;Je1.1.iun :Lnd ;.1, quarl.cr in al.l.i[.11rl: . 'L'l\aL ' s whu . ym were 
+Yc:al1 . 
+lll' m,y 1'11c ( i.11:d. c·,J.r-r.Y i 11 I.lie 1,;1nI I pn1bably u ·c thre quar ters in 
+I. 1·:u1:: I:ti, i_u11 ,,111 I a q1mr I.<' r· in :-1.l. Li l.1J1 le, lli1 L yPtt Jon' t. need very mu h 
+
+===== PAGE 62 =====
+·4 
+111 at. I. ·. ,udt: . Ont: 1, • me I 1J,uL pl ~<.:bt;•J c,v(;r bacv.wards and I did use 
+1.,ne g n Lo La. e r,riat out , beca se I j st didn' t want to use the oxy-
+gen . 
+. .... some of the ( numbers ? members ?) sayOne more qu·ck ques ion : 
+t..lJaL you were movin , the :;tru Lure about in a one-side configuration •••••• 
+LL ' ::; _pretty big , but it. ve .Y well ht.1.~, Lo be wlthin your work area--
+.:rou know, •r1 your :,;ui t, you' re rather restric t,ed on where you reach 
+you don ' t r ,,ci.Cb IJIH.lcrnet:t.Lh and behind _you especially, but out n 
+rronL-·r e. guy would ' v~ iluudt:n me ~~om -thing hat ' s i g , I coul ' ve 
+llt.ld ii., . 
+'1'<..m Lwenty ft::et, ..... 
+'!'en, right , Len .. ...................... 'l'en by Len sec j ons •• ••• •• 
+Wait, now wait a minute, we ' r e talking about Gma.ller tings right 
+now-. 
+•r n y ten what? ........ Mov·ng where? lJo whuL with iL? 
+1 cuu l cln' L inove i 1., 1.n -j nch , l,e aus ! l won dn ' L have anything to ••• 
+how w,>uld J move i.1.'? J ' de Lhe 01.l1cr way ii' 1 moved ·t t Ls way • 
+. . . . . . . . . . . . . . . . . . . I'ropu I :;.Lon ...•• (:q,ia.J '? 
+,~•> , I dor ' t. 1,tiinl, .!1i:; i:, 11:; , ii,'::; 1i1ll. wl\aL w,· w re ien.-ns ra 'ng 
+wi Ll1 i I,.... 
+v,:u.!1 . 1 8C•~ ,,,11:1.I. ,Y<lll 1 r·c i11L,·n!::.;Le.t ill . 
+<111• t.hing ,YlHJ 1~ot.\.1), l,c ,·1H ·,•1'1tl or. •• 
+Y<->U 1~uL a ·'nLer ul' gruvit.V L11:.1.t its hing you'r talking about, 
+
+===== PAGE 63 =====
+j•,,: 11, 14 
+.r<:;a ly v ry ,1<"· I. I gr~ L pr 'I, Ly cl.ose . 
+1 knew wher mine was . 
+These t hing~ , these things ar e weightless up there but they're not 
+ha:;kets thaL fly away, one you get tlle ·e things goin , you gott a 
+:; .op Lhem 1.wain i. l' you :; L:irLed pu:;r i.11~ , if you had a • •• some me· ns 
+,1t' pr OJJOI'Ul>n , you've f~oL :;omcLhirw I ilH: the :;i.des of Lhis able 
+KO·ne,, 1.1.n il' 'L l,iL Lhn.t. wall OWll Lh1!r<;, iL'c..l. go right through 
+i L. 
+'l'h.i s i~ tl'lc gen raI flU ::; I.ion .I ' m 1(;1J.n i ng t: 1~ it, wel , I'm try-
+ing to get i L . .. wiLh the i~tjncLion -t,110.t you can u se it ••••• auto-
+matic tape cl.a.bi.liz.a tion..••.•• 
+You'd have t.hc :.;rune pro l m wi h automatic stabilization that you 
+would. . . . . "ure. 
+But wi.Ll:1 aut.owaU c stauilization you mlght , it would set down in 
+I' i.ne ( rei; • s Lune: ' Lo) the mo Lion wher wj th tlYi :: thing you would.n' t ••• 
+wiLh n g1U1 _yo11, prolHl.bJy , wo11Lll yo11 kn<M, how Lo find, you've gotta 
+[' i llli ..... . . , . 
+Y1>11 111(•11.11 , .Y"" !1av,: l.q l'i 111L y,HH" 11.ut.0mal. i e stalii lization s soon as 
+y()u ' v,· held un Lt a I, n hy Len box, i L wo 1 s L· bilize you and it 
+t.00·1 
+~n _, for Li1 , i.t wOL ld star f' ringW•lJ , i 1' y,111 <:ou.l cl :.;t • .I I hol cJ on 
+Lh t:l.:.1.Ji.]i'I. r·. 
+Ul1 a1J wil.ltin limil.:; ul' Li:; conLroJ • • • • •• 
+Y,:tt.ll , [ Ll1i111<. ,VOii would !'i nd ,)11l. Ll1;d. iL wasn ' L esig.ed to do that . 
+::,•(.; , j I' ,Y )II l11.1.d It ::_y:.:;L<'lll l,11:1.L W u]d :;l.t·av ,o y,) L ••• 
+
+===== PAGE 64 =====
+1I Y(Ht hwl 1..1. ::ys1,1~u, 1.111,.t Wu.:; :;Lrappc~ Lo you ttai.. 
+11:.1.d automatic ··i.,.abil.izat •on and t ranslatio n of a person, well, 
+than you've got the whole of a box or something that you were hold-
+ing when you were down in one corner of it. I 'm sure that you woul d 'nt 
+buve engouth stabili:L.atlon con\..rol author i ty o handle the t r anslation 
+,1(' ·oml:thin~~ like that , be<:au1c;e you' re putting your engine ... 
+Well it depends on his mu:;s . AgaLn you said it's mas. If it 
+were magnes.i.um bonds or ~ometbing , then.............. . 
+think we ' re asking ..... . 
+Y(::ah , well .r know what we ' re tu k.ing il;out--we 're talking about 
+l,uild Lng a i;pa e s \..a.t on . I 'm as rinx.Lous to do that us Lhe next guy, 
+h \.. \..h i<.: isn't quiLe wha\.. we looked into. I H.p-preciaLc your question; 
+we cer t ainly have Lo fact up to lL. ...... . 
+On-sta.bilizat ·on, uh, su pose you were trying to take of (both pic­
+\..ures) on Gemini, compared to Mercury ....• 
+Wou1 · it take you what? 
+"uppoc,e you Lry to Lake one photo -pic\..ure of the star, say three stars, 
+uh, w at do you th i.nk your s nsi.t i vity in terms of an,,;ular accur acy 
+wou d be for ··a.v, L n s •c0nds or I.hr ~e secondr; focus, ngular-wise 
+l,uL (who ) Luok pic;l,tir-:~ n1.' t.h _ ho j:;,on n.nd... . .. change s ··our degrees 
+1,t: r :;(acond . 
+Ol1 , c ,1er. 1.l1n.L ...... l.u UH~ d,Y•~ll 1,a I Ilh)n'? 
+W,·11 , iL':: 1i vr; r-y ::pc(:i:d quc:::t.iu 1 vn p:c nerul i:c.ntion, you know, 
+_you ' r· , muv i rt/.~ ar·ound, l1u-w c·1J.1\ you , c:u.i 1 you C-ut!rl\..erac the motion 
+un U111 vc l1i<'J · , 1·or 1n::Lanc' , Ll1e Ccrn.i.ni ca11:;ule .... to t ake stabilizer ••• 
+Ycu.h , yo 1' d liu.ve Lo , i 1· y ,H1 W'ant \..1) t:onrpa1·e i with Mercuey s 1.bilizer, 
+
+===== PAGE 65 =====
+Belt 14 7 
+you have to Go back and get moment of impulse of the control system, 
+then apply it to the moment of inertia of the spacecraft, and then 
+do the same with the Gemini .... 
+No, in this case he'd be moving a camera. 
+Pardon? 
+Move Lhe camera to control the angle . 
+Do you jnst hold it? 
+You hold it, yeah. We could take them as well as you could in Mer­
+cury, 1:i.ccording to how stable Lhey tie it. 
+lt/s quite pos:.;ible that you couJ.d stabili ze the spacecraft better 
+than you could stabilize Lhe . . . . . 
+Yeah, can you get that in the spacecraft ...... Thank you. 
+Uh-huh. 
+I would (use) the spacecraft to stabilize it...to hold it out the 
+window, kinda hold i t out the wondow, you have to, you don ' t have 
+lo move the stabilizer . 
+The spacecraft is moving, that means that you 've gotta, you have to 
+move your hand al the , an opposite rate, or the opposite direction, 
+L.lie :rn.me t·at.e thal the ::.;pucecrafl 1::.; moving, I don't think that you· 
+w.1.nl t.,,i do Lfltd, , l>CCt.t.USC yrnl ' ve 1;;0L U stabi liY.er thing in your 
+111-.1.nd lioldl n1.( it,, what, you \vould prubauly do is brace your hand up 
+f.t.ga:i.n:; L U1e s.i.de of the ::.;pE1.c:ecraft lin<i take the pi ctur e , then you' re 
+going to get ....... . 
+Yeah, you sec we've got a site on the spacecraft (bl astoff) that has 
+a rud.ical Uw.t you ' :re go.i.nµ; to light i'or night so with the minimum 
+im._p11J:;e Lim!. we have in Lhe spacec:rart , we could fix it on a star, 
+
+===== PAGE 66 =====
+Belt 14 8 
+and g ~L a i' ixcd u.tLHude sLabili zecJ in Lhis mo.nner . It would pro­
+bably be rather ..... (unstable?) 
+• have the feeling it would be very stable . ome of our section 
+:;iting over there part icularl y when we were wor king on the Apoll o 
+:3 l ting, where I wus keeri • ng u. certain fixed two stars on a ertain 
+l1J(:aLi.o on m.v w!rulnw :J.nd .Ji m ;J u0t. clo.i.np; i "v<·i· t h<'t' with pul es ••••• 
+111; tHcJ11 ' t, t11.1vc; Lhe c11<.1i ·:.il orI • ••• 
+Ile hu<l the ra ica) on . On yeah . 
+. ..... .. ... . . You were well within :i degree t aking a few minutes 
+of oxygen. You can hold it wl thln u d-gree or a quarter of a degree. 
+Yo can get the exact answer to th.i.s if you just analytically •••• 
+Do you have the data? 
+IL's not in the order of hun- N0, I can't, qt1ot .i. L to you of'f-han 
+My 0vc a.Ll j mpr ,s::;iun wn.:; t.ha.L w W(; l.'<..: mor e :_; t.,.1.lJle thaL I thought 
+we wou.J. b • when we: warJt cd to stab.i I .i.zc . 
+. _ . . Wt: ' ve luoked flt our agenda here, u.nd it I s got some general quest ions 
+i.n the end, ~et, l:l. good si..u.b"ili:.::ation ::;tudy go i.ne; •••• 
+'l'hu.t ' :; i'ine 1-1ere Lher ,.my more questions on the terrain photography? 
+I 've r~o L a question . Can u fr.:llow, y u \mow look a:L he movies an 
+.:,,c; "if wt~ ~ot any Lcrr .l.i.ri 0 11 Llt·re '{ 
+rnaLLc·r· 01· f:.t.l·L, T c oL tile i.mpressioti J'rom w,1::t.· you howe 
+a .; y •;; l.<~ r ua.v 1lfl.L• i·rn)un, Llw.l. Ll 1t•re ' ;, qui ·e a hj L of t rain. 
+/\JL< n.l :.:n snm • u I' I.lit• )'J -111 i) J i lllL L<.: I'.' I' i Im::; . c.:0m.J.. 
+
+===== PAGE 113 =====
+4 Belt 19 
+Lhc.:rn , r.o w<' ' rc p r1:.!11di ~<:d . llu J[u l!1c.1. . No, ,1,; a. matter of f act , 
+w<: huvr• i.1. 1· . i Et,h t, plarlCl<:r ove:r in U1e spacecraft center. You roll 
+Lhree limes durin1~ flight--You roll (when you come down to) liftup 
+from the luPnch 1iases which you ho.ve never looked at and about 
+20 hourc Jal.er 'Ne rolled a round for 20 hour s --I never even got it 
+Lo 20 (here) 
+Just part of re-entry we rolled i t around some more and then gave 
+up 70 hours. 
+(We milked some stuff on it) . Storm books are real good. Excuse 
+me, let me see these hooks. We have a book like this. To do any 
+r eal Lime f'light planning, you have t o have access to the--every­
+Lhirw.--all al once , and you don ' t want to have t o get every some­
+Lhinµ; on a roller when _you've ,<(ot Lo roll throup;h it like this. If 
+you want to know what ' s going to happen in 9J hours, you just open 
+the hook up and turn over t o 9J hours. Then if you want t o compare 
+that with say 40 hours --you want to have a comparison there, you 
+can't fo this on a roller film. Unless you 've got some quick access, 
+u way of get,tine; that our like y01J had your own sor t of a meteor 
+rrucr ofilm. 
+Uid you take notes on your book, sir? 
+Yes, we dj d. ·1 Lli.i.nk one i,hi.n~~ thut we did decide on is that the 
+l..i.mc-sc:ale:; Lha.t we hu.vc ill our .flight plan here are--neither one 
+c>l' t,t1cm a:t'c' exactly ri.1<h t. The ear·l y par t or the mission was highly 
+<'xpu.11dc.• <l ; Llw L~1t.Ler _pn.rt was we.she'd down a. J ittle. I think we have 
+::l.x '1011rs p<·r paf'.C in I.he latt,er s U1ge and we ha.ve an hour per page 
+
+===== PAGE 114 =====
+5Belt 19 
+in the early s tage. I think probably three nours per page or some­
+thing l ike that would give us more room t o write the notes. 
+!Ias that book been reproduced? 
+Yes, it has. There are copies for everyone . 
+L<--:t me a.al< you one her e. Do you think you co11l.d hold half a degr ee 
+1n piLcl't on I.he ni/.~ht hor·i,100 w:l th the radical? 
+!.lur e . ,Jus L do it on the top of the air glow layer and you'd have 
+no t rouble a.Lall . 
+You wouldn ' t need a filter , or anything . 
+No . You <lon ' t want. to make the air go away or any dimmer . And the 
+sight is (clifficult ) as it is and it's adequate to use at ni ght. 
+But t.hen you could Lake pictur es , otherwise. 
+Take picture:; at. p;unslght,. 
+Wha1. ,,ere .vou r-;oine; to do when you held thi s '? 
+'L'he sharp point,, i~; dovm , antl for tunately , it was a crunera now 
+designed ll.Y Spacecraft . IL' s a fl11sh-mounted camera for G'r5 and 
+diap;onnally , push down the right window, so the camera is looking 
+np Like thi.s . i:o the spacecraft is on over at an angle like this. 
+Jt,'s not u 4-sa1,elliU· camera is ,1haL I 'm saying. So while the point 
+js probably 1~oo<i, I 'd ltatc to sec I.he thin!!. get out that 0. K. we 
+can p11ll 011I, t,tlc ~Like . I Uke Lhi:' way it' s certainly designed . 
+/\c:t.11;.111 y, 1.11cr1: ' s more· Lo i1, than l.11at . The experimenter will go 
+wi L.11 11 10(1 ,·11C \.lir·o11j.-'J1 U1c SM.rLi11ct1. L l.ighL , so Lhis has nothing t o 
+do 1,1i I.Ji t.11<' cxp,:ri.rnc111. nnymorc . 01il.Y one time it did. 
+/\nd yui1 al :;o tinvc ot.hcr Lho.n JusL a f ipper on the radical you could 
+
+===== PAGE 115 =====
+·3elt 19 €, 
+hold............ 'l poinlu, 
+I ' d l ike to et your feeling on calcium balance coming up on the 
+seven .....what do you think how it will affect your post-flight. 
+I don ' t know how it's going t o affect your postflight, but I know 
+it 's r~oing to be a real problem. You' ve just got a lot of things 
+Lo do. Thr!r c a.re a lot of thinp;s that can't be done until two 
+weeks be ·ore the f'.li ghL. I f you r,i;c;t involved in the bit data-­
+p;athct·in ., x rd ses before the ·1 •1-'.ht , I think that it could indeed 
+,jeo:pm·dh . 1.hc whole ligh t... This is my per::;ona1 OJ)inion. I sort 
+of Lho p,;ht LhaL ::;om of the medi cu.l c:x:aminat ·ans that we had should 
+be inovccl hack ear· Lier . W had n IJif.'. medical examination at FlTA and 
+that ' s one of those few days we go1. a lot of at.her things that 
+should. be Lakin , place and I car ' 1. see that my physical condition 
+changed in the last week . Except maybe I got sl eepier. But I just 
+feel that when you put all these Lhings into the last couple weeks , 
+you really --the guys t.hat are flying the flight--have got to get 
+ready and there 's almost an 'nfinjte amo nt of work to do. You just 
+(~an ' 1. do i. I. ul7 , a.nd i L you t ake t. i rne for data-gat hering exercises, 
+I sot'\. of f'cc:I U11.1t. it. .ieopnr i 7.e "' t.r1e success of t he whol e flight . 
+YOL1 t.hink .voI I <·u11 l<l --u110\.IH: r q 1H' S1,ion--Do yo, think i f you had a 
+cern"n1 i.n I.ti(: ri 1..;l 1L wi11<1 ow w t.h tt ::wizzle st .ick arr angement f or 
+p11.(·!1, do .voII U1 i1 il\ c;ou ld t. ·l sc.:op,· :;U,cs co11 ld l ock onto have 
+r·ont r· ii bc:t.Lc• r 11ll.cll t.hnn .Y u eou ld with a. r i,v:i<.l mounted camera 
+You'n' talkin l,'; ulJ uL n con\. r-ol 01· I.he mounting for the camera. 
+A con LroJ <>I' t,h • pit, r1 ; u conLro I or the mm nt, und th pitch. 
+
+===== PAGE 116 =====
+the good 
+t han 
+the 
+to hear 
+up there and 7Belt 19 
+L, Lr1 i r. a. lin I 1.-j ckd,-:~ >Ck , f. t.yp0 oJ' .)unkhcwl or som<: ,hlng. 
+rt.':; 110I. 1, 1>1,1.l 11nd c H:kcL, bid. 1;1. pi tch..... f'o:r ho1ding a pitch atti-
+t.u 
+Oh, or the ai r ~low. 
+l•'or the ai:r glow yes . 
+'l'his 1✓ onld be for on minute phot 1~r t'tphi ng . 
+Wow . T'd haLe to be u 
+You mechanjz' lt wiLh n low-speed .le troni dr jve and a rheostR.t ­
+Lype Jr ivc or it. 
+No . Mani ally . A manual swi vel , Let ' s do sound effect s f or 
+old 
+Yeah ...•Elr oy T . V.' s char gi ng , you ' r e not going t o have more 
+20 minute exposur e of nie;ht air. 
+Ha Ha Ha We're .,afe I.here, ar en't we. Ha Ha Ha 
+A. swiv I sUck h,re in the right. coming out; you have authority 
+t.ak ·n on 1, d.lff(•rc•nl, one . 
+l,urr.v, did .vu11 L11 I k t.0 Lh m 11b ut l.tw Northern lights below 
+I trj c~rl. to. 
+Oh, exec U.Pn L .xc I I nt. 
+I ju:; L cover .d fl f'ew I itLI(' l.hing:,; and I surely would 1i ke 
+.vour <'omm ·n t. s nbo11t t. I1e um I would Jove to, Venus. 
+Yca.ci 11, "' w<' .r rc;tl Iy imprc• sr;e<l 1-.ri Lh the p l anet Venus 
+W(! l.nol\ '"'On11· p'ir l 11 r r; of' j L nnd i I. di come 0 11t with about ½the 
+
+===== PAGE 117 =====
+8 Belt 19 
+magnjL de o.nd rilliance that it really appears p there . It's 
+a beautiful sight. After the dark up there, it's very brilliant 
+and much more large as far as I was concerne d and bright in magni­
+tude than anythjng I 've seen looking from the ground. 
+(Mercury)proved very, very -pretty. 
+[ be, _yo u r·nugh a pho .ov,r aph, too. 
+Yeah, .i st ........ you know a.nd you 've just --
+Yeah , Lhe colors on those Lhingc . 
+Th t:, Lar s t.hat w Look. on Lhe round wer en ' t ,oo graphic . 
+Di y 11, 1cv r s ,e--
+1\lack. 
+Was t,her e mything else? 
+Black o.cll;a) y looked beautiful and this :i,s the way the sky l ooks ..... 
+1rhe sky 's black, t iL ' s a beautil'ul black background. But that 
+doesn ' t come out on the pictur e . 
+Was he r a i cal any good in the da:,y? 
+(Hasistas ) would be br ' ghter t han it is . 
+/\bout. Lwice ns bright . 
+Twicr bri~hL . 
+You ou lJ ~:t'<' • t on t.hc-' !:(.rm nd . 
+I f' yo,1 nn ' t. •·c, 11. n 1.h c~nus' I.hat ' s t he big thing her . 
+Yo1 ,·cHiJcl :.i•c : jt <m Lhe lr1nd . 
+You c·rn It1 :w,· j L HI t.lw I and 1:in!I L11e wat.c:r . It was fj ne. But 
+when .YOl ·r·0ss Ltle cros"c)oud 1 t. hi11k we oue;ht t o have two r ings 
+of r · 1•:hLnc:,s . 
+You know r i ~~ht. now i L' c very brigh !. and just th -next beat tannicals 
+look v<·r,y dirn nnd t.hC'n _you ' v<' 1-~o t t v;rn,dat · on of dims . 
+
+===== PAGE 118 =====
+9 Belt 19 
+thir1k the dim gr adat•i_on is excellent . 
+th:i nk we nr!ed 11. ljt1. L. variation of brightness . 
+[;id you f .i.r d any difference in the two windows ? Did you see any 
+ventieral differenc~ in those two windows·? 
+We co1lldn ' t, chang places . Ha Ha l[a. 
+::iec T l ooked in m•i ne , he) looked i n his , and t here wasn ' t any way 
+in tile world that we could--
+You ou d' get near enough to start a ration? 
+1 o. N . You really can ' I. . 
+fndepen enL of yo11r r at.ion . You ' r pretty safe to check your radi­
+r:t.11 hri.p;ht.ncss a.gulnrt 1,h . brip:ht <.:lo d right on the earth. 
+You know on 1l. brighL day like Lhi:;; . 
+Shoot , t hey said it was checked against the snowbank. 
+You can ' t bank there. You 're in trouble . 
+Unless ,here's a ............. . 
+A couple of Li.mes I was looking for it. 
+'T'hose wer dirty St. Louis snowbanks . (snowguns'?) Ha Ha Ha 
+0. K. , 1 ,hink ... ... the more you want to say . If you ' 11 wrap it 
+uµ . J Lh;i 11k b0Lw 'rt tl1 i G mor n i n1.,~ and ,Jim and Ed's comments this 
+urtc::r11 )On w,, cu11 t·xl.ro.(:L v ryl.fl •n1•· we )res nt, ...... . 
+I 'd I i k., t.o ::a.v '.; rneth··ng. The~ wn.v it l ook s rip:ht nov1 you have 11 
+1-xperirn •nt:; 1.tn<.J ev ,ryon of' them i,: o. total s1 ccess . Ther e is no 
+indicn1.jori LhaL 1.h r ' s any hine: , nny anomaly and there ' s no indi-
+cation that. th re w· L be any anomnly . Just a q1ick l ook .... .... . 
+C r ta i 11ly 11OLhi1t oper uLion111 , I me n it ' s not operationa l. ...... . 
+'f'hcrc· ' r: nol.h.i.n~i: uL uU . Now you 'v' go a cou le of equipment pro­
+!, I m:; , h11L .vn11 r•x1><' . I.C'd Lhnt ·1 ' m !.ol:.; . It was per ec as far as 
+
+===== PAGE 119 =====
+.. 
+Belt 19 10 
+experiments go. 'l'here was nothing hat could have been done to 
+improve it. This is t he way the guider shows i t ; this is the way 
+the mock-up ...... . 
+~ven the experiment you didn't have a very successful flight .. Ha Ha Ha. 
+Well, we've got how many more ....8 more to go, huh. Ha Ha. 
+What , ........... . 
+No, flights . 
+End of tape . 
+
+===== PAGE 120 =====
+"' Notes from the De-Briefing transcript 
+eteors: 
+Both cDivitt and hite 1 tioned seeing a number of rn teors bel w 
+them: e sa quite a fe fall end burn up bolo our cltitude . 1hey wore bout 
+on half to on third as high as re were hen they ere conswn d. . e /n er 
+aaw one bove us. 11 { short d s if.,'() 
+As the acco p',nyin..~ plots of numb rs of meteor a ainst the onths of thef 
+r sho s the oun of meteor activity in e rly June is at a r ther lo 
+p206 *Fig. l(Ro chta plot of Olivier data from S ithsoni n Contrib. to Astrophys .N 
+level, b1,.:gdnn to rioe very hortly alter that to rds ll peak in u ust . 
+on th average from to altitude 
+Re rdless of their bri htness/meteors ap or 40 and 60 miles/in the earth's 
+sphere. Bri"ht rn toors ares en to reach about 40 miles, rhereas wct8kkx 
+lar e fireb· lls may still e seen as lo I as 20 miles or so. 
+Th ver· , hei'.;ht th ou11.hout the ath is r ter for faint r eteo nd 
+for thos of h h v.locitie . Actually the hr' ht objects r lar er and hence 
+tr vol further tofore they re conn d1 often tr veling fo r sev ral hundr d 
+iles b for they r consum d. 
+Planets 
+The pilot re rked that"the pl ets or o clear nd br' ht, 11 nd later 
+th t 11a11 the sun"ets h d the plan t in it•" Th y have in f ct r corded Venus 
+in the oriion bands on one of their sunset pictures . t thot date V nus Qllbc 
+as still clos to the sun being (angul r dist;nce·t)Sup .conj.A r.11) bout 15de • 
+cast of the sun (eve. star). On the color print S-65-34771 them ge of Venus 
+can be distictly seen amid the horizon bands . 
+
+===== PAGE 121 =====
+.. 
+Zodiacal Light 
+~ Jae Divitt and ,hite ,ere taking 16 rnti. movies DK1u:d;i1Q5 
+be.fore one11 capsule da m11 when they noic d ttie zodiacal light and described 
+it u thus, "it was a shaft of light and a long tine before the sun came up. 11 
+On the ,round observ rs can note tho cone tot light in the eastern sky or 
+•western sky after the sun has set and gone down about 18 de~~ ( about and hour 
+after sunset or an hour before sunri e.) Pilots t 40,000 feet o~n follo it for 
+a lon1er span since they are , rray from disturbing city lights • 
+\Condition of tho ii.do 
+\ 
+\ 
+The G....nrlni optical window is quite superior to tho Jrcury indo,,. None-
+~ 
+the less the pilots note that 11both their windows ere fog YJ" nd at one 
+point durin~ EVA ,hite :rubbed his sleeve accid nt·-lly on JirllSs, ~dow 
+d~~na it -probably parti lly rcmvlinr the silicon ·D.m.smu -~-o 
+
+===== PAGE 122 =====
+-. ~ 
+
+===== PAGE 169 =====
+• -2-
+Experimenters a re encouraged to p ub.:'..isl1 experimental 
+results promptly in order to inform the scientific 
+community dS early as possible . II :, il:? f analysi~ of 
+experimental results 1ith illustrations I here appropr iate 
+is required to be furnishe d to the 8Xperi mcnt coordinator 
+within t1-10 reeks followin~ t he mission for the >u:::;tldu ch 
+memorandum prepar ed by Manne d Space_raft Canter . 
+Experi menters are also encouraged t:, coordinate c1 n t1 
+exchange data amonu t hemsel v s in order' t o enhance to 
+ti1e fullest extent , the scientific .;enefitc of edch 
+mission . It i s i mport ant to the conduct of your ex-
+eriment that all emini scheduled dlin s be m t 
+and th t y ou kee p your HSC e xperi men t coordinator i n ­
+formed on progress of your experiment at all times . 
+We hope that the plannin g of your ex~eriment and the 
+constr uction and integration of your flight hardwar e will 
+be brought to satisfactory completi on in order that your 
+experiment , a lon g with those o f t he other expe riment e r . 
+on the attached list , may serve to make the Gemini scien ific 
+payload a successful addition t o th e United St a t es ~p ace 
+Pro gram. 
+S incere ly yours , 
+!lamer E: . ::e;ell 
+Associ · t e lldrninistrator 
+for Space Science & llpplicntion~ 
+Enc losure : 
+List of 
+Approved Cxperimenters 
+
+===== PAGE 170 =====
+c,-T10NAL. f"'OflM NO. 10 - .SOlG-107 
+_. MAY 1942 EDITION 
+Gs.\ C:EN, R G, NO. .2.1 
+NITED STATES GOVERNME 
+emorandum 
+TO SM/Manned Space Science DATE: 
+M-C MGS 1352. 2 
+FROM MG/Deputy Director, Gemini Program 
+SUBJECT: Technical Analysis of Gemini (GT-4) Photography 
+The attached TWX on the subject matter from Willis Fos ter to 
+Robert Piland on July 16, 1965, has been coordinated by Mr . Liccardi 
+of my office and Dr. Gill of your office . I believe that this TWX 
+satisfies the request of your letter to me of July 16, 1965 on the 
+same subject . 
+I do not anticipate ny problems in your office receiving the S-5 
+70MM film, however, should you encounter any difficulties my office 
+will prepare additional authorization that may be deemed necessary 
+to expedite this matter. 
+William C. Schneider 
+cc: Dr. J. Gill 
+Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan 
+
+===== PAGE 171 =====
+NAME OF AG8'1CY I PRECEDENCE 
+ACTION, I 
+INFO., PRIORITY UNCLASSIFIEDNASA BEADQUAfm!RB 
+THIS BLOCK FOR USE OF COMMUNICATIONS UNIT 
+TELEGRAPHIC MESSAGE 
+OFFICIAL aus,NESS 
+U.S. GOVERNMENT 
+MESSAGE TO BE TRANSMITTED (Use double spocing ond oll copitol letters) TH IS COL. FO R AGEN CY USE 
+MR. ROBERT O, PILAND 
+EXPERIMENI'S PROGRAM OFFICE 
+MANNED BPACECRAFr CENI'ER 
+HOUSTON, TEXAS 
+I?iFO TO: DR. PAUL LOWMAN, GODDARD SPACE FLIGHT CEN•fi!B, 
+GREENBELT, MARYLAND 
+MR. LEO CHILDS, CODE ET22, MANNED SPACECRAFT CENTER Sn 
+HOUSTON, TEXAS 
+IT IS REQUESTED THAT YOU AUTHORIZE TBE APPROPRIATE AUI'HORITIES AT 
+me TO RELEASE THE ORIGINAL FIIM OF SPOOL 3 OF MAGAZINE 8 (WHICH 
+w 
+COVERS TBE Sou.rBWESTERN O,S.) TO MB., LEO CHILDS, MSC, FOR 2 TO 3 2 5 
+"' x I-DAYS. MR. CHILOO WILL CARRY IT TO DATA CORPORATION, DAYTON, OHIO 0 z• MICROSENSITOMETER. 0 >-w FOR MEASUREMENT ON THEIR THE PURPOSE OF THESE .., 
+w 
+C) <MEASUREMENTS IS TO DETERMINE THE TRUE RESOLUTION OF THE _S-5 70 mm "' "' w l' 
+wPHOTOGRAPHY ON GT-4. WE REFER 'ro A TELEPHONE CONVERSATION BE'lWEEN ... 
+~ ... 
+0EMORY HARRIS OF YOUR OFFICE AND ANTHONY LICCARDI, OMSF, LAST NIGHT. z 
+0 
+0 
+WHIU: MAKING THE RESOLUTION ANALYSIS WE ARE ASKING DATA 
+CORPORATION TO MAKE FIVE (5) SETS OF CONTACT P.Rml'S .AND ONE (l.) 
+DUPLICATE NIDATIVE OF SEIECTED FRAMF.S UBING VERY FID-GRAINED 
+MATERIALS WHICH GIVE .AIMOST 1~ TRANSFER. THESE PRINTS AND FIIM 
+WILL BE USED FOR FURTHER ANALYSIS BY AGENCIES IN THE WASHINGTON 
+AREA. 
+PAGE NO. 
+
+===== PAGE 172 =====
+lllAME Of AGENCY PRECEDENCE 
+ACTION : 
+INFO.: 
+a-,-----------------------l TYPE Of MESSAGE Cl AS SI FICA TION 
+ACCOUNTING CLASSlflCA TION 0 SINGLE D BOOK STANDARD FORM I• REV. MARCH 15, 1957 
+□ MUlTI-AOORESS GSA REGULATIO N 2-IX-30 1.00 
+t::-:::-:~=-===:-:-::-:-::------=------------...l.. ....!:::::......:.::.:...:.:.:.:.:.=----- -1 14-304 
+THIS BLOCK FOR USE OF COMMUNICAT IONS UNIT 
+TELEGRAPHIC MESSAGE 
+OFFICIAL BUSINESS 
+U. S. GOVERNME NT 
+MESSAGE TO BE TRANSMITTED (Use double spocing ond oil capitol leffen) AGENCY USE 
+PAGE 'lWO 
+DB. PAUL UMWi PRI?fCIPAL DM'Sl'IGATOR ON TBE B-5 EXPERIMDT HAS 
+Coz«ruRRED :m THESE .ABRA.BGIMEN'l'. IT IS 'URDJ!:RS'l'OOD TBAT 
+MR. LEO CHILDS WILL SAFEGUARD 'l'1IE FILM IN 'l'RAHSIT AND Mr DATA 
+CORPOBATIO • AT DATA CO.RPOBATION THE CONTACTS .Am: 
+MB. WILUAM GOROG, CHAIRMAN OF THE BOARD AID MR. ROBERT BOOBE. 
+WE WILL GREA1'LY APPRmIATE YOOR EXPEDITING OUR OBTAIBI.BG THIS 
+~ SCIDTIFIC DATA WBICR CAB BB AC UIRID FROM THE S-5 
+70 mm FIIM. 
+WILLIS B. P'OS'l'ER 
+DIRICTOR 
+MARNED SPACE SCIENCE PROGRAMS 
+cc: Ml/Schneider 
+MJS/Liccardi 
+BM/Colvocores ee 
+PAGE NO. NO. Of P4GES 
+2 2 
+NAME AND TITLE Of ORIGINATOR (Typ<t) ORIGIN4TOR'S TEl. NO. D4TE AND TIME PREP4RED 
+Jocel:.)'n R. Gill 7/16/65 2:00 •• • 
+UNCLASSIFIED v" (Si9nolv,.) 
+• u.s GOVERHMEHl PRINTING OfflC[ uu o-1u-u~ 
+
+===== PAGE 173 =====
+M (JRG.kb. ) 
+JUL 1 .i 1965 
+
+===== PAGE 174 =====
+2 ... 
+.., 
+equi of 
+l3ogge 13 C nxt 
+E,xperl.lncant nt for an 
+r 
+l . hip on h Ast OllOlXIY Subc 
+ve a good s r. 
+1ncerely yow:-a, 
+-Gfll 
+Jo ~ R. Gill 
+Chief, Inf'll 
+Mann d 6~ t c~ence 
+Sci n Progr 
+cc: Dr. Al Bo ess, m/08.FC 
+Willis B. Foster, SM 
+Subject File 
+Reading File 
+SM:JRGill:kby 20593 7/l2/65 
+
+===== PAGE 175 =====
+, 
+DEARBOR OBSERVATORY 
+NORTHWESTERN UNIVERSITY 
+BVA STON, lLLINOIS 60201 
+24 June 1965 
+Dr. Jocelyn Gill 
+Chief, Inflight Sciences Branch 
+Code SM 
+Manned Space Science Programs 
+NASA Headquarters 
+Washington , D. C. 20546 
+Dear Jocelyn : 
+In connection with the astronaut debriefing conference , 
+my lack of attendance has caused you any embarrassment . I 'm sorry if 
+I simply 
+couldn 't make it on such short notice . I was at the University of 
+Wisconsin when the news reached me on Wednesday morning . Having just 
+driven for three hours to get there I was reluctant to turn around 
+and leave lmmediately as would have been required for me to catch a 
+late afternoon plane to Houston . 
+I hope that it might be possible for me to attend the next debriefing 
+in which the astronauts may be discussing either open hatch activities , 
+spacecraft stabilization, or operation of the General Purpose Camera. 
+As you are probably alreaey aware, I have just received an invitation 
+from Dr. Newell to become a member of the Astronomy Advisory Subcommittee . 
+I am delighted both for the honor of having been so chosen and also by 
+the implication that astronomical observations from manned space vehicles 
+have at last been recognized as worthwhile scientific activities . I 
+thank you for your very considerable efforts in backing my original 
+proposals and in making it possible for this whole situation to develop 
+so favorably . 
+Sincerely , 
+Karl G. Henize 
+KGH :mjw 
+
+===== PAGE 176 =====
+S (JRG:cvd) 
+JUL 14 1965 
+TO: Manned Spacecr ft Center 
+Chier. Photo r phic Division, Code 
+NASA He dquarters 
+Ch1ef, Infl1 ht Sciences 
+SUBJECT: Request for duplicate movie films and color prints of all 70 mm, hand-held pictu~es 
+One copy of each of color mevie ~1lms h1ch include sunsets, 
+sunrises, horizon bands, limb of earth nd terrain views 1s re­
+quested to be forwarded to Dr. J.R. Gill, Code SM,. NASA Head­quarters. Please send these air mail sinoe this material 1s 
+n eded soon for preparation o7'an7i'itrongmical re1ort on GT-~. 
+One of the most important films for this purpose s Ma zine 9. 
+Two sets or color prints of all color still pictures which were 
+taken with sselblad 70 mm camera (on GT-4) are also requested.It will be adequate to send these by re ular mail. These prints 
+pertain mainly to the S-5 and s-6 Gemini xperimenta. 
+Jocelyn R. Gill 
+Jocelyn R. Gill 
+
+===== PAGE 177 =====
+... 
+Deputy 
+cb 
+OFFICE CODE ► 
+SIGNATURE ► (JRO;kby) JUL 1 19 J) 
+.TO . cecraft Center o. , r 
+po o Spacecr 
+: 
+oft of voice ta f 
+rsa ion o e o, t ng 
+ceipt o~ copies of subJe ri t, 
+3. 
+Co 
+G 
+. Dr . Gill 
+C ____rter 
+.c. ro5-46 
+Jocelyn • Gill_ 
+Joce:cyit R. Gill 
+cc : MGS/Mr. Liccard.i 
+SM Reading Files SM File: Sci. debriefing GT-4 file 
+CONCURRENCES: SM:JRGill: kb 20593 7 1 65 OFFICIAL FILE COPY 
+
+===== PAGE 178 =====
+) 
+JUN 171965 
+1p not 
+GT;;.4 •• 
+... ...,,..,,. yo 
+Jocelyn R. GiU 
+cc : SM File s 
+~kby 20593 6/7/65 

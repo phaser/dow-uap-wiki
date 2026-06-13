@@ -3,8 +3,8 @@ title: "Orbital UAP"
 type: concept
 tags: [nasa, orbital, 1960s, 1970s]
 created: 2026-05-08
-updated: 2026-05-08
-sources: ["raw/nasa-uap-d2-apollo-17-transcript-1972.pdf", "raw/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf", "raw/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf"]
+updated: 2026-06-12
+sources: ["raw/nasa-uap-d2-apollo-17-transcript-1972.pdf", "raw/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf", "raw/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf", "raw/nasa-uap-d017-preliminary-gemini-4-crew-debriefing-part2-1965.pdf", "raw/nasa-uap-d020-gemini-5-technical-debriefing-part2-1965.pdf", "raw/nasa-uap-d021-gemini-7-technical-debriefing-1965.pdf"]
 confidence: high
 ---
 
@@ -26,6 +26,16 @@ confidence: high
 - **Skylab 3 "red satellite"** — bright reddish rotating object pacing the station for ~10 minutes, ~30–50 nmi away, brighter than Jupiter, 10-second rotation period; never identified despite explicit crew ID request. See [[summaries/nasa-uap-d7-skylab-technical-crew-debriefing-1973]]
 - **Skylab 4 tumbling flashing lights** — "two or three" objects moving relative to the station, also unidentified. Same source.
 
+- **Gemini 4 "curtain of lights" (June 1965)** — McDivitt and White observed parallel running lines of lights radiating upward from Earth near Australia, aurora-like but below the spacecraft and closer, wiggling in motion "like neon signs," observed twice. Not confirmed as aurora; described as between cloud layer and spacecraft (~50–60 mi altitude). Photos taken but exposure uncertain. See [[summaries/nasa-uap-d017-preliminary-gemini-4-crew-debriefing-part2-1965]]
+
+- **Gemini 5 aurora-type green phenomenon (August 1965)** — Cooper and Conrad observed a bright green light in the airglow layer that changed color, altered the airglow's height and definition, and "chopped off" the airglow sharply below it. Described as "some kind of Aurora effect." See [[summaries/nasa-uap-d020-gemini-5-technical-debriefing-part2-1965]]
+
+- **Gemini 5 unidentified object (August 1965)** — Cooper and Conrad spotted an unidentified moving object during drifting flight; could not confirm if satellite. See [[summaries/nasa-uap-d020-gemini-5-technical-debriefing-part2-1965]]
+
+- **Gemini 7 satellite sighting (December 1965)** — Borman sighted a satellite at 16:40 GET passing underneath at lower altitude and higher inclination, "just a reflection... like a sighting from the earth." See [[summaries/nasa-uap-d021-gemini-7-technical-debriefing-1965]]
+
+- **Gemini 7 "bogey" (December 1965)** — Borman called "bogey at 10 o'clock high" — separate from the booster, the "hundreds of little particles," and the satellite sightings. Documented in PAO release transcripts. See [[summaries/255_t_763_r1b_transcripts]]
+
 ## Related Concepts
 
 - [[concepts/uap]]
@@ -38,3 +48,7 @@ confidence: high
 - `raw/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf`
 - `raw/nasa-uap-d2-apollo-17-transcript-1972.pdf`
 - `raw/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf`
+- `raw/nasa-uap-d017-preliminary-gemini-4-crew-debriefing-part2-1965.pdf`
+- `raw/nasa-uap-d020-gemini-5-technical-debriefing-part2-1965.pdf`
+- `raw/nasa-uap-d021-gemini-7-technical-debriefing-1965.pdf`
+- `raw/255_t_763_r1b_transcripts.pdf`

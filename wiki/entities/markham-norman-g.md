@@ -4,7 +4,7 @@ type: entity
 tags: [army, witness, analyst, 1948-1955]
 created: 2026-05-08
 updated: 2026-05-08
-sources: ["raw/38_143685_box7_incident_summaries_1-100.pdf", "raw/38_143685_box7_incident_summaries_101-172.pdf"]
+sources: ["raw/38_143685_box7_incident_summaries_1-100.pdf", "raw/38_143685_box7_incident_summaries_101-172.pdf", "raw/dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the-us-101-172.pdf"]
 confidence: medium
 ---
 
@@ -21,6 +21,7 @@ Norman G. Markham, U.S. Army, is the author of a 1948 letter preserved in the Pr
 
 - [[summaries/army-incident-summaries-1-100]]
 - [[summaries/army-incident-summaries-101-172]]
+- [[summaries/dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the-us-101-172]] — Two Markham letters preserved in the Norcatur incident file (February-March 1948): the "moon rocket" hypothesis and the "latitudinal belt" hypothesis cataloguing 1947-1948 sightings
 
 ## Related Entities
 

@@ -26,6 +26,7 @@ confidence: high
 - Skylab 3 "red satellite," 1973 — see [[summaries/nasa-uap-d7-skylab-technical-crew-debriefing-1973]]
 - Muroc AAF cluster, 8 July 1947 — see [[summaries/army-incident-summaries-1-100]]
 - FBI tracking-camera sequence, 1999-12-31 — see [[entities/fbi-tracking-camera-sequence-19991231]]
+- Colorado Springs / Cheyenne Mountain, 15 February 2022 — potato-shaped translucent object observed by five Army witnesses; AARO low-confidence assessment as [[concepts/backscattering]]. See [[summaries/ica-uap-d001-analysis-colorado-springs-uap-incident]]
 
 ## Related Concepts
 
@@ -35,6 +36,7 @@ confidence: high
 - [[concepts/transmedium]] — a behavioral subclass
 - [[concepts/orbital-uap]] — UAPs observed from spacecraft
 - [[concepts/lunar-anomaly]] — UAP-adjacent observations near or on the Moon
+- [[concepts/backscattering]] — an atmospheric phenomenon proposed as an explanation for some ground-observed UAPs
 
 ## Sources
 

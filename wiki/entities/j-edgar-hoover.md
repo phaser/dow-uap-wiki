@@ -3,8 +3,8 @@ title: "J. Edgar Hoover (FBI Director)"
 type: entity
 tags: [fbi, individual, 1947-wave, 1948-1955]
 created: 2026-05-08
-updated: 2026-05-08
-sources: ["raw/65_hs1-834228961_62-hq-83894_section_1.pdf"]
+updated: 2026-06-13
+sources: ["raw/65_hs1-834228961_62-hq-83894_section_1.pdf", "raw/fbi-uap-d011-dfbi-correspondence-referral-1949.pdf"]
 confidence: medium
 ---
 
@@ -20,6 +20,7 @@ confidence: medium
 ## Documented in Sources
 
 - [[summaries/62-hq-83894-section-1]] (and other 62-HQ-83894 sections — see [[entities/62-hq-83894]])
+- [[summaries/fbi-uap-d011-correspondence-referral-1949]] — Letter from Reverend Charles C. Barnes (January 1949) reporting atmospheric beam convergence over the Cascade Mountains; Hoover's office acknowledged and referred the information
 
 ## Related Entities
 

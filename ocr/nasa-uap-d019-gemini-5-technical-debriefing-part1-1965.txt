@@ -1,0 +1,2150 @@
+
+
+===== PAGE 1 =====
+.. -,. 
+19 
+Y authtrity of E. c 11G 
+hanged by C4?1 •'o <<=­/ 
+GEMINI V 
+TECHNICAL DEBRIEFING (U) 
+Part 1 
+NOTICE: This document may be exempt from 
+public disclosure under the Freedom of lnfor• 
+mation Act (5 U.S.C. 552). Requests for its re­
+lease to persons outside the U.S. Governme nt 
+should be handled under the provisions of 
+NASA Policy Directive 1382.2. 
+THIS MATERIAL CONTAINS INF'ORM.ATION AFl"IECTING 
+THE NATIONAL OEFENSE OF THE UN I TEO STATES 
+WITHIN THE MEANING OF' TH£ £8P'IONAGIE LAW 5 ,. 
+TITLE 11. U .S.C, SECTION 793 ANO 794. THE TRANS­
+M ISSION OR REVELA T ION Of' WHICH IN ANY MANNER 
+TO AN UNAUTHORIZED PERSON IS PROHIBITED av L AW. 
+GROUP 4 
+OOWNCi ftAOEO AT ) VEAR INTFRVALS , 
+OECLASSIF'IEO AFTER 12 VEARS 
+t 
+" 6()tJF18Er4 T I;\b 
+
+===== PAGE 2 =====
+PRELIMINARY 
+GT-5 FLIGHT CREW DEBRIEFING TRANSCRIPT 
+PART I 
+Prepared By 
+Spacecraft Operations Branch 
+Flight Crew Support Division 
+September 1, 1965 
+This material contains informat i on affecting the 
+national defense of the United States within the 
+meaning of the Espionage Laws, Title 18. U. S. C. 
+Section 793 and 794, the transmission or revela­
+tion of which in any manner to an unauthorized 
+person is prohibited by law. 
+Gr oup 4: Downgrade at 3 year intervals 
+Declassified after 12 years 
+
+===== PAGE 3 =====
+PREFACE 
+This preliminary transcript was made from voice tape recordings 
+of the GT-5 flight crew debriefing conducted August 30, 1965 thru 
+September 1, 1965 at the Crew Quarters, Cape Kennedy , Florida. 
+Although all the material contained in this transcript has been 
+edited, the urgent need for the preliminary transcript by mission 
+analysis personnel precluded a thorough editorial review prior to its 
+publication . Errors in this transcript will be corrected as soon as 
+possible and an official transcript will be published at a later date. 
+This document contains a transcript of the first part of the 
+debriefing, during which the crew described the mission generally 
+from an operational viewpoint . A preliminary transcript of the re­
+mainder of the debriefing will be published by September 3, 1965. It 
+will cover systems operations , operational checks, visual sightings, 
+experiments , pre-mission planning, mission control , and training. 
+a i eJ~FIDff:!TIAL 
+
+===== PAGE 4 =====
+9'0Ni;10ENTll(t 
+~ 
+TABLE OF CONTENTS 
+Paragraph Page Number 
+1.0 COUNTDOWN 
+1.1 Crew Insertion. . . . . . . . . . ,1 
+1.2 Communications . . . . . . . . . . . .1 
+1. 3 Crew Participat ion and Countdown . .1 
+1.4 Comfort. . . . . . . . . . .1 
+1.5 Environmental Control System .2 
+1.6 Sounds . . . . . . 2 
+1.7 Vibrations . . . . . . . . . . . 2 
+1.8 Visual . . . . . . . . . . . . . . . 3 
+1.9 Crew Station Controls and Displays 4 
+2. 0 POWER.ED FLIGHT 
+2.1 Lift-Off Cues . . . . . 6 
+2. 2 Roll Pr ogram 7 
+2.3 Pitch Program . 8 
+2.4 Aerodyn a.mci.cs. . . . . 8 
+2. 5 Environmental Control System. . 9 
+2. 6 Maximum q . . . . . . . . . . 9 
+2.7 Windshear . . . . 9 
+2. 8 DCS Update. . . . . . . . . 9 
+2. 9 Engine 1 Operati on. . 9 
+2. 10 POGO. . . . . 10 
+2. 11 Engine 2 Status . . . 12 
+2. 12 Acceleration g' s . . . . 12 
+2,13 BEXJO . . . . . . 12 
+2. 14 Staging . . . . . . . 13 
+2. 15 Engine 2 Ignition 13 
+2. 16 RGS Initiat~ . . ~4 
+2. 17 Fairing Jettison . 15 
+2,18 GO/ NO GO . . 20 
+2, 19 Systems Status 21 
+2. 20 SECO . 21 
+2. 21 Steeri11g, . 22 
+I' 
+...... 3.0 INSERTION 
+3. 1 Post-SEXJO . . . . . . . . . . . . . . 23 
+3. 2 SEXJO + 20 Seconds . . . 26 
+3.3 Inser tion Activities . . . . 30 
+4. 0 ORBITAL FLIGHT 38 
+Wf.lE>ENTl~ E 
+
+===== PAGE 5 =====
+5.0 RETROFIRE 
+5. 1 
+5. 2 
+5.3 
+5,4 
+5.5 
+5.6 !R-36 Events..
+~R-256 Events . 
+~ -1 Events ... . 
+1R-O Events . .. . 
+Retropack Jettison . 
+Communic ations. 
+6.0 REENTRY 
+6.1 
+6.2 
+6.3 
+6.4 
+6.5 
+6.6 
+6.7 
+6.8 
+6,9 
+6.10 
+6. 11 
+6.12 400 K . . . . . . . 
+Acceleration profile. 
+Spacecr aft control. 
+100 000 Feet. . 
+50 000 Feet .... 
+35 000 checklist items . 
+Commtmi cati ons. . . 
+10. 6K barostat . . . . 
+Main chute deployment 
+Single point release . 
+Blood pressure measurements 
+Postmain checklist items. 
+7. 0 LANDING AND RECOVERY 
+7.1 Impact. . . . 
+7,2 Checklists . . 
+7.3 Communications . 
+7.4 Systems Configuration . 
+7,5 Spacecraft Status . . 
+7. 6 Post-Landing Activities 
+7,7 Comfort . . . . . .. 
+7.8 Recovery Force Personnel . 
+7.9 Egress . . 
+7.10 Survival Gear 
+7.11 Crew Pickup Page Number 
+.168 
+. 172 
+.173 
+. .174 
+.182 
+.183 
+.194 
+.196 
+.197 
+.197 
+.198 
+. 202 
+.202 
+.202 
+. 203 
+. 204 ..204 
+. 205 
+.206 
+. . 210 
+. 211 
+. 211 
+. 212 
+. 213 
+. 214 
+. 214 
+.214 
+.215 
+.215 
+
+===== PAGE 6 =====
+1 
+1.0 COUNTDOWN 
+1.1 Crew Insertion 
+Cooper The crew insertion , I thought, went very well . 
+Conrad Yes , we had the suiting thing down on my cuffs and 
+everything so that we got right out t here and, boy, 
+th& Gunter was ready for us and i n we went. 
+Cooper They were all set. There were no delays and every­
+thing went exceedingly well on the gantry. 
+1. 2 Communications 
+Cooper Communications , I thought were good and no probl em at 
+all on communications, and everything went real well. 
+Conrad Yes , Stoney handled that whole thing real well. 
+Cooper All right, volume was still down on the little comm 
+sets in the transfer van there. That's Stoney's 
+little improvement . 
+1.3 Crew Participation 
+in Countdown 
+Cooper Crew participation in the countdown was good. I 
+didn' t see anything at all wrong. 
+Conrad Yes, we weren' t rushed. We felt t hat we had enough 
+time to get the switches in the right position and 
+just everything went real good. 
+1.4 Comfort 
+Cooper Comfort was real fine . We went on to two suit fans 
+
+===== PAGE 7 =====
+2 
+Cooper 
+1.6 Sounds 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+1.7 Vibration 
+Cooper right away. I thought we felt plenty cool the 
+whole time. 
+ECS was good. Never any problem with it. 
+Sounds , I thought the only sounds tha·; we had that 
+were abnormal we'd been warned about. When the 
+prevalves opened, they were fairly loud and when 
+the engines gimballed they were quite loud , and 
+both of those we were aware of the fact that they 
+would cause a lot of noise and vibrat:.on. 
+There is something that really dings t he booster 
+too when they start.... I don' t--whether they 
+drop a platform away. 
+It' s before they start moving the gant ry. 
+Just before they start lowering that erector. Boy, 
+something really, like it really bangs that booster , 
+I thought. I still don't know what it is, but, of 
+course, we ' d been up there with the erector down 
+twice before that so we were sort of e~tting used 
+to those kind of sounds. 
+Okay, vibrations we already covered tr.at. Sounds , 
+vibrations. 
+
+===== PAGE 8 =====
+3 
+1.8 Visual ,. 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+FCSD REP 
+Conrad 
+Cooper / Visual . Nothing.... 
+Oh, yes , wait a minute, I started getting this win­
+dow fogging. 
+Well, let' s cover that under the right area. 
+Well, it was actually in the countdown when the 
+erector went down before liftoff. 
+Well , okay, allright . 
+I mean we still had it later. 
+Well, you want to cover that now then in systems. 
+Well, is that what this means , is visual, or does 
+that just mean something else? 
+Yes, that' s before liftoff. Powered flight is next . 
+Yes , well t lri,s-tra-,:5pened 6e:f'1 
+Allright , even before liftoff, hat this 
+really is completely unforgiveable. Each window 
+was filthy. Just fogged completely over, and it was 
+on the inside of the outer pane of glass. It was 
+within the sealed unit of glass, and it was so 
+foggy when they lowered the erector that it 
+it was frozen over solid, 
+d neither could 
+Well, it had fogged over before they lowered the Conrad 
+(j()tqflDENTIA[ ,. I 
+I 
+
+===== PAGE 9 =====
+4 
+erector and then the guys heated it w:.th hot air to 
+make it go away and that just made th:.ngs wor se when 
+they lowered the erector. 
+Cooper It didn't make it go away all the way. 
+Conrad ThatI s right it made'"it-~ actually. 
+Cooper /L my side in my window ~etweer. the inside 
+pane and the two outside panes of\\8-~s , I had a 
+small bee, and I had a fly, and I had\several 
+flecks of things that I had written u~ before and 
+never got corrected, and they were the whole flight, 
+and I 'm sure they will show up on all the films 
+and everything. Now between the outer sealed panes 
+of glass there were numerous little specks and 
+of stuff and throughout the flight as . ..well , we ' ll 
+cover that later, but that was even 7rore the flight 
+started . The windows were not pla/n and were not in 
+good shape to go forthe--f~ . 
+1. 9 Crew Station Contr ols 
+and Displa_ys 
+Conrad I think the Gemini cockpit is a pretty good cockpit. 
+Cooper I think in general that crew stations eontrols and 
+displays were pretty adequate . 
+Conrad I 've got a couple comments on switches and things, 
+but these are.... 
+~FIDENTIAL -
+
+===== PAGE 10 =====
+5 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad ,. Okay, how about the time you spent in there on 
+prelaunch . Do you think that this is about right? 
+Yes , yes, I think that this is just about right. 
+I think that if you cut it down too much more 
+than that you are going to be....you could cut it 
+down some more , there's no doubt. .. . 
+It' s that cabin purge cycles when you're not doing 
+anything really, and that ' s excellent time. 
+...that you can cut it down, but that' s the thing 
+that takes the time for both the ground crews... 
+and that's lost time. I don' t know.... 
+I don' t think you want to rush the crew and now 
+our count that second day went by the clock, boy. 
+We got in there at the right time. We counted down 
+and lifted off on, and I didn' t feel that I was 
+rushed, and I didn't feel that I sat in there for 
+an excessive amount of time. 
+No , I didn' t either. I thought that it went just 
+about right, time wise . 
+Long as there ' s no holds in the count everything ' s 
+great. 
+
+===== PAGE 11 =====
+6 
+2.1 Lif t Off Cues 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper FtE>ENTI L 
+2.0 POWERED FLIGHT 
+Okay, lift-off cues , CAP COM . CAP CO~ didn ' t come 
+into the act until later . Stoney counted us down 
+thru ignition and lift-off and then CAP COM picked 
+us up at lift-off. Motion is an excellen t clue. 
+There ' s doubt in your mind when you ljft-off. You 
+know, the second you lift-off that yot.' ve lifted. 
+Vibration was very low. 
+It had dropped out almost completely a.t lift-off, 
+felt that shaking was very l i ght. 
+There was very little vibrati on at all . Okay, 
+vibration , very l ow. Noise I thought, was quite 
+low. 
+I was particular ly aware of the noises of goi ng 
+through the max Q regionary thing. Oh, this is 
+lift-off again . I thought the noises were very 
+well at l iftoff. You know the engines were 
+running from the outside before, you know, and man 
+they really make a racket, but from where you are 
+it's pretty quite. You know there running. You 
+can here them, there's no doubt about that, but ... 
+Okay, on visual I don't .... We had a very cl ear 
+day. There weren't even any clouds in sight on 
+~ IDENTI~ 
+
+===== PAGE 12 =====
+Conrad 
+2. 2 Roll Program 
+Conrad 
+Cooper 7 C.(&)Hft0ENTI:,\~ ~ au, !to 
+our sight as we were lifting off, and I couldn't 
+tell any visual cues to lift-off, could you? 
+You had the feeling that you were moving visually . 
+After you get your roll program you see it visually 
+and you can see the pitch program starting visually, 
+but just at first l ift-off you don't really have 
+any visual cues . Cockpit displays are just l ike 
+advertised . The two stage -one lights go out, and 
+. .. just l ike the simulator. 
+Yes , I watched roll program on the gyro, I was 
+watching for it to come i n on time and in glancing 
+up when the roll program started I was still 
+looking at nothing but blue sky, but I was aware 
+visually as you say that the booster was rolling. 
+Yes , you can have a airplane when you are looking 
+at nothing but blue sky and start a motion and you 
+may not know exactly what the motion is, but you 
+know that you are moving. 
+Now on this cockpit display, something that I got two 
+different answers to from different people on how the 
+gyro and the actual case was going to be set and it 
+suddenly dawned on me that they actually set the gyro 
+so that you are launching down the 90 degrees. You're 
+
+===== PAGE 13 =====
+8 
+Conrad 
+Cooper 
+FCSD REP 
+Cooper 
+2. 3 Pitch Program 
+Cooper 
+2.4 Aerodynamic 
+Cooper progress ing down to 90 degrees line, e. la the 
+simulator, although the booster sets on 85 degrees 
+and when you turn to 72 degrees launch azimuth 
+you are rolling clockwise so far as tr.e crew is 
+concerned . 
+You roll to zero . 
+But you are rolling to is real ly to O on the gyro 
+as precessed around so that you are net really 
+setting on the actual launch azimuth, you are 
+actually setting so that when you stai§'e on over i n 
+yaw then pitch over then in your yaw your on the in­
+plane line. 
+You're coming down the zero line. Y01.:.1re yawing 
+down the zero line. 
+That 's right, and I kept getting diffe.rent answers 
+on this and this is in fact the case. Roll program 
+was exactly right on time and ended e>:actly on time. 
+Pitch program started exactly on time. 
+Aerodynamic was nothing new or differE:nt about it. 
+It was just standard. We build up to the noises at 
+max Q; the noise built up to gradual level and the 
+vibration and quantity built up to ma>:~ and then 
+dropped off very rapidly J.1'd:i!Jitely thereafter. 
+FlDENTIAL 
+
+===== PAGE 14 =====
+2. 5 ECS 
+Conrad 
+Cooper 
+Conr ad 
+Cooper 
+Conrad 
+Cooper 
+2. 7 Wind Shear 
+Cooper 
+2.8 DCS Updates 
+Cooper 
+FCSD REP 
+Conrad 9 CONFICtleNTIA~ • 
+Right on the button. 
+ECS was right on the money, no problem at all . 
+Max Q we've already stated. 
+The cabin sealed a little bit high like they said 
+it would. I forget the number. It was about 5.8. 
+About 5.8 or 9 and just gradually dwindled back down . 
+And just after we got in there by the time I looked 
+at it again after insertion everything it bled down 
+on our gage to 4.9, our gage read a little low. I 
+think the actual reading, you will pr obably find 
+the cabin actually was 5.11 but the whole rest of 
+the flight the gage never budged off the 4.9. 
+The gage stayed right there like it was glued. 
+The wind shear, we had none and, certainly nothing 
+that we could tell, but as I understand we 've been 
+told that for that day anyway we had almost negible 
+wind shear. 
+DCS updates were right on time. 
+You had two updates? 
+1 plus 45, 2 plus 25. 
+2,9 Engine 1 Operat i on 
+Cooper The engine 1 operation couldn' t have been better, 
+----~~K)ENTIAL 
+
+===== PAGE 15 =====
+-------10 .. 
+2,10 POGO 
+Cooper 
+Conrad 
+( 
+Cooper It was beautiful. Just now in between engine 1 
+operation and engine 2 here we have two items we 
+will insert in here. 
+One was POGO.. At 2 mi nutes and 5 seconds we started 
+picking up POGO and I got a fairly gcod amount of 
+POGO on through, stopping just at abcut 5 to 7 
+seconds before staging. POGO dropped. cl ean out 
+exactly the same time there that we programmed POGO 
+on the early days. 
+Yes, that one surprised me . We 'd he1:.rd and read 
+tbat both John 8{!.d Gus's and Jim and Ed's fli ght 
+that they were hardly even aware of IDGO and boy 
+when it came in on us it was loud anc. clear and, 
+well Gordon, neither one of us could talk hardly; 
+we were really vibrating with it and I was hard 
+pressed to read the displays. By golly , if I had 
+to re__:-t ;--e num;-er on _ · ~-~r-ays I-think I would ad -;-:h- ---:b-_ __ , e a:-i sp ___ .,,. 
+have been hard pressed to do it, because we really 
+had it pretty good. 
+Yes , the rate ... the amplitude of them were such 
+. . . 11 cps frequency and the ampl itude of them was 
+such that you were on --you were on the marginal 
+
+===== PAGE 16 =====
+11 
+i t 
+Conrad 
+RCSD REP 
+Cooper 
+FCSD REP 
+Cooper 
+FCSD REP 
+Cooper edge of reading of any large gage and any fine 
+reading that you had to read, you would never be 
+able to read any numbers. It was exactly like 
+the POGO we did all along on the program up at 
+Ames and as the exact amplitude , I don ' t lmow, but 
+was, . . . . . I think we don 't want that~ POGO. 
+It was no par icu ar y upsetting to me , because I 
+really was fairly familiar with POGO having been 
+through all that POGO program , but this thing kind 
+of t i ckled me that we got it to see that we had 
+still hadn't solved it, but I don' t think ... 
+its something you don ' t want because if you had ot~er 
+things going wrong during that period of t ime it 
+would make it vecy difficult to say what you had 
+wrong or what 
+It didn't upset me, but it surprised me, you lmow, 
+because I just wasn't expecting POGO. 
+Wbat g-level would you estimate it to be? 
+Well , we were sneaking right up there. 
+I mean the POGO . 
+Oh, it was right at about 5 g's. ·\1• 
+Well , I mean plus or minus amplitude . 
+Well I , my estimate on it was that it was something 
+
+===== PAGE 17 =====
+--12 
+on the order of maybe three quarters of a g. Well, I 
+don I t !mow whether it was that high c,r not. 
+Conrad I thought it was at least a half, if not better. 
+Apparently it wasn't that high. I ws.s really 
+surprised. Like I say, we were really getting the 
+ramrod out of it. 
+Cooper s beyond what we selected as we th~ht 
+should be the cutoff. It was more tr.an wh~ we 
+l had selected at Ames as being max acc7 . 
+in this.I passed up ver b • there one of 
+the first things that happened immediately about 
+the time that we got the pitch program was the 
+IGS Stage 2 fuel needle failed in thE full -max 
+deflection position . And it came back on and was 
+reading after staging briefly and thEn failed again 
+during staging. It was intermittent . 
+2.11 Engine 2 Status 
+Cooper Engine 2 status stayed ... was perfect. There was 
+not anything wrong at all. 
+2.12 Acceleration G' s 
+Cooper Acceleration g' s were right on the piofile , were 
+certainly very pleasant. Nothing wrong at all with them. 
+2. 13 BECO 
+
+===== PAGE 18 =====
+13 
+Cooper BECO was right on the money. .. 
+2. 14 Staging 
+Conrad Boy, that staging was smooth too. 
+Cooper They told us that BECO was going to occur early, but 
+it was 
+Conrad We did loft a little bit apparently like they said 
+we would because, right after staging .... 
+2. 15 Engine 2 Ignition 
+Conrad Well , Engine 2 ignition, I wasn't even hardly aware of 
+that other than we just started to get a little, yc,11 
+know, we just sort of went off the peg at 6 g's and 
+Gordo said staging OK and Engine 2 is good and I 
+wasn ' t even aware that Engine 2 had lit. You 
+can't hear it, to speak of, but you can feel the 
+acceleration slowly building up. 
+FCSD REP Did you see anything visually? 
+Conrad No , I didn't see anything . I heard the other guys 
+talking about see the flash at the brig. Never 
+saw a thing and I wasn't aware of any flash out 
+there either. 
+I\ 
+Cooper J didn' t see anything at all at BEDO. The best clue 
+that I have on my side, is that I see the Fuel 
+and Oxidizer needles start coming down as the engine 
+
+===== PAGE 19 =====
+14 
+2.16 RGS Initiate 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+FCSD REP 
+Conrad 
+Cooper 
+Conrad • 
+starts burning. And then they coming c.own fairly 
+rapidly at first, I mean you get a very definite 
+motion on them right at first there and. they kind of settled 
+out. Engine 2 ignition we've already covered. 
+RGS initiate right on the money. 
+I was going to mention that we had l of t ed and 
+that we were expected to pitch down a.nd we did when 
+it picked up RGS. 
+It smoothed in very smooth, and the fading was 
+just right. 
+The IGS needle really deflected and I ~as , you know, 
+I don't think it pitched, it didn't peg-out, but it 
+did make a large dip and then when the booster 
+came down just pitched down very smoottly down to 
+about 75 or 80 degrees, I guess it pitched down 
+almost 10 degrees. 
+What rate did it pitch over? 
+Very slow, but steady, at just 
+It took about 20 seconds I guess to fade it in there. 
+The needle came in and made a big deflection and 
+right after that the booster started pitching and 
+the needle started back and boy the needl e was 
+• 
+
+===== PAGE 20 =====
+15 CQ~ElDEhJIJA 
+back and thing was right on the money at about 80 
+degrees. It was a very smooth transition and then 
+do you remember they were telling, us to look 
+for this one cps oscillation? Well, I didn't have 
+rate needl es like Gordo did, but I wasn't aware of 
+any oscil lations at any time. That booster was in 
+pitch and yaw as far as that went 
+Cooper Those rate needles were like they were glued . 
+There was never through boost or second stage was 
+there ever any rate except that one tiny little 
+rate, one teensy little rate just at when we were 
+in POGO we got one tiny little longitudinal rate, 
+' 
+just one tiny little fleck on a rate, and was the 
+only one. Otherwise it was just smooth as silk, 
+the whole time, rate wi se. 
+2.17 Fairing Jettison 
+Cooper Fairing jettison. We jettisoned fairings at 3:25 
+and man do they ever go. 
+Conrad I counted Gordo down to them. Okay, yes, that's 
+a good point. 
+Cooper Beside the scanner fairing and the nose fairing go 
+and when the nose fairing went it went with all 
+kinds of debris. There were pieces flying all 
+
+===== PAGE 21 =====
+16 
+over. 
+Conrad Yes , and I don't think it went right . I don't 
+believe it went right , because the Rand R can 
+was ripped up in the front , and I can show you on 
+my side the nose went like that and there was some 
+tape or fiber glass that goes around t he . . .. 
+It was fiberglas s cloth and it was all broken loose 
+in jagged flaps sticking up t hat, you lmow, had 
+broken loose from along in here when i.hat cover 
+went I had decided impression that the cover went 
+off askew, that it didn't jettison t he: way i t should 
+have. And this could be a good point of putting 
+it back to after insertion. 
+Cooper Well, it' s supposed to go off askew. 
+Conrad Yes , well, it just di dn't go off clean. That 's why 
+this was ripped up, see. 
+Cooper Well, it something somebody might look into, but 
+you don ' t want to recommend that they put back to 
+after insertion , because your taking a weight 
+penalty to carry that all the way up. 
+Conrad Yes, I realize that , but . . . . 
+Cooper It was designed to go off ... . 
+Conrad That was the reason in the first place that they 
+WIDE 
+
+===== PAGE 22 =====
+17 
+moved it up there anyhow, because they weren't .... 
+Cooper No , the reason they moved it up there was because 
+they didn ' t have strong enough propulsion on those 
+squibs and spring combinations or whatever they use. 
+We never did get a reading on that, but whatever 
+the total propulsive expulsion system wasn't kick­
+ing, the scanner fairing wide enough but what they 
+would come back into the booster. But didn't you 
+have the distinct impression that the nose fairing 
+broke into jillions of pieces when it blast. 
+Conrad I certainly, I certainly , yes . That ' s why wh~n 
+I say askew, I mean something didn't look right. 
+I can't put my finger on it, but --
+Cooper It came off in many pieces anyway. There were many, 
+many pieces and the whole area was just filled with 
+debris. 
+Conrad Yes, and then, I 'm not sure that that's when we got 
+all that gl op on our windshie l d, the spots ... 
+Cooper Well, I noted exactly at that time immediately 
+after the fairing went, I noted about 5 or 6, I 
+saw them hit , 5 or 6 gray splots, just small ones , 
+very small little gray-type splots and I was 
+distinctly looking for that and watching for it and 
+
+===== PAGE 23 =====
+18 
+Conr ad 
+Cooper 
+Conrad 
+FCSD REP they were not there before they were t'nere and I 
+; 
+saw them when they hit. They hit duri:'.l.g all this 
+debris flying around period. 
+I think that you can sti11 fi nd them o:'.l. the 
+windshields . They didn' t burn off during reentry. 
+But they' re not bad and there are just a few little 
+scattered ones and I think it might be interesting 
+t o compare how many you get there versus and how 
+many you get when you jettison them in orbit. It 
+may wel l be that jettison ing in orbit would be pre­
+ferable, but I didn't find anything objectionable 
+t o jettisoning where they went, they wenm fine. 
+It did add a lot of debris and I agree with Pete 
+there was a big torn something or other out there 
+which may just be a fiberglass thing that is kind 
+of ... ,. 
+Yes , I want to get down and look at the R and R and 
+and I can tell you what it was , describe it a lot 
+better. We'll probably have some pictures of it 
+too in the camera somewhere. I know it'll show 
+up in some film. 
+How l ong was this visible? You say there was a big 
+bunch of stuff out there. 
+ONFIDENTIAL 
+
+===== PAGE 24 =====
+19 
+Cooper There ' s a whole fly. Oh, you mean the debris. It 
+was gone. 
+Conrad It was gone like that, but it just looked like the 
+whole darn thing exploded . 
+Cooper It looked like it just flew into a jillion pieces. 
+It was all around you for maybe a period of a 
+second or two. 
+Conrad I didn't think it was that much, i t was just gone. 
+Cooper But it was a defininite period of time when you 
+were aware of all this debris all over and then 
+clear. Okay, enough for fairing jettison . 
+
+===== PAGE 25 =====
+20 
+2. l8 GO/NO GO 
+Cooper 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper GO/NO GO: We never got a GO/NO GO beeause we lost 
+our number 1 radio in about 4 minutes sometime just 
+prior . . . let see we got a .8 . . . . Wti got a V 
+over VR of .8. We got a GO/NO GO of ,.. 
+You did get a ,8? 
+We got a .8. 
+Yes, that comes much later -that com(!S after the 
+GO/NO GO. 
+Yes, that ' s right, okay, well I don ' t remember 
+ever getting a ... yea, we did, we go·~ MCC GO. 
+Right we got a GO/NO GO , okay, but then 
+immediately after . 8 we never got any·':hing at all 
+from there on until after we were insi~rted and gone 
+to UHF No. 2. 
+I think it must be in the antenna problem, I really 
+do . 
+Well , there 's some problem there because the same 
+thing happened on one of the previous flights and 
+we definitely and completely lost radio and I 
+switched over just before we inserted, I switched 
+over to number 2 and then when I call1~d but the 
+IVI's we were back with them then . 
+
+===== PAGE 26 =====
+21 
+2. 19 Systems Status 
+Cooper System Status everything .. . . 
+Conrad We did have ... Let me describe the delta P 
+\ lights. Shortly after liftoff I got the number 1 
+fuel cell delta Plight and I reported i t and just 
+about the time I reported it, then the number 2 
+fuel cell delta Plight came on. They stayed on 
+all the way through boost and they were on aft er 
+insertion for ten, fifteen seconds and after that 
+they went right back out again and that) i s it. 
+It didn't effect anything on the fuey e11 operation, 
+the voltages , /thing stayed fine 
+• bein n----tliere was no other way of 
+telling the~ was out of tolerance so I don 't think 
+it is a problem. We expected it. 
+Cooper I 'm glad that we had them changed to orange rather 
+than red . 
+Conrad Yeah, yeah. 
+Cooper Systems status in addition to that I don ' t think we 
+had any systems that were exactly right, except 
+the radio and the acceleration as we had expected 
+it. We were right on the profile. SECO was ... 
+2.20 SECO tn currents , 
+other than 
+!Oa!IIAL 
+
+===== PAGE 27 =====
+22 
+Conrad 
+Cooper 
+2.21 Steering 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+FCSD REP 
+Conrad 
+Cooper I think we burned out at, Gordo, 7 anc. 1/4 g's. 
+Right. SECO was exactly on time, just exactly on 
+time and IVI's read 002 AFT. Almost ierfect. 
+Steering was ... there was no steerine· accelerations 
+or velocities that we could tell. Steering was 
+just smooth as silk, apparently they :t.ad us going 
+right down the slot. And when we came off, apparently 
+we were lined up well because there weren ' t any 
+rates because when we came off and wajted our 20 
+seconds there were no rates whatsoever and it was 
+just setting there just . . . . as smootr.. as 
+As stable as a rock. 
+As smooth as silk so that and when we started 
+thrusting and separating we came off :ust right 
+straight forward . No deviation , no skidding around 
+or anything . Just right straight off, 
+I thought the IVI's were plus 2. That ' s what I haVle 
+written down here. Plus 28 right, 3 t.p. 
+I guess that's what it was. 
+This velocity you read? 
+I was going to cover that in your ... , 
+Your right, plus 2, it was --that's :r·ight. Plus 
+
+===== PAGE 28 =====
+Conrad 
+Cooper 
+Conrad 
+3,1 Post SECO 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 23 ~IE>l!NTtAE 
+002. 
+I have all the computer readouts . 
+008 right and how many up? 
+3 up. 
+MANEUVER CONTROLLER worked fine . We went right 
+through .... 
+Wel l, let's go through that. The way we had practice 
+SECO, Gordo, got SECO and Gordo unstowed the 
+CONTROLLER and I armed the BUS ARM Swit ch so that 
+we get the MSC-1 doors OFF. 
+Brought the propulsio n power ON. 
+Brought the ATTITUDE CONTROL Electric Power ON. 
+Went from RATE COMMAND to DIRECT. Armed the 
+switch and hit the computer. Armed t he sep 
+spacecraft thing and Gordo and I counted the 
+seconds down. In the meantime , I punched off 
+address 72 so that it was reading and then in 20 
+seconds we had SEP s/c .... 
+In 20 seconds I start ed and I called it out and 
+started thrusting and Pete would hit the sep 
+spacecraft ... . 
+Conrad The reason we did that was so that we would have 
+
+===== PAGE 29 =====
+the inertial velocity readout on the ga.ge and that 
+was ·beautiful 25,808 and nominal was S-.lpposed to be 
+25,807. You can't ask for a better calculation 
+from a computer than that, and a lot of people 
+don' t have much faith in that thing but, I think 
+that I'll bet that the computed MCC figure isn't 
+more than a foot or two off. I t couldn ' t be 
+because everything was nominal for hours and hours 
+in the past, Day's it went that way where we 
+stayed on the flight plan to the minute, to the 
+second so I know that it was a good computation , 
+and I have the five address readouts that we read, 
+We read out address 72 as 25,808; address 94 which 
+was R dot for gamma was plus 20 feet which is 
+pretty darn small so we must have almost a zero 
+gamma address 97 which is the forward IVI was plus 
+2 feet; address 52 was perfect, it was zero. So 
+there was no adjustment needed and if there had 
+been an adjustment needed that would ha:ve come 
+at 3,042 seconds on the computer if tbere had been 
+an address . 52 correction and nominal 3,008 
+seconds so the computer computed the nomi nal thing 
+off only by less than a minute, about a half a 
+
+===== PAGE 30 =====
+25 
+minute of what the actual nominal value 
+/een, so I think thats pretty darn good 
+ascent routine in that comput er, and I think hat 
+( 
+now that we have Math flow 6 in there t his i why I 
+think the guy shouldn't get so darn worried in MCC 
+underspeeds and giving them burn co/rections 
+this Mickey Movse. I've been 
+Cooper 
+Conrad 
+Cooper 
+Cooper 
+Conrad t rying to make tbis pein-t-ewe · since we got 
+associat ed with . . . . 
+I think we had better immediate data avail abl e on 
+board than people have been giving it credit for. 
+That ' s right, and it really pleased me to see it 
+come out on the computer this way. 
+And had we never gotten our communications back 
+we would have known that we were i n good shape 
+because of the data we had on board, we didn' t 
+have to worry about the ground readouts and 
+what to do; we would have known what to do whether 
+we had been under or over or anything else. 
+Attitudes and rates , t here weren ' t any rat es. 
+The thing was steered right down the slot. We 
+came off smooth. 
+Spacecraft separation 
+NflD~NTlAk 
+
+===== PAGE 31 =====
+26 CONF:10ENT-I A 
+Cooper We separated as smooth as silk just r i ,5ht straight 
+.;; 
+ahead 
+Conrad Well, we counted down and Gordo said h? was 
+ready and I SEP spacecraft and he thru3ted and I 
+went back to RATE COMMAND for them and we came 
+straight off. I didn't even feel it. The first 
+t hing we felt was thrust . 
+Cooper And rolled upright and went to 000 00 -15 which 
+happened to be right on the horizon. As it 
+t urned out that 15 figure was good. It read out 
+the IVI•s . 
+FCSD REP That's, you know on 4 . .. they thought they came 
+off the booster. 
+Conrad Yes, that's why I mentioned that because 
+Cooper That's what we were looking for, too, 
+3.2 SEGO Plus 20 Seconds 
+Cooper We've already mentioned the IVI displays . Space­
+craft separation occurred very smoothly. Thrusting 
+was smooth, nothing wrong at all. Attitude rates 
+were good. 
+Conrad Yes, I don't understand this! I don't understand 
+this guy saying that they can't hear them or they 
+can ' t sense them. Boy, I was easily aware . . . . 
+
+===== PAGE 32 =====
+.. Cooper 
+Conrad 
+Cooper 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+FCSD REP FHID~Nf lAL 27 
+1/You can feel them almost mo,-e than you can hear 
+them. You can feel them vibrate really, more than 
+you can hear them. I mean, you can hear them 
+too, but the vibration you can hear them too, but 
+t he vi bration you can f eel the thrust. 
+Have you ever heard a high speed hose or high speed 
+water jet. Shhh ... That 's the impression that I 
+had. 
+Yes, that ' s right. 
+Even from the aft firing thruster? 
+Every thruster we had on t here. 
+We heard every thruster on the whol e f l ight 
+It never occurred in my mind when the thrust ers 
+were fired. You can feel them and I can hear them. 
+I couldn't hear them in the sense of an expl osive 
+sound or a roar. It sounded like water swishing . 
+Yes, very definitely , more a Shhh. 
+And I was aware of it again when we made the burns 
+later on, you know, we made the reverse coelliptic 
+stuff and all that. 
+How did these noises, the thruster noises, sound 
+compared with the way the last crew set the 
+mission simulator? 
+' 
+
+===== PAGE 33 =====
+28 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper Hey, that's another interesting point. 
+They're not very close on pulse. 
+Pulse is a ... • 
+Pulse is more of a thump. 
+That 's the one sound that does sound like you'd 
+expect a rocket engine to sound. 
+Here ' s a sound just about like this : (knock) 
+Yes , it very definitely sounds like a knock. 
+There is no "shhh" or roar, just a little thud. 
+You can hear it just like somebody knccking at the 
+back of the spacecraft . You can hear it go "tap 
+tap, tap, tap, tap, tap," 
+Really, the simulator doesnI t sound tl:.e right way. 
+It's a general enough nature and it tl::.e same type 
+manner 
+Yes, it is close enough to give you a good cue. 
+The platform mode for instance , you krow, when i t 
+goes shh, shh, shh, shh ... did the same thing i n 
+the spacecraft except it was all in one thump 
+and swooshes when it was constantly firing the 
+thrusters it sounded like the swish. 
+The air-to-ground communications I thought was 
+excellent the whol e time. I didn't find anything 
+, 
+
+===== PAGE 34 =====
+29 
+Conrad 
+.. Cooper 
+Conrad 
+Cooper 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper ONEl0EtslJl~E 
+wrong. 
+We really had good comm the whole flight. 
+There was never a time --the only time the 
+only fault we find was one or two times through the 
+remote site when the MCC was trying to remote to 
+these sites they would get some fading. I must 
+say the HF worked excellent. When they were 
+~r~usic, broadcasting music to us, my\ 
+gosh they had us practically the world round on 
+'-----~The music quality was quite _g0od 
+in most cases. 
+I got times on that we can bring out later so that 
+they can correlate how far 
+GO/NO GO , there wasn't any problem on that. They 
+gave us the GO right away. 
+How long did it take them to give this? 
+Oh, heck, immediately. Almost immediately . 
+.> vveaf 
+There was no swivel because there was no velocity ~ 
+correction. 
+There was no velocity correction needed. Orbit 
+quantitites were good, they had those for us. 
+It took them quite a while to read us our experiments 
+but they just said you have a nominal orbit and then 
+mayb_e . . . . . 
+eQNFIE>ENTl~t 
+
+===== PAGE 35 =====
+I 
+Conrad I've got down here the GMT of liftoff . I wrote down ... 
+13 plus 59 plus 59 which they l ater change to 14 
+plus 00 plus 00. I have the one A time they got " 
+it up to us okay, which was 10 pl us 11. Then I 
+have the 2 dash 1 they gave us was 01 pl us 27 plus 
+16 which they later revised to 01 plus 26 plus 27, 
+I wrote those down. 
+3.3 Insertion Activitie s 
+Cooper Okay, l et 's start on inser tion activities. SAFE 
+t he swi tches we did that just right for our check­
+list. In fact , we are even more convinced than ever 
+that a good, thorough , accurate, checklist is the only 
+thing to have and 
+Conrad Physically marked them off when they "·ere done. 
+Cooper We followed it conscientiously . The sequential 
+light tests, we did it just by the teE.ts. Stowage:; 
+. we already had modified our checklistE , ·and we already 
+had written on some of it that we would do these i f 
+we decided to. For instance, the D-rlng safety pin, 
+we did install them at right t i me, and there was no 
+problem on those; they were nruch easi•~r under zero-g 
+to get in and out than we had thought and I had no 
+
+===== PAGE 36 =====
+31 
+Conrad 
+.. Cooper 
+Conrad Cooper 
+Conrad 
+Cooper 
+Conrad .kQt4FIDfNJ1A.L, 
+trouble getting my D-ring in, did you? 
+I waited on mine, remember. 
+Yes , you waited . ... 
+I stowed my D-ring thing 
+So we closed the cover immediate ly and I decided I 
+woul d go ahead and see if I could get mine, and I 
+got to i t right away and it went right in, so I 
+put it in. 
+We, of course, got in trouble in the second orbit, 
+but we did not unstrap or put t he drogue pins in 
+the seat or unstow any items of gear other than the 
+flight plan books and the 16mm camera and the 
+Hasselblad . I take it back. We went through the 
+Flight Plan as advertised and then stowed the items. 
+We had D-2 canera out, the Blob out, but we did this 
+in the proper places in the Flight Pl an. But we 
+never did unstrap . 
+We never unstrapped and never put the drogue pins 
+in until after we go to 6 -4 GO. We got a 
+6 -4 GO. 
+But we restowed too , after we got in t rouble. We 
+throught maybe having to go into 6-4 why, 
+we'd put ourselves back into the configuration 
+
+===== PAGE 37 =====
+32 
+Cooper 
+Conrad were never up. to reenter 
+lready decided 
+t hat I was not going to launch with th£~ They " 
+are just useless as far as I am concerr..ed, and I 
+as delighted I did not have them; and I didn ' t 
+miss I don't think, I think 
+could remove th€m and 
+-The arm restraints are there for the pressurized 
+case and high altitude ejection . I did go with 
+mine up. I would prefer to go with thEim down, but 
+there wasn't any reason , I didn ' t need to get my 
+hands on the hand control or anything ~.o I left 
+them as they were, but I don' t think tr.ey were 
+necessary . 
+• 
+
+===== PAGE 38 =====
+FtDENTtAL 33 
+Cooper Okay, belts. I couldn' t ~~ he 
+belts. The harness -While we're on the harness, I 
+don' t like that harness worth anything . 
+t hink what we need is a simple type adjustable type 
+harness wi th clips on the legs that you can undo 
+legs to get to some of the functions you have to: 
+uripation and defecation and so on in the spacecy ft. 
+I do ' t see why we have to have a big, expensi/e , custom, 
+made ha~ss that you can' t readily get on off 
+and this on~ you can not readily get and if 
+you had one with on it and snaps 
+like you do on harness, it would 
+be, I think, a hundred times useful as this one. 
+Conrad Let me ask you a ~uestion. Do you really -now, do 
+you really -I agree. Let me say this. I agree you 
+should first be able to get your harness on and off, 
+but in zero-g I 'm not convince d that three, especially 
+two leg snaps type arrangement . In other words, a 
+harness that would come completely loose and have 
+many straps that hitch to the other straps would be 
+really good in zero-g. What I think we need to do is 
+to be able to get in and out of that harness that we 
+have, easier. Like, maybe you could loosen the leg 
+straps on it but not have them come apart. Now, I 
+~ NftDENTrAL 
+
+===== PAGE 39 =====
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper took my harness off in flight twice. I took 1 em 
+" 
+off once--
+Yeah, but you wouldn' t even have to step through these :: 
+leg loops if you had -just like on an airplane harness. 
+You could undo that and you wouldn' t eve·'.l. have to worry 
+about the leg loops. Then all you1d have to do is just 
+slide out of the torso area. 
+Yeah. Well» lets sees that's what I'm saying. If you 
+unhook both of those leg loops and you throw the whole 
+thing down in the footwell and then you pull it back up 
+again you got a leg strap floating off ever here and 
+you got a--
+Well that's no problem. It's no worse i.han it is find­
+ing your lap belt. Did you ever have i;rouble getting 
+your lap belt back on after you took it off? 
+I always hitched it on the Velcro over on the side. 
+But you never had any trouble ~ ting to it. I didn't. 
+/ 
+I let mine float free and I never had any trouble getting 
+t o them at all. 
+Well, I just don1 t lmow now. I really d:i.dn' t think it 
+was that bad getting in and out of this harness . My 
+only concern was that if--I stayed--
+How many times did you get i n and out of it? 
+~ 
+
+===== PAGE 40 =====
+( OhJFt0! 35 
+Conrad Twice. The big problem was having you unhitch the 
+straps on my suit. 
+Cooper That' s right. With the cables to go over the harness. 
+Conrad The harness--the easiest thing was getting in the legs . 
+That was no problem at all. 
+Cooper Yeah. 
+Conrad Where I needed help was getting over my shoulder and 
+getting the straps on the suit hitched back up again, 
+which is a two man operation . 
+Cooper Well, my point is that for normal wearing around the 
+pad area or wearing around when your suited and every­
+thing, you' d be much more comfortable if you could have 
+those straps loose where they' re not gouging you in 
+the legs, 
+Conrad Yes, well--Oh, I agree. 
+Cooper Or where you had adjustments on them . ... 
+Conrad . .. adjustments see--
+Cooper Okay, well. 
+Conrad Where you coul d make the legstraps loose but you' d 
+never disconnect them so you don' t have free floating 
+straps around t here. It was no big problem .... 
+Cooper My suggestion would be to have them exactly like you 
+did in a parachute harness . You have the leg adjust-
+
+===== PAGE 56 =====
+51 
+.. 
+.,. Cooper 
+Conrad 
+FCSD Rep 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+FCSD Rep 
+Cooper 
+Conrad 
+FCSD REP 
+Cooper 
+Conrad 
+FCSD REP 
+Conrad Yeah. I got a lot of comments later on that on. That 
+thing is so noisy. 
+Oh, you know, I found out what happened , you know. They 
+went back and recomputed and they found out they had four 
+days worth of air in the bottle--Ha Ha! 
+Four days? 
+Yeah. It ran out. 
+But the thing. You can turn it off and it keeps run­
+ning back there. And it goes SMACK-CHOO , SMACK-CHOO , 
+SMACK-CHOO . 
+Yeah, it1 s pretty noisy. 
+And in a real ~uiet cockpit it really sounds loud. 
+This radar test #6 here at O1:3O-
+Used to turn the radar on. 
+Used to turn it on. 
+Used to turn it to standby. 
+Turn it to standby and warm it up. 
+Used to observe the warmup transients . 
+And all this happened , right? 
+Yes, and it1s on the voice tape. Like Gordo said, 
+you lmow, what the radar needle did, What it does is it 
+has sort of a cyclic thing when you put it in standby 
+and it1s ready to run why it sits there and the lock on 
+
+===== PAGE 57 =====
+52 L 
+Cooper 
+Conrad 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper 
+Conrad l ight blinks Green/OFF , Green/OFF . 
+Lock on light will blink on and it will come out R and 
+R dot will go from peg to peg. And they'll settle out 
+when it really is warmed up good and you've gotten past 
+the transient periods and they' ll all come back to zero. 
+I think what they' re looking for are clues to tell you 
+that the set is warming up correctly. Ba.ck in the 
+early days of TACAN we had warmup problems. 
+In other words, this would be your firnt indicati on if 
+something was wrong? 
+Purge Section. One and Two. 
+Well, we got our first load, this 6-4 load. The first 
+load that came up over the DCS system and it came up right 
+over the Cape. 
+Purge Section. One and Two . Got that? 
+Yes, no. Yes. That' s when we were getting rushed. Let' s 
+go back to that. Let's stop right there. The REP was 
+supposed to go out at 02 :07 and I purg·ed early and I 
+always had been purging early because I purged it about 
+1+50 and then I went through the check off list and they 
+were all checked off here. I powered up at 1+50, I 
+purged the fuel cells and here I checked them off here. 
+. . . prop gauge experiments and the RAD 1 on and the cold 
+
+===== PAGE 58 =====
+53 
+IR on and the power on the exmitter on and the recorder 
+off and I went through these by the numbers. Com­
+puter, we went to Catch-Up . We had the hundred feet 
+in the window. We were really getting ready to 
+put the REP out and right then and there was when we came 
+over the hill and we were beginning to get to the dark 
+side you know, and the sun was getting low and that' s 
+when the scanner started going out, 
+Cooper That's when the scanner started dropping out. 
+Conrad And we started getting the scanner light and then now, 
+you got to visualize there ' s part of the problem. We're 
+coming into this "Fuzzy Zone"-horizon and that is the 
+best way to describe it. 
+Cooper Yeah, you can't see anything . 
+Conrad And the spacecraft looks like you're pitched up tremen­
+dously when you're zero-zero-zero to begin with and we 
+both had the impression that the scanner was pitching 
+us up. Well, that may not have been true. It just 
+may have been that that's the way the sky got to looking 
+as we approached the dark side zero-zero-zero. 
+Cooper Actually , you have a transition point there where you 
+cannot see the horizon and it doesn' t look like either 
+sky or earth or anything . It's a complete blank, 
+
+===== PAGE 59 =====
+Conrad 
+FCSD REP 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper It's really a grey area. 
+Right at dusk. 
+Yeah. 
+Right at dusk or right at sunrise. 
+Yeah. Now the first time we went through there we didn't 
+even see it. We were working. That wan right after 
+insertion . So, mind you, this is the s1~cond time we 
+got to see it and I can' t emphasize thii, point enough, 
+even though we were on the flight plan and everything 
+else, you got to let the guys learn what' s going on up 
+there. You haven't been up there befor~ in that darn 
+vehicle you've got to learn it. That' s :right where we 
+started getting in trouble. 
+That's right. That's the exact point t·:1.at we made. 
+I made it for six months now. 
+For many, many months we've made this over this flight 
+plan, sticking this REP, thi s whole REP thing in that 
+early in the Flight Plan before you really have a chance 
+to get the systems ironed out and checked over and 
+everything and if everything goes exactly right and 
+nothing fails you can run through it time and time and 
+time and time again and you'll make it and you' ll make 
+it on time. 
+
+===== PAGE 60 =====
+55 
+Conrad 
+Cooper 
+Conrad, 
+/ 
+\ 
+.. Yeah. 
+But you add one little failure in there and you've had 
+it. 
+Yeah. That's where I made my first mistake. We got 
+purged in an hour and 50 minutes and I was going by the 
+check off list and right there we got in this discussion 
+about what was happening to the platform and I missed 
+the most important thing on the check off list. I for-
+got to • st as sim-
+That' s the whole G--d-----­
+been running for the D-4 cold IR, it' s been our biggest 
+constraint and a thing that I knew as well as my right 
+arm but there was a glitch and the glitch got us off 
+the scheduled activities and I missed it bigger than-eek. I di ors on the cold IR and it's 
+all my fault and I accept the blame for it. We went 
+through this quickie aline business and we got turned 
+around and Gordo had it right on the money, we wer e 
+right out of plane and we got the REP out 15 seconds 
+late. It went out at 02+07+15 and we turned around, 
+waited for one minute, got the radar on, locked on it 
+and we were whistling away from it and I was back on 
+the Flight Plan and happy as a clam when I suddenly 
+
+===== PAGE 61 =====
+C 
+Cooper 
+Conrad 
+Cooper Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad @OMFIBEt4t4A.L 
+decided that something wasn't reading right and I realized 
+that I hadn' t blown the doors on the cold IR and I blew 
+them and at that time the REP was at 25JO feet from us , 
+which is the end of the experiment , but I think it was 
+still reading--
+But it was still reading on the, according to the gage. 
+Yeah. I think that cold IR read to a great, great thing. 
+Now, the Radar gage, this is where--here comes the next 
+mystery-the radar gage said the REP waE leaving us at 
+this point in time and that--
+Five feet per second? 
+Yeah. I have 3 1/2 feet per second written down. 
+Oh, at that particular point. Oh, wel:. i t --when we 
+first got our first measurement on it ·;he range rate on 
+my analog dial over there read exactly 5 feet per second 
+that it was going away from us. 
+Yeah. Okay. 
+Right on the money. 
+To go back to the D-4 in time it was 0.2, it was 02+ 16+ 15 
+when I blew the doors, which was corre3ponding to 
+2500 feet and I ran that REP D-4 recorder until 02+37+12 
+and--okay, now. That darn REP! Gordo had the needles 
+right on the REP and that REP was going straight out 
+from us at 270 on the ball. It just went, I just 
+'COr'1FIDEtfJal>Att 
+
+===== PAGE 62 =====
+, CO► I F 1 DE NJ:1A t 57 
+thought everything was going perfect. The REP was 
+moving just exactly out of plane away from us and 
+it was moving at about the right velocity and then the 
+mystery came. It just kept on going. 
+Cooper Yeah. 
+Conrad It kept right on going straight out, and-­
+Cooper It wasn't slowing down very much. 
+Conrad And I got over here on the graph and I kept reading 
+the mileage and we were up to about 7 feet a second. 
+It was leaving us, and I realized , I began to think, 
+well gee, this is-That' s when I was really convinced 
+that the platform wasn't alined and we must have kicked 
+it out some screwy way. Then it started to drift:~ 
+us quite fast. It finally did peak out an 
+-----------a~ he corner at some phenomenal dis ance, 
+mile away from us, but 
+drift aft quite rapid ent ) 
+...--n:-~---------;---:--:--:-----;------:-:- -:;-,i"'T"--,-----,--- --r-;-;:--:-:--­
+Cooper 
+Conrad and.when we got to the nodal crossing time, it was behin~( 
+us by a mile, according to the radar. Now this is all / 
+on radar. And now, mind you, it's nighttime and it was 
+right there. We could see it plain as day. 
+Okay, let's see, we were at the--
+Okay, that's when we got to this next screwy thing. was almost nine tenths of a 
+
+===== PAGE 63 =====
+C 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad. See, the REP went straight out and kept on going. 
+The REP goes straight out and then it just kept on 
+going. It was slowing down very little and just kept on 
+going and going and going and going. 
+And it never really stopped. What it d:Ld was it 
+sorta, it sorta starting going off this way, you !mow, 
+and it never got out to a node point wh~re you had 
+a definite stopping range and a start back in again. 
+Well, the range rate never got below a foot per second. 
+The range rate never decrease d. You never got a decrease 
+in range rate, but it just kept-it started drifting slowly 
+off the 270 line on back out, but it we·nt straight 
+out the 270 line to a--
+What was the range? Do you remember what the range was 
+when it sti ll was out there? 
+It went straight like relative motion to us would 
+have looked like it went out looking down a plan form, 
+if we were here. It looked like it went out like this 
+and it slowly started doing this. 
+Yeah. 
+And it never did have a stop to it. It finally crossed 
+behind us back in here someplace . 
+
+===== PAGE 64 =====
+Cooper" 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 59 eNftOf 
+We never got the point where it crossed behind us be­
+cause somewhere when it was about the 210 point was when 
+we were out of fuel, of fuel cell o2. 
+Yeah, well, you see, we went by Carnarvon --
+And this was coming down just BALOOM BALCOM BALOOM 
+BALCOM BALCOM. 
+See, here we go. We went by Carnarvon . Here I was trying 
+to figure out in here what was going on and what we 
+were going to take out and everything and we went by 
+Carnarvon and right here at Carnarvon and that's when 
+Charlie ... called up and says check your o2 heater 
+switch to AUTO . Now I had seen it fall, had noticed 
+that it had been falling and I had gone to the AUTO 
+position when without even being told --
+You had already gone to nanua.l. 
+And then I was doing many other things and I decided 
+it wasn' t coming up and so I'd gone to manual and held 
+it over there a couple times and sort of looked at it 
+and --
+That didn' t work either. 
+I must have kidded myself into thinking that I was 
+getting something out of it, and then I forgot it 
+again and then~-
+
+===== PAGE 65 =====
+60 
+Cooper 
+Conrad :But you did go back to the AUTO. 
+Yeah. I put ii; back in AUTO , you know, and then I called 
+t hem, I think it was on the tape and I think I told 
+them, I said, the S'f!litch is on AUTO . We're okay. 
+Don' t worry about it and then right aft er that we got up 
+to this 240 or so in there and we realjzed that something 
+was wrong and the heater was out and I guess we told 
+them--We told them at Carnarvon that t he heater was out. 
+Cooper Well, we checked at that time then on ·~he annneter on 
+and off and on and off t hat on both manual and AUTO and 
+it was obvious. 
+Conrad And that' s when we--
+Cooper And it was coming down so rapidly that it looked like 
+very shortly thereafter we were going to have fuel 
+Conrad cell stoppage .. 
+We were getting below 200 and falling pretty fast and 
+we had a big discussion between ourselves and we just 
+made up our mind to forget the REP. We felt we were 
+Cooper really in trouble. 
+So we elected at that point to start rowering down because 
+we knew that we were using fuel cells at a very high 
+rate. 
+Conrad And we secured the Platform and Radar and everything else. 
+
+===== PAGE 112 =====
+107 
+:: 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper we didn't get Venus. We never found 
+it. That' s right. 
+That ' s right. We never even found 
+Venus on that night side. Platform 
+test 2--
+And I got a remark here to find out 
+that on day 6 at 01 hours, 02 minutes 
+and 15 seconds where in the heck were 
+we because there were great fires on the 
+ground? 
+Yeah. 
+OK--so I did write it down--all right-­
+SA-D-13, day 3, 18:16:14--and I had 
+some comments about that here some place. 
+16:14 -We scored a 4 and a 1--and the 
+4 was in the upper--the 1 was in the 
+upper left hand box and the 4 was in 
+the second box in the second row. 
+Right. OK about this period of time-­
+let' s see we had an S-7--0h, first before 
+this--then we had run some more tests 
+on our primary scanner and found out 
+that it was completely inoperative and--
+
+===== PAGE 113 =====
+108 
+Conrad 
+Cooper 
+Conrad 
+Cooper Conrad 
+Cooper 
+Conrad 
+Cooper Yeah. 
+Just kept getting worse, worse , worse--
+and so--Pete has a note here--tell Houston 
+about primary scanner--which we did 
+shortly thereafter at 3 hours, 18 minutes, 
+3 days, 18 hours and 16 minutes we did 
+an S-7, and then at 3 days, 18 hours 
+and 25 minutes we purged, powe:('ed down, 
+computer off, platform off, re·;icle off, 
+rate gyros off, etc. , etc. 
+Yeah. Then you have a--you1ve got an 
+S-7 done at 03:21:20 :08. 
+Right , 
+You had an Apollo landmark at 03:21:38:02 
+a 213 and I think that--we got Lake 
+De Poo Poo or whatever it was, when we 
+got t hat done. 
+We got that one. 
+There was a D-4 D-7 at 03:22:48:17 a 
+425a--I don' t know what that was but-­
+Well, we also got in addition just before 
+that at day 3, 22 hours and 15 minutes 
+we got an S-6 magazine 4; exposure 12, 
+
+===== PAGE 114 =====
+109 
+C 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Coop:er 
+Conrad 
+Cooper cyclone off Japan which has been added 
+into there. And then you start on that 
+HF test number 1 starting at 22 hours, 
+55 minutes. 
+Oh, yeah, 425a was Hawaii, Maui. 
+Oh, yeah, you got that one. 
+Maunakea was the volcano--it' s not 
+active--but anyhow--
+Wait a minute--oh--213 is what--
+Huh? That's Apollo landmark--this was 
+the D-4 D-7--let1s see the Apollo land­
+marks--let me look there and see if we 
+got 213 on it. 
+All right, then that was at 22:48 -the 
+D-4 D-7 was at 3 days, 22 hours, 48 min­
+utes, and 17 seconds was the 425a--and 
+416. 
+You got the Apollo landmark at 03:21:38: 
+02:213, magazine 4, frame 10, 1 -2 
+pictures you took. 
+Yes . 
+Camera 11. 
+Then--day 4 start at day 4, 00 hours, 
+
+===== PAGE 115 =====
+110 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 25 minutes, cabin lighting. 19 minutes 
+was the medical data, at 40 let•s see--
+40 minutes there was the D-2 series 1, 4, 
+5--sequence 1, 4, 5. 
+Mode 414 I have here--What was that? 
+145 was a military, U.S. 
+Yeah. What I s this Mode 414--
+That was if we saw it we were ·;o be in 
+Mode 414 on the IR. 
+Oh, OK. Then we had a D-6, mode 01 at 
+44:10, day 4, 44 minutes and 10 seconds. 
+On day 4? 
+Yes. 
+I donI t have anything down hero for that. 
+04:00 
+Mode Ol--that1s--I think. that1s.-~ I 
+may have the numbers wrong. 
+OK--at day 4, two hours, 20 minutes -
+vision tests, both of us. 
+Had that HF test in there someplace. 
+Yeah, I've already called that out. 
+Medical data pass on me over CSQ at 
+03:11:00. We had an S-7, day 4, 03 hours, 
+'AElEN:J: 
+
+===== PAGE 116 =====
+111 
+C 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 20 minutes and 25 seconds, we got an 
+S-7, sequence 01 and let's see--and thru 
+this period was where we both completely 
+ran out of steam--here on--we were trying 
+to get you to sleep so I deleted all of 
+these tests right in thru here to let 
+Pete sleep. On day 4, starting at 3 
+hours and 45 minutes on--
+Deleted the HF tests here--
+Kept adding these tests in here that 
+were--just weren' t going to get him 
+any sleep at all. 
+This was this 145 mode this was at D-6, 
+D-4, D-7 and D-2. It was the 145 mode 
+for the 01 and 414. 
+That' s right. At day 4, 48 hours--
+Yeah, here I have this thing--4th day, 
+U. S. passes--we started at 11:00 o!clock. 
+What1s this 04, 4 hours, 48 minutes a.rid 
+58 seconds there was a D-2 that we had 
+no success on, 
+Now comment on that. To do any of those 
+things you have to have the platform on. 
+
+===== PAGE 117 =====
+112 
+FCSD rep. 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+FCSD rep. 
+Conrad 
+Cooper 
+Conrad 
+Cooper Then the platform wasn' t on? 
+Was not on. 
+That's right--see you got to he able 
+to have an accurate means of pointing 
+of having yaw and--
+They said pitch up 83 degreeR, yaw 45 
+degrees left--out of that window. You 
+don It have any idea in the wo:dd. I 
+mean, we didn't even have rat1:! gyros 
+powered up. You have no idea in the 
+world where you a.re pointing , just-­
+You are wasting your time try:Lng to do 
+this kind of job without a platform. 
+What is this a shot of--what "i.s this 
+target? 
+Well, for any pointing r equiraments , 
+especially ones in the sky--
+Where they are going at different angles, 
+see. 
+You have to have a platform . 
+Then along at day 4, 5 hours and 40 
+minutes, Buzz' s eX])eriment was placed 
+in there on a switch--
+f 
+
+===== PAGE 118 =====
+Conrad 
+Cooper 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper Conrad 
+Cooper 
+Conrad 
+Cooper 113 
+Yeah. 
+That was the straw that broke the camel's 
+back--we didn't do . 
+Did MSC-1, day 4, 5 hours and something 
+to .6 hours and something . Let ' s see--
+then on down to day 4, 11 hours and 5 minutes 
+Powered up. 
+Then it's powered up platform , had a 
+medical data pass , 11 hours and 25 minutes 
+aligned SEF--11 hours and 40, powered 
+up the rate gyro and computer on--11:51 
+bio-med recorder number 1 off, number 2 on. 
+That was half way through the flight . 
+11:55:55 we had a D-6, the recovery ship, 
+and that wa$ ~he one we saw. 
+No, we didn't get it. I got no joy on 
+that one. 
+OK . 
+We got them the next time around I think. 
+11:55:55, 134 sequence zero A. 
+Yeah, we got them the next rev. 
+OK . 
+Conrad OK--I 1ve got the D-6 at 12:24:02 was done-
+
+===== PAGE 119 =====
+114 
+Cooper 
+Conrad 
+Cooper 
+Conrad Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad that was the sequence 091 or W:~atever 
+it was. 
+Right . 
+The platform aligned SEF, for t he command 
+pilot we got--
+Purged the fuel cells at day 4, 12 hours 
+and 50 minutes. 
+Yeah, SA D-13 on Laredo at 13::?3:39-­
+what happened? 
+Neither one of us saw the target--on 
+that one. 
+I'm not sure I 1ve got anything written 
+down. I don' t . Why don' t I? Huh. 
+I don' t know what happened. Then we had 
+a D-6 089-what the heck was 085'? 
+Day 4, 13:58:50 , D-6 in F.a.st .Af'rica--
+0h yeah, that was Blantyre Aercdrome and 
+Malawi. I don't think we got that one. 
+Yes we did. 
+Did we? 
+Malawi airport--remember? 
+Maybe we did--I don't have a done written 
+on it for some reason. 
+
+===== PAGE 120 =====
+115 
+Cooper " 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper Yeah, I remember we had the picture of 
+it you know and it was out there on 
+that little point--or was that the one 
+by Ka.no that we couldn' t find because 
+of the weather. 
+There's one in there where we did 089-­
+let's see what it looked like. 
+Look up 089--that1s the one wher e we 
+had all the weather on it by Ka.no , 
+wasn' t it? 
+Yeah, well, we saw these lakes but-­
+We saw the lakes but that was in under 
+a big deck of clouds . 
+Did we or didn't we get the aerodrome. 
+guess we didn' t get the aerodrome. 
+No , we didn't get it. Because remember 
+we saw the lake and saw the river come 
+out and then there was this whole deck 
+of clouds over there so we couldn' t get 
+that because of the cloud cover. 
+That's right. 
+We saw the general area--where it was 
+at--but we couldn't get on it at all. I 
+
+===== PAGE 121 =====
+116 
+Conrad 
+Cooper 
+Conrad Let's see at 14:15, day 4, D-4, D-7, 
+410c. 
+D-4, D-7, 410c was--that•s one of the 
+ones where we were supposed to track 
+a star or something --yeah, we were 
+supposed to track Nunki and we never 
+could find it because it was--
+It was up in first, early--
+It was up early--we had troubln with 
+that. That' s another thing I could have 
+recommended those gu:ys--we got enough 
+to do in the spacecraft not to worry 
+about setting up the star chart and 
+figuring out from the--somethir..g you 
+can' t do from the star chart is figure 
+out a pitch and yaw angle and the 
+grormd' s got that information up the 
+kazoo, so on any of these ones where 
+they want you to photograph some stars 
+or anything else-you 've got to platform 
+up again -the easiest thing to do is 
+send up a pitch and yaw with it and 
+that just takes all the work out of it 
+
+===== PAGE 168 =====
+Conr ad 
+FCSD Rep 
+Conrad 
+Cooper I can't sey too much f or that star chart either. 
+Boy, it was real comforting to have those yaw stars, 
+and it turned out that Scorpio went right down the 
+middle of the tube f or us and we alweys knew that we 
+had the platform in good alinement before retrofire . 
+We knew we were right on in yaw al l the wey down the 
+line, and we could just name the stars and knew that 
+t hey were just going to come right down the middle 
+of the pipe, and watch them go. It worked real well . 
+How long did you aline the platform for retrofire? 
+Well, we really alined it about 1½ orbits. 
+1We powered up for~ and we actually were alining 
+for an orbit and a half before retrofire . All the 
+alinement and everything was done on the RCS system. 
+Let me sey this on this alining. We found that we 
+couldn1 t see any decrease at all in the RCS quantity 
+after an orbit and a half. We were doing it in 
+horizon scan, BEF, and then using the pulse mode in 
+the horizon scan to give you the fine control within 
+the horizon scan to really keep the needles closely 
+centered. Now you can do the same thing just in pulse, 
+but if you neglect it for just a minute, the horizon 
+scan would hold it in there real close. It wouldn1 t 
+L --
+
+===== PAGE 169 =====
+FCSD Rep 
+Conrad 
+Cooper 
+Conrad 
+FCSD Rep 
+Cooper let you wander off anywhere in pi tch and roll. You 
+had to watch the yaw very carefully, of course, but 
+you could concentrate on doing other things for just 
+a few seconds time and you didn ' t get your errors 
+built up into it. You still have the iulse correc­
+tion within the wider band of t he horizon scan. We 
+found that little teensy little blips to make your 
+correction and I don' t think we were u:.:irig any 
+fuel at all. 
+Did you get any reading on how much yoi. did use? 
+I checked this morning and it' s not i n yet. I don' t 
+know how much fuel . We used Ring A sir.ce we powered 
+it up at 2 orbits, over Carnarvo n the first time. 
+What I recall from the preretro checkl::.st --it 
+commenced at Carnarvon one pass before reentry. In 
+other words, we went an orbit and a ha:.f on the RCS 
+system --Ring A. Most of that time wEi were alining. 
+We used dual ring RCS rate command for retrofire 
+only. Then we turned Ring B off and d:_d the whole 
+reentry on ring A. 
+Pulse . 
+You operated Ring A all the way? 
+The last I saw of Ring A in the reentr;;r, down before 
+
+===== PAGE 170 =====
+we went to drogue chute out, I still couldn't see 
+any decrease in Ring A. 
+Conrad Well, I'm not sure that Ring A wasn' t out of fuel , 
+somewhere around between 100 000 on down. But the 
+other ring wasn' t . I know darn well it wasn't. 
+Cooper What do you mean it was? It wasn' t out before we 
+put the other ring in at all. 
+Conrad No . I know it wasn' t out before we put the other 
+ring in. 
+Cooper Did you take a look at it around 100 000? 
+Conrad Yes. I know the thrusters were firing. It was 
+firing. 
+Cooper Well, the gauge indicated it still had all kinds of 
+fuel lef t ir1 it just before 100 000. 
+Conrad !Well, thats regulated pressure . 
+Cooper Yes , it' s pressure . 
+Conrad It's not going to tell you anything in the way of 
+fuel usage. You have to see source pressure to find 
+out what --we don't have that . 
+Cooper Well , you would --
+Conrad I'm not sure that Ring A didn't run out of fuel, but 
+if it did, it did it somewhere around the time we 
+put the other ring on, because we never got any 
+
+===== PAGE 171 =====
+oscil lations or anything . The rings were f iring -all 
+the time. 
+Cooper I ~ never was out of f uel before we put the other one 
+on, 1 1 11 guarant ee . I know because I was sitting 
+there controlling with it and I know that we had 
+control. 
+Conrad I know that both thrusters were physically burning 
+inside --you know, the throats were burning when I 
+shut the propellant off. In other words, t he pro­
+pellant was shut off and there was no fuel f low 
+going to them, but both Ring A and Ring· B thrusters 
+t hat I could see had throat f lames in them. 
+Cooper That ' s just from residual fuel . 
+Conrad Yes, that ' s what I mean. So, I had the impression 
+that t hey r an al l the way down, and then i f Ring A 
+did run out of fuel at all, it did it a.t the very 
+end, you know. I think that you' ll find that there 
+was f uel in both RCS rings and there sr.ould have been 
+plenty of RCS B fuel left, because we didn ' t even 
+turn on RCS B until l ess than 70 000. We were at 
+50 because 
+Cooper Yes. 
+Conrad --Gordo put the drogue out instead of turning the 
+ring on. 
+0Nft9ENTt'A~ 
+
+===== PAGE 172 =====
+OONffl:)erqTfAL 
+FCSD Rep Why don't we pick up on page 26? 
+Cooper Okay. 
+
+===== PAGE 173 =====
+168 
+5. 1 ~ -36 Events 
+Cooper 
+Conrad 
+FCSD Rep 
+Conrad 
+Cooper 
+Conrad • 
+5.0 RETROFIRE 
+TR-36 
+TR-36 is not right. There's no aft-fi rjng thrusters 
+verification . That ' s for OAMS . And thEre was no 
+TR-22 either because that was for OAMS , nor was there 
+a TR-13 or 12. What we had was a TR-27 clock set 
+over Carnarvon . 
+You started your event t imer at TR-27? 
+ThatsI because we changed from 122-1 to 121-1. We 
+went right down the pre-retro checklist before that by 
+the numbers , and we had what we call a ~R-36 which 
+was nothing more than pick up the event timer. So 
+we had the pre-retro checkli st complete before 
+Carnarvon . That ' s when t hey glitched us , and I 1m 
+going to complain about this one . We had a valid 
+load in the comput er and a valid TR when we left the 
+States on Rev 120, and I see absolutely no reason 
+if those guys don' t know what the heck our orbit is 
+aft er 120 of them up there, that they had to go 
+ahead and send a quick up-date over Carnarvon --
+Yes. 
+--I f elt that screwed us. I still want to know 
+what happened . 
+
+===== PAGE 174 =====
+~t0EN,-IAL 
+Cooper And we told McDivitt --
+Conrad We didn' t get a DCS light. 
+Cooper We told McDivitt when we left Houston that everything 
+I was all square and that we re going to Reentry Mode 
+on the computer then. We did, and then at Carnarvon 
+the CAP COM, before he even gave us a warning or 
+asked us about anything or even checked to see what 
+mode our computer was in, sent an up-date. Very, 
+very poor. 
+Conrad He said, "I'm sending you a new load and a new TR. 
+Stand by." Boy, we were all over the thing trying to 
+get it back to PRELAUNCH . I never got a DCS light 
+on either the TR or the load. I quizzed him and I 
+told him I didn't think the load went in. He said, 
+11No, the load was valid. " We r ead out a couple of 
+I cores and checked TR , but I don t understand why we 
+didn't get a DCS light. Now I won ' t understand it 
+because we should have gotten two DCS lights. 
+Cooper Yes. One for TR and one for --
+Conrad I didn't get one the first time when he sent the 
+TR, and I didn' t get one when he sent the load. We 
+were in the process of switching the computer to 
+PRELAUNCH , and I think the el ectrpns got lost in the 
+shuffle there. I gather that they took the computer 
+
+===== PAGE 175 =====
+170 ONFl[;)ENTIA L 
+out yesterday and that the load in it was valid. It 1 s 
+just that they computed the wrong place to land, in 
+Houston, and sent the wrong load, period. Boy, that 
+was a heck of a thing to do, and I really that darn 
+I1DCS! m going to do just what I said I was going to 
+do. If I ever fly again, I'm not going to fly with 
+that DCS circuit breaker on. That ' s just exactly what 
+I was afraid was going to happen, and they couldn ' t 
+have done it at a worse time in the flient . They 
+just absolutely couldn't have done it wcrse. The 
+one thing that I had forgotten many times was putting 
+that computer from PRELAUNCH to REENTRY. I had it 
+underlined 50 times on the check-off liflt. I was 
+going to make sure that it was in REENTI'.Y . When they 
+told me leaving the Cape we had a valid load and a 
+valid TR, I called McDivitt and I said :: 1 m putting 
+the computer in REENTRY. The next thin/~ is, at 
+Carnarvon the guy should have seen on h:.s board that 
+the computer was in REENTRY and should have told me 
+instead of sending a load like he did. We moved as 
+f ast as we could when he said he was sending loads 
+to put the darn thing back to PRELAUNCH . That really 
+screwed us up and I 1m really mad about that. That's 
+the only gripe I have against them, but it's a major one. 
+
+===== PAGE 176 =====
+=- 171 
+Cooper Yes. It's major enought that , by golly , my recom­
+mendations exactly like Pete' s . From now on my rec­
+omendation is 
+Conrad That did it. 
+Cooper --that the DCS circuit breaker is left in the OFF 
+position. 
+Conrad Yes. The next time I ever go for the reentry and we 
+put a valid load in the computer, I'm going to turn 
+the DCS off so they can ' t screw it up again without 
+me turning it back on. 
+Coop_er Absolutely . Turn that circuit breaker to the OFF 
+position . 
+Conrad That's right. I 'd rather miss a load and go with 
+the earlier one. I still can ' t believe that after 
+120 orbits they didn't know exactly what our param­
+eters were for orbit. I don't even know why they 
+needed that track over the United States the last 
+pass. They 'd been tracking us all night long. 
+They'd been tracking us for 8 days, and they ought 
+to know where the heck we were. If they want to do 
+it at the last minute, then let's plan on loading the 
+computer at Carnarvon and not load the computer at 
+the Cape. This loading it at the Cape and then chang­
+ing it again at Carnarvon has got to go. 
+GON.flDENTIAL 
+
+===== PAGE 177 =====
+172 Cet-ctftDEt~rrt~ 
+Cooper And t hen saying this is your final load. Verify -­
+Conrad Bad news. I 'm r eally mad about that ! 
+Cooper Then unscheduled and everything else --
+Conrad I don ' t blame that guy at Carnarvon because he wasn ' t 
+expecting to send us a load either. I hlame Houston. 
+Houston sent it down to them at the las·; minute , 
+obviously , and he was doi ng the best he could and 
+he got rushed. The whole thing we wanted to do on 
+reentry and the reason we stowed early md sat there 
+with nothing to do was to make sure that we were 
+never rushed. We weren't until the guy sent that 
+l oad. And there we were , 27 minutes fr:>m retrofire , 
+and I r eally wasn't convinced we had th~ right load 
+in the computer even when we left Carnarvon. Boy, 
+IIm really mad at that! 
+Cooper 
+Conrad IOkay. Ive got some recommendations. I think we 
+ought to rewrite our TR-256 check-off list because 
+there are too many things that happen en it at TR-5 
+and TR-256. We changed the procedure in f light 
+I knew I was going to do it that way ar.yhow, in t hat 
+I brought up the main batteries early. I brought 
+them on at 7 minutes. I verified the computer in 

@@ -691,3 +691,76 @@ Downloaded Release 02 document bundle from `https://www.war.gov/medialink/ufo/05
 - The **Sandia D017 file** is a high-value source that warrants a dedicated synthesis on the **green fireball wave** connecting the 1948-1949 events to the broader corpus.
 - The **USPER narrative (ODNI-D001)** may connect to the existing Western US Event slides and USPER statement — should check for overlap.
 - The **CIA Sary Shagan report** raises questions about Soviet ABM testing and whether the green concentric-circles phenomenon could be related to missile testing.
+
+## [2026-06-12] ingest | Release 03 — 63-document batch ingest
+
+### Source
+
+Extracted from `release_03_documents.zip` in Downloads, renamed and moved to `raw/` by 5 parallel agents.
+
+### Sources by agency
+
+- **CIA (18)** — Robertson Panel report (1953), U-2/OXCART history and UFO confusion, Leon Davidson memo, German scientist flying disc article (1950), Azerbaijan unconventional aircraft (1955), Blue Book current status (1953), Kardashev/Sakharov charged-mass paper (1971), Budapest unknown flying objects, conversations with Soviet scientists on UFOs, Sary Shagan weapons range characterisation, Soviet Aeroflot cosmic ray phosphenes, Hungary UAP sightings (1955), British UFO activity (1952), Blue Book Special Report No. 14, Himalayan UAP sightings + possible disc recovery (1968), Zimbabwe Harare UAP SECRET cable (2008), Hungary UAP letter with 12,000 km/h object (1955), Australian DoD comprehensive UAP assessment
+- **DOW (12)** — Western US Event: unresolved case analysis update (D077), notional map (D078), Narratives 1–5 (D079–D083); historical documents: US Army Flying Saucer Study 1949 (D084), transmission of CIA Robertson Panel report (D085), US Navy Report of Flying Discs 1948 (D086), USAF Flying Objects Analysis 1–100 (D087) and 101–172 (D088)
+- **FBI (23 raw files → 14 summary pages)** — Colorado Springs / Cheyenne Mountain cluster (D001–D003): FD-302 with 5 Army witnesses, FD-1057 forensic sketch of articulating panels, FBI OPU digital rendering; Northeastern US recurrent orbs 2024 (D004–D008): FD-1057 series covering plasma orbs + gamma radiation, witness interview with triangle formation, site survey, **FBI agents directly observing UAP** (FD-1057-06), follow-up survey; Northeastern orbs 2026 (D009–D010): dual red orbs and yellow orb at 30 yards; historical correspondence (D011–D013): Reverend Barnes 4 sky beams over Cascades 1949, Newark FBI field office compiled UFO file 1952–1967, Seattle FBI field office UFO file 1952–1960; Western US Event forensic renderings (D014/D023)
+- **NASA (8)** — Mercury astronaut scientific debriefings 1962-1963 (D015); Gemini 4 Part I (D016), Part II with "curtain of lights" (D017), experiment debriefing (D018); Gemini 5 Part I (D019), Part II with aurora-type phenomenon (D020); Gemini 7 technical debriefing with satellite sighting / "bogey" context (D021); Gemini 9 debriefing (D022)
+- **ICA (1)** — AARO analysis of Cheyenne Mountain incident (2022)
+- **USG (1)** — NASA debunking (1970s) + Congressional correspondence (1998)
+
+### Coverage summary
+
+Coverage varies across the batch. Smaller standalone documents (FBI FD-302 forms, short CIA cables) read in full (`full`). Larger reference documents (CIA-UAP-019 Australian assessment, CIA-UAP-015 Blue Book SR-14, DOW D087/D088 flying-objects analyses) read partially to cover structure and representative incidents (`partial`). Large NASA technical debriefings read in portions sufficient to extract UAP-relevant sections (`partial`). See per-summary coverage marks for specifics.
+
+### New pages created
+
+- **54 summary pages** (18 CIA, 12 DOW, 14 FBI, 8 NASA, 1 ICA, 1 USG)
+- **9 concept pages**: [[concepts/robertson-panel]], [[concepts/debunking-program]], [[concepts/gravity-research]], [[concepts/radar-anomaly]], [[concepts/soviet-uap]], [[concepts/translucent-kite]], [[concepts/articulating-panels]], [[concepts/plasma-orb]], [[concepts/backscattering]]
+- **31 entity pages**:
+  - Robertson Panel members: [[entities/h-p-robertson]], [[entities/luis-alvarez]], [[entities/lloyd-berkner]], [[entities/samuel-goudsmit]], [[entities/thornton-page]], [[entities/frederick-c-durant]]
+  - Government / military: [[entities/j-allen-hynek]], [[entities/r-v-jones]], [[entities/h-marshall-chadwell]], [[entities/admiral-hillenkoetter]], [[entities/kosloski-jon-t]]
+  - Scientists / researchers: [[entities/leon-davidson]], [[entities/nicolas-kardashev]], [[entities/andrei-sakharov]], [[entities/richard-underwood]], [[entities/george-fawcett]]
+  - Organizations: [[entities/nicap]], [[entities/apro]], [[entities/seti-institute]], [[entities/avro-canada]], [[entities/battelle-memorial-institute]], [[entities/cia]], [[entities/4602nd-aiss]]
+  - Incidents: [[entities/cheyenne-mountain-uap-2022]], [[entities/northeastern-us-recurrent-orbs-2021-2024]]
+  - NASA missions: [[entities/gemini-4]], [[entities/gemini-5]], [[entities/gemini-7]], [[entities/gemini-9]]
+  - Bases / locations: [[entities/fort-carson]], [[entities/sary-shagan]]
+
+### Existing pages updated
+
+- [[concepts/orb]] — added plasma-orb subtypes from FBI D004/D009/D010
+- [[concepts/transmedium]] — updated with Cheyenne Mountain articulating-panel descent data
+- [[entities/aaro]] — added ICA D001 Cheyenne Mountain analysis and Kosloski-era updates
+- [[entities/project-blue-book]] — added SR-14 statistical analysis from CIA-UAP-015
+- [[entities/fbi]] — updated with modern operational records (D001–D014, Release 03)
+- [[entities/state-dept]] — Zimbabwe 2008 SECRET cable added
+- [[concepts/extraterrestrial-hypothesis]] — Kardashev/Sakharov charged-mass theoretical framework added
+
+### Merge notes
+
+- Duplicate entity `colorado-springs-incident-2022` merged into [[entities/cheyenne-mountain-uap-2022]] to consolidate the multi-source coverage (FBI D001–D003 FD-302s + forensic sketches + digital rendering, and ICA D001 AARO analysis) under a single canonical entity page.
+- Gemini 4/5/7/9 entity pages capture crew-sighting reports across multiple debriefing files; cross-linked with existing [[entities/borman-gemini-7]] which now serves as the earlier, narrower entity for the famous "bogey at 10 o'clock high" quote.
+
+### Notable findings highlights
+
+- **CIA-UAP-019 Australian DoD assessment** — comprehensive Australian Defence Department UAP file with historical survey, international comparison, and policy recommendations. One of the most thorough single-agency reviews in the corpus.
+- **Cheyenne Mountain multi-source coverage** — three FBI FD-302/1057 files (5 Army witness accounts, forensic sketch of articulating panels, digital rendering) plus an ICA/AARO analysis document provide the densest single-incident multi-source coverage in the corpus.
+- **FBI agents directly observing UAP (FD-1057-06)** — FBI UAP Working Group personnel become witnesses themselves. One of very few documented cases of federal agents directly observing anomalous phenomena while on duty.
+- **Himalayan physical trace case (CIA-UAP-016, 1968)** — alleged disc recovery with physical evidence in Himalayan region; Sikkim/India area of operations. One of the few non-US physical-trace claims in the CIA collection.
+- **Zimbabwe 2008 SECRET cable (CIA-UAP-017)** — contemporaneous State Department cable describing UAP activity over Harare triggering a national-security alert. Rare example of African-continent UAP reporting at the SECRET classification level.
+- **NASA Gemini "curtain of lights" (Gemini 4 Part II, D017)** — crew observations of visual phenomena during orbital flight; described as a "curtain of lights" extending across the field of view. Adds to the corpus of orbital visual anomalies alongside the Apollo light-flash and Borman "bogey" records.
+- **Kardashev/Sakharov charged-mass paper (CIA-UAP-008, 1971)** — theoretical physics paper on gravity modification via charged mass, collected by CIA. Establishes Soviet scientific establishment interest in propulsion-relevant physics contemporaneous with US UAP programs.
+- **US Navy Report of Flying Discs (DOW D086, 1948)** — previously uncirculated Navy assessment of the 1947-1948 disc wave, complementing the Army/Air Force SIGN and GRUDGE records.
+
+### Index changes
+
+- Counts updated: 118 → **172 summaries**, 40 → **49 concepts**, 78 → **109 entities**, 5 → **6 syntheses** (corrected), 120 → **183 raw PDFs**
+- New summary sections: CIA-UAP (18 entries), DOW Western US Event narratives (7 entries), DOW historical documents (5 entries), NASA Gemini and Mercury (8 entries), ICA (1 entry), USG (1 entry); FBI modern operational records section expanded with 14 new D-series entries
+- 9 new concept entries added across morphology, sensors, methodology, policy, and physics sections
+- 31 new entity entries added with new sub-categories: Robertson Panel members, civilian organizations, government/military figures, scientists/researchers
+
+### Open threads
+
+- CIA-UAP-016 Himalayan disc recovery claim warrants cross-reference with existing physical-trace cases (Socorro, Scranton PA, Maury Island)
+- FBI FD-1057-06 (agents directly observing UAP) and the Cheyenne Mountain articulating-panels description both raise questions about the "nuts-and-bolts" vs. "plasma/orb" taxonomy — are these separate phenomena classes or a continuum?
+- Robertson Panel report (CIA-UAP-002) and the debunking-program concept page should eventually feed a synthesis on "institutional debunking, 1953–present" comparing the Robertson Panel → Condon Committee → AARO continuum
+- Blue Book Special Report No. 14 (CIA-UAP-015) statistical data should be cross-referenced with the Project Blue Book tally preserved in FBI 62-HQ-83894 Section 10
+- Australian DoD assessment (CIA-UAP-019) and British UFO activity summary (CIA-UAP-014) together provide non-US governmental perspectives that could seed an "International Official UAP Postures" synthesis

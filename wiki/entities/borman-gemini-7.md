@@ -3,8 +3,8 @@ title: "Borman / Gemini 7 \"Bogey at 10 O'clock High\" — December 1965"
 type: entity
 tags: [nasa, orbital, 1960s, incident]
 created: 2026-05-08
-updated: 2026-05-08
-sources: ["raw/255_t_763_r1b_transcripts.pdf"]
+updated: 2026-06-12
+sources: ["raw/255_t_763_r1b_transcripts.pdf", "raw/nasa-uap-d021-gemini-7-technical-debriefing-1965.pdf"]
 confidence: high
 ---
 
@@ -21,10 +21,12 @@ During the **Gemini 7** mission in December 1965, astronaut **Frank Borman** (wi
 ## Documented in Sources
 
 - [[summaries/255_t_763_r1b_transcripts]]
+- [[summaries/nasa-uap-d021-gemini-7-technical-debriefing-1965]]
 
 ## Related Entities
 
 - [[entities/nasa]]
+- [[entities/gemini-7]]
 - [[entities/apollo-11]]
 - [[entities/skylab]]
 

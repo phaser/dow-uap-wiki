@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Start here for any query. Schema lives in [`../CLAUDE.md`](../CLAUDE.md). Activity log at [`log.md`](log.md).
 
-**Counts (2026-05-22):** 118 summaries · 40 concepts · 78 entities · 5 syntheses · 120 raw PDFs (OCR'd; see `raw/ocr/`).
+**Counts (2026-06-13):** 172 summaries · 49 concepts · 109 entities · 6 syntheses · 183 raw PDFs (OCR'd; see `raw/ocr/`).
 
 ---
 
@@ -45,15 +45,54 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [100-DE-18221 Serial 844](summaries/100-de-18221-serial-844.md) — David Weaver, Detroit crystal-dome disc, 1958
 - [100-DE-26505](summaries/100-de-26505.md) — Krasuski Gut Alt Golssen 1944 disc, given to FBI 1957
 
-### FBI — modern operational records
+### FBI — modern operational records (Release 03)
 
 - [Serial 3 (redacted)](summaries/serial-3-redacted.md) — paired FD-302, Sept 2023 cigar/linear UAP at LiDAR drone test
 - [Serial 4 (redacted)](summaries/serial-4-redacted.md) — paired with Serial 3
+- [D001 — Colorado Springs 2022](summaries/fbi-uap-d001-colorado-springs-2022.md) — FD-302: Cheyenne Mountain, 5 Army witnesses
+- [D002 — Colorado Springs 2022](summaries/fbi-uap-d002-colorado-springs-2022.md) — FD-1057 forensic sketch: articulating panels
+- [D003 — Colorado Springs 2022](summaries/fbi-uap-d003-colorado-springs-2022.md) — FBI OPU digital rendering
+- [D004 — Northeastern US 2024](summaries/fbi-uap-d004-northeastern-us-2024.md) — FD-1057-02: plasma orbs, gamma radiation
+- [D005 — Northeastern US 2024](summaries/fbi-uap-d005-northeastern-us-2024.md) — FD-1057-04: witness interview, triangle formation
+- [D006 — Northeastern US 2024](summaries/fbi-uap-d006-northeastern-us-2024.md) — FD-1057-05: site survey
+- [D007 — Northeastern US 2024](summaries/fbi-uap-d007-northeastern-us-2024.md) — FD-1057-06: FBI agents directly observe UAP
+- [D008 — Northeastern US 2024](summaries/fbi-uap-d008-northeastern-us-2024.md) — FD-1057-07: follow-up survey
+- [D009 — Northeastern Orb 2026](summaries/fbi-uap-d009-northeastern-orb-2026.md) — FD-302-67: couple observes dual red orbs
+- [D010 — Northeastern Orb 2026](summaries/fbi-uap-d010-northeastern-orb-2026.md) — FD-302-71: couple observes yellow orb at 30 yards
+- [D011 — Correspondence Referral 1949](summaries/fbi-uap-d011-correspondence-referral-1949.md) — Reverend Barnes: 4 sky beams over Cascades
+- [D012 — Newark Field Office 1952-1967](summaries/fbi-uap-d012-newark-field-office-1952-1967.md) — Newark FBI field office compiled UFO file
+- [D013 — WA UFO Investigation 1952-1960](summaries/fbi-uap-d013-wa-ufo-investigation-1952-1960.md) — Seattle FBI field office UFO file
+- [D014/D023 — Western US Event Renderings 2023](summaries/fbi-uap-d014-d023-western-us-event-renderings-2023.md) — FBI forensic renderings, Western US Event
 
 ### FBI — tracking-camera imagery (1999-12-31 sequence)
 
 - [b1](summaries/fbi-photo-b1.md) · [b2](summaries/fbi-photo-b2.md) · [b3](summaries/fbi-photo-b3.md) · [b4](summaries/fbi-photo-b4.md) · [b5](summaries/fbi-photo-b5.md) · [b6](summaries/fbi-photo-b6.md) · [b7](summaries/fbi-photo-b7.md) · [b8](summaries/fbi-photo-b8.md) · [b9](summaries/fbi-photo-b9.md) · [b10](summaries/fbi-photo-b10.md) · [b11](summaries/fbi-photo-b11.md) · [b12](summaries/fbi-photo-b12.md)
 - [b13](summaries/fbi-photo-b13.md) · [b14](summaries/fbi-photo-b14.md) · [b15](summaries/fbi-photo-b15.md) · [b16](summaries/fbi-photo-b16.md) · [b17](summaries/fbi-photo-b17.md) · [b18](summaries/fbi-photo-b18.md) · [b19](summaries/fbi-photo-b19.md) · [b20](summaries/fbi-photo-b20.md) · [b21](summaries/fbi-photo-b21.md) · [b22](summaries/fbi-photo-b22.md) · [b23](summaries/fbi-photo-b23.md) · [b24](summaries/fbi-photo-b24.md)
+
+### CIA — UAP records (Release 03)
+
+- [002 — Robertson Panel Report 1953](summaries/cia-uap-002-robertson-panel-report-1953.md) — CIA scientific advisory panel on UFOs, Durant report
+- [003 — CIA Overhead Reconnaissance, U-2 / OXCART](summaries/cia-uap-003-cia-overhead-reconnaissance-u2-oxcart.md) — CIA history of U-2/OXCART and UFO report confusion
+- [004 — Case 17708, Leon Davidson](summaries/cia-uap-004-case-17708-leon-davidson.md) — CIA memo on Dr. Leon Davidson, UFO investigation requests
+- [005 — German Scientist Flying Disc Article 1950](summaries/cia-uap-005-german-scientist-flying-disc-article-1950.md) — German scientist article on flying discs
+- [006 — Unconventional Aircraft, Azerbaijan 1955](summaries/cia-uap-006-unconventional-aircraft-azerbaijan-1955.md) — Unconventional aircraft over Azerbaijan SSR
+- [007 — Current Status UFO Project 1953](summaries/cia-uap-007-current-status-ufo-project-1953.md) — Blue Book current status report
+- [008 — Kardashev/Sakharov Charged Mass 1971](summaries/cia-uap-008-kardashev-sakharov-charged-mass-1971.md) — Kardashev/Sakharov charged-mass paper on gravity
+- [009 — Unknown Flying Objects, Budapest](summaries/cia-uap-009-unknown-flying-objects-budapest.md) — Unknown flying objects over Budapest
+- [010 — Conversations with Soviet Scientists on UFOs](summaries/cia-uap-010-conversations-with-soviet-scientists-ufos.md) — Conversations with Soviet scientists on UFOs
+- [011 — Sary Shagan Weapons Range](summaries/cia-uap-011-sary-shagan-weapons-range.md) — Sary Shagan ABM test range characterisation
+- [012 — Soviet Aeroflot Cosmic Rays](summaries/cia-uap-012-soviet-aeroflot-cosmic-rays.md) — Soviet Aeroflot cosmic ray phosphenes research
+- [013 — Hungary UAP Sightings 1955](summaries/cia-uap-013-hungary-uap-sightings-1955.md) — Hungary UAP sightings
+- [014 — British UFO Activity 1952](summaries/cia-uap-014-british-ufo-activity-1952.md) — British UFO activity and official response
+- [015 — Blue Book Special Report 14](summaries/cia-uap-015-blue-book-special-report-14.md) — Battelle Memorial Institute statistical analysis
+- [016 — Himalayan UAP Sightings 1968](summaries/cia-uap-016-himalayan-uap-sightings-1968.md) — Himalayan UAP sightings, possible disc recovery
+- [017 — Zimbabwe Harare UAP 2008](summaries/cia-uap-017-zimbabwe-harare-uap-2008.md) — SECRET cable: Zimbabwe UAP, national security alert
+- [018 — Hungary UAP Sightings Letter 1955](summaries/cia-uap-018-hungary-uap-sightings-letter-1955.md) — Hungary UAP letter, 12,000 km/h object
+- [019 — Australian DoD UFO Assessment](summaries/cia-uap-019-australian-dod-ufo-assessment.md) — Australian DoD comprehensive UAP assessment
+
+### CIA — Release 02
+
+- [CIA UAP D001 — Sary Shagan Range, USSR (Nov 1972–Nov 1973)](summaries/cia-uap-d001-sary-shagan-ussr-1973.md) — Former Soviet citizen source at ABM test range; green circular object with concentric rings observed late summer 1973; System-75 (SA-2) and System-300/ABM-1 GALOSH warhead checkout; rumored laser research
 
 ### Army / Air Force — Project SIGN incident summaries (1947–1948)
 
@@ -111,6 +150,24 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [D28 (label "East China Sea 2024" → Iraq AAAB)](summaries/dow-uap-d28-mission-report-east-china-sea-2024.md)
 - [D42 (label "Japan 2023" → CENTCOM Aug 2020)](summaries/dow-uap-d42-range-fouler-debrief-japan-2023.md)
 
+**Western US Event narratives (Release 03):**
+
+- [D077 — Unresolved Case Analysis Update](summaries/dow-uap-d077-unresolved-case-analysis-update-western-us.md) — Unresolved case analysis update, Western US Event
+- [D078 — Notional Map](summaries/dow-uap-d078-notional-map-western-us-event.md) — Notional map, Western US Event
+- [D079 — Narrative 1](summaries/dow-uap-d079-narrative-1-western-us-event.md) — Narrative 1, Western US Event
+- [D080 — Narrative 2](summaries/dow-uap-d080-narrative-2-western-us-event.md) — Narrative 2, Western US Event
+- [D081 — Narrative 3](summaries/dow-uap-d081-narrative-3-western-us-event.md) — Narrative 3, Western US Event
+- [D082 — Narrative 4](summaries/dow-uap-d082-narrative-4-western-us-event.md) — Narrative 4, Western US Event
+- [D083 — Narrative 5](summaries/dow-uap-d083-narrative-5-western-us-event.md) — Narrative 5, Western US Event
+
+**DoW historical documents (Release 03):**
+
+- [D084 — US Army Flying Saucer Study 1949](summaries/dow-uap-d084-usarmy-flying-saucer-study-1949.md) — US Army Flying Saucer Study
+- [D085 — Transmission of CIA Scientific Advisory Panel Report 1953](summaries/dow-uap-d085-transmission-of-cia-scientific-advisory-panel-rept-1953.md) — Transmission of CIA Robertson Panel report
+- [D086 — US Navy Report of Flying Discs 1948](summaries/dow-uap-d086-usnavy-report-of-flying-discs-1948.md) — US Navy Report of Flying Discs
+- [D087 — USAF Flying Objects Analysis 1–100](summaries/dow-uap-d087-us-airforce-analysis-of-flying-objects-in-the-us-1-100.md) — USAF Flying Objects Analysis 1–100
+- [D088 — USAF Flying Objects Analysis 101–172](summaries/dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the-us-101-172.md) — USAF Flying Objects Analysis 101–172
+
 **Email correspondence and policy threads:**
 
 - [D50 INDOPACOM email Apr 2025](summaries/dow-uap-d50-email-correspondence-indopacom-april-2025.md) · [D51 Pacific Time Zone Mar 2023](summaries/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.md) · [D52 Aug 2024](summaries/dow-uap-d52-email-correspondance-na-august-2024.md)
@@ -136,9 +193,28 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [D6 Apollo 17 Technical Crew Debriefing 1973](summaries/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.md)
 - [D7 Skylab Technical Crew Debriefing 1973](summaries/nasa-uap-d7-skylab-technical-crew-debriefing-1973.md) — Skylab 3 "red satellite," SAA-correlated flashes
 
-### NASA — Gemini and other transcripts
+### NASA — Gemini and Mercury debriefings (Release 03)
+
+- [D015 — Astronaut Scientific Debriefings 1962-1963](summaries/nasa-uap-d015-astronaut-scientific-debriefings-1962-1963.md) — Mercury astronaut debriefings, Glenn effect particles
+- [D016 — Preliminary Gemini 4 Crew Debriefing Part I 1965](summaries/nasa-uap-d016-preliminary-gemini-4-crew-debriefing-part1-1965.md) — Gemini 4 Part I
+- [D017 — Preliminary Gemini 4 Crew Debriefing Part II 1965](summaries/nasa-uap-d017-preliminary-gemini-4-crew-debriefing-part2-1965.md) — Gemini 4 Part II: "curtain of lights"
+- [D018 — Gemini 4 Experiment Debriefing 1967](summaries/nasa-uap-d018-gemini-4-experiment-debriefing-1967.md) — Gemini 4 experiment debriefing
+- [D019 — Gemini 5 Technical Debriefing Part I 1965](summaries/nasa-uap-d019-gemini-5-technical-debriefing-part1-1965.md) — Gemini 5 Part I
+- [D020 — Gemini 5 Technical Debriefing Part II 1965](summaries/nasa-uap-d020-gemini-5-technical-debriefing-part2-1965.md) — Gemini 5 Part II: aurora-type phenomenon
+- [D021 — Gemini 7 Technical Debriefing 1965](summaries/nasa-uap-d021-gemini-7-technical-debriefing-1965.md) — Gemini 7: satellite sighting, "bogey" context
+- [D022 — Gemini 9 Debriefing 1966](summaries/nasa-uap-d022-gemini-9-debriefing-1966.md) — Gemini 9 debriefing
+
+### NASA — other transcripts
 
 - [255 T-763 R1B Transcripts](summaries/255_t_763_r1b_transcripts.md) — Borman GT-7 "bogey at 10 o'clock high," Dec 1965
+
+### ICA — Intelligence Community Assessments (Release 03)
+
+- [D001 — Analysis: Colorado Springs UAP Incident](summaries/ica-uap-d001-analysis-colorado-springs-uap-incident.md) — AARO analysis, Cheyenne Mountain 2022
+
+### USG — US Government / Congressional (Release 03)
+
+- [D001 — Congressional / White House UFO Correspondence 1998](summaries/usg-uap-d001-congress-whitehouse-ufo-correspondence-1998.md) — NASA debunking (1970s) + Congressional correspondence
 
 ### Visual / Artist materials
 
@@ -147,7 +223,6 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 ### Department of War — Release 02 (22 May 2026)
 
 - [ODNI UAP D001 — USPER Narrative, Senior USIC Orb Encounter (2025)](summaries/odni-uap-d001-usper-narrative-senior-usic.md) — First-person account: helicopter deployment to investigate "thuds" and UAP orbs; extended close encounter with object splitting into two, approach within 10 feet of helicopter, T-formation of 4-5 orange orbs, orbs matching fighter jet speed and flight path, triangle formation
-- [CIA UAP D001 — Sary Shagan Range, USSR (Nov 1972–Nov 1973)](summaries/cia-uap-d001-sary-shagan-ussr-1973.md) — Former Soviet citizen source at ABM test range; green circular object with concentric rings observed late summer 1973; System-75 (SA-2) and System-300/ABM-1 GALOSH warhead checkout; rumored laser research
 - [DOE UAP D001 — PANTEX Image](summaries/doe-uap-d001-pantex-image.md) — Ground surveillance radar image of unidentified object; Sandia National Labs enhanced imagery
 - [DOE UAP D002 — James Tuck Correspondence](summaries/doe-uap-d002-james-tuck-correspondence.md) — Physicist James L. Tuck requests simulated atomic bomb detonation data; cites Condon Report's atmospheric vortices; enclosure on Einstein's unified field theory and UAP propulsion
 - [DOE UAP D003 — Pajarito Astronomers](summaries/doe-uap-d003-pajarito-astronomers.md) — LANL amateur astronomy club; Dr. John Warren (AT-6) guest speaker on "Why Should a Scientist be Concerned about UFO's?" (29 May 1986)
@@ -159,19 +234,19 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 
 ### Foundational
 
-- [UAP](concepts/uap.md) · [Flying Disc](concepts/flying-disc.md) · [Foo Fighter](concepts/foo-fighter.md) · [Ghost Rockets](concepts/ghost-rockets.md) · [Range Fouler](concepts/range-fouler.md) · [Transmedium](concepts/transmedium.md) · [Unconventional Aircraft](concepts/unconventional-aircraft.md) · [Extraterrestrial Hypothesis](concepts/extraterrestrial-hypothesis.md)
+- [UAP](concepts/uap.md) · [Flying Disc](concepts/flying-disc.md) · [Foo Fighter](concepts/foo-fighter.md) · [Ghost Rockets](concepts/ghost-rockets.md) · [Range Fouler](concepts/range-fouler.md) · [Transmedium](concepts/transmedium.md) · [Unconventional Aircraft](concepts/unconventional-aircraft.md) · [Extraterrestrial Hypothesis](concepts/extraterrestrial-hypothesis.md) · [Soviet UAP](concepts/soviet-uap.md)
 
 ### Object morphology and behavior
 
-- [Orb](concepts/orb.md) · [Point-Source Object](concepts/point-source-object.md) · [Paired Object](concepts/paired-object.md) · [Formation Flight](concepts/formation-flight.md) · [Multiple-Object Formation](concepts/multiple-object-formation.md) · [Orbs Launching Orbs](concepts/orbs-launching-orbs.md) · [Balloon-Like UAP](concepts/balloon-like-uap.md)
+- [Orb](concepts/orb.md) · [Point-Source Object](concepts/point-source-object.md) · [Paired Object](concepts/paired-object.md) · [Formation Flight](concepts/formation-flight.md) · [Multiple-Object Formation](concepts/multiple-object-formation.md) · [Orbs Launching Orbs](concepts/orbs-launching-orbs.md) · [Balloon-Like UAP](concepts/balloon-like-uap.md) · [Translucent Kite](concepts/translucent-kite.md) · [Articulating Panels](concepts/articulating-panels.md) · [Plasma Orb](concepts/plasma-orb.md)
 
 ### Sensor / signature classes
 
-- [Tracking-Camera Imagery](concepts/tracking-camera-imagery.md) · [Electro-Optical Sensor](concepts/electro-optical-sensor.md) · [Cold Thermal Signature](concepts/cold-thermal-signature.md) · [Light-Extinction Event](concepts/light-extinction-event.md) · [Redaction](concepts/redaction.md)
+- [Tracking-Camera Imagery](concepts/tracking-camera-imagery.md) · [Electro-Optical Sensor](concepts/electro-optical-sensor.md) · [Cold Thermal Signature](concepts/cold-thermal-signature.md) · [Light-Extinction Event](concepts/light-extinction-event.md) · [Redaction](concepts/redaction.md) · [Radar Anomaly](concepts/radar-anomaly.md) · [Backscattering](concepts/backscattering.md)
 
 ### Methodology / disposition
 
-- [Incident Checklist Template](concepts/incident-checklist-template.md) · [Witness Reliability Evaluation](concepts/witness-reliability-evaluation.md) · [Multi-Witness Corroboration](concepts/multi-witness-corroboration.md) · [Meteorite vs. Craft Ambiguity](concepts/meteorite-vs-craft-ambiguity.md) · [Saucer Hoax](concepts/saucer-hoax.md) · [Skyhook Balloon](concepts/skyhook-balloon.md)
+- [Incident Checklist Template](concepts/incident-checklist-template.md) · [Witness Reliability Evaluation](concepts/witness-reliability-evaluation.md) · [Multi-Witness Corroboration](concepts/multi-witness-corroboration.md) · [Meteorite vs. Craft Ambiguity](concepts/meteorite-vs-craft-ambiguity.md) · [Saucer Hoax](concepts/saucer-hoax.md) · [Skyhook Balloon](concepts/skyhook-balloon.md) · [Debunking Program](concepts/debunking-program.md)
 
 ### Physical-trace / evidence
 
@@ -191,7 +266,11 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 
 ### Policy / diplomatic
 
-- [Diplomatic UAP Rhetoric](concepts/diplomatic-uap-rhetoric.md) · [Policy on First Contact](concepts/policy-on-first-contact.md)
+- [Diplomatic UAP Rhetoric](concepts/diplomatic-uap-rhetoric.md) · [Policy on First Contact](concepts/policy-on-first-contact.md) · [Robertson Panel](concepts/robertson-panel.md)
+
+### Physics / propulsion
+
+- [Gravity Research](concepts/gravity-research.md)
 
 ---
 
@@ -204,8 +283,9 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Air Materiel Command](entities/air-materiel-command.md) · [Wright-Patterson AFB](entities/wright-patterson-afb.md)
 - [State Department](entities/state-dept.md)
 - [NASA](entities/nasa.md)
-- [AARO](entities/aaro.md) · [DoW UAP (release set)](entities/dow-uap.md)
+- [CIA](entities/cia.md) · [AARO](entities/aaro.md) · [DoW UAP (release set)](entities/dow-uap.md)
 - [USCENTCOM](entities/centcom.md) · [AFCENT](entities/afcent.md) · [USINDOPACOM](entities/indopacom.md)
+- [Battelle Memorial Institute](entities/battelle-memorial-institute.md)
 
 ### USAF / USAAF programs
 
@@ -215,14 +295,24 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 
 - [415th Night Fighter Squadron (USAAF, WW2 foo-fighter unit)](entities/415th-nfs.md)
 - [482 ATKS — 482nd Attack Squadron (MQ-9, 2020 Persian Gulf cluster)](entities/482-atks.md)
+- [4602nd AISS (Air Intelligence Service Squadron, UFO investigations)](entities/4602nd-aiss.md)
+
+### Civilian organizations
+
+- [NICAP (National Investigations Committee on Aerial Phenomena)](entities/nicap.md) · [APRO (Aerial Phenomena Research Organization)](entities/apro.md)
+- [SETI Institute](entities/seti-institute.md)
+- [Avro Canada (Avrocar / Project Y-2)](entities/avro-canada.md)
 
 ### NASA missions
 
 - [Apollo 11](entities/apollo-11.md) · [Apollo 12](entities/apollo-12.md) · [Apollo 17](entities/apollo-17.md) · [Skylab](entities/skylab.md)
+- [Gemini 4](entities/gemini-4.md) · [Gemini 5](entities/gemini-5.md) · [Gemini 7](entities/gemini-7.md) · [Gemini 9](entities/gemini-9.md)
 
 ### Bases / locations
 
 - [Muroc AAF (later Edwards AFB)](entities/muroc-aaf.md) · [Hamilton Field](entities/hamilton-field.md) · [Clinton County AAF](entities/clinton-county-aaf.md)
+- [Sary Shagan (ABM test range, Kazakhstan)](entities/sary-shagan.md)
+- [Fort Carson (Colorado)](entities/fort-carson.md)
 - [South Atlantic Anomaly](entities/south-atlantic-anomaly.md)
 
 ### Specific incidents / events
@@ -240,6 +330,8 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Paul L. Peyerl Black-Forest Saucer Photograph Claim (Miami FBI, 26 Apr 1967)](entities/paul-peyerl-1967.md)
 - [White Sands Missile Range Mass Sighting (2 Mar 1967)](entities/white-sands-march-1967.md)
 - [Larry Stephens MIB Letter to Hoover (Del City OK, 14 May 1969)](entities/larry-stephens-mib-letter-1969.md)
+- [Cheyenne Mountain UAP (Colorado Springs, 2022)](entities/cheyenne-mountain-uap-2022.md) — 5 Army witnesses, articulating panels
+- [Northeastern US Recurrent Orbs (2021–2024)](entities/northeastern-us-recurrent-orbs-2021-2024.md) — plasma orbs, FBI agents direct observation
 
 ### Reports / policy documents
 
@@ -285,6 +377,27 @@ Master catalog of all wiki pages. Start here for any query. Schema lives in [`..
 - [Detroit Flying Saucer Club (citizen UFO advocacy)](entities/detroit-flying-saucer-club.md)
 - [Civilian Research, Interplanetary Flying Objects (CRIFO)](entities/crifo.md)
 - [John Hutson (Bureau of Aeronautics Security Officer)](entities/john-hutson.md)
+- [George Fawcett (UFO researcher, NICAP)](entities/george-fawcett.md)
+- [Donald Keyhoe (NICAP founder; author)](entities/donald-keyhoe.md)
+
+### Robertson Panel members (CIA, 1953)
+
+- [H. P. Robertson (Chair, physicist, Caltech)](entities/h-p-robertson.md) · [Luis Alvarez (physicist, Nobel laureate)](entities/luis-alvarez.md) · [Lloyd Berkner (physicist)](entities/lloyd-berkner.md) · [Samuel Goudsmit (physicist, Brookhaven)](entities/samuel-goudsmit.md) · [Thornton Page (astronomer)](entities/thornton-page.md) · [Frederick C. Durant (CIA officer, panel secretary)](entities/frederick-c-durant.md)
+
+### Government / military figures
+
+- [J. Allen Hynek (astronomer, Project Blue Book consultant)](entities/j-allen-hynek.md)
+- [R. V. Jones (British scientific intelligence)](entities/r-v-jones.md)
+- [H. Marshall Chadwell (CIA, OSI Director)](entities/h-marshall-chadwell.md)
+- [Admiral Roscoe Hillenkoetter (DCI, NICAP board)](entities/admiral-hillenkoetter.md)
+- [Jon T. Kosloski (AARO Director)](entities/kosloski-jon-t.md)
+
+### Scientists / researchers
+
+- [Leon Davidson (physicist, UFO researcher; CIA correspondence)](entities/leon-davidson.md)
+- [Nicolas Kardashev (Soviet astrophysicist)](entities/nicolas-kardashev.md)
+- [Andrei Sakharov (Soviet physicist; gravity research)](entities/andrei-sakharov.md)
+- [Richard Underwood (NASA photo technician)](entities/richard-underwood.md)
 
 ---
 

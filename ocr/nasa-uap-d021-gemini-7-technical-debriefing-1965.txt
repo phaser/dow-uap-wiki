@@ -1,0 +1,1777 @@
+
+
+===== PAGE 1 =====
+I 
+Authority: 
+NW 91526 
+\ 
+GEMINI VII 
+TECHNICAL DEBRIEFING 
+December 23, 1965 
+NOTICE: This document may be exempt from 
+public disclosure under the Freedom of lnfor• 
+mation Act (5 U.S.C. 552). Requests for its re­
+lease to persons outside the U. S. Government 
+should be handled under the provisions of 
+NASA Policy Directive 1382.2. 
+
+===== PAGE 2 =====
+[No extractable text on this page]
+
+===== PAGE 3 =====
+PREFACE 
+This preliminary transcript was made from voice 
+tape recordings of the Gemini 7 flight crew debriefing 
+conducted December 19 through December 21, 1965 at the 
+Crew Quarters, Cape Kennedy, Florida. 
+Although all the material contained in this transcript 
+has been rough edited, the urgent need for the preliminary 
+t ranscript by mission analysis personnel precluded a final 
+edit prior to its publication. 
+
+===== PAGE 4 =====
+-------------------
+
+===== PAGE 5 =====
+Paragraph 
+1.0 
+2.0 
+e TABLE OF CONTENTS 
+Page Number 
+COUNTDOWN 
+1.1 Crew Insertion . ...................... ............. .1 
+1.2 Comm:un.ications . .......•.•.. .......•...........•..• .1 
+l.3 Crew Participation in Countdown.................... l 
+l.4 Comfort . .................. .......................• .1 
+l.5 Environmental Control System...............•..•.... 2 
+l.6 Sounds . ..•...•••.••..•.••• •••..•••••••••••••••••••• 2 
+l.7 Vibrations ........................ ................. 2 
+1.8 Visual . .................... ........................ 2 
+l.9 Crew Station Controls and Displays................. 3 
+POWERED FLIGHT 
+2.1 Lift-Off cues·••·••••••••••••••••• •••••••••••••••••3 
+2.2 Roll Program . .................. .................... 4 
+2.3 Pitch Program. . .........•............. .............. 4 2.4 Aerod.y"namics • ••••••••••••.•.• •••••••••••••• •••• ••••5 
+2.5 Environmental Control System........•...........••. 5 
+2.6 Maximum q . ........................... .............. 5 
+2.7 W indsheaz-......•......•.....••......• •....•...••.•• 6 
+2.8 DCS Upd.ates • •••.•.••..•......••.. ••.•••.•••••••. • ••6 
+2.9 :Engine 1 Operation . . ............ ................... 6 
+2.10 :Engine 2 Status. ..................... ..............7 
+2.11 Acceleration g's••••••••••••••• ••••••••••••••••••••7 
+2.12PO G0.......•........•...•.. •.....•...••.•...•.•..•. 7 
+2.13 Guidance Initiation ............. ................... 7 
+2.14 BECO • •.•.•••..••...•..•...........•...••..•. •...••.8 
+2 .15 Stagi.ng' . ...... .......... . ,. ...o ••• •••••••••••••••••• 8 
+2 .16 E]ngin.e 2 Ignition . ................ ................. 9 
+2.17 RGS Initiate.•••••••••••••••••• ••••••••• •••••••••••9 
+2.18 GO/NO GO e1 • •• • • •• •• • • •• • •••••••••••• • • ••••••••••••••9 
+2.19 Systems Status•••••••••••••••• •••••••••••••••••••••9 
+2.20 Accelerati on o••••••••••••••••••••••• ••••••••••••••lO 
+2.21 Fairing Jettison •••••••• ~••••·•••••••••••• •••••·••10 
+INSERTION 
+3.1 Post-SEC0...............•.... ..................... 10 
+3.2 SECO plus 30 seconds....•..•.. ••.................• 11 
+
+===== PAGE 6 =====
+14.0 TRAINI NG 
+14.1 Gemini Missi on Simulator...........••••••• 185 
+14.2 DCPS (Launch abort simulator) ....•.••••••• 191 
+14.3 MAC Engineeri ng Simulator........••.••.••• 191 
+14.4 Translation and Docking Tr ainer...•.•••••• 192 
+14 . 5 Planet arium. . ........................••••• •193 
+14.6 Systems Briefinga...............•.•••••••• 194 
+14.7 Flight Experiments .............••.•••••••• 198 
+14.8 Spacecraft systems tests.......••.•••••••• 202 
+14.9 Egress training....................••.•••• 204 
+14.10 Parachute Training..•.........•...•.•••••• 205 
+14.11 Launch simulationa.................••••••• 206 
+14.12 Reentry simulations ..........•........•••. 206 
+14.13 Simulated network simulations ...•..••••••• 206 
+14.14 Network simulations.............•..••••••• 206 
+14.15 Fl ight Plan training...............••.••.• 207 
+15.0 CONCLUDING COMMENTS...•....••........•........... 208 
+
+===== PAGE 7 =====
+--LANDING AND RECOVERY 
+7.1 Impact . ........... .... ...••.•. •. •.•••••• • • • • • • • • • 54 
+7.2 Checklists . .............................. • • • • • • • • 55 
+7.3 Communicatione ..••......•••••••••.••.•.••••.•.••• 55 
+7.4 Systems Configuration .•••••··••••••••••••••••••••58 
+7.5 Spacecraft Status.••••••••••••••••••• ••••••••••••59 
+7.6 Postlanding Activity..............•.............. 62 
+7.7 Comi•ort . ...•............•..••••• •.•.••.••••...••• 63 
+7.e Recovery Force Personnel..•.....•... •..•.......... 63 
+7.9 F.g"ress • .••.•. • •••••••••• ••••••••••••••••••••••••• 63 
+7.10 S1.lrVival Gear . ..•............•....... .........•.. 63 
+7.11 Crew Pick UP••••••••••••••••••• ••••••••••••••••••64 
+8.0 SYSTEMS OPERATION 
+8.1 Plat form .......•................................. 64 
+8.2 O.AMS • .• ••••••••••••••••••••• ••••••••••••••••••••• 65 
+0.3 RCS . ••••••••••••••••••••••••••••••• • • ••• • • • • ••• • • 73 
+e.4 ECS . ..........•.••..•..... ..•................ • ...75 
+0.5 Commun.ications . .............................. ....91 
+8.6 Electrical . ..................................... .95 
+0.7 Onboard Computer..•.........•••••••.....•••...• .•99 
+0.0 Crew Station...•.............•..•.. ..•.......... 101 
+0.9 Biomedical ....•••••••...•.••.••.••.•• .••.•....•. 115 
+OPERATIONAL CHECKS 
+9.1 Apollo Landmark Investigation •••.•..•.•.....•... 122 
+9.2 Cabin Lighting Survey.••• •••• •••••••••••••••••••130 
+9.3 HF' Test.•• •••• ••.••.•••• •• •••·••••••••.•••••• •..130 
+1O.O VISUAL SIGHTINGS 
+10.1 Cou.ntdo"Wll • •••• •••••••••••••••••••••••••••••••• •131 
+10.2 Powered Flight••••• ••••••••••••••••••••••••••••l31 
+10.3 Orbital Flight.••• •••••••••••••••••••••••••••••132 
+10.4 Reentry. ...•••.•.•..•..• ••...•..•..•.......... .138 
+
+===== PAGE 8 =====
+Insertion Act ivities............................ 15 
+Post Station Keeping...........•................ 17 
+ORBITAL FLIGHT. ..............••.•................... .18 
+5.0 RETROFIRE 
+5.1 TR-2:00 Power Up and Alignment Checklists.......32 
+5.2 TR-26 Events............•.....•..••..•.......•.. 33 
+5.3 TR-5 GMT Stop Clock.........•................... 34 
+5.4 TR-256 .................... • • • • •. • • •. ••. •.. •. • • • .34 
+5.5 TR-1. •• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •• • .34 
+5.6 TR-0. • • ••• • • •. • • •• •. • • •• • • • • •• •. • • •••• • • • • • •• • • •35 
+5.7 Retropack Jettison.............................. 40 
+5.8 Commwiic atione.................................. 41 
+5.9 Updating........................................ 41 
+5.10 Post Retro Jettison Checklist................... 42 
+6.0 REENTRY 
+6.1 Reentry Parameters Update....................... 42 
+6.2 400 K . ••••••.•••.••••••••••• • • • • • • • • • • • •••••••• •43 
+6.3 Acceleration Profile...•..•...•................. 47 
+6.4 Spacecraft Control.••.....•..................... 47 
+6.5 100 K . ....••.•.•....•..•............•... ~ .......48 
+6.6 50 K . ...••..............••...•••................ 48 
+6.7 35 K Checklist .••.•..•..•..•.•..••..•.•......... 49 
+6.8 Comm'W'l.icationa ••.•.•••••.••..••••••••••...•.•... 49 
+6.9 26 K Checklist •• •••••·••••••••••••••••••••••••••49 
+6.10 10.6 K Barostat.................•.....•......... 50 
+6.11 Main Check Deployment •...............•.......... 51 
+6.12 Post Main Checklist............................. 51 
+6.13 Single Point Release•...•••.••.•..•...••••...... 51 
+6.14 2 K Checklist.•........•........................ 52 
+6 .15 LBlldiilg . ..........•...•......................... 52 
+6.16 Postlanding Checklist ..•..•....••....•....•..•.• 52 
+6.17 Blood Pressure Measurement ..•.•...•..•........•• 53 
+
+===== PAGE 9 =====
+11.0 EXPERIMENTS 
+11.1 Celestial, Space, and Terrestrial Radiometry 
+(D-4/D-7)•••••••••••••••••••••••••••••••••••140
+11.2 Star Occulation Measurement (D-5) •...•.....• 146 
+11.3 Simple Navigation (D-9) ..................... 148 
+11.4 Visual Acuity and Astronaut Visibilit y 
+and Vision Test (M-9) ....................... 154 
+11.5 Synoptic terrain (S-5) and weather (s-6) 
+photograph.y ••••..••.••.•••....••••.••••••••• 158 
+11.6 Proton Electron Spectrometer and Tri-Axis 
+Flux-Gat e Magnetometer (MSC-2 and MSC-3) ...•160 
+11.7 Optical communications (MSC-4) .............. 161 
+11.8 Landmark Contrast..•....•........•.......... 165 
+11.9 Cardiovascular reflex conditioning (M-1) ....166 
+11.10 In-flight exercises (M-3) ................... 167 
+11.11 In-flight phonocardiogram (M-4) and 
+In-flight sleep analysis (M-8) .............. 167 
+11.12 Bioassay body fluids (M-5) and 
+calcium balance study (M-7) ................. 168 
+11.13 Miscellaneous ......•.......................• 172 
+12.0 PREMISSION PLANNING 
+12.l Mission Plan (trajectory ) ...........•....... 175 
+12.2 Flight Plan.••••••••••••••••••••••••••••••••175 
+12.3 Spacecraf t Changes •..•...................... 176 
+12.4 Mission Rules............. ........•.........177 
+12,5 Experiments ••.•..•••••.•...•......•...•....• 177 
+13.0 MISSION CONTROL 
+13.1 GO/NO GO' s••••••••.••.••.•••••.•••....••...• 179 
+13,2 PLA and CLA updat es•••••••••••••••••••••••••l7913.3 Consuma.bles .............•.•...•..........••. 180 
+13.4 Flight Plan changes.••••••••••••••••••••••••181 
+13.5 Systems . ....................•.............. .182 
+13.6 Experiments real-time updatea...•......••.•• 184 
+
+===== PAGE 10 =====
+f.. 
+
+===== PAGE 11 =====
+.... 
+1.0 COUNTDOWN 
+1.1 Crew Insertio n 
+Borman I have no comment. I thought it went ve~y well. 
+Lovell Likewise, no comment on crew insertion. I think we got 
+quite a. bit done. It was very orderly. 
+Borman Timing was good and it was done properly. 
+1.2 Communications 
+Borman Communications were good. I had no troubl e at all. 
+Lovell I had no trouble with communications in the cockpit or the 
+spacecraft, but the communications in the va.n from the 
+suiting area t o the other area a.re rather poor. Maybe we 
+should try to get that improved sometime . 
+1.3 Crew Participation in Countdown 
+Borman Again, I think they have been used on 4 or 5 l aunches, and 
+I thought they were fine. 
+Lovell Right. Countdown procedure and crew participation is just 
+what you expect now. 
+1.4 Comfort 
+Borma.n Comfort was fine. No problems? 
+Lovell No problems for comfort , but I was surprised when I got in 
+the cockPi t, because there was a lot more there than there 
+was when I got in it for the stowage review. But, it all 
+turned out for t he best. No problems. 
+
+===== PAGE 12 =====
+2 
+1.5 ECS 
+Borman ECS worked fine. We had no trouble with ECS at all during 
+prelaunch or launch. 
+Lovell That is true. The purge was a lot slower and it was just 
+perfect for the final countdown. It was too fast for the 
+SIM Flight, which we went through, a.nd I got an ee.:r block­
+age. For the countdown, it was ju.st r ight. Very slow. 
+1.6 Sounds 
+Borman We had been well briefed on all the soundsz the gimbaling, 
+pre-valve, a.nd erector. As a matter of fact, when the erec­
+tor started down there was no sound. We had been told that 
+probably there might be a clanking or something. I hes.rd 
+nothing. 
+Lovell All I saw was the sky. 
+1.7 Vibrations 
+Borm8ll Vibrations. No comment. I had no problems. 
+Lovell Is this liftoff vibrations? 
+Borman No, this is countdown . Vibrations of the spacecraft during 
+countdown. 
+Lovell No, nothing we had not heard before. 
+1.8 Visual 
+Lovell The windows were perfeot. We had no fogging. 
+Borman No fogging. 
+
+===== PAGE 13 =====
+---.. 3 
+Lovell The windows were heated previous ly as a result of 51s pro­
+bl ems, and our windows, I t hought , were perfectly clean. 
+Didn1 t you? 
+Borm8J'l Right. 
+1.9 Crew Stati on Control s a.nd Displays 
+Lovel l No comment . Exactly how we had pl anned it for months. 
+Borma.n Exactly the way that we had seen it, and no probl ems. 
+2.0 POWERED FLIGHT 
+2.1 Liftoff Cues 
+Borman Stoney came in loud e.nd cl ea.r, counting the countdown. 
+Lovell Cs.me in loud and cl ear. 
+:Borman We lmew exactly when i t was, and I for one had absolutely 
+no question in my mind when we lifted off. It felt like I 
+had been t ied back, a.nd someone cut the string a.nd there 
+was a slow but definite acceleration at lift-off. 
+Lovell I thought you could just about put 01P COMM, V1bration, and 
+noise together,because the motion,vibration, and noise all 
+contributed to a definite knowledge that you were going 
+somepl ace. 
+Borman In other words, what you are saying is that you had no pro­
+blems determining lift-off. 
+Lovell No, it went. 
+Borma.n Okay vibration wa.s nominal during l ift-off. Again, perhaps 
+
+===== PAGE 14 =====
+4 
+it is because we were so well briefed on the simulations 
+we have run, but I had no problems. 
+Lovell There was a little more noise than I expected, but a little 
+less vibration. 
+Borman Jim said there was a little more noise than he expected. 
+Even so,, it was not oppressive, or a problem at all. Visual. 
+I did not have any visual cues. I was watching the instru­
+ments. 1What about you, Jim. Did you pick up any? 
+Lovell I had the clouds, end there was a visual cue. Just normal 
+cloud cues . 
+Borman Cockpit displays were good. The fuel pressure and oxidizer 
+pressure were nominal the whole flight. Just perfect. 
+2.2 Roll Program 
+Borman The roll program, was so short it was almost like a spike• 
+We hardly even noticed the roll program. Did you Jim? 
+Lovell I did not notice it at all. I heard you call it out, but I 
+did not notice it. 
+Borman I called it out, but we only rolled,I think,about 2 or 3°. 
+2.3 Pitch Program 
+Borman The pitch program started just as in the simulator, which 
+is very accurate on this. It looked exactly the same on the 
+ball, and there wae no problem. 
+Lovell The pitch program for the RGS followed exactly what the IGS 
+-~ 
+' ..... ---... , . 
+
+===== PAGE 15 =====
+5 
+was giving for the entire l aunch. The needles were just 
+matched perfectly--nulled. I did not see any unusual 
+attitudes that some of the other people commented on. 
+2.4 Aerodynamic 
+Borman Age.in, we had had this described to us ma.ny times, and it 
+seemed to follow right along. In the maximum q region we 
+got some vibration and noise, but after we got through 
+maximum q it was just like going supersonic in a fighter. 
+You just slip through, and from then on it was just l ike 
+riding on a train. 
+Lovell I don't think it was bad either. 
+2.5 :ms 
+Lovell Pressure went up to 5.5 in the initial stoppage, and it 
+slowly leaked down to 5.1, and stayed there. 
+Borman I was cool during lift-off. 
+Lovell I was too. Comfortable. 
+Borman Comfortable. I mean cool in the sense that it means comfor­
+table. Of course we can not very well comment on the cabin 
+atmosphere because we were sealed. 
+2.6 Maximum q 
+Borman We ha.ve already discussed this. There was some noise build 
+up and some vibration, but nothing to worry at all about or 
+even discuss . 
+
+===== PAGE 16 =====
+6 
+2.7 Wind shear 
+Borman Wind shear. I did not notice any. 
+Lovell I did not notice a:ny wind shear either. 
+Borman You could not see any on you attitude gauges either, could 
+you? 
+Lovell No, that is what I mean. 
+Borman The atti tude gauges stayed pegged. Right? 
+Lovell They stayed nulled throughout the entire flight. I was 
+a.ma.zed at the accuracy with which the RGS was following the 
+IGS program. 
+2.8 DCS Updates 
+Lovell Ca.me through on schedule. 
+Borman No problem? 
+Lovell No trouble. 
+Borman Have any trouble punching the light ? 
+Lovell After the second upda.te, about 2:23 ,the g1 s are too ~igh 
+to let you punch off the l ight. So , you have to wait for 
+staging, and then punch the l ight. 
+2.9 Engine 1 Operation 
+Borman Engine 1 operation, I thought, was norma.l. But I did noti ce 
+a sl ight hint of a POGO a.round a.bout, I would esti mate, two 
+minutes. The slightest, faintest hint. I do not think J im 
+even noticed it. 
+
+===== PAGE 17 =====
+7 
+Lovell 
+Borman 
+Borman 
+Lovell 
+Borma.n 
+Borman 
+Lovell I did not notice any POGO. 
+2,10 Engine 2 Status 
+It seemed to me that from about 3 minutes and 30 seconds to 
+a.round 4 minutes, the noise and the feel was a little bit 
+different than it was a.fter that, as if it was vibrating & 
+little bit more. But this was sort of, a.gain, a sensing 
+type thing, The inatrwnents were all nominal, a.nd it may 
+have just been me, I certainly ca.n not complain about the 
+operation, 
+2.11 Acceleration g's 
+J.ny-problems, Jim? 
+No problems. They were pretty nominal, werenI t they? I 
+could not see the g meter. 
+They were right on the money. And, of course, the g's we 
+ha.ve are all experienced in the centri.fuge , and so on. One 
+thing, when the g's dropped at staging and at SECO I had 
+no sensation of tumbling and no sensation of disorientation. 
+Nothing at all. 
+2.12 POGO 
+I 've mentioned that I detected a slight hint of one tha.t was 
+so small we cannot even really discuss it. 
+2.13 Guidance Initiation 
+We had a guidance initiation. It was in the form of booster 
+
+===== PAGE 18 =====
+8 
+yaw deflecting downward, more so than booster pitch deflec­
+ting. Booster pitch deflected slight ly t o the right, indi­
+cating, at guidance initiation, a booster-high trajectory. 
+But, they both came right back to null just after guidance 
+initiation, and that was it. 
+Borman We did not have the feeling that we were lofted, and then 
+a sudden pitch down. 
+Lovell No , th9re was no change of booster performance at all. It 
+was just t hat the needles deflected at guidance initiation 
+to say that we had gui dance initiation, and after that they 
+nulled and stayed that W83' from there on. 
+2.14 BECO 
+Borman At BECO, the whole spacecraft was engulfed in a red flame . 
+I noticed that out of the corner of my eyes. Jim, you 
+probably had a better view than I did. 
+Lovell Yes. Flames came up thP. side there to the window. 
+Borman There was a definite, very brief instant of it, probably 
+in the order of milliseconds , but it did envelope the space­
+craft and I, in my own mind, wonder if this is not the place 
+where we are picking up some of the smudge on t he window. 
+2.15 Stagins-
+Lovell Well, I did not notice any smudge at the time of staging. 
+Slayton You did not notice any? 
+Lovell I did not notice any. Of course, things were going pretty 
+fast. I did notice it after we got into o=bit, but not at 
+
+===== PAGE 19 =====
+9 
+Eorma.n 
+Lovell 
+:Borman 
+:Borman 
+Lovell 
+:Borman 
+Borman 
+Lovell 
+:Borman that particul ar time. 
+2.16 Engine 2 Ignition 
+Again, it is so well simulated that-­
+It is very smooth. 
+It is ve:ry smooth, a.nd away you go. 
+2.17 RGS Initiate 
+Well, we have talked about that. 
+Yes, that is what I was talking about back p.!'eviously. 
+2.18 GO/NO GO 
+GO/NO GO. Houston, on the ground, came through great. We 
+got a GO/NO GO before the 30 seconds we were waiting £or 
+spacecraft separate. So, we knew we were in good shape 
+before we ever had the possibility we would have to burn. 
+Of course, we also had the IVI's onboa.rd and they are very 
+good also. 
+2.19 Systems Status 
+The systems were all great. No problem, during powered 
+flight. We got two delta Plights. 
+Oh, yes, that is right. 
+We are talking about spacecraft systems. We got delta P 
+light on BECO in the first stage that went off at staging, 
+then came back on during second stage flight, and then the 
+
+===== PAGE 20 =====
+10 
+:::action 2 delta Plight did not go out a.nd it was ••• 
+Lovell No, J:ection 1 went on and out again during the £light. It 
+went out at, I think it went out at SECO. 
+Borman That is right. 
+Lovell But 'Section 2 came on and we saw that one £or the next 14 
+days. 
+2.20 Acceleration 
+Borman Acceleration during stage 2 was right on the money, right on 
+the program. I read of£, I think i t was about six a.nd a 
+Ihalf g a maximum. We read this off after SECO. 
+2.21 Fairing Jettison 
+Borman Fairing Jettison, I did not even hear it. I was concentra­
+ting on the horizon, trying to get set for turning around. 
+Jim jettisoned the fairing and punched the Spacecraft SEP. 
+I did not see a.nything or hear a.nything. 
+Lovell I saw debris and heard it and had a definite knowledge that 
+a squib had gone off. There had been an explosion. 
+3.0 INSERTION 
+3.1 Post SECO 
+Borman Maneuver controller was easy to reach. I had it out, and 
+there was no problem. It came out and was ready to go. 
+Attitudes and rates, there were none. The thing was as 
+solid a.a a rock as far as I could determine. I was watching 
+
+===== PAGE 21 =====
+11 
+the horizon, and the attitude remained constant a.nd the 
+rates were so minimal you could not even pick them up. I 
+noticed no transients, we experienced no·•·•••••~•• as 
+far as I know that was discernible. 
+Lovell Did you try to damp out the.. 
+Borman There was nothing to damp out. 
+Lovell Okay. 
+:Borman In fact, I did not use the thrusters at all for that. I t 
+just sat there. 
+3.2 SECO plus 30 seconds 
+Lovell I have the IVI readings on a. ca.rd. Do you have those-cards 
+that we took off? 
+:Borman Yes. 
+Lovell I am sorry. We did not get forward-aft, left-right, u.p or 
+down because they were so quick, and I was trying to get the 
+camera. But it was 17 1n the fore and a.ft wmdow, 13 in the 
+left-right, and up and down was 20. 
+Borman What do you mean. you did not get them? They a.re there. 
+Lovell No, I did not know a.ft or forwa.rd, or left or right, or up 
+or down. 
+:Borman Oh, I see. 
+Lovell I just saw th&t they were so small tha.t I just wrote down 
+the numbers as a ... 
+
+===== PAGE 22 =====
+12 
+Borman 17, 30, and 20. There might have been a 13, 17, a.nd 20... 
+Lovell About what the numbers ca.me up with. 
+Borman Spacecraft separation. We separated with minimum delay be­
+tween thrusting and Spacecraft SEP. Jim actuated the space­
+craft separation. I did not hear the thrusters firing. I 
+could not hear them; and I did not even helU' spacecraft 
+separation, but --
+Lovell I heard Spacecraft SEP, but I o·ould not hear the thrusters 
+firing. But you told me you were firing the thrusters--
+Borman I ea.id th.rusting a.nd SEIP Spacecraft a.nd we did it and away 
+we went. I thrusted for about 2 seconds. Almost immedi­
+ately, as soon as we had £inished thrusting, I started a 
+yaw right 180°, and the rates were right around, I think 
+a.round --Of course, you should be able to pick this up off 
+telemetry, but I would estimate they were 3° to 4° per 
+second turning around. As soon as I ha.d the booster in 
+sight, I thrueted be.ck 5 seconds. This is the way we tried 
+in silllulations, The simulations in St. Louis were excellent. 
+Lovell Turned out that was the best technique to use, 2 seconds 
+for the 2 seconds forward a.nd a 5 second return. 
+Borman We turned around a.nd there it was, bigger than the devil! 
+Lovell At that distance there was no problem staying in there. 
+Borman Now, I did have some problem because the booster was bending 
+
+===== PAGE 23 =====
+13 
+so rapidly. It wa.s tremendous. It looked like one of the 
+autogenous lines ha.d been cut. I guess it was cut with a 
+pyro, a.nd it was really bending and this was causing it to 
+translate as well as rotate. And in order to stay with it, 
+I was having to use quite a bit of fuel; although it was 
+certainly a nominal task. I also went through several con­
+trol modes switchings. I sta:rted out in PULSE and I could 
+not get around fast enough, so I went to DIRECT a.nd then 
+slowed it up in RA.TE COMMAND. Slowed up the direct rate I 
+was using with RATE COMMAND, a.nd left it in RATE COMMAND 
+without using the h&nd controller for a while. Finally 
+went to l'LATFOBM. When I went to PLA.'f.E'OHM~ we had been off 
+to one side of the booster. ~ . L went to PLATFORM ,· it 
+yawed me back around, and I lost sight of the booster . .SO 
+we went out of PLATFORM· and flew t he rest of it in PULSE 
+Mo~e using the reticle on the horizon for stabilization and 
+using the maneuver controller for thrust. This is all on 
+onboard tape,incidentally. The air to ground communications, 
+throughout the f light were superior. 
+Lovell I was really a.mazed a.t the communications, especially the 
+primary station. The UHF was outstanding. 
+Borman We have already discussed GO/NO GO. They came through loud 
+and clear before we ever SEP spacecraft. We had no need for 
+
+===== PAGE 24 =====
+14 
+a velocity correction. 
+Lovell As a matter of fact, right now would be a good time to men­
+tion that address 72 read --
+Borman Nominal was 25 804 and address 72 read 25 804. 
+Lovell Can you imagine that? Right t o th~· foot! 25 804. I could 
+not believe it when I punched it up. 
+Borman The orbit quantities were given to us, I think,by Bermuda.. 
+0£ course, at this time we really were not interested in 
+them, although they were sort of nice in.formation. We had 
+a GO/NO GO. 
+Lovell It was 87-178 the initial forward quantity that was 
+called up to ue. 
+Borman Tha l'!1JU readouts : Jim read 72 and when he saw it was 25, 804, 
+we had a GO/NO GO from the ground. I do not believe you 
+even rea4 the rest of them out, did you? 
+Lovell No, I did not bother reading out the rest of the addresses 
+94, 97, 52, or 73, because I saw the 72 nominal. I saw the 
+IVI's were right in there so we did not bother reading out 
+anything else. 
+Borman Debris • I did not notice a:ny debris. 
+Lovell I noti-od debris. I was looking out at Spacecraft SEP and 
+Jet Fairing, and noticed debris. I also noticed debris be­
+t ween the spacecraft and booster when we first turned around. 
+
+===== PAGE 25 =====
+15 
+Borman Could you identify any type of the debris? 
+Lovell No, pieces.That is all I could tell. 
+3.3 Insertion activities 
+Lovell We followed the regular procedure. 
+Borman We did not have s;ny problem with safing our switches. 
+No problem. I did not even stow my D-ring at insertion. I 
+was too busy trying to stay on the booster, and I did not 
+get it stowed for the first orbit,I guess,or half an orbit. 
+Lovell What we planned on doing was getting pictures of the D-ring. 
+I got the br&cket up at staging, and I actually had a minute 
+after guidance initiate to reach back there and get the 
+bracket and stick it up. It worked out very nicely before 
+the g's started building up again on second stage. The 
+bracket was up and in place s;nd no problem at all. Then at 
+SECO, I went around to pick up the camera, because we had 
+the camera. stowed where the Agena control bq..x ie l ~oated., 
+I managed to get the camera up, and it was already plugged 
+into the electric&l wire. ill I had to do was turn the 
+auxiliary switch on, put it on the bracket, and push the 
+button, and it started taking pictures. Just about that 
+time, Frank mentioned be was going to start thrusting pretty 
+soon so I had to go back and punch off the spacecraft. Then 
+I read up address 72. So, I hope the pictures come out. 
+
+===== PAGE 26 =====
+16 
+:Borman We were looking right into the sun; I hope they do too. The 
+drogu.e pins were no problem. Jim got them, but again, not 
+until well into the first orbit. As a matter of fact, I 
+pulled my own yesterd.a.y morning there. The problem is 
+solved; I think they a.re easy to get to. 
+Lovell Yes. They a.re easy to pull out. 
+Borman I think that we have covered station keeping wi th stage II 
+booater,partia lly. I will mention that the booster, being 
+without attitude control, translating also with this im­
+pul se it was picking up from the venting, is definitely an 
+order of magnitude more difficult than station keeping with 
+a stabl e vehicle like Spacecraft 6. 
+First of all, you do not have. anyone control ling the thing; 
+you do not exactly know where it is going to go, and it 
+might translate because it is venting and ha.a a slight 
+thrust. 
+Borma.n I know a couple of times we got in a little too close and 
+I backed out, because you just do not da.re get as close as 
+you do the way this thing is spewing. We got a real good 
+picture, a good l ook at the nozzle. I thought that it 
+looked like the nozzle was bent in on two places on the 
+booster engine. It l ooked like the nozzle, the ablative 
+skirt had been bent in. But then, it may have been just a 
+
+===== PAGE 27 =====
+17 
+shadow, because the next time I looked at it, it looked just 
+like a new engine. The booster itself had no apparent da­
+mage. The only thing we could see was this big spewing 
+where the venting was coming from. I did not see any vent~ 
+ing from the roll nozzle at all. Did you? 
+Lovell No, the venting ca.me from some line right along the bottom 
+edge, near the engine section of the booster. 
+Borman That is right. 
+Lovell It was a line of some sort that was open, and fuel was 
+spewing out of it. 
+Borman I hope they got the data they wanted on the D-4 and D-7 
+Experiments. It wa.s,again,a very uncomplicated maneuver, one 
+that we practiced many times, and it worked just lik~ it 
+does in simulation. Had no difficulty at all. Toe lights 
+on the booster worked fine. 
+3.4 Post station-keeping 
+Borman We did not do anything with stowage on the first orbit at 
+all . D-ring, pins I have already mentioned, we did not 
+get those in at all. 
+Lovell Arm restraints went down at 55 seconds. Belts- We did not 
+even loosen them until after we had done D-4, D-7. The life 
+vests we left right on the harness for the entire flight, 
+but the ha.mess did not stay on us for the entire flight. 
+
+===== PAGE 28 =====
+18 
+The sequence light test. This was done after the first orbit. 
+We really had this insertion checklist in two phases, one 
+at insertion and then one after D-4, D-7. 
+4.0 ORBITAL FLIGHT 
+Borma.n We have already disou.ased the station-keeping. That is no 
+problem. I think the situation that we used,going off with 
+about 2 seconds--2 to 3 seconds--a.nd thrusting back with 5 
+seconds while you a.re still on your side getting back to the 
+booster as quickly as "POssible,solves the problem and takes 
+a lot of the orbital mechanics out of the situation. I 
+hope the film comes out. The one thing that did make it & 
+little difficult on this one is when we looked back, we 
+were looking back into the sun, and the booster was right in 
+line with the sun. It was ju.at like flying formation when 
+the leader makes a. turn, a.nd you are down,..sun. It is dif­
+ficult to see, and I tried to move off to one side and 
+swing around and look a little bit more to the north. I 
+think it was north. I guess I was trying to look to the 
+south where I could get the sun out of my line of sight. 
+also had a cut-off on the booster at station-keeping at 88% 
+fuel, so that at 88% fuel we were already in darkness, al­
+though we had not reached the time for the D-4, D-7 separa­
+tion which we.a to ooour a.too, 25.I think it was about '00: 23 or I 
+
+===== PAGE 29 =====
+19 
+00,21. So when we reached this limit and we were in darkness, 
+I ~~nt ahead and separated, thrustil:lg dawn. 
+Lovell We actually separated earlier than 00: 25. We actv.ally separa­
+ted at 00:-21. 
+:Borman That is right. So we separated because we were in da.rlmess 
+and because we had reached the limit on fuel. We had been 
+in darlmess for awhile. One thing I did notice was that the 
+docking light was not particularly helpful on that stage of 
+the business. I guess it is because we were not close 
+enough to the booster. 
+Lovell We tried but the docking light just did not work. 
+:Borman I suppose because,a.gain,we were looking at a lighted horizon 
+with the docking light, and it did not work as well as it 
+did later on with Spacecraft b, The booster measurements 
+went off. We got indications on the needle ,on the measure­
+ment needle .. 
+Lovell The recorder did not get on until 27 minutes. That is a 
+guess. I am not too sure, but as I understand it, they had 
+live transmiss i ons up until th.at time, to Bermuda, 8Jld An­
+t i gua., wherever it is, so we were okay there. 
+Borman The booster measurements were normal. Again, the simulator 
+was perfect for that. The lights. Jim McDivitt had made 
+some comment about not being able to judge distance because 
+
+===== PAGE 30 =====
+20 
+they only had two l ights on there. We had four lights 
+on and I will be darned if I will try to judge distance 
+by four lights or fifty lights. You have got to have 
+illumination or you have to have a stable vehicle. 
+Lovell You have to have something that illuminates the vehicle, 
+not a light that flashes because you cannot tell from a 
+flashing light. 
+Borman Especially on vehicles rotating. I do not think that i t is 
+possible to control them. You have to have a controlled 
+vehicle before you can judge distance from it, as far 
+as I am concerned. The GO/NO GO, 17-1 TR were no 
+problem. We ran through the platform-off post station­
+keeping checklist just the way it is listed. 
+Lovell Yes, that is where we caught most of the things. 
+Borman That is where we caught most of the things like putting 
+the D-ring away and the drogue pins and so on. Only one 
+time in flight did we require attitude control fuel to 
+change attitude for critical delay time playback. There 
+was no problem. Communications , as always, were superior. 
+The D-4/D-7 Void Measurement was again no problem; 
+just lined up on the black and ran for t wo minutes. 
+Purging of the fuel cells. This is the first of a long--
+
+===== PAGE 31 =====
+21 
+Lovell Yes , but we did not do it then,did we? Did not we wait 
+until we powered down and then waited two hours? 
+:Borman That is right. This is one of the things th&t they 
+had in the f light plan that we asked them to change 
+because 
+Lovell Yes, we did not purge the f'uel cells then. 
+:Borman Originally, this came right after power down e.nd all 
+of the f'uel cell people recommended that you purge 
+before power down, or wait until two hours after power 
+down. So we did not do it at this t i me in the flight. 
+This was changed. D-4, D-7 star measurements. There 
+was no probl em. The eta.rs were well selected, and we 
+were right on them. Right Jim? Jim copied down, on 
+the procedures book, a check where we got the maximum 
+return on the needle. 
+Lovell D-4, D-7 was a well organized experiment as far as 
+:Brentnall keeping us hopping about what to do . I will 
+have to admit th.at. 
+
+===== PAGE 32 =====
+22 
+:Sor:ma.n Re did a very good job. We knew just what to do. W& had 
+all the equip,nent with us and everything went very smoothly. 
+MS0--2 ana,..3 turned out to be not :much of a problem because 
+at about the seventh dq we turned it on and left it on for 
+the rest of the flight. The Berigee Adjust :tv1.aneuver 0 Jim 
+ma.de the ~erigee Aijust Manuever. We did it on stars with­
+out a platform. I was timing for Jim and I think I fouled 
+up. We planned to use a perigee to 102 miles, and I think 
+we wotmd up with about 15 feet per second too much. It 
+seemed like about 117 miles. One of the reasons that was 
+causing this was we had come back into the vicinity of the 
+booster, and just about midwny through the burn the booster 
+venting that was still occurring suddenly lit up, became 
+lit up. It looked like we were flying through a lot of 
+foreign objects or debris. I was afraid that we were going 
+to hit so.mething. At the same time this trailing wire came 
+forward and slapped the spacecraft. 
+Lovell That is where I stopped. 
+:Sor.man Yes. After we had stopped and it nit us, I looked down 
+and got confused and said,"No, we haven't burned enough",. 
+·&> we burned for about five seconds :more. We had a trail­
+ing primer cord that would flop around and we didn't know 
+what it was at the time, but it came forward when Jim 
+stopped burning and flopped on the spacecraft. It ,nade a 
+
+===== PAGE 33 =====
+23 
+noise and I thought we had hit some of the stuff t~t was 
+spewing out of the booster. I wasn't sure that it was just 
+fuel. 
+Lovell I think the ground people thought that this wire came for­
+ward because it had gotten in the way of the thruster fire. 
+It definitely came forward after I stopped burning,because 
+I stopped burning and this wire came slapping forward. It 
+still had the momentum, you know. It slapped right in 
+front of the window. I think the people got the impression 
+that the thing had hit a. thruster. It hit in front of us, 
+then we stopped bu.ming. But we stopped' mm -taen-·ths:t thing 
+hit a.nd we added some more because we were still at ~ ogee. 
+Borman The first a:f many powerdowns was no problem1o We went right by 
+the check list. Some of these switch functions in the space 
+craft, particularly toward the latter pa.rt of the flight, 
+toward the 12th or 13th da.y--we were getting, I won't say 
+la.r in making the.m,but it see.med more of a chore to make 
+these things right to the minute. Things like the ~!OJ.VIED 
+recorder and so on--we lost interest in having them turned 
+off on the second. We knew what they needed to be turned 
+on and off for. We didn't do as good a job from about the 
+10th day on as we did the first pa.rt as far as making those 
+right to the minute. 
+
+===== PAGE 34 =====
+24 
+Lovell As a .matter of fact, why don't we get out the flight plan. 
+I think we might have a lot of comments on it. 
+Borman Let's start from the beginning. 
+Lovell The recorder was on at 27 .minutes. D-4/D-7 measure.ments. 
+The GET of .measurement that the COLD IR was outside the 
+two degree field of view of the booster was at 30,13. 
+Borman At 40s58 we had 84 %fuel left. We were right on the flight 
+pla.n there. 
+Lovell There was another GET of measure.ment where the spacecraft 
+was lined outside the field of view or the booster at 38:00. 
+Borman We saw the booster for 2 or 3 revolutions after tl:at. The 
+lights were still working. We called it out and t~ ground 
+got readings on this. 
+Lovell The moon and booster were in view at 43:00. The booster 
+and .moon were in view and we might get an erroneous read:tn.g 
+because we were almost on the .moon. 
+Borman Here we have a note that at 2z32 the fuel cell Delta P 
+l i ght blinked off at 2 ftours and 30 minutes and then came 
+back on. That is the section 2 dalta Plight. 
+Lovell Okay, then as far as stowage goes, the ·M-1 cuff was t urned on 
+at 3z03, 
+:Borman We put the bypass hoses on at this time also--the ECS 
+bypass hoses, Incidentally, they turned out to be not too 
+.m.uch of a problem, They were very handy for the type or 
+
+===== PAGE 35 =====
+25 
+work we did without suits on. 
+Lovell Right. We took the s/c out of the horizon at 2:08 to get 
+some measurements,as requested fro.m DOD,after we measured 
+the stars. This is after we powered down the equipment. 
+We connected the bypass hoses at 2:32. This was 2 hours 
+plus 32 minutes. 
+Lovell Crew status reports. We bad 3 or 4 a day. 
+Borman 5:20,we started unpacking the meals. This is one thing 
+that we had trouble with• lbth left and right food boxes 
+were jam packed. Fortunately ,we changed the lanyards. v,e 
+changed this during our stowage review , &lthough it was 
+difficult we got them out. Several of the meals had lost 
+vacuum. 
+Lovell Which .made them more difficult to get out. 
+Borman Really you can't co.mplain about this. The people did the 
+best they could. We had an awful lot of food to store 
+and we were able to get them out. 
+Lovell We had several blinkinge of the Delta Plight during this 
+period. It went out at 6 hours, a littleleas than 6 hours, 
+then came back on again at 6:27. 
+Borman One thing that I wanted to find out a.bout,and I still don't 
+understand,is why we turned on the crossfeed valve right 
+after l&:w\oh. The FC o2 pressure was just on the minit11.Um 
+
+===== PAGE 36 =====
+26 
+or 150 pai at launch. I called up Houston and said I 
+would like to leave the gauge in the FC02 position 
+rather than the ECS o2 positlon. Chris said, "No, unless 
+we really felt strongly about it, they would rather have it 
+in the ECS oposition". So we left it there and after we2 
+were inserted and we were still with the booster, they 
+came in with a recommendation that we open the cross feed. 
+When we did, this immediately raised the pressure to 250 
+psi. The thing that was bad was that we had over 100% 
+o:xygen and we were down to about 100 lbs. on the FC02• 
+We agreed that we would fly at least 50 lbs. above the do.me, 
+So, I really didn't see the need for opening that valve 
+although it didn't cause a:n:y problems. 
+Lovell They wanted to pump up and make sure. 
+Borman It worked fine and we got right back up to 250 lbs. 
+Lovell That is one syste.m that did work fine. 
+Borman The first 7 hours was pretty no.minal. All throughout the 
+flight plan we have notes that the Delta Plight went out 
+and came back on and so on. 
+Bor:man At 16,40 we sighted a satellite .much lower and 
+on a slightly higher inclination path than we were. It 
+passed underneath us. It was so fe:r awa::, it looked like 
+a sighting from the earth. It was just a refiection. We 
+were very religious about the exercise periods. We s-ot 
+
+===== PAGE 37 =====
+27 
+those t hree times a day wi th the excepti on of the last day 
+and one other day when we got only two. I think this is a 
+very good idea . I t is difficult and requir es disciplin e 
+because the last thing in your mind i s the desire to exer­
+cise. You get lazy very easily. We di d a very extensi ve 
+operation with t he bungee and also i sometrics three times 
+a day. 
+Borman They were programmed 10 minutes. I think a more realistic 
+one would be about five .minutes , three times a day. I did 
+60 pulls on t he bungee cord with both hands, 20 wi t h each 
+leg, and then ended up with 10 with each ar.m on the bungee 
+cord in addition to the few f or the crew status reports. 
+Lovell I did 60 pulls on the arms and 60 on each leg and it didn't 
+.make any differ ence. I could have done 20 on each leg and 
+would have probably been better off. 
+Borman At 45 hours Jim started taking off his suit. During that 
+first 45 hours our noses were clogged end stuffy, our eyes 
+were i rritated, t he cabin was hot ; it was miserable. As 
+soon as Jim started taking off his suit, the cabin even 
+though he was out of the suit and I was in, got better than 
+it was with both of us in our suits. 
+Lovell I didn't real i ze it was that long. We were almost up there 
+two full days befor e I started taking the suit off. 
+
+===== PAGE 38 =====
+28 
+Borman At 49t53 we got a picture of Houston with the 250 .mm l ens. 
+I hope it comes out. Okay at 69t40 we did a Perigee Adjust 
+Maneuver, Delta V 12.4, 16.5 seconds, and came right on the 
+money, using the stars, no platform. I don't think that 
+there is any problem at all with the proper stars in .making 
+a gross adjustment. 
+Lovell I think it was an excellent idea to do it without a platform, 
+it takes two people. One person times and the other person 
+burns on the star fro.m attitude. Both people check the 
+attitudes by looking at the star charts and getting the 
+updates. Then ma.king sure that the s/c is alined right 
+and the reticle is up to get the accuracy pretty good. After 
+that, once you get it set in your mind what you are aiming 
+at, one guy is in the cockpit with the watch or event 
+timer and clocks it. The other guy bas to look out the 
+window because you can't go back and forth. If you look 
+in the cockpit at the watch, you can't adjust to look out 
+for the stars. So it takes two people for that. I think 
+you can do a good job without a platform. 
+Bor:ma.n I do too. 
+Bor:ma.n There is one thing that was a pain in the neck, and I hope 
+they get some good out of them, were UHF and the RF tests. 
+That was an hour and a half transmitting every five minutes 
+
+===== PAGE 39 =====
+29 
+and having the HF/DF on. I'.m not sure what kind of data 
+they got but I hope they got so.mething. The first one we 
+had to do on the lKJRIZ.AN SC.AN; it took so.me fuel and I 
+wonder really if it was worth it. 
+Borman At about 166,40 we noted our drift rate picking up and we 
+finally determined this was from the water boiler venting. 
+It resulted in a left yaw rate and this continued periodi­
+cally throughout the mission. It certainly would not be 
+objectiona.l if we had fuel to counteract it. During a 
+night period, in which we didn't do any attitude control 
+at all, I timed the rates during the 13th day, and when we 
+woke up they were about 7 degrees per second. I timed 
+them around the horizon and came up with 7 degrees per 
+second. About the only thing you can say about it is that 
+it requires fuel to stop it. 
+It occurs primarily in left yaw and left roll. 
+Lovell There are two things in the s/c that causes the yaw left 
+for so.me reason. Gus first noticed it and I think it is 
+characteristic of the s/c. One is the water boiler and the 
+other is,every tie you turn off the power it fires two 
+thrusters that give it a left yaw. The same two all the 
+time. 
+Borman We tried to beat that ever way we could. Every time we 
+
+===== PAGE 40 =====
+30 
+shut down 1 we put it in a different control mode and it 
+still fired the same two thrusters. 
+Every time you turn off ACME bias power it would go"boop, " 
+11boop~ just like that. Every time we were without attitude 
+control for extended periods we ended up with a left yaw 
+and a left roll. 
+Finally a.t 191>48 we got both crewmen suitless. That was 
+the best decision in the whole flight. The perfor:m.e.nce of 
+the Cryo bottles was fantastic. 
+Lovell That was one thing we were worried about. The eyd.rogen 
+bottle I thought was never going to last. Forty per cent 
+of the eyd.rogen bottle was still left at the end of 14 days. 
+One thing I wanted to try was to blow the squib. Remember 
+they said t1Did you blow the squi b?" I forgot about it. Just 
+prior to retro, I wanted to go over there and blow that squib 
+that opened up into a vacuum. 
+:Borman It would have taken several hours for it to do a:n:y good. 
+Lovell Yes, I know, I just thought :maybe we could hear it or 
+so.mething. 
+:Borman One thing that cropped up more and more as the mission 
+progressed, it seemed to get worse as it went along was the 
+fa.ct that things were cm celled because of weather. We 
+picked up large areas of clouds over the U. S •·and over s. 
+
+===== PAGE 56 =====
+Lovell Yes. 
+Borman During the later part of it I started out in PULSE Mode and 
+:rolled over the 55 degrees in PULSE Mode, and. then when we 
+eot Guidance Initiate I went to DIRECT. I was finding that 
+in order to keep the cros11 range zeroed, and we had been 
+told that Wally had trouble with his cross range, I was 
+banking back and forth quite frequently maneuvering the 
+spacecraft around the full lift point, from one side to the 
+other and I was overshooting a little bit in DIRECT. I was 
+also starting to pick up some pitch and yaw oscillations, so 
+then I went to single ring RATE COMMAND. And boy, this was 
+really a great control mode, it "'8.S steady as a :rock. You 
+could put it right where you wanted and it st~ed there. 
+But pretty soon we eot dow a:round, I guess it was when the 
+g's were coming off, after 3.9 g•s. I started losing it in 
+single ring RATE COMMAND so I threw two rings on and it held 
+it like a rock. :But they were sure firing. 
+Lovell Oh, yes. 
+Borman Boh, those thrusters were really firing. And we started 
+getting abla.tion off the heat shield. It was coming back in­
+and hitting the nose of the spacecraft, and that was pretty 
+
+===== PAGE 57 =====
+47 
+sensational. Jim was giving vivid descriptions on what was 
+happening, a.nd I was watching the ba.11. 
+Lovell That's one thing that no one had ever told us before. I was 
+a.ma.zed. Maybe it was peculiar to the spacec.raft. 
+Borman No, Tom and Wally h.a.d mentioned it. 
+Lovell Oh, is that ri ght? That ablative material went back and hit 
+the forward end near the recovery section, rather the RCS 
+secti on; and I thought well, I never heard of this before, 
+and I was a little worri ed that maybe we were too fa:r off, 
+a.nd the stuff was going to start getting into recovery 
+sections. But it tiirned out to be okay. 
+Borman Another thing was that the windows really got scrounged up 
+on that ree.ntry; that's something else. I could hardly see 
+out of my window. Stu.ff was coming over from the heat 
+shield and hitting it. It was really gunky. 
+6.3 Aceelera.tio!!,_Pro.file 
+Borman Okay. The acceleration profile was very smallo It was a 
+very high 11.ft reentry, and of course, this results in a 
+low g and long duration build up. No problem at all. 
+604 Spacecr&ft Control 
+Borman Spacecra.ft control was excellent until we g'Ot down to 
+100,000 .feet or even below 100,000 .feet. We turned on 
+
+===== PAGE 58 =====
+48 
+the LANDING SQUI:B a.t 100,000 feet and sat th.ere and watched. 
+it. 
+6.5 lOOK Feet 
+Borman I started losing it; I think we may have run out of RCS fuel 
+between 100,000 feet a.nd 50,000 feetJ at lea.st I thought we 
+had. 
+6.6 50K Feet 
+Lovel l Wel l, didn't you turn off the RCS? 
+Borm8Jl I didn't turn th&t off until a.fter we got on the drogue. We 
+were starting to build up the yaw and pitch rates. Then at 
+50,000 feet, I was anxiously a.wa.it :lng the drogue, because 
+these rates were building up a little. They weren't very 
+bad yet, though. I pushed the drogue expecting it to de­
+crease, and all it did wa..s a.m.plify th.em. And we got a. .real 
+ride on the drogue for a. whil e, sounded like the one Jim and 
+Ed discussed. It was r e&lly going pretty bad. 
+Lovel l Our angles were what? About 70 degrees. We pitched up? 
+Borman Oh no, I estima.te we were oscillating back and forth maybe 
+20 degrees. 
+Lo<rell From the drogue here pitching up we were rolling back a.:nd 
+forth more than 20 de.grees on that initial pa.rt. 
+
+===== PAGE 59 =====
+49 
+Borman We'll have to see. We don't have readings on that . 
+Lovell Okay, because I'm sure we did more than 20 degrees. 
+:Borman Then I t hrew the motor valves back open age.in on the thrus­
+ters, and that seemed to stop it. So I left them open a 
+while and finally turned them on again and it stopped, and 
+it settled out, and it was pretty smooth on the drogue. As 
+a matter of fact, when we got dow to ma.in chute, it we.a 
+steady as a rock on the drogue. 
+Lovell Yes. 
+6.7 35K Checklist 
+Borman I turned off the RCS motor valves a.nd blipped t he thrusters 
+to clear the lines between 30,000 feet to 26,000 feet. And 
+Jim then opened--The 40K ba.rostat worked fine. 
+6.8 Communicati ol_!!! 
+Borman And we gave the reentry status report. I 'm not sure th&t 
+Houston heard it, but we told them the drogue was all risht 
+and okay. 
+6.9 26K Checklist 
+Borman Jim, at 26,000 feet you opened the vent air snorkel 
+
+===== PAGE 60 =====
+50 
+and we got a cabin full of I don't know what it was. 
+Lovel1 You had your hood off. Why? 
+Borman I took my hood off to try to find the horizon, so I made 
+the reentry with the hood off . 
+Lovell Okay, I had my hood on, and I think when we opened up the 
+snorkl e; the way that works, the snorkl e draws air through 
+the suit compressor, and then into the suit circuit• 
+I had my hood on; and the flow comes out of an opening 
+back here in the hood, and flows down . I got an eye 
+ful l of something that was an acid. 
+Borman Acid, eh? 
+Lovell Yes. Really burned my eyes. My eyes were watering when I 
+finP,lly got the hood off. 
+Borman We11 , we accomplished all the checklists, and we had no 
+problems; as a matter of f act, i t went pretty smooth in 
+the time between the drogue deploy and the 10.6 barostat. 
+6.10 10. 6 K Barostat 
+Borman It was just like the simulat or. One thi ng I did notice, 
+initially , when we were on the drogue, t he altimeter was 
+completely inaccurate. You couldn't even read it. We 
+were oscillating so badly that it was jumping in thousands 
+of feet per second· , oh maybe not thousands, but the needles 
+were going al l over the place; and I remember thinking boy, 
+
+===== PAGE 61 =====
+51 
+if this oscillation doesn' t s top, I' ll have to punch the 
+main chute on the amber l ight, rather than the altimeter. 
+But the oscil l~tions did stop. 
+6.11 Hain Chute Deployment 
+Boman I punched the main chute at 10 , 600 f eet as indicate d on 
+the altimeter , and just a millisecond. aft er that, the 
+yellow l i ght came on the 10.6 barostat l ight . The 
+thing deployed immediat ely into a reefed condit ion , and we 
+examined it in the reefed condition and it l ooked very good_ 
+LoveJl Frank thought it was in the reef ed con<lition for 3 months. 
+Borman It seemed like it stayed reefed for a long time, then it 
+unreefe<l , and I couldn ' t find one gore or one panel that 
+was ripped or frayed or anything . 
+Lovell It was a good chl1te . 
+Borman Perfect chute. 
+6.12 Post Main Checklist 
+Rorman We accompl ished the post main checklist, anrl then we 
+braced oursel ves very well and went to the single point. of 
+attitune. 
+6.13 Single Point Rel ease 
+Bormim When we went to the single point attitude it was exactly 
+the same as we had had it at St . Louie--where they' d 
+rigged--t hey had a test after John and Gus ' s flight . They 
+put a test capsul e suspension at St . Louis, and this was 
+
+===== PAGE 62 =====
+52 
+e:x:actly the same. You get a. good whack and then you sit 
+there and vibra.te ba.ck a.nd forth for a little bit. 
+6.14 2X Checklist 
+Borman 2,000 foot checklist we accomplished with no problem. About 
+this time, at 2,000 feet, I heard Air Boss calling and we 
+started communicating with Air Boss. I saw him flying around 
+while we were still on the chute. Houston came throU8h 
+a.bout this time and wanted to lmow if we had a. main chute. 
+I'd ca.lled a.11 these things off, but I guess th.at the com­
+xmmica.tions-maybe the Auto Cats weren't working or some­
+thing. 
+Lovell Air Boss should have called back a.nd said••• 
+Borman But I called back and confirmed main chute. 
+6.15 Landing 
+Borman We hit the water with a. pretty good thud, and your window 
+went under water, didn't it? Jim's window went under watero 
+We hit in a drift. We were drifting to the right rear, and 
+there was a 14 knot wind, and when we hit the sp&eecra.ft 
+rolled to the right, and your window went under the W&ter, 
+and mine eticy-ed up. Nothing serious tho'U8h,. 
+Lo-vell Nothi.ng serious. 
+6.16 Postlanding Checklist 
+Borman We extended the .RF antenna. to get e. test for them &nd went 
+on HF-DF; I hope that somebody heard it. But they had 
+
+===== PAGE 63 =====
+53 
+swimmers there in a.bout 4 minutes, and so I put the HF 
+antenna back down to keep it from getting da.maged. And we 
+conducted the electrical check. I musts~ that I'm gl ad 
+that the electrical check was simple, because it was hot in 
+there, and we were tired. I was worried about this before 
+and I would never have been able to sit there Blld go t hrough 
+this complicated, long check. 
+Lovell We had both pl8l'llled, that what we were going to do was take 
+off our suits in the spacecraft, and wear our orbital flight 
+suits. And I think that we probably would never have gotten 
+out of the suits, because we were just too hot and too beat . 
+:Borman It was even hot in the spacecraft, so Jim came through with 
+the idea of opening the :repress valve, and this wa.s great. 
+We bad a.11 that oxygen and you weren't going to use it. It 
+blew all that cool oxygen out and we had o2 HI RATE and the 
+snorkel on. So we stqed pretty cool when you get right 
+down to it. So it was a. good idea. I don't know if you got 
+the blood pressure measurements or not, did you? 
+6.17 Blood pressure measurement 
+Lovell I took them, I don't know whether they came out or not. I 
+put the reprogre.mmer on in the water and started ta.king blood 
+
+===== PAGE 64 =====
+54 
+pressure measurements a.nd--but that' s harrl to do. I 
+ought to comment on that. Because to take a blood 
+pressure measurement you had to pump up the thing and 
+leave your handsstill, and leave your arms still until 
+it bleerts down; well it takes a little while for it to 
+bleed down. Meanwhile, Frank' s got the checklist out and 
+the guys out there are putting on the collar, and we're 
+trying to throw switches and take this and that; I ,just. 
+thought I might as well start doing it with my other ~a.r.n. 
+Ilorman Same way with the blood pressure they requested over 
+Guayrnas during reentry, I make a comp1ete testimonial here; 
+I think once the reentry starts that everything else cets 
+l eft aside, and you <lon ' t nP-ss around with blood pressures, 
+or experiments or anything else. From then on it' s sort 
+of a case of surviving the darri thing. I didn't want rim 
+messing a.round looking for a bl ood pressure ; so we diiln 1 t 
+do it. About thA.t time we couldn' t find the horizon any­
+way. 
+Lovell We got called up from the MCC 
+Borman But, anyway, we didn ' t do it. So it didn ' t bother us . 
+Lovel] That' s the first I 'd heard of it when they cal l up. 
+7.0 .LANDING AN]) RECOVERY 
+7.1 Impact 
+Borman We were drifting backwards, blunt end forward, rather, as 
+
+===== PAGE 65 =====
+55 
+Lovell 
+Borman 
+Lovell 
+Borman 
+Lovell 
+BoI'J'llan 
+Love11 
+Borman 
+Lovell 
+Borman 
+Lovell we hit the water, Although it was a good jolt, I wouldn't 
+say it WR.S anything outstanding. We hit, and Jim, your 
+window went under water, right? 
+The snacecraft rolled to the right, I believe. 
+Yes. We hit, rolled to the right, and you went uncier water 
+and bobbed right up. 
+Right 
+I released the parachute and it floated in front of us for 
+several minutes. 
+I saw part of it on the left hand side there, or rather on 
+the right hand side as it floated by my window, 
+It stayed there for several minutes . It' s just the way 
+it's been described before. 
+There was an awful lot of fog on the window, though. I 
+noticed that the humidity was such that you could hardly 
+see out. Very foggy . 
+I'm not sure that was humidity or that was from reentry. 
+Might have been from reentry, I don ' t know. 
+I did see the S2F on the chute. We saw it while we were 
+stiJl on the chute coming down, 
+7.2 Checklists 
+The onl y thing I had about the checklists; during the 
+recovery phase, I had a hard t ime doing the checkl ist, in 
+fact, I had to give it to you, because I couldn't move my 
+
+===== PAGE 112 =====
+102 
+Borman GLV fuel and oxidi zer pressure gauges were nominal. The 
+concept of sticking the decals on the outside of the gauge 
+is poor at the best. But, we all know this has been done, 
+and they're not going to change the gauges, and it worked 
+fine. I would suggest never going this way again. I think 
+we ought to change the meters in the future. 
+Borman The altimeter worked fine. The only problems we had with 
+the altimeter was when we were oscillating violently on the 
+drogue, it was not indicating descent. As soon as the 
+drogue oscillations st eadied out, the altimeter came down 
+very well. Rate of descent indicator was likewise. As a 
+matter of fact, I can't tell you what the rate of descent · 
+was after we opened the main chute. The main chute was so 
+good when we looked at it. We didn't see any gores or 
+frays. And when we went to si ngle point release, I didn't 
+even look at the rate of dascent indicator. Did you? 
+Lovell I couldn't see it. 
+Borman Did you even think about it? 
+Lovell No, you mean to tell me you didn't look at the rate of 
+I descent indicator? 
+Borman We could tell from the altimeter we were going down very 
+slow. The acceler ometer seemed to give us slightly lower 
+values thttn the recorded. I think on the reentry the highest 
+value we got was 3.9 g's. During launch the highest that 
+
+===== PAGE 113 =====
+103 
+was recorded on the a~celerometer was about 6.75 g's. I 
+understand that the actual value was over 7. On the nominal 
+profile, it i s. 
+Lovell Was the reentry a little higher than 3.9? 
+Borman I don' t know, I doubt if it was, it was so near full lift. 
+Switches and circuit breaker panels. We had a coupl e of 
+cases knocking of f circuit breakers. We did have one fuel 
+cell control ci rcuit breaker pop on us twice. 
+Lovell I am not real sure i t popped. I don' t know whether I hit 
+it ina.dvertantly twice. 
+Borman No, you didn't. The second time I watched it pop. 
+Other than that, I thought the switches and circuit panel s 
+were well located. I think it i s very important that we 
+have those guards on there, particularly with changing suits. 
+Lovell The fuel cel l switches, the power and control switches, 
+should be LIFT to move switches. They should be over center 
+locks that you have to lift to move them up. There was a 
+guard over i t, but still it was so easy to reach up there 
+and hit those things. I was always worried about throwing 
+the control switch of f, which would have really foul ed up 
+the fuel cells. 
+Borman You mean like the squib switches? ... 
+Lovell Yes, like the squib switches. I think that is the way they 
+ought to be ~ecause you never touch them unless deliberately. 
+
+===== PAGE 114 =====
+104 
+Bo·-m.a.n Yes, that is a switch that is never moved unless there is 
+a failure in the fuel cells. 
+Lovell They should be a little better type of switch than they are. 
+Borman Mirrors. Operating without suits on, I found that I seldom 
+needed the mirror. I don't believe I used it more than 
+2 or 3 times except to check and see how far m;r beard had 
+grown. Row about you, did you? 
+Lovell Well, they were good for things like looking way back in 
+the corner, and shining a light back there. 
+Borman I was mobile enough that without a suit on I could turn 
+around very easily and see all around. There is no question 
+you need the mirrors. I am not suggesting even remotely 
+that you take them out. With the suit off it cuts down the 
+need for them. The swizzle stick we used once to pry up 
+the center line stowage bracket. When we opened the center 
+line stowage after launch, the bottom bracket sprung down 
+about ~/4 inches, and we bad great difficulty to close it. 
+We only closed it twice during the flight after that. We 
+just kept it velcroed partially shut. 
+Lovell I think the boost acceleration sprung it out of position. 
+Borman Either that, or when they put that fix on there to beef 
+it up, it resulted in an out-of-tolerance eitua.tion. I hope· 
+that the people did not fo~ce it shut and then let us take 
+off that w~. That was a pain in the neck to get it shut. 
+
+===== PAGE 115 =====
+105 
+Lovell We had to use the levers of the swizzle stick to get the 
+thing back together again. This was bad. We also used the 
+swizzle stick to keep the manual heater switch down on the 
+FC Hwhich is a real big pa.in. It is a very a.mall swit ch2 
+and you have to hold it for a long tiine. That gets to be 
+a lot of trouble. 
+Borman Lighting, indicators and instruments . There is one 
+instrument in the spacecraft that should be lit that i s 
+not. Tba.t is the digital timer. That is the most 
+valuable instrument onboard. We used it continually, it 
+never varied one second in 339 hours. We never had to 
+reset that once. It was exactly on the money. We checked 
+it periodically and it never gained or lost a second. 
+Lovell But it had to be lit. 
+Bor.man It should be lit because it is right on the center panel, 
+and there is no lighting on it except for the bright l i ght 
+from the back. Ma.ny times at night and when you are trying 
+to :maintain dark adaptation you end up having to use the 
+flashlight on it. 
+Lovell It should be a red light for night work. In the day time 
+you don't need it because the cockpit is lit up anyway. 
+It really ruined night vision to turn on that flashlight 
+to find out what time it was. 
+Bor:ma.n The left panel was fine when it was lit up with the display 
+~ 
+
+===== PAGE 116 =====
+106 
+light. The center panel and the right panel were all right. 
+There is no question that the lighting system on the LEM is 
+superior. 
+Lovell We used the red lighting more than I thought we would ever 
+use it. We never used it in simulations. The red lighting 
+turned out ve-ry nicely when we started looking out the 
+window, using the stars, getting oriented and things of this 
+nature. 
+Borman The pedestal, console and circuit breaker areas just aren't 
+lit. Same way with the water management panel, when you 
+wanted to check that,the only thing you could do was use 
+your flashlight. It was not a big problem. The little 
+flashlight that CSD developed, and put in, was one of the 
+most valuable pieces of gear we had. We used it continually 
+throughout the flight, it is much more valuable than finger­
+tip lights. I see no reason for fingertip lights because 
+you're not going to fly with gloves on most of the time. 
+If we would have had them, they would have been stowed. 
+This little flashlight turned out to be a little jewel. The 
+utility light I did not use once in the whole flight. 
+Lovel l I turned mine on once to see if it worked. 
+Borman The flashlight was much easier to get to. We velcroed it 
+right in front of us, and it was very handy. And at the 
+end of 14 days it seemed as bright as it was before. One 
+
+===== PAGE 117 =====
+107 
+of the serious deficiencies in the flight was the dirty 
+window. 
+Lovell I just talked to John Erinkman about the film. He said a 
+lot of it was good, but a lot of it they could tell the 
+window was dirty. 
+Eorman What about the booster film? 
+Lovell They haven't processed two rolls of film yet and they don't 
+have the Polaris launch yet. The Houston one turned out 
+sort of hazy and I thought it was a clear day. He told me 
+there was haze on the ground. 
+Borman Did they see Houston all right? 
+Lovell They could make out the International Airport. 
+:Borman You took that with the 250 mm. lens. 
+Lovell The high speed film. They don't want to process it until 
+they talk to us to find out what kind of ex:posures we used. 
+We had all kinds of ex:posures. I think the picture that was 
+in the paper was from the 16 mm. camera. 
+The window was very dirty. And I have a ... a picture was 
+taken of it. Shows the ... 
+Borman Jim drew a sketch of the window in the S-8/D-13 log. 
+Lovell There was a greenish, greasy film over the whole thing right 
+in the center. Outside of that was a sort of a haze or fog 
+effect. Right along the outer edge, it was clear. If I 
+focused on the nose of the spacecraft it would be blurry. 
+
+===== PAGE 118 =====
+108 
+Just off the nose it woul d blurr out. There are two theories, 
+one group of peopl e sey it's the nose cover that is ablating 
+on launch, others sey it is staging. 
+We saw quite a bit of flame at staging and it looked like 
+there were several streaks there caused by staging. There 
+is also a general deposit like a stagnation point right there 
+that might have been built up during the entire launch, which 
+might be the nose cover. So, it might be the combination or 
+both. 
+Borman It might have accumulated due to the urine dumps throughout 
+flight.seve~al times we saw urine crystals come·back e.nd hit 
+the nose cone. We never saw them actually hit the window. 
+I am not sure that some of it, that was practically invisible, 
+might have hit the window. It did seem to get worse with 
+flight. l-zy-window was not nearly as bad as Jim's. 
+Lovell Frank's was better than mine. Whenever I could I would 
+give him the cameras to take a picture. He did a lot of 
+the Apollo landmark and S-5 and S-6 pictures while I was 
+controlling the spacecraft. 
+We have to improve the windows somehow. We've got to have 
+some sort of cover or get some certain ty:pe of material. 
+The windows were perfect when we got in the cockpit. The 
+problem they had on GT-5, where they had fog and humidity 
+because of the difference in temperature when the White 
+
+===== PAGE 119 =====
+109 
+Room was dismantled, was not there this time. 
+Intensity control was good, no problem. We had two white 
+lights in the center cockpit, this was our request a long 
+time ago, and after using it I think we ma.de a mistake. We 
+never did use the thunderstorm light that we stuck in place 
+of the red light. Right now Frank and I think we could 
+have used the red light again because we both did use red 
+lights a lot more than we thought we were going to, for 
+night work. It gets your eyes accustomed to the night, and 
+you can see the airglow and stars a lot better. If you have 
+bright lights on in the cockpit , at night, with glare off the 
+window and your eyes adjusted to the white lights, you could 
+never see out. It's just black. 
+Onboard data: checklist cards preparation, excellent. I 
+think the people who made them up, Chuck Stough, has to take 
+a personal bow because I think that he did an outstanding 
+job of making up all the onboard data books and cards. They 
+are very, very good. What we did was, tear off the lift-off 
+cards prior to reentry and just had the reentry section, so 
+we wouldn't get mixed up. There are several minor things 
+which we could change to make it a little bit more compatible, 
+like getting one card with all the data on it so we didn't 
+have to flip the cards back and forth when MCC gave it to us. 
+As a matter of fact that i s exactly what I ended up doing, 
+
+===== PAGE 120 =====
+110 
+I took the core card, and after I read the various cores for 
+the reentry parameters, I got the nominal IVI's, also the 
+bank angle updates and things of this nature, all on one 
+card·. Then I went back to the other section and transposed 
+them in there. 
+:Borman One of t he most import ant things about the checklist on 
+this flight was t he fact that we had them about a month 
+before the flight. We used them in training, and the people 
+responsi ble for that di d a great job, Chuck Stough and Ted 
+Guillory. 
+Lovell That is important. On GT-4, because of the newness of the 
+system, we were still rearranging cards and books just prior 
+to the f light. Learning from that flight, on GT-7 we really 
+gained a lot by having the cards and books early in the 
+game so we could train with them. 
+Checklist cards useful ness was outstanding . 
+:Borman The maps and overlays were fine. We carried the larger 
+orbital display m.e.p. I'm not really sure we needed it. It 
+was a little cumbersome i n the coclq)it. It was all right, 
+but general areas would have been just as readily available 
+on a small map. When we were doing the Apollo landmarks, 
+particularly those with coastal features, I thought Apollo 
+landmark • maps were entirely adequate. I did not see any-
+reason for photographs. If you really want photographs, the 
+
+===== PAGE 121 =====
+111 
+Lovell 
+Borman 
+Lovell 
+Borman 
+Lovell 
+Borman 
+Lovell 
+Borman 
+Lovell 
+Borman best way to do it would be to fly over them with an airplane 
+and then change the scale to whatever you wanted it. 
+The photographs were important , but I don ' t think you have 
+to spend valuable fuel and time to get them. An airplane 
+can do the same job getting photographs that we need for 
+Apollo landmarks. 
+That's right. No questi on about that. 
+I found it difficult to move the map overlay. 
+It got better as the flight went on. 
+Yes, because we wore it in. The overlay we have, with 
+periods, orbits, and the map underneath , I think that can 
+be improved. We needed a very simple device with two rollers 
+on the end, or some system a little bit more elaborate, but 
+a lot easier to handle. 
+I don't know, it worked all right toward the end, Jim. If 
+you get it too elaborate, or too easy to roll, then it is 
+going to change on you. 
+It has to have a system where it can't change. 
+It was valuable. You knew where you were all the time. 
+We used it more than we used the star charts. Mainly, we -
+used the star charts for the no platform burns, for retro­
+fire positi on, and for SEF and BEF positions. 
+By and large the maps and overlays were well prepared . They 
+were available early to us. We knew how to use them and i t 
+
+===== PAGE 167 =====
+157 
+I had not had a chance to warm up for 10 minutes. We were at 
+such a low fuel state then that it was either then or never, 
+so we did it, and I hope they got the data. Now this window 
+measurement business was always a l ittl e nebulous to me. 
+am not sure exactly what they were going to get out of it. 
+:But it seems like they a.re scratching. 
+Lovell I do not understand the procedures too well. I mean I went 
+th.rough the procedur es, followed them exactly, but the pho­
+tometer left me out to lunch. We tried to get the dope, but 
+I do not see what they are going to get out of it. 
+Borman We did not have mu.ch confidence in that. We did it exactly 
+the wa;y it was practiced. We did practice it in the simu.la.­
+tor and it is recorded on voice tape. They came ba.ck though 
+and said that TM did not make much sense to them, and I 
+think that is probably right. Voice tape recorder usage, 
+by and la.rge this wa.s another experiment that was well han­
+dled, preflight a.nd during flight. We admit that we spent 
+a l ot of time on this one 8Jld with all the visu.a.l a.cuity 
+data they got a.head of time, and were briefed by the princi­
+pa.l experimenters ma.ny, many times. I thought that it was 
+handled a.s well as it could be handled. The site in Aus­
+tralia. We were over Australia 
+
+===== PAGE 168 =====
+158 
+in the daylight--of course the site was not manned because 
+of the few passes we'd have to have . When we were over 
+Australia we didn't have attitude control . 
+Lovell We might menti o.n one thing. I think with the l ong flight 
+like we had, if we had the fuel we could have become more 
+skilled in observing the site and probably have gotten 
+better results . 
+Borman No, we coul d not have on thi s o.ne, because after the 3rd day 
+the clouds were the factor the whol e t i me. We had only 
+3 days to observe that, a.nd everything el se was cl oudy. 
+Lovell Okay, it was cloudy, but I suspect that the more passes 
+over the thing, you woul d get better. But we just did 
+not have the fuel and the weather was bad. 
+11, 5 Synoptic terrain (S-5) and weather (s-6) photography 
+Borman Synoptic terrain a.nd weather photography . On unusual 
+or signific ant subject matter. Well, it turns out we did 
+not have any unusual or significant subject matter as far 
+as I know . We t ook the sequences and we took a l ot of 
+it as genera l photography that was not even called up. 
+Most of the time, it had t o be done in drifting flight. 
+We were sorry about this, but there was not the fuel 
+availabl e. The two sequences that were called up (where 
+we were allocated the fuel from the ground) we t ook them. I 
+hope they were well done. We did get some 
+
+===== PAGE 169 =====
+159 
+pictures over Brazil that have never been gotten before. 
+They were not called up. We took them with the IR color 
+shifted .f i l m. We got some pictures of Mexi co that 
+were not called up. 
+Lovel l We ·got a good sequence over North Africa. 
+Borman We got several good sequences over North Africa.. 
+Lovell But I am sure tha.t they have been used before. 
+Borman We al so took a seque.nce al ong the southern coast from 
+New Orleans through Fl ori da using color shifted IR t o 
+evaluate the f ilm more than anythi ng el se. I hope this 
+comes in handy. We got some shots of the island chai ns 
+off Florida, to see if they can determine any effect from 
+the hurri cane that went through, Betsy. 
+Lovell As a matter of f act, we got a strip sequence of Cuba too . 
+Borman Al l these are target s of opportunity done without atti tude 
+control, but they were all targets that were listed before 
+f l ight. We got the mouth of the Amazon, and I think that 
+i s the first time t hat has been photographed. 
+Now on the S-6 the weather photography we tried in 
+the l ast pa.ss to ta.ke a successive revol ution picture of 
+weather devel opment. Ve got one good shot over the 
+Andee. We al so got some good shots of wave cl ouds over 
+the Andes during the l atter part of the flight. We 
+l ooked for hurricane or tropical storm Alice in the 
+
+===== PAGE 170 =====
+160 
+Indian Ocean but we never did see it. 
+Lovell We had an S-6 weather to get that too, but we never did 
+see it. 
+Borman Air to ground relay of data was good. Voice recorder usage, 
+this is one area where we are not r edundant. If we had time 
+t o record all t he photographs we put in th8 log book and 
+not on the voice recorder in an effort to save tape. 
+Everything that was done, though, was logged either S-5, 
+S-6, or in general photography. Now, another item that is 
+going to degrade this was the scum on your window. 
+Lovell Yes. The window is an area which we are going to have 
+to work on. 
+Borman As it got worse and worse, we shifted so that I was 
+taking the pictures, but I had scum on my window also. The 
+major problem t hough, here was just lack of fuel . We could 
+not orient t he spacecraft t o cont rol it the way we wanted t o. 
+11.6 Protron El ectron Spectrometer, Tri-Axis Flux-Gate 
+Magnetometer. 
+Borman We turned the switch on and l eft it on. I think we should 
+have reruns and reains of data, although unfortunately wit h the 
+t ape r ecorder being shot , I do not know what good it is going 
+t o do. 
+Lovell Well, they got real time telemetry over the station. 
+Borman Right. 
+
+===== PAGE 171 =====
+161 
+Lovell After seeing GT-6 1 s film of our back area, the straps 
+hanging off our spacecraft looked like they were all 
+intertwining in that boom area. It could probably foul up 
+that boom somewhat in future flights. I mean in a 
+future flight if we still had that same problem it mi ght 
+foul up that boom and tear off that wire. There is a 
+wire that goes out to the end of that thing. 
+Borman All the experiment s we talked about so far were well 
+presented before hand. We knew exact ly what we were 
+going to do, and the only reason we weren't able to 
+uo it was 1) weather, 2) lack of fuel, and 3) in the 
+case of the D-5, the equipment broke down. I think 
+we got a substanti al amount of S-5 and S-6 done. 
+As a matter of fact we got everything done that was 
+called up and we got a lot more done just in general 
+pho tography. 
+11.7 Optical Communications (MSC-4) 
+Borman Optical communications, MSC-4. 
+Okay, acquisition of the ground t arget. I have never 
+been bet ter locked in on White Sands in my l ife than 
+
+===== PAGE 172 =====
+162 
+we were, when we went by there, and saw two blinks of the 
+laser. We had the photogra ph in front of us marking where 
+the laser was located. We saw Holoman, we saw White Sands 
+but we never did see the beam except the short flashes . 
+Lovell The magnitude of this laser is a lot less than either Frank 
+or I suspected after our briefings by the experimenters and 
+by actually looking at one at Houston. Obviously this 
+laser at Houston was a lot shorter and can be very much 
+magnified . 
+Borman Tracking was no problem~ 
+We acquired one over Hawaii; we were able to 
+t rack it easily. The pr oblem is acquisition of the light. 
+Lovell The light beam is a lot smaller point than we suspected. 
+Borman And then again the big bugaboo in this whole experiment 
+was weather. Ascension never got up, we never got ground 
+equipment at Ascension. We never got really good passes 
+at White Sands because we were always about 300 mil es South. 
+And Hawaii was available to us on only 2 passes . We 
+acquired the laser on both passes, but were not able to 
+get the handheld laser on the beam on the ground. 
+Borman Okay, how about the field of view? 
+Lovell The field of view. Well, let me t alk about the equipment . 
+Basically the equipment was fine, except for the telescope s 
+
+===== PAGE 173 =====
+No. 1) i t did not have as much l ight gathering as was 
+required for thi s particul ar equipment. It should have 
+a larger magni f i cati on. 2) It had a green f ilt er over it 
+whi ch was supposed to enhance picking up the beam, but 
+al l it di d was fade out everything. You could not see 
+terrain features a.nd you needed to see ·terrain features 
+t o find out where that beam was located. 
+Borman Yes. to know where the beam was. 
+Lovel l You coul d l ook out a.nd .. ..we had photographs of the area 
+where the beam shoul d be coming from. And we coul d acquire 
+i t by our naked eye by just looki.ng out and seeing i t. 
+But.as soon as you went to the telescope of the laser, 
+everything faded out to this green color. Unl ess you 
+just happened to pi ck up the beam you're l ost and I never 
+was abl e to pick up the beam thru the t el escope . The 
+filter was just too stro.ng. I much prefer to have a c lear 
+view. So I coul d pick out the terrain features . The 
+reticle of course .... 
+Borman Of course. we knew that was shot before we took off. 
+Lovell We never had a good check of this thi.ng thought at night, 
+and I wish we had had a good night pass over something, 
+but we never did. Because I feel that we probably could 
+have probably picked up the beam a l ot better at night. 
+
+===== PAGE 174 =====
+164 
+Protective glasses. To tell you the truth the one time 
+where I was really trying to get onto the Hawaii pass I 
+took them off. I did not use them. And they were in the 
+way, they were cumbersome and together with the telescope, 
+it was just too hard to find. 
+Borman I used mine, but I did not put them on until right before 
+Jim was supposed to transmit . 
+Lovell Of course, I had them, I had them on and I transmitted 
+and found out that I could not see anything so I just 
+pulled them off and started transmitting by going back... 
+because as I understand it the operator really does not need 
+them if he i s right next to it. 
+Borman The big word on this one as far as the reticl e goes , w~ 
+should go back to that is for the day time you do not want 
+that green in there. At night time you are going to need 
+a lighted reticle. You cannot see the reticle at ni ght. 
+Lovell That is right . So you need a better acquisition device 
+on the laser, a better, bigger telescope with more light 
+gathering and clarity of the te.rrain of the target. I 
+would imagine PULSE mode would be great for tracking the 
+thing. 
+Borman Yes. I tracked one at Hawaii very easily. No problems. 
+The tracking is a nominal task, there is nothing to it. 
+
+===== PAGE 175 =====
+165 
+But the other business of acquiri.ng,is very difficult , . 
+Particularly with the reticle set. 
+11.8 Landmark Contrast 
+Borman We did one of these with the D-5 photometer . We knew it 
+was bad, but we put the calibration needle in the full "up" 
+position, told the experimenter that we were doin8 this 
+and took the data. Nowt they will have to check it to 
+see how it worked. 
+Lovell We did :just one, 
+Borman We had an equipment malfunction. Right. No sense talking 
+about it anymore. Spacecraft control was 
+no problem. We accomplished all the meoha.nios of doing 
+it, but unfortunately the equipment we knew was mal funo-
+tioning before we did it. Right? 
+Lovell Right you are. 
+
+===== PAGE 176 =====
+166 EOt~FIDEt~TIAL 
+11.9 Cardiovascular reflex conditions (M-1) 
+Lovell Got that started at, I think it is 3 hours and 8 minutes, 
+or something like that. 
+At 2:39, I turned on the M-1 experiment. 
+Borman Okay. Procedures and operational problems. We had the 
+hose coming all the way across your whole lap to get 
+into your right l eg when it should have been put in the 
+left leg. 
+Lovell That is right . 
+Borman Periods of operation. The thing was operating continuously 
+for 14 days. And I might point out it is a pain in the 
+neck. Because of the clanking noise. Even though it 
+seemed you would get used to it; many times just as we 
+were about to drop off to sleep that thing woul d clank, 
+and wake you up. The only reason we did not turn it off 
+at sleep 
+CO~ ◄ FIDE~~TIAL . 

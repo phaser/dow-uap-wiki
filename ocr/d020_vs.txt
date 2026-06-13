@@ -1,0 +1,815 @@
+
+
+===== PDF PAGE 149 =====
+144 • 
+picture. I think the prime example we had of any 
+difficulty in map locat ion was not on the Apollo 
+maps themselves , but i t is exactly the srune kind of 
+thing. What was that one that had the lit tle i sland? 
+Conrad Lake Depoopo . 
+Cooper No, no . It had one tiny l i ttle i sland right off 
+t he coast and it wasn't on the Apollo mapB . It was 
+the--
+Conrad It was a D-6. That was that thing off BrE,zil. That's 
+all it was . It was a chart of water with an i sland 
+in the middle of it. It turned out that right at 
+the edge of the chart was another island. We took 
+the wrong island first because, heck, it looked l ike 
+there wasn ' t another island--
+Conrad I'm just making this comment because it will apply 
+to the Apollo map making, as well, and this was an 
+ideal example of how t o really screw somebody up. 
+Cooper We al so got another island right up there. We got 
+it and we were sail ing along thinking that was a 
+good shot we made of that island, and we fooked 
+down and I said, "Hey, look down there. What ' s 
+that. That' s another one." I swung over on it, 
+and he said, "Let's get it, too ." So , we discovered 
+
+===== PDF PAGE 150 =====
+FCSD Rep 
+Cooper 145 E~PID[NflAL 
+that it was the one. It was just by accident that 
+we got the right one. 
+Okay. Detail--which of these do you think would be 
+best? I think you covered some of this. 
+Well, I think that coastline is the best, distinctive 
+features on a coastline . Next best are rivers and 
+mountains . Probably, if you can have combinati ons 
+of the rivers, mountains, and coastlines, these are 
+quite good. A river running into a coastline and 
+into the sea, I think, is a real excellent one. 
+Very good. And roads--boy, there is just no getting 
+around it that roads make an excellent landmark area. 
+They really show up. And a road in the right area 
+where it is contrasty will really show up for a long, 
+long way away, like a white concrete road and darker 
+background, a dark green background, really shows.. 
+And then, I guess cities show up probably the least 
+of anything. They tend to have enough vegetation 
+and foliage and everything and they kind of blend 
+in. They don't really show. Lakes are excellent 
+landmarks. Airports are not as good as lakes and 
+things of this type. Airports tend to blend in a 
+little bit. L~t•s see, color contrast--I've already 
+covered that . Readability --
+
+===== PDF PAGE 151 =====
+FCSD Rep Anything at night? 
+Cooper Coastline . On a clear ni ght, boy, the best thing 
+that will show up is coastline . The grnatest light 
+contrast is between your water and l and .. 
+FCSD Rep Okay, I think that ' s enough on that . 
+9 , 2 Cabin Lighting Survey 
+Cooper I 'll let Pete comment on that one. 
+Conrad Well , it was very straightforward, and we didn't 
+get very many of them, mainly because WE! wound up 
+in drifting flight. We took the measurements as 
+advertised , except there is one little ~:litch in the 
+thing. They wanted you to take a light measurement 
+out, the, window, and they wanted you to c.o it in 
+either the heads-up, or heads-down. In doing this, 
+that said the horizon was in front of ycu. Now the 
+light meter reading looking at the black sky just 
+above the horizon in the daytime , which was the 
+total sky, was usually a number around 11.5. But 
+looking at the earth, or just below the horizon, the 
+meter reading was about 15. 6. So, I always recorded 
+two readings , the reading for the horizon and the 
+black sky, because I didn't really know which one 
+you wanted. With the spot meter the thing just turned 
+out that way. Okay, we made one at 01+23+10. Gordo 
+
+===== PDF PAGE 152 =====
+147 -GQMEilQEt{l:1 A I D ,. 
+made one at 05+04+30+00. I made another one at 
+03+01+45+00 , and we had another one at 04+22+40+00. 
+Out of those, two of them were in drifting flight, 
+and the other two were heads-up . And I had this 
+recording that 11. 6 was equal to black sky and 16.8 
+was normally representative of earth background. 
+That was it. It was straightforward. 
+9, 3 SPADATS Tracking Check 
+Conrad We did it. We did it by turning our beacon on so 
+they could just track us, but we, of course, didn't 
+get into it with the REP thing. The SPADATS thing, 
+actually, was supposed to take place during the REP 
+operation, and it didn ' t. But we did turn on our 
+beacon so SPADATS could track us one time over this 
+Willia.mtown site, or wherever it was. That's all 
+there was to it, so there was nothing to---
+9, 4 UHF Antenna Pattern Test 
+Conrad Now, these UHF antenna pattern tests were done just 
+as written in the book and the data is recorded . 
+Do you want it? 
+FCSD Rep Why don ' t you read it out? 
+Conrad Okay. We did a UHF sequence 03 at 01+10+44+25, 
+and the angles were 0°, 0° , 0° . We did a sequence 
+01 at 02+13+47+05, and the angles were 90°, 0°, and 
+• 
+
+===== PDF PAGE 153 =====
+148 eOt ◄ Fll'f fqTIJ(t .. 
+14° left. We did an 02+15+21+19 , sequence 02, and 
+the angles were 0°, roll left 132° , 0°, and they were 
+done as advertized . 
+FCSD Rep How about any updating on that? 
+Conrad No , they just sent i t up and said to do it, and these 
+were the angles they wanted. They set this up for 
+us to do. 
+9,5 Thruster Illuminat i on Checks 
+Conrad Never did it. We were supposed to do it the beginn­
+ing of the first night or something like that, and 
+it was in a sleep period time and we were tired and 
+we didn ' t do it. After that, we got into either a 
+power down or drifting situation where we were un­
+able to do it, so it was never done during the flight . 
+9.6 Dual Command Transmi tter Test 
+Conrad That was never done. That had to do with the REP 
+too, if I remember right. I think it was DCS light 
+r esets. I think what they were trying to do was to 
+fi nd out if our radar was on. They sent DCS commartds 
+and we were transmitting or something--what could 
+happen--We never got into that test. 
+9,7 Radar Tests 
+Conrad Okay, Test 2, short range, boresight spacecraft on 
+REP, no problem. We never got time to get into the 
+00►4 FtDffi~TlA! • 
+
+===== PDF PAGE 154 =====
+149 ~cONEIDftsl!IAL 
+rest of it. We never got more than a mile from him, 
+so we got that 3000 foot transient but we never got 
+the 30,000, What was the transient at 3000 feet 
+like? Do you remember, Gordo? On radar when the 
+REP went farther than 3000 feet, I don't think there 
+was any transient to speak of. 
+Cooper I didn't notice any particular transient, or any 
+noticeable one at all. I was looking for it. 
+Conrad Yeah. We did the--
+Cooper I had it damped pretty well. 
+Conrad We never did get the radar to run for 3 hours, so 
+we didn' t get test 5, test 4, no correlation between 
+range and range rate display and visual observations 
+at short range, they all worked very well. Test 6, 
+we observed the normal transients that you'd expect, 
+just as advertised on here, and I also noticed that· 
+the lock-on light cycled on and off, on and off, 
+when I was in a standby mode after warmup. Radar 
+test 7, stand by to ON, you have to get Gordo on 
+that. 
+Conrad Test 8. We dashed over there the first time and as 
+soon as we were within about 260 to 270 miles, the 
+radar locked up on 248,66 miles . I got the first 
+digital readout on address 69 and it read down to 
+
+===== PDF PAGE 155 =====
+150 
+Conrad 
+9.8 HF Evaluation 
+Conrad 
+Cooper some 160 miles . I read the numbers out over the 
+air. I ' m not sure that they aren't on t ape , too. 
+The tape hadn't run out then . Then we tracked back 
+out again and it pointed right to t his f-''.ILA area 
+here at the Cape when we had the needles centered . 
+Gordo was tracking on the needles, and it seemed to 
+work real well. We are really impressed with it. 
+As you know, we got it to lock on the REP everytime 
+after that over the Cape , but we never g~t the range 
+to read right. I don't know whether that was a 
+radar problem or a computer problem. 
+At that time, the voice recorder was working on the 
+first test, and I thi nk there is some in::ormation 
+on the tape. 
+HF evaluation test number 1. We transmitted all 
+the way around the worl d. Then we gave i.:.p number 2, 
+because it was keeping the other :Astronaut awake . 
+Then we did the other HF transmission test which 
+was listen. We did hear Hawaii for awhile going 
+away from them and coming back in -
+That was a ridiculous test anyway. 
+
+===== PDF PAGE 156 =====
+151 
+Cooper .. . .HF when they were playing music. It dropped 
+out when we heard it, and we'd transmit once in a 
+while to them and they heard us. It worked real 
+well. 
+£0Mftf>EMflAL 
+
+===== PDF PAGE 157 =====
+152 
+10.0 VISUAL SIGHTINGS 
+10.1 Powered Flight 
+Conrad Wel l, everything wa.s straightforward up ·.mtil 
+Fairing Jet. We told you about the problems we had 
+at Fairing Jet. We want to take a look 1:1.t that . 
+Cooper I didn' t see anything--
+Conrad I did see the horizon come into view at 1:1.bout 60°. 
+Cooper Yes, I saw it just as we began to stage 1'.>ver. I 
+l ooked out over your window. 
+Conrad That 's right. Right after staging in guidance ini­
+tiate it ca.me down to about 80° on t he horizon and 
+man, it looked great out there. 
+Cooper And the only thing that I noticed at SEGO was a lot 
+·of debris. 
+Conrad Oh, yes, it was stuff all over everywhere. About 
+the funniest thing of all was 
+Cooper Snow all over the whole area.. 
+Conrad Yes, and just all sorts of glittering pieces of 
+thi s , that and the other thing. 
+Cooper Pieces and bits. 
+Conrad Then a.11 these washers and goodies started floating 
+a.round in the spacecraft, but the .. .. . 'llas the 
+washer floating along --
+Cooper That was three or four orbits later. He:t:'e we are 
+.... 
+
+===== PDF PAGE 158 =====
+153~Qt~OOit IIIAI? = 
+whipping along at 17,000 miles an hour or so and I 
+looked out and here's that washer floating right in 
+front of my window. It sat out there and floated 
+around a while. I pointed it out to Pete and he 
+got over and looked at it and it floated on around 
+and finally it ·just was drifting on off. Finally 
+it disappeared. And about an hour l ater a bolt 
+came off. 
+10 2 Orbital Flight 
+Conrad We didn't see our own booster. We were too busy. 
+We started the flight plan right away and we never 
+turned around to look at it. 
+Cooper We never turned around to look at it. 
+Conrad We sure as heck saw the REP. 
+Cooper We saw the REP and saw the REP and saw the REP. 
+Conrad We saw the REP blanket too. 
+Cooper The REP blanket, I think we mentioned before, but 
+the REP bl anket someway or other got between us and 
+the REP. This means that the REP either went through 
+it or tumbled over it, because the blanket was be­
+tween us and the REP. Man-made objects in orbit. 
+Let's see booster, REP--
+Conrad Okay, now that satellite--
+Cooper Satellites. We never saw any of the scheduled ones. 
+
+===== PDF PAGE 159 =====
+154 
+Conrad We never saw any of the scheduled ones but you' ve 
+got to have the platform to see them. They gave us 
+angles like pitch 82° and yaw 45. You're looking 
+at the black sky. You haven't any idea of where 
+you're looking. You have to have the platform. 
+One thing that we did find, if their platform point­
+ing at satellites was actuall y the pointing informa­
+tion they gave us for the ground objects, why we 
+woul dn ' t have had any trouble finding them. 
+Cooper The pointing information that we got from the ground 
+was excellent. 
+Conrad We hacked that time on the second and we were 
+really pointed with the platform up and we were 
+looking right down the pipe at whatever it was that 
+they were wanting us to look at. The only reason 
+we didn't see it is we couldn't make it out. But 
+we were l ooking at it. 
+Cooper Satellites--There was only one time when Pete and 
+I thought we saw something and we didn't have time 
+to identify it. We were in drifting flight and we 
+never could identify it. I don ' t even know if it 
+was a satellite. So many things are going by when 
+you're drifting that it's difficult to say. Geo­
+graphical--We saw millions of geographical details: 
+
+===== PDF PAGE 160 =====
+155ESt◄fJtlDEt◄ TIA f 
+rivers, lakes, oceans--
+Conrad I think all of that will come out in the experiments 
+too. We saw all kinds -
+Cooper Towns, airports, railroads, roads, and all that 
+stuff. 
+Conrad .Airplanes. 
+Cooper Airp-lanes . 
+Conrad .Anything you say, we saw at least one each. 
+Cooper I finally saw one and I nearly busted my rear end 
+doing it. 
+Conrad I saw the carrier. I saw an airliner. I saw con­
+trails. I saw individual houses up in Tibet. One 
+thing I didn't see for Gordo was a car. 
+Cooper I couldn't find him a car. He was sitting over there 
+asleep. I turned on the whole control system and 
+turned around to show him one. This was the only 
+one I could find during the whole stinking l ousy 
+trip. 
+Conrad We saw just about anything you would expect us to 
+see. 
+Cooper But there again I think you've got to have the con­
+trol system to point where you have your windows 
+right to make sightings. You just can't catch them 
+in drifting flight. 
+ee~~flOEt 'ITIAL 
+
+===== PDF PAGE 161 =====
+156 
+Conrad One day we went past El Paso and the lighting con­
+ditions were just right. You really coul d see the 
+individual streets in El Paso . You could distinguish 
+the streets but this wasn't always true. The l ight­
+ing conditions had to be right. One day we made a 
+pass over the United States and I could 3ee the 
+str eets, the airports, the lakes and eve:ry princi-
+ple town across the United States all on one orbit. 
+We started at Los Angel es, went to Phoenix to Tucson, 
+Abilene, White Sands, El Paso--
+Cooper You coul d see the details down there in Jlear Lake -
+Taylor Lake area--like you were flying over coming 
+in to land. 
+Conrad Dallas, Nashville, Memphis-­
+Cooper It was clear as a bell, 
+Conrad And when we went right out at Savannah and we were · 
+looking right down the pipe at Jacksonville, Florida. 
+You coul d see the bridges and the St. Johns R~ver 
+and everything . 
+Cooper When we came o~er. t~e Ca~e here you could see every 
+one of the launch pads. 
+Conrad I should have two 70-mm photograph s. I guarantee 
+you that I got a 70-mm photograph of the Cape one 
+day like nobody ever took before. If i t came out, 
+eet>tfl0ENTIM • 
+
+===== PDF PAGE 162 =====
+157 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper it was the clearest picture of the Cape. 
+Boy, that was beautiful. You coul d see every de­
+tail. You could see every causeway and every street, 
+everything that rode around the Cape, and buildings 
+all over the Cape. 
+All that was on the same day but it was another 
+orbit. 
+Celestial --
+Gosh, we coul d see seventh magnitude stars--
+Mercury never had a window. Our windows were filthy. 
+When we lifted off it just absolutely unforgiveable 
+how dirty they were. Yet there were many times the 
+magnitude of visibil ity the Mercury windows were. 
+We could see easil y seventh magnitude stars. Well, 
+in Orion we coul d see all seven stars in the belt 
+and we could see cl usters down the side of the leg.. 
+I've never seen those clusters before. I have seen 
+big bl owups of them, but you could definitely see 
+two good size cl usters. Celestial--We saw a lot of 
+planets and we saw the moon under all kinds of con­
+ditions. We saw the sun. We took Polaroid testings 
+on the sun. We ran the Polaroid fil ters at differ­
+ent angles. It looks to me like the sun has circul ar 
+• 
+
+===== PDF PAGE 163 =====
+158 
+polarization. I just can't find any linear defini­
+tion of it. When the sun is setting you can get 
+some linear polarity in a vertical plane, but other­
+wise I just can't see anything different one way 
+than the other. I took the filter out and rotated 
+it a number of times. I took the whole filter out. 
+We saw a Zodiacal light. We saw--
+Conrad Yes, we really did a couple of times--just could 
+see it where night vision was right. We had t he 
+lights out in cockpit and everything . Boy, you 
+coul d really-,:-
+Cooper Pete spotted an interesting phenomenon that he pointed 
+out one night that I had never seen before. It 
+looked like an Aurora. It was an Aurora type l ight 
+and it was a very bright green. It changed in color 
+and was in the airglow layer. It actuall y changed 
+the height of the airglow below. It brightened it 
+above where it --but below it, it seemed t o cut it 
+down and make it more definitive. Where it wasn't 
+it was kind of fuzzy along there and then where t his 
+glow was the airglow kind of jumped up and was sort 
+of chopped off very sharply. This was very bright. 
+I don't know what it was . It was apparently some 
+kind of a Aurora effect. We saw a lot of meteorite s 
+
+===== PDF PAGE 164 =====
+in Australia was a good example. Two different 
+days it was completely clobbered in where you 
+couldn't see anything on the ground in that imme­
+diate area. This point Rhir was clobbered in 
+one day. We were going to get an Apollo landmark 
+on it and it was just back in under the clouds in 
+fact. And Kano we were going to get a shot of 
+the Kano air field, wasn' t it? 
+Conrad Yes, that was clobbered . 
+Cooper Yes, it was clobbered, We got right up close to 
+i t and there were these low clouds hanging in 
+there just scattered to broken clouds and we 
+couldn't see. 
+Conrad Actually on the D-6 stuff most of the time the 
+experimenters were up on what was clobbered and 
+they didn't even bother to give it to us , or if 
+they gave it to us it became clobbered before we 
+got there. They usually were able to tell us that 
+it was going to be clobbered and then many times 
+they gave us that the weather was pretty good, 
+but there's three tenths cloud coverage so you 
+may or may not, It didn't bother us too much 
+around the coastal regions. 
+
+===== PDF PAGE 165 =====
+, 
+:, 
+.... 
+
+===== PDF PAGE 166 =====
+159 A 
+Cooper Cloud Coverage. We had varied cloud coverage 
+t hroughou t the flight . 
+Conrad Boy, I think we saw every phenomenon you could 
+think of with t he clouds. 
+Cooper Just about everyt hing you could t hink of. We saw 
+typhoons , and hurrican es , and--
+Conrad We saw well defined eyes in these tropical storms 
+and others without--with such ci rrus cover t hat you 
+couldn' t define an eye. We saw some of the most 
+fant asti c thunder st orms we have ever seen. 
+Cooper We saw hundreds and hundr eds and hundreds of miles 
+of t r ememdous big thunder storm lines with squall 
+lines going across it. 
+Conrad Near Sout h America. 
+Cooper Had at times as many as 15 to 20 thunderstorms 
+that were lighting up all at the same time. 
+Conrad I think I have some good 16 mm camera coverage of 
+t he thunderstorm lightning at night . 
+Cooper And these are--then we saw--then we had great 
+expanses over the same areas of excel lent weather, 
+clear weather. We saw a lot of dust storms 
+
+===== PDF PAGE 167 =====
+159 B 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper < 0~4'1Dcl~TIM • 
+in Arabia and Africa. 
+Yes . You could see those desert storms real clear-
+ly. 
+The wind picking up and moving the sand al ong. 
+Other days we saw the same areas just as clear with 
+no wind. Beaut iful weather. 
+It was interesting in those deserts to notice that 
+you could really pick up the prevailing wind t rails. 
+Yes. 
+You know from the sand flow. 
+The way the sand dunes were--
+And which as I sort of remember back e1omewhere 
+there was a lot of explanation about how the 
+whole desert moves , you know, and you could r eally 
+see these great --! mean for a hundred miles-­
+hundreds of miles you could pick out these great 
+obvi ous prevailing wind tracks in t he sand that 
+just stretched for hundreds of miles. 
+Yes . 
+And again t his was in Egypt and south of Egypt -­
+down in t hat area. 
+Well, you could actually see by the c1oud 
+format ion--was odd, too. The thing I noticed was, 
+
+===== PDF PAGE 168 =====
+Cooper 
+FCSD Rep 
+Cooper 
+FCSD Rep 159 C 
+you really could see the lower altitude prevailing 
+winds in the cirrus clouds or the lower altitude 
+stratus type cloud you all around and you really 
+could see the wind pattern and one thing that 
+really impressed me, was the--on cloud formations 
+low altitude cloud formations--up in the Himalayan 
+areas ,how t hat stratus-type cloud would hang--
+would just completely define the land shape. You'd 
+see it hang in the valleys and swirl right down 
+in the valleys and you'd see where the peaks 
+were, i t would puff and was quite definitive of 
+the land mass. And then coming in off the--
+you could see the prevailing wind direction in 
+the l ower altitude clouds . You could see the way 
+the wind would come in and you'd get the wind 
+shear where it would hit the mountain peaks 
+coming in off the desert areas there and it would 
+kick it up over the peak areas. 
+Okay. 
+Let me ask one question. 
+Okay. 
+Was ther e--as far as good pictures are concerned -­
+how many pictures did cloud coverage prevent you 
+
+===== PDF PAGE 169 =====
+159 D co•lE.-laEhtllAL ~ 
+from getting? 
+Cooper Oh, well, a great many. Some areas--well , just in 
+general let's just say that some areaB of the 
+country would be completely clobbered in and we'd be 
+traveling over an undercast for great long expanses 
+of hundreds and hundreds of miles , and anything ·, 
+that was in there would be--anything t o do with 
+any areas we desired to photograph in there whether 
+they were specified immediate areas 01· whether 
+they were just general pupose or S-5, S-6, were 
+not available for photography, and yet the next 
+day it might be wide open. The Himals.yas was 
+an ideal example of that too. For twc, different 
+days we traveled over that, you couldr..' t see 
+any of the craters or any of the ice flows or 
+anything due to the clouds . You could. see just 
+occasional areas and some of the lakee would be 
+open, so it was just heavy cloud cover-through 
+there for about a 2 day period and then it just 
+broke up wide open one day. Eut there were a great 
+many areas that there were cloud covered to the 
+point that you could not f i nd it. For instance, 
+the Carnarvon or I should say the woodly side 
+
+===== PDF PAGE 170 =====
+®@r ◄ r1~Tr~t 159 E• 
+in Australia was a good example. Two different 
+days it was completely clobbered in where you 
+couldn't see anything on the ground in that imme­
+diate area. This point Rhir was clobbered in 
+one day. We were going to get an Apollo landmark 
+on it and it was just back in under the clouds in 
+fact. And Kano we were going to get a shot of 
+the Kano air field, wasn't it? 
+Conrad Yes, that was clobbered . 
+Cooper Yes, it was clobbered. We got right up close to 
+it and there were these low cl ouds hanging in 
+there just scattered to broken clouds and we 
+couldn't see. 
+Conrad Actually on the D-6 stuff most of the time the 
+experimenters were up on what was clobbered and 
+they didn' t even bother to give it to us , or if 
+they gave it t o us it became clobbered before we 
+got there. They usually were able to tell us that 
+it was going t o be clobbered and then many times 
+they gave us that the weat her was pretty good, 
+but there 's three tenths cloud coverage so you 
+may or may not. It didn't bother us too much 
+around the coastal regions . 
+
+===== PDF PAGE 171 =====
+160 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper The carrier was the one thing that it really 
+bothered us on. Two different days on the carrier 
+shots doggone it you could see one day--for in­
+stance we saw the carrier wake and--
+But the sunlighting was such-­
+The sunlighting and the--
+You lose the wake and everything--
+And then the scattered clouds, too were such that 
+you were kind of hunting for him in and around the 
+scattered clouds and sunlight angle was low on it 
+and we lost him. 
+The day we got him there were clouds b~ck there 
+but gee we could see him for 500 miles out and we 
+never lost them. 
+Just the lighting conditions were ideal that day 
+and he was also out in kind of an open area in 
+t he clouds . 
+Okay, horizons. The horizons were of ~curse, as 
+usual, I t hink day and night were fairl;r well defined " 
+except as you come into the--as you go in out and 
+out of the terminator . Just at that p,~riod of time 
+where you're going into the light or out of the 
+light through the terminator it's a ve:-:y fuzzy 
+
+===== PDF PAGE 172 =====
+161 
+Conrad 
+Cooper 
+Conrad Cooper 
+Conrad 
+FCSD Rep ill-defined, odd area-­
+Yeah, looking down the sun. 
+Where you have no defined horizon at all. It's 
+very--a real messy situation. The only thing I 
+noted different about the horizons this time was 
+at one morning, at one sunrise, when we saw 
+those tremendous thunder heads out clear on the 
+horizon--you remember that? 
+Yes. 
+Where we saw the horizon well-defined and these 
+great big thunder heads with the handles on them 
+sitting up above the horizon. They were those 
+big thunder storms. I would guess that those 
+things must have gone well in excess of 50,000 feet 
+probably to be that well defined--clear out on 
+the horizon some 12 to 15 hundred miles away you 
+could see that profile of them. Do you have any­
+thing more on horizons? 
+No. 
+One thing we might mention here while we're 
+talking aoout these thunderstorms, you mentioned 
+before the l ighting in the spacecraft from this 
+lightning. 
+
+===== PDF PAGE 173 =====
+162 
+Conrad Yes, the lightning was bright enough io light the 
+shingles on the spacecraft. 
+Cooper You--the whole spacecraft could be li';. You would, 
+even through the polaroid windows--with the polaroid 
+windows down full dark,some of these cig thunder­
+storms were lighting the whole thing. 
+Conrad Well , I tell you we saw some lightning · like I 
+just never dreamed existed. I mean the lightning 
+bolts must have covered a hundred miles. 
+Cooper In general in this lightning- -
+Conrad Cloud to cloud 
+Cooper In the clouds , in this lightning, in general,these 
+clouds light up like they were a big puff of 
+cotton with a light bulb inside, and the 
+whole thing just lights up. But Pete md I both 
+saw several cases where we would see a thunderst0rm 
+a l ittle ways out in the distance , and I actually 
+saw air to ground lightning bolts come right out 
+of the clouds and right down just 11 cho,:,m". 
+Conrad There was one storm we looked at for t:1em in the 
+daytime where we saw air to ground lig,1tning in 
+the daytime--
+Cooper We saw lightning go all the way from t he edge of 
+e!Ol'If 10E~ITIAL~ 
+
+===== PDF PAGE 174 =====
+163 EiOt◄ Ftl?>et◄ TIAt 
+' 
+FCSD Rep 
+Conrad 
+Cooper 
+Conrad this big black cloud right down to the ground. 
+Very clear. 
+Another thing that was different that I noted 
+that was a little different than the usual type 
+of the whole big mass of clouds lighting up--
+one long series of thunderstorms, I noticed where 
+there was horizontal kind of a chain--horizontal 
+lightning going over and you'd see it sort of 
+travel along horizontally through the clouds like 
+it was moving from cloud to cloud rather than from 
+cloud to ground. 
+Okay, thruster firing. You could see every thruster 
+on the spacecraft fire in the middle of the night-­
+you could see the glow from it. 
+These aft firing thrusters too? 
+I don't know. I was just trying to think about 
+the aft firing ones and we were so busy everytime 
+we fired them that I wasn't aware of them. 
+I don't know. We had the lights up in the cockpit 
+when we were firing the aft -firing because we were 
+busy--
+It' s unfair to say without pulling the test, you 
+see, because when we were firing the aft firing 
+
+===== PDF PAGE 175 =====
+164 
+Cooper 
+Cooper 
+Conrad 
+FCSD Rep 
+Cooper 
+FCSD Rep 
+Conrad 
+Cooper 
+FCSD Rep 
+Conrad 
+Cooper 
+Conrad 
+Cooper thrusters, we were also firing attitude thrusters 
+and the attitude thrusters you could see all of 
+them. 
+I don't know whether you see the glo..;-off the aft 
+firing thruster or not . 
+You certainly can feel t hem firing. You can hear 
+them fire. 
+It's not annoying or anything . 
+Somewhere we ought to say here--you said you could 
+hear all the thrusters firing. 
+Every one of them. 
+Now, this is with the helmet on or off? 
+Off. 
+Off. 
+How about with it on at separation? 
+I bad the impression tbat at separati)n tbat I 
+could hear them firing. The aft thrunters with 
+the helmet on and tbat is--
+Yes, I did, too. 
+Simply because everybody said they couldn' t hear 
+them. 
+I thought I could hear the--
+
+===== PDF PAGE 176 =====
+165 
+Conrad 
+Cooper 
+" 
+FCSD Rep 
+Cooper 
+Conrad 
+Cooper 
+Conr ad 
+Cooper 
+Conrad 
+Cooper 
+FCSD Rep 
+Cooper 
+Conrad 
+Cooper There's no doubt in your mind that they are firing. 
+Yes. I think it's almost more a matter of--
+Did you fire t hem before you separated? 
+We fired them just as we separated . We hit SEP-­
+the spacecraft just as we--
+Gordo counted them down 1, 2 SEP and I hit the 
+SEP button and I don't know when he started firing. 
+I fired just as you hit SEP. 
+Yes. We came out clean as a whistle, I'll tell 
+you that boy. 
+We fired at the same second that we hit SEP. 
+There wasn't any pitch or yaw of anything --we 
+just separated as smooth as a bell. 
+And what I did, I--we held that on in there 
+in direct and then switched over to rate command 
+then a couple to 3 seconds later. 
+Okay, how about the--why don't you describe the 
+plumes a little bit here on the different thrusters 
+and what you saw. 
+Okay. Well, the only really-­
+You don' t see any plumes. 
+You don't see any plumes off the OAMS and all you 
+do is get the glow from them back there--you see 
+CO ►~EIDE ►4TIAL 
+
+===== PDF PAGE 177 =====
+166 
+the glow as they fire. 
+Conrad And it is pure white. 
+Cooper And--
+Conrad My recollection of i t --like white li€·ht glowing. 
+Cooper Of the RCS Plumes? 
+Conrad No , of t he OAMS . 
+Cooper Oh yes. The OAMS . The RCS had a little bit of a 
+golden color to them. 
+Conrad Yes. 
+Cooper And--
+Conrad Plus you see on t he RCS t hrusters you see little 
+bits of pieces of ablative material c)ming out 
+like carbon. 
+Cooper Yes. Right. 
+The RCS plumes tend to come out of th,3 nozzle 
+with a little bit of an expansion rat:lo and then 
+just to come out in almost a column that doesn't 
+change much. It just increases in si,;e. 
+Conrad Yes . I was surprised t hat it didn't expand out 
+this way. 
+Cooper Yes, I thought it would expand out. 
+Conrad But it just went straight up. 
+Cooper I very much thought it would fan completely out. 
+
+===== PDF PAGE 178 =====
+167~O►◄ t:IDfMflAL 
+Conrad Like a nice candle flame. 
+Cooper It just goes up in just a contained column almost -­
+in fact the column appeared t o me to be no bigger 
+around t han t hat saucer. 
+Conrad That 's right, if it was that round. 
+Cooper Some 4 to 5 inches maybe, in diameter at the most 
+and just went right st raight up for a period, 
+distance of about 4 to 5 feet I guess where it 
+faded, something like t hat. 
+Conrad Oh, I didn't really think it went that high. I 
+really didn't think the thing stuck up more t han 
+about a foot . That i t was visible light that would 
+bother you. 
+Cooper Well, it would bother you, but I could actually 
+detect when they would fire, I could actually see 
+from the pitch down--I could see t hat going almost 
+to the t op of the window on something on the order 
+of about a 4 foot dent where you could see any 
+line at all. I'm tal king about where it fades 
+you lmow completely . And it's act ually only a 
+couple of feet out from where the light is r eally 
+bright. 
+Conrad The t hing that I thought of when first I ever 
+co~~FIDEt~TJM: 

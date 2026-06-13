@@ -1,0 +1,1182 @@
+
+
+===== PDF PAGE 182 =====
+174 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt hit the scanner head. 
+It went right out again. It went out in 7 
+seconds like it was supposed to? 
+Hight . It was just a momentary light and 7 
+seconds later it was off again. Going back 
+around to the 180.degree position , we didn' t 
+get the scanner l ight again. Again in here, we 
+got a scanner ignore light when we were 
+faced right into the sun with the nose, and it 
+went out again and came on once more,and then 
+stayed out. 
+So, sequentially, we started with the blunt-end in­
+to the sun and started a yaw to the left . As 
+soon as we came around into the sun we got the 
+scanner ignore light, and it went out a short 
+time later. We came around right into the sun, 
+and at this time the scanner ignore light came on , 
+went out, and came back on again. Is that 
+correct? 
+Yes, and then finally stayed out. 
+And stayed out. Then we yawed back around till 
+1-,e were blunt-end to the sun again, and yawed 
+back into the sun ,and back around blunt-end to 
+the sun again, and we did not get any more 
+
+===== PDF PAGE 183 =====
+White 
+McDivitt 
+White 
+McDivitt 
+McDiv:i:tt 175 
+scanner ignore lights. The next step is the 
+Hoon Scanner Check. We did this with the 
+moonset and, Ed, you might add the time that we 
+did the Sun Scanner Check. 
+The Sun Scanner Check was at Greenwich Mean 
+Time of 11 :50, We ' 11 have to correlate that lat er·. 
+I think that we were supposed to be in the blunt-
+end to the sun configuration at 11:54 and star+-· ~bc-.re, 
+but I 'm not really sure about that . Okay, the moon 
+check was performed just about like t he sun 
+check. We started blunt-end to the moon and 
+made two cycles. Blunt-end t o small-end and back 
+to blunt-end, and small-end back to blunt end. 
+Ed , go ahead and read the data. 
+Okay. On the moonset , we started with the moon 
+quite high, so we had a good moon. We started 
+at 12: 17. We had no scanner ignore lights for 
+the first 180 degrees and,actually,throughout 
+the next cycle we had no llll'llocks or any lights 
+for two cycles. 
+So this was completely normal. 
+The Thrusters Check No. ; --we turned the 
+spacecraft , since the thruster f iring wouldn't 
+influence the orbit except to change it 
+
+===== PDF PAGE 184 =====
+176 
+White 
+McDivitt 
+White 
+McDivitt OO~~FIDEt-4TIAL 
+slightly , and we went ahead and fired t he 
+forward-firing t hrusters for 1 second. We 
+didn ' t get any change in our scanner ignore 
+light configuration . It was out and it stayed 
+out during the entire thruster check. So I 
+guess that it operated all right . We 'll 
+summarize all of our scanner comments at this 
+time. 
+You want me to read some of these? 
+Yes. Why don ' t you read off some of the comments 
+you have in there. 
+They' re in your writing. You might read the 
+first page and I ' ll read the second, since 
+theyI re in mine. 
+We went to Horizon Scan Mode of control for 
+about the last day of flight , and left it in that 
+mode just about until we retrofired . I 'd like 
+to read out some of the comments that I made here 
+as we lost the scanner, when we got the scanner 
+ignore light. At 16:03 Greenwich Time, or 
+atout 72 hours elapsed time , I turned on the 
+Horizon Scan Mode in about a 27degree nose down 
+attitude with a pitch up rate of about 2 degrees/ 
+second. The Horizon Scanner Mode added pulses 
+GO~~FIDE~~TIAt 
+
+===== PDF PAGE 185 =====
+177 
+to the pitch up rate and increased my rates to 
+something considerably above that , but then 
+as we came up into the Horizon Scanner Mode 
+dead.band , it started pulsing rapidly and 
+killed off this rather large pitch rate and held 
+the spacecraft right in this attitude . S~ we 
+had a very good acquisition of the mode from a 
+somewhat undesirable condit ion. At the first 
+sunset the scanners were pointed right at the 
+sun but did not break lock. We did not get 
+any scanner ignore lights at this time. Later 
+on, at 17:04, about an hour later at sunrise, 
+the scanner ignore l ight came on with the space­
+craft pointed in such a manner that the small end 
+of the spacecraft was pointed about 45 degrees 
+to the right of a line drawn directly between 
+the spacecraft and the sun. So that., essentia l ly, 
+the sun was shining on the horizon scanners at 
+about a 45-degrell angl e. The scanner ignore 
+lights stayed on for 10 or 15 seconds, and then 
+went out. There were no false pulses from the 
+jets at all. At 7:55, just at sunset , again in 
+about the same position, I was 45 degrees to the 
+right of a l ine drawn between the spacecraft and 
+J..Gt.qf:IDEt~JIAL 
+
+===== PDF PAGE 186 =====
+178 
+the sun. The scanner broke lock. We started 
+pulsing down for two or three pulses, then 
+stopped , but the scanner ignore light stayed on 
+longer than 7 seconds and then it went out . 
+We pulsed up one or two times to start 
+recovering from these initial two or three 
+pulses that started us down , and then the l i ght 
+came on again. It was only off for about 2 or 
+3 seconds, just a very short time. We were 
+at about 30 degrees pitch down at this time. We 
+then started pulsing pit ch-down rapidly with 
+the scanner ignore light on. We pitched down 
+and did a 360-degree maneuver in pitch; we 
+started just about horizontal, pitched down till 
+we were looking at the ground, continued pitching 
+down with respect to the spacecraft until we 
+were horizontal , upside down, now faceing 
+the opposite direction than we'd started, and 
+continued pitching down with respect to the 
+spacecraft . The small end ended up straight up 
+and we continued pitching down again until we 
+started coming back back down to the horizon. 
+did not at any time during this maneuver attempt 
+to control the spacecraft . The pitch-down I 
+
+===== PDF PAGE 187 =====
+White 179 
+thrusters continued to fire throughout t he 
+maneuver at intervals like there was indeed a 
+signal coming from the Horizon Scan Mode. As 
+the spacecraft started back down toward the 
+horizon, I thought sure that the horizon scanner 
+would catch the horizon, because at this time 
+the sun was no longer right on the horizon. 
+However, we developed a slight amount of roll 
+during the last 120 to 150 degrees of pitch, 
+and as we went down through the horizon, we were out 
+of limits in roll and Horizon Scan did not pick 
+up the horizon. I then took over the spacecraft 
+and maneuvered back to a position from which the 
+Horizon Scan Mode could r eacquire and -put it 
+in this condition. It stayed locked on. Ed has 
+a few notes here. We'll have him read his. 
+About the only notes that I ma.de on .the scanner 
+was that at sunset and sunrise it had a tendency 
+to break lock. I have a note her€ that at 22: 22, at 
+sunset with the sun right on the scanner, i .e. 
+90 degrees to the spacecraft , the scanner 
+broke lock three different times. At 22:58, at 
+sunrise, the scanner put in spurious inputs 
+but was abl e t o control and didn' t lose lock. 
+
+===== PDF PAGE 188 =====
+180 
+McDivitt 
+McDivitt Sunrise seemed to be the time at which t he 
+scanner had the largest tendency to br eak lock, 
+and if it didn' t break lock, it would at l east 
+put in spuri ous inputs which were obviously not 
+required other than due to the confusion factor 
+that the sunrise was causing on the scanner. 
+Again, I have one at 11 :58, at sunrise, the scanner 
+60 degrees to the sun, broke lock once and pul sed 
+quite a few t imes extraneously , but caught 
+itself and continued to track. I think on the 
+whole that the scanner worked real well . 
+So do I . As a matter of fact, I bel ieve in the 
+last 20 or 24 hours, however long we had the 
+Horizon Scan Mode on, that we only really lost 
+control of the spacecraft that one time, where we 
+did the pitching maneuver I've already discussed . 
+I think in every other instance , although it 
+pulsed needlessly two or three times at sunset if 
+the scanner was pointed toward the sun, it never 
+really lost lock and it certainly never l ost 
+control . The light would come on every now and 
+then, but it would --. 
+But, I don't think that the light came on more than 
+three or four times in those last 24 hours. 
+C8NFtDE~~TIAl 
+
+===== PDF PAGE 189 =====
+181 
+White No. They sure didn't 
+McDivitt And even though the light wasn't on, it seemed 
+like we would get an extraneous pulse every once 
+in awhile at sunrise or sunset. But I 
+thought that the Horizon Scan Mode worked very 
+well. It certainly proved to me that it was an 
+excellent attitude-hold mode, or pilot-re l ief 
+mode . 
+9.6 HF Transmission Reception Check 
+McDivitt I think that I 'd like to start out with No. 3 
+in this case . We received an update to start 
+and stop our checks and had no difficulty doing 
+this . I think that the transmission and recep­
+tion, No. 1 and No . 2 under this major heading, are 
+covered in our data book and I 'd like to have Fd 
+summarize them at this time. 
+White We ran a one day and one night-long test on it 
+in which we attempted to have all stations contact 
+us. The data in the book. I think the data will 
+point out that the HF is a rather unsatisfactory 
+mode of reception. It was difficult for us to 
+evaluate our transmission that ' l l have to be done 
+from the data from the stations. But as 
+far as reception was 
+
+===== PDF PAGE 190 =====
+182 60~~FIDE~~TIAL 
+concerned, we got a little bit during the night 
+and just about nothing during the day. We ran 
+also a sunrise and sunset check and we made the 
+long counts as indicated , and listened for any 
+return on all our HF tests from Thule and Elmendor f . 
+We could hear Elmendorf qalling us , but they were at 
+one time barely readable, and most of the time you 
+could hear somebody trying to call, but they 
+were very broken and difficult to read. More 
+detailed data is in the Flight Data Book. 
+9.7 Orbit Navigation Check 
+McDivitt Following the format in the debrief ing guide, I 
+think that the maps and overlays that we had 
+were excellent. I f elt that the concept was a 
+very good concept. It gave us a good check on 
+where we were throughout the flight as far as 
+accurate times went. We used at times the other 
+track charts that were printed before the flight. 
+We found that these were off some fair amount, 
+although they furnished good information also. 
+Once we had the time error that we could apply to 
+times listed on the map, we found that we were 
+able to use these quite well also. I think that 
+the map and t he overlays that we used in our 
+
+===== PDF PAGE 191 =====
+Orbit Navigation Checks was a very good scheme. 
+The control mode we used was Pulse, and the 
+timing was just the GMT timing we had in the 
+spacecraft. I 'd like to have Ed discuss a 
+little of the technique now. 
+White Actually we had a form in our book that we had 
+made up to make these tests, but I think it 
+became apparent to both of us as we came along 
+that this is a fairly simple thing to do. If 
+you want to just try to update your map without 
+having an update from the ground, it was 
+quite simple to point the spacecraft straight down 
+to the earth and get a point which you could 
+recognize on the ground., and actually plot this 
+right out on your orbit map. I think we could 
+probably make checks in this manner and update 
+our map almost as well as we could by having a 
+longitude and time called up from the ground. 
+I 'd like to make a comment right now that I 
+thought the little map that we had with the 
+orbit plot on it was very useful, but it 
+was weak in one respect; I was always wanting 
+more detail on what I was seeing doWlll there. 
+We,fortunately,carried a map with about two to 
+
+===== PDF PAGE 192 =====
+184 
+McDivitt 
+White three times the detail of the section cut out of a 
+Mercator Chart , which I found very useful . By prop­
+erly folding a map , I think I would prefer to have a 
+map of even higher detail with me. It didn't seem to 
+me to be a drawback to have a large map in the cockpit, 
+as long as you kept it gelded down in the proper 
+manner. Do you have any comments on that? 
+Well , I agree with lli. I thought that this was a 
+relatively simple task. I felt it would have been 
+much easier to do if we had the platform up so we 
+could point the spacecraft down using inertial ref­
+erence and using the platform, but it wasn't diffi­
+cult to do it just visually. It only took a short 
+time to plot up a couple of points and run back and 
+determin e your own ascending node. 
+You kn.ow, another thing that I found very interesting 
+was when they called up plot points and they' d give 
+you 30 degrees right, down 45 degrees . Even without 
+the platform , those meant a lot to me. I could 
+visualize very easily where I was going, whether I 
+was small-end-forward or blunt end forward. I could 
+visualize quite well, without a platform , 30 degrees 
+down and yaw 30 degrees over, looking for a point. 
+It seemed I could check points nearly as well wi th 
+COt'4FIDE~~TIAL 
+
+===== PDF PAGE 193 =====
+185 co~~FIDEl'JTIAL 
+or without the platform . It wasn't hard to orient. 
+McDivitt I think that's probably true . I do think that 
+this is a good scheme . I 'd like t o see us continue 
+it on future spacecraft . 
+White Yes. I'd take it again if I had 11\Y druthers. 
+What do you feel about a bigger map? 
+McDivitt I think for this kind of thing, this Crbit Navi­
+gation C.1eck, the map and the over.1ay we hud were 
+about the right size, but when we got around to 
+looking for things on the ground, I thought the 
+maps and charts we had were pretty inadequate. 
+I 'd like to see us get something with more 
+detail on i t , just the way Ed says, and I think 
+we will cover this in better detail when we get 
+over to the Apollo Landmark thing. 
+9.8 Relative Humidity Test 
+McDivitt Another operational check that I 1d like to discuss 
+at this time is the Relative Humidity Test that 
+we did during the flight. All data is in the data 
+book, but the thing that I 'd like to say most of 
+all is that the relative humidity was consider ­
+ably l ess than anyone had ever expected . The 
+cabin temperature was less than anyone had ever 
+expected, and although we were instructed to 
+CO~~FIDE~~TIAL 
+
+===== PDF PAGE 194 =====
+measure the cabin wall temperature with a thermistor 
+that was on the end of our relative humidity gage, 
+I found that this was pretty difficult to do since 
+they'd covered the entire inside of the spacecraft 
+with the sponge rubber.. We couldn't find a good 
+place where there was just bare metal. I took some 
+measurements on t he inside of the left-hand side 
+food box. I took one or t wo readings off of the 
+metal frame that went around the window. Those 
+are the only t wo places I was really able to 
+contact spacecraft metal. Do you have anything 
+else that you want to add to that , Ed? 
+White No, t he data is pretty well laid out in the data 
+book. I don' t think there is anything else. It 
+did surprise me, and it was a very pleasant sur­
+prise because I was interested in taking my 
+gloves off and putting my visor up. .I sure 
+did as soon as I found out it wasn' t ·going to get wet. 
+9,9 Zodiacal Light Check 
+McDivitt I 'd like to have Ed describe this. 
+White Okay. We did this one on the fourth day at 22:42 
+Zebra, and i t was one on which procedures were 
+called up, What they wanted to do was find out 
+if the thrusters firing could cause any inter-
+
+===== PDF PAGE 195 =====
+187 
+ference on some zodiacal l ight photography that 
+was planned on later flights. The first test 
+was to pitch straight down toward the earth, 
+open the shutter on the Contarex camera ind 
+actuate the pitch-up with the shutter open. Then we'd 
+take another picture and actuall y open the 
+shutter again and activate the pitch-down thrusters, 
+to see if these two thrusters would cause some 
+type of light interf erence to the photography . 
+On the pitch-down part of the phase, we waited 
+till the moon had set, and as we were pointed 
+down toward the earth, we came upon an area fa±rly 
+~i ear of clouds. But,unfortunately,there were 
+a few soattered lights from homes or cities down 
+bel ow us, which might have caused some 
+interferenc e. I don' t think so. They were 
+very, very scattered. The pitch-down test 
+was satisfactory . The next one was the one in 
+which we were actually level with the horizon. 
+Again, Jim opened the shutter, I actuated a 
+pitch-up, and closed the shutter. He 
+opened it again, I actuated a pitch-down thruster , 
+-·• .j. and he closed the shutter. It was a pretty 
+simple test. We took four pictures . 
+
+===== PDF PAGE 196 =====
+188 ~◄ FIDEt'~TIAL 
+10.1 Countdown 
+McDivitt 
+White 
+10.2 Powered Flight 
+McDivitt 10.0 VISUAL SIGHTINGS 
+During the countdown the visual sighting I had 
+was a multitude of wasps sitting on the Rand R 
+section and crawling all over the windows. Aside 
+from that, the sky was clear and I didn' t see 
+anything else except the gantry going up and down. 
+That ' s about it. It appeared to me the wasps were 
+somewhat confused. They felt that the RCS 
+nozzle was a very large beehive for them. 
+The first topic is lift-aff . At lift-off I was 
+looking at the instruments and didn1t -see a 
+thing. I think Ed1s got something here. 
+White From the lifk-!£-- I cou1d actually feel when we 
+lifted off --the vibrations decreased a great 
+dea1 
+McDivitt 
+White What about visual sightings? 
+1 111 get to that. As we started to move, I felt 
+I could see the relative motion. We had a clear 
+blue sky above us; there werentt any clouds, 
+but I could see the motion in the sky. I could 
+also, as soon as the roll program started, 
+EO~~FIDE~~TIAt 
+
+===== PDF PAGE 197 =====
+•189 
+McDivitt 
+White 
+McDivitt definitely see the rotation of the booster and 
+spacecraft combination. As we continued on up, 
+I was watching within the spacecraft and outside, 
+also. I could see the pitch program initiated . 
+I could hear Jim call it out, and I could 
+actually see it on my instruments and also see 
+it out the window. BECO's the next topic. 
+Why don't you go through that . I think I just 
+looked out one time to see the horizon for just 
+a second. Why don ' t you go through the rest of 
+those there and read them off? 
+Okay, at BECO I was looking in also. I was 
+waiting for the staging and I had my attention 
+inside, and I didn't see the big sheet ·of • 
+flame that John and Gus described coming from 
+around the separation of the first stage. So, 
+there wasn't anything other than the.normal feel­
+ing of the separation. As far as :'visual aight­
+ingt-were concerned, I didn' t see anything else 
+at staging. As we started to nose over, I saw 
+the horizon coming up and I called that out to 
+Jim. 
+I think that might have been ~hen I looked out, 
+Ibut Im not really sure I could see anything at 
+COt-4FIDE~ ◄ TIAL 
+
+===== PDF PAGE 198 =====
+190 
+White 
+McDivitt 
+White 
+White 
+McDivitt 
+White the time. 
+I had to say something . It is quite an impressive 
+view when you're up there--the very the first 
+time you look out and you see it. I looked out 
+and all I could see was the horizon and the 
+blue down below us. You probably couldn't, 
+because as I think of it now, we were on the 
+side. I could see the horizon and you couldn't. 
+All you could see was the sky. 
+Right. 
+So I could see a little of both. I could see the 
+clouds, the water, and the whole smear. The 
+first time I saw that out the window I called 
+that out to Jim, and it was quite an exciting 
+view. 
+Engine No. 2 ignition- -I didn't see anything 
+that had to do with lighting the second engine 
+off. The horizon view, I just discussed . At 
+SECO, there was a lot of debris going by. 
+That was at spacecraft sep, wasn't it, rather 
+than SEGO? 
+You1',re right. You're absolutely right. At 
+SEGO, I didn't see anything other than that 
+the acceleration profile went down to zero. At 
+COl'JrlDE~~TlAL 
+
+===== PDF PAGE 199 =====
+191' 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+10,3 Orbital Flight 
+White spacecraft separation I think Jim and I both 
+noticed a lot of stuff coming by the spacecraft. 
+Right. 
+Just plain debris was all it was. Just 
+pieces of whi te junk came by. 
+Probably little bitty pieces of the adapter there. 
+In fact , when I got out and looked later on at 
+the spacecraft separation plane, there were pieces 
+of the same kind of white stuff still 
+back there attached jaggedly to the adapter 
+section. Fairing jettison --I couldn't see 
+that . Did you see anything on the fairing 
+jettison? 
+When I jettisoned the fairings , I saw the 
+Ihorizon scanner fairing go whipping off, but I 
+couldn't l ! ok at it and the nose fairing both. 
+S~ I only saw the one go, but there were some 
+more pieces flying all over the place, and they 
+went just as soon as I punched the .Fairing­
+Jettison Bitton. 
+Boy! We've been talking about these things for 
+t he last ten days . 
+The f irst one is geographical. 
+
+===== PDF PAGE 200 =====
+McDivitt 
+White EO~~FIDEl>-JT.IA L... 
+Yes. Geographical . We could see wakes of 
+ships. We could see roads. We could see towns. 
+Although I never saw any individual houses, I 
+could see an industrial area with what looked 
+like oil tanks and a few other things. We could 
+see canals very well. We could see the Suez 
+canal very well from the air. I don't think I 
+ever saw an individual ship. I never saw any 
+individual cars or airplanes, but you could see 
+runways very well. But the thing that you could 
+see best of all were long lines. I'm sure that 
+if you had a road that was 50 feet wide, or 
+however wide you make roads, and it was long, 
+you could see it. Whereas, if you had the same 
+thing and it was just a square down there,I 
+doubt very seriously that you could see it unless 
+you were looking for it,specifically . 
+I think perhaps also there is the contrast between 
+the colors. The things that I saw with very high 
+clarity were runways. As you looked d~un at the 
+runways you caught a high contrast between the 
+green or the brown, or whatever the color that 
+it was laid out in. You could see it very 
+clearly. I was impressed by how clear you could 
+
+===== PDF PAGE 201 =====
+J 193 
+McDivitt 
+White 
+McDivitt 
+White see things. They were small; there ' s no question 
+that things don' t get any bigger when you're 
+looking down at them, but in my opinion things 
+were much clearer. I could see with a higher 
+detail than I could when I fly over in a normal 
+airplane,as far as the object itself being 
+clearly defined. I also noticed this at night 
+when I looked down on it. In the clear stretches 
+the city lights were much finer defined than the 
+lights are in a city when you're flying over at 
+40 000 feet. Things are small but have a much 
+higher definition. I think it would be 
+interesting to find out in-mu-photographs the 
+degree of resolution that you have. I feel that 
+the resolution , if you have the proper contrast, 
+would go down to 50 feet or below. 
+Yes. I 'd agree with you there. Geographically, 
+there were just so many things that we could see. 
+I think that we took pictures of most of the 
+things that we thought would be interesting . 
+I 'm dying to look at those pictures. 
+Me, too! 
+I agree with Jim that if you look at a city, 
+particularly if you look at a city in a desert 
+~ ~~◄ FJD.E~JTIAL --...,...__ 
+
+===== PDF PAGE 202 =====
+194 
+McDivitt 
+White 
+McDivitt area where the houses are brown and the 
+surrounding terrain is bro~m, everything ' s kind 
+of small and it all blends together . Unless 
+there was some type of contrast between them, 
+it' s pretty darned hard to pick up a city right 
+out in the middle of the desert. We had 
+trouble when we came to El Paso in finding it, 
+and Cairo blended right in with 
+--blended right in with everything . You could 
+see the air}!urt at Cairo--I 'm not sure if 
+I ever did really see the city. 
+I think I could. When I was looking in that 
+area at Jaffa, as soon as I saw that airfield 
+out there and was concentrating on looking at 
+it, I saw more detail. 
+Yes. The thing of it all is that,geographically, 
+you have to have a real large feature to be able 
+to see it very far out in front of you, like the Red 
+Sea. Now when I was trying to find Cairo 
+one 1;ime, I looked out I was having trouble 
+finding the Red Sea. Pretty soon I found the Red Sea 
+about 30 degrees below the horizon or maybe a 
+little more. As I got closer, of course, the 
+Red Sea stood out very well. As we get closer 
+iK FIDE~~TlAL 
+
+===== PDF PAGE 203 =====
+195 
+White 
+McDivitt 
+White 
+McDivitt 
+White and closer and closer, these things really star t 
+standing out, but when you' re looking from up 
+around 125 or 150 miles , and you're out 60 degrees, 
+you' re a long way from your target. It's just 
+that you can' t see that far through all that 
+atmosphere, I guess . 
+I think one more comment on the geographical is 
+that I think we're really going to see some things 
+down there when we get some type of magnification. 
+Yes, a telescope is what you really need. 
+If you can get some kind of telescope to help, I 
+think we can really see something. I wonder if 
+there isn' t some way that, while we know we can't 
+carry some things inside the spacecraft , we can 
+work with something outside the spacecraft --
+camera equipment or some kind of optical equipment . 
+that we might be able to have mounted on the out­
+side. We can store it somewhere and mount it on 
+the outside after we get up there--mount a 
+telescope right through, with the eyepiece on the 
+inside. 
+Boy that would be great! Wouldn't it? 
+And then when it comes time to come in, you just 
+punch the thing off and forget about it. But 
+
+===== PDF PAGE 204 =====
+196 
+McDivitt while you' re up there you' ve got this thing with 
+the long eyepiece . I think we can do this with 
+EVA. Stow the thing back in the adapter, go back 
+and get it mounted up, get back in, and you' ve 
+got yourself just about as long a telescope as 
+you'd want to put up there. Same way with 
+cameras. I think you can take cameras up. We 
+can take some of these big cameras that we ' ve been 
+wanting to use.. We can have a sighting device so that 
+we can mount this thing on the outside of the 
+spacecraft after we get up there,and then point 
+it with a pointing device at the ground and get 
+some of these pictures that we ' ve been wanting 
+to take. I think we've got some possibilities 
+there. 
+Okay. Celestial . I think in the nighttime you 
+can see the stars without any difficulty . In the 
+daytime you just can' t see the stars if there' s 
+any sunlight whatsoever on the window, or if the 
+nose of the spacecraft is in the sunlight , or if 
+the horizon is in the sunl ight, or if some of the 
+earth is in the window. I think all these things 
+tend to limit your night vision. They create 
+c_Q~~FID£:hlIIAL 
+
+===== PDF PAGE 205 =====
+197 
+White 
+McDivitt an optical barrier, practically, between you and 
+the stars. The difference between the day sky 
+up in orbit and the day sky here is, as far as 
+we were concerned, was practically nil, because those 
+just weren' t any stars visible. It didn't have 
+anything to do with the atmosphere; it just had 
+to do with t he optics of our window and the 
+nose being shiny. We couldn't see any more stars 
+in orbit than we could here in the daylight, but 
+it wasn' t because of the atmosphere up there. 
+It was just because we had that coating on the 
+window that reflected the sunlight,and because 
+the nose reflected sunlight into the windows, and 
+t he same thing with the horizon or the ground . 
+When it was lit up, it reflected light into the 
+windows. Actually , you had to get that window 
+in total darkness almost before you were able to 
+see anything . 
+Pull the shades. 
+Pull the shades. And then when you did that , you 
+were able to see some stars. On a few occasions 
+when I got the spacecraft into this particular 
+attitude, I was able to see some stars in the 
+
+===== PDF PAGE 206 =====
+198 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt daylight. How about you, Ed? Were you able to 
+see any stars? 
+Yes. I called them out a few times. You did 
+have to maneuver just,as carefully--
+That ' s right . You had to be just exactly in the 
+right spot. 
+Let ' s go into the magnitude of the stars. We 
+had set ourselves with the Corona Australis 
+as a kind of calibrator for us, and this was 
+composed primarily of fifth order stars. That 
+was very clear, and I could see without a:ny 
+difficulty stars of lower magnitude 
+than that. I could see, without question , stars 
+to the seventh magnitude. 
+And that ' s exactly the same magnitude I would 
+guess. You could probably see th~m down to a 
+magnitude of seven. 
+Now, another thing, though, was that the sky 
+wasn ' t any more f ull of stars to me there than 
+it is when I 'm flying at about 40 000 feet 
+on a real dark night. 
+No, as a matter of fact, it didn't really seem to 
+be as full of stars. 
+co~~FIDE~ffiAL 
+
+===== PDF PAGE 207 =====
+199 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White No. On the night when we were flying with that 
+eclipse of the moon, I saw more stars than 
+I ' ve ever seen in the sky. 
+Yes, and as a matter of fact, I wouldn' t doubt 
+that we could go out here and fly tonight 
+and see seventh order stars. 
+I bet we could see lower than that. 
+That ' s right. What I 'm leading up to say is 
+that I don' t think we could see as many stars i n 
+orbit as we could flying around in an airplane 
+at 40 or 45 000 feet. 
+That ' s exactly my conclusion a.J:so. You could 
+see down to the seventh order stars. 
+Yes, and I think the reason for this is the 
+coating on the windows, don't you? 
+I think so. I felt like there was just a little 
+shield of what I was really seeing. 
+If we'd just gotten that coating off, we'd have 
+been in great shape. 
+I also noticed a tremendous difference if I 
+turned those lights off in the cockpit. It was 
+just like turning those stars on on the outside, 
+and I don ' t think we should take those red lights 
+out. 
+C¼MftDE~~TIAb 
+
+===== PDF PAGE 208 =====
+200 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White €Ot'4FIDE~~TIAL 
+No. I don't think so either. You know, the 
+thing that did look brighter to me was that 
+planet right over by the sun. When the sun set, 
+that planet would really stand out. 
+I noticed another thing on the planete, I didn't 
+notice--which one is in Leo now? 
+I don' t know. 
+It' s Mars. Mars is around Leo now, and it 
+didn' t look as orange. To me it looked roughly 
+the same color as Venus did, and remember I 
+remarked on that up there, which is a very 
+interesting thing now. I presumed that the 
+color should stay the same. 
+I didn't notice any difference between it up 
+there and here on the gTOund. 
+It didn't have to me the characteristic orange 
+color that it has when I look at it from down 
+here. It looks more like a regular old--
+A regular old star, huh? 
+No, it looked likr the planets, and remember I 
+remarked on that. 
+I think you did, now that you mention it. 
+And we probably went on doing somethi.ng else and 
+forgot about it. Let ' s talk about the air glow. 
+co~,FIDE ►~TIAY 
+
+===== PDF PAGE 209 =====
+201 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt Why don' t I discuss t hat thing that I saw those 
+two times at night. 
+Yes, I saw it too, so you weren't seeing things. 
+This phenomenon occurred in the dark and I think it 
+\./a.S near Austra.l.ia., each t.iine, but I 1m not really 
+sure. We 've got it recorded on the voice tape,so 
+we can go back to the voice tape and see where 
+it was. They were just paral l el running lines 
+of lights radiating from the earth up toward 
+us but at a distance away, and i t sort of 
+looked like a curtain. All of these lights 
+rays seemed to be sort of parallel to each 
+other. They looked a lot like the Aurora 
+Borealis, except that they were down below us and 
+they were coming up toward us. The first one 
+we saw was considerably brighter than t he 
+second one and i t was sort of wiggly. It 
+probably had five or six curves in it, at least, 
+and I thought it went like this a couple of times, 
+and was bent up around like this. 
+How about in the air glow layer? 
+Was it in the air glow layer? No. I don't 
+think it was in the air glow layer. It looked 
+like it was down underneath --it looked like it 
+Cilt-lFIDEt;JIAL . 
+
+===== PDF PAGE 210 =====
+202 
+White 
+McDivitt 
+McDivitt 
+White was right over land and was considerably closer 
+to us than the horizon was. It was, maybe, 
+half-way between us and the horizon. I got the 
+impression that it was a lot closer to us and 
+it was definitely not in the airglow layer. 
+Both times I had this impression . It l ooked 
+like it was coming up out of some clouds. I 
+could see the clouds down on the ground, and I 
+had the impression that this was coming out of 
+them, but it only got to an altitude of maybe 
+half of ours. That would be up to 50 or 60 
+miles. This is the impression I got . I took 
+some pictures of it too, didn't I? 
+I had the feeling that the first time you took 
+it you had the wrong setting. You had about 250· 
+at an f11. I don't know what you did the 
+second time. 
+I don't remember, either. 
+This thing was in motion, too. It wasn' t a 
+stationary thing. It continued to move the way 
+the lights on neon signs do. It was wiggling 
+back and forth . 
+When it came around over toward my side it was .,to 
+me, closer to the horizon, and it looked more 
+<!tlP-ifFIDE ►~TtAt ~ 
+
+===== PDF PAGE 211 =====
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 203 .CO~~FIDE~~TIAL 
+like it -was below and in the air glow. 
+It looked like it was in the air glow to you? When 
+I saw it, it definitely wasn't in the air glow. It 
+was a lot closer to me. 
+Of course, it started on your side and you talked 
+about it for 3" • or 4 minutes or so. Then as 
+we drifted around, it went over, I guess, to my 
+side. It was irregular shaped and it was out 
+toward the air glow layer. 
+Well, the second time it was a lot less bright. 
+Are we going to talk about the air glow layer now? 
+Okay. We' re going to talk about the air glow layer, 
+but it comes under "horizon". Let's talk about 
+that under "horizon". 
+Okay. 
+Do we have any other celestial observations? The 
+fire flies that we had around the spacecraft con­
+tinua.lly--Sometimes you'd be able to look out and only 
+see one, and you couldn't see them too well at all 
+at times. You could see them in the daylight occa­
+sionally, but I don't think you could ever see them 
+at night. But the place where you could really see 
+them was at sunrise and sundown, because here you 
+had a black background of the sky a.nd you had the 
+GQ~~ElDE ►-~TIAL 
+• -'.1 
+
+===== PDF PAGE 212 =====
+204 GOl>~FIDE~~TIAL 
+White 
+McDivitt 
+White 
+McDivitt sun shining on them. 
+They picked the sun up. 
+They picked the sun up and reflected the rays. They 
+reflected them just as bright as stars, I thought. 
+Didn ' t they ! Well, you know the thing that was most 
+interesting to me was the time I called you and said 
+the sky was full of stars, and you said it wasn't , 
+the sky. We were pointing down at the earth. That 
+was my first exposure to having your window in the 
+daylight and mine in the dark. At this time we had 
+al l the fuel particles from the fuel from the boosters 
+spewing out all over, and my whole view out t he win­
+dow was just completely full of these reflecting 
+particles . They looked kind of like one of the star 
+fields we had past off on us as star fields. It 
+looked kind of like a star field, but it looked 
+kind of unreal, too. That's exactly what it was. 
+One of the prettiest things was when. we had a urine 
+dump at eunset,because we just had mil lions and 
+millions and millions of these fireflies or particles 
+outside. When you put them all out like that with 
+the sun shining on them,as we 'd mentioned earlier · 
+with the black background, it just l ooked marvelous. 
+As a matter of fact, we took some movies of them·,. 
+E..-01RFIDE~~TIAE 
+
+===== PDF PAGE 213 =====
+205 
+White 
+McDivitt 
+White 
+McDivitt 
+White and I think we might have taken some stills, 
+but I'm not sure. 
+I hope it came out. 
+Yes , it was r eally spectacular ! So we could 
+just about make our own stars when we wanted to. 
+Is that all on celestial? 
+That ' s all I can think of, Jim. 
+I couldn't see the zodiacal lights. I couldn't 
+see the r~genschein and I could not see the burst 
+of zodj acal lights that you get just as the sun 
+sets. Go ahead, Ed. 
+Okay. I saw one during the last few sunrises . 
+I watched the sun very carefully . trom the time 
+it first started to come up till it finally 
+popped up , I was looking all the time for that 
+shoot of light that 's supposed to come up just 
+before the sun pops up. Well , I could never 
+see that . All I could see was the glow as it 
+came up and a very rapid rise as the sun did come 
+up. There 's something that I did see that was 
+quite interesting to me. Several minutes before 
+the sun came up there would be a shaft of light 
+that would shoot up, and I watched it on two 
+
+===== PDF PAGE 214 =====
+206 cer~FI 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt different occasions. It was during your last 
+sleep. I was taking a few final movies and I was 
+watching for this very phenomenan. It was the 
+first time I saw it. It would be a little shaft 
+of white illumination and it was a long time be­
+fore the sun came up. I don't know whether that's 
+what they were seeing before or not . But when the 
+sun itself actually came up, I didn't get much of 
+a big ball of light--just some big, bright lights 
+coming up from behind the earth. 
+That's all I was getting. I didn't see this other 
+thing. 
+I saw quite a few shooting stars. 
+Oh, yes. 
+They seemed to fall and burn up considerably below 
+our altitude. They looked a half or a third as 
+high as we were when they were actually being 
+consumed and being burned up. I never saw one 
+above us , did you? 
+No . 
+Okay cloud coverage--
+There was a lot of it. 
+There was lots of it. There were a lot of times 
+when there wasn't any. I don't guess there's much 
+we can sal about this . 
+co~~IDE~~TJAL 
+_J 
+
+===== PDF PAGE 215 =====
+207 
+White 
+McDivitt I think we took some good pictures of the clouds. 
+Yes. Well, throughout the four days we had 
+cloud coverage over things we wanted to take 
+pictures of. Other times we didn't have any at 
+all. It was a variable thing, and w.e just got 
+a lot of good cloud pictures, I hope. 
+Horizons. Well, at night there was a definite 
+dark horizon, which I assume is the earth's 
+horizon. And then there' s a dim band, and then 
+above that there's a br ight band that is much 
+narrower than the dim band, and above that it is 
+clear, and then nothing. I guess there are 
+really three horizons. There's the top of what 
+I think is the earth. There's a top of the dim 
+band, and then there' s a top of the bright band. 
+In the daylight you don't see these dim and bright 
+bands. It's just a gradual decreasing in 
+intensity of light. It starts out with a very 
+light blue at the horizon and just gradually 
+goes out to the dark blue, and it finally just 
+goes t o black. Right at sundown,if you're 
+pointing 90 degrees to wher e the sun is, you 
+can see the light blue of the day sky coming 
+
+===== PDF PAGE 216 =====
+208 
+McDivitt 
+White GQ► •fiJDEN l -JA k~ 
+down. lt's much, much higher than the air 
+glow that you see at night . 
+If you're looking over at the daylight side, it 
+looks l i ke the light tl..:ie, goes up probably 
+three times as high as the air glow does. What 
+do you think about that? 
+Let me go into my impressions of the air glow in 
+the evening. I saw the same thing you did, of 
+course, and it looked like to me that the dark 
+part was roughly t wo or three times as thick 
+as the lighter air glow layer below it. We 
+were both impressed with the phenomenon of the 
+apparent rise in the air glow as you go from the 
+daylight to the dark, and as soon as you get out 
+in full daylight, the earth's layer is all gone. 
+But as you transition between the daylight and 
+the dark, you see the layer start out and narrow 
+down to what you see as you get into the dark 
+side as the air glow layer. And when you 
+initially get into the dark area, the air glow 
+seems to disappear for a moment, and then the air 
+glow layer pops out when you get into full dark, , 
+very clearly. 
+
+===== PDF PAGE 217 =====
+209 
+McDi vitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White I agree. Okay. Do you have anything else? 
+That horizon isn't very good on the daylight side, 
+either. 
+No, the horizon isn't very good on the daylight side. 
+The horizon's not very good anywhere, really. 
+We ' ll go more into that on D-9. 
+You could see the lights of the attitude thrusters, 
+and it didn't seem to make any difference which ones 
+you were firing at night. They weren't blinding 
+by any stretch of the imagination. 
+They looked like lightening maybe. Little flashes ·. 
+The attitude thrusters lit up the sky a little 
+but not a great amount. They weren't blinding either. 
+Not much to say about that. Okay. I want you to 
+discuss '·adapter separation that you saw. 
+Okay. On the adapter separation, Jim and I agreed 
+to separate the electric and the OAMS, and then 
+pause between the adapter separation so that we 
+could dwell a little bit on the separation and 
+absorb as much as we could about it. When it did 
+separate, we got a very clean feeling of separation 
+between the t wo and a very definite feeling that 
+the adapter and the spacecraft had separated . 
+There wasn' t much question in my mind. Was there 
+much in yours, Jim? ~ ..i-O~~FIDE~fftAt •• 
+
+===== PDF PAGE 218 =====
+210 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White CQ~◄ FIDEt~TIAL 
+No, not at all. 
+There were a few pieces that came around from it, 
+but not as much as there was at spacecraft separ­
+ation after insertion . Did you see anything? 
+No . I didn ' t see anything off the adapter. 
+All right . 
+The equipment adapter. I just saw it off of the 
+retro adapter. 
+Why don't you go to retrofire then? 
+Okay. 
+Do you have anything else on the adapter separ ation? 
+No, I don't think so. 
+I was impressed with the cleanness in the feel , 
+and I didn' t even want to look around . I 
+just happened to be looking over at Jim' s window at 
+that time , and, as I said, I could see pieces 
+go around , and I could especially see pieces 
+to this side. What I saw looked like a 
+mount with two round things on it. I had been 
+briefed on this thing by John Young and he 
+said it looked like two pump packages . So, 
+I said it looked l i ke two pump packages , too . 
+Looked like just what I expected it to. 
+And there was lots of debris around it as it whistled. 
+
+===== PDF PAGE 219 =====
+211 
+McDivitt 
+White 
+McDivitt 
+White off to the side, and then it went out of my view. 
+Okay. On retrofire there weren't any sightings 
+to observe. Did you see anything outside, F.d? Did 
+you see any flames or anything like '. that? 
+No, I didn't. 
+I don't think there was much there. The retro pack 
+jettison --we didn't see it jettison, but shortly after 
+that we had rolled upside down and we were flying in, 
+and I saw the retro adapter floating around on the 
+left side. It had turned around so that it was small­
+end-forward rather than blunt-end-forward. You could 
+see the whip antenna sticking out the side, the four 
+retrorockets, cross-beams, and the plumbing around 
+the edges. It was quite a sight. It drifted out 
+behind us until it got out a couple or 300 feet. It 
+started glowing a little on the leading edge. It 
+started fading farther and farther behind us as we 
+reentered. It finally went from a dull glow to a 
+bright one, and finally you could see the leading 
+edge of it eroding away. Finally, it vre.s just a 
+ball of flame back there. 
+I thought that was quite a sight, too. It kind 
+of set the modus for our reentry, of observing 
+
+===== PDF PAGE 220 =====
+212 
+McDivitt 
+White 
+McDivitt 
+White very interesting things all the way down , 
+including ourselves . 
+We didn't observe anything in particular that 
+happened at 400 000 feet. The ionization · was 
+where we really started picking up the fire. 
+I think we kind of timed that with what you 
+were talking about the retro adapter up there . 
+You said, "Hey, look at it starting to burn.: 11 , 
+and about that time we were starting to throw 
+a sheath around us to. 
+That 's right. It looked l ike to me that it 
+went from pink to orange and then went out to 
+a reddish-orange, and then in the midst of the 
+reddish-orange you could see little tongues of 
+green occasionally . It was quite pretty. 
+I think another thing about it too is that there 
+wasn't as much of it as I thought there would 
+be. I can't say that I was disappointed in not 
+seeing more fire, but when I first heard about 
+John ·Glenn's reentry, I envisioned 
+more fire coming out . In this case you might 
+call it just a sheath. 
+That's right. There wasn't a big blaze,by a McDivitt 
+C0~51FIDE~JIAL 

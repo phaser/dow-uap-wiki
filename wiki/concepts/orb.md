@@ -1,10 +1,10 @@
 ---
 title: "Orb"
 type: concept
-tags: [terminology, dow, aaro, 2020s]
+tags: [terminology, dow, aaro, fbi, 2020s]
 created: 2026-05-08
-updated: 2026-05-08
-sources: ["raw/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf", "raw/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf"]
+updated: 2026-06-13
+sources: ["raw/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf", "raw/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf", "raw/fbi-uap-d004-fd-1057-02-northeastern-us-2024.pdf", "raw/fbi-uap-d009-fd-302-67-northeastern-orb-sighting-2026.pdf"]
 confidence: high
 ---
 
@@ -24,6 +24,10 @@ confidence: high
 
 - **Gulf of Aden, September 2020** — 172 ATKS MQ-9 round IR-cold orbs with abrupt directional changes; see [[summaries/dow-uap-d57-mission-report-gulf-of-aden-september-2020]]
 - **Arabian Sea, October 2020** — range-fouler IR-cold orb; see [[summaries/dow-uap-d44-range-fouler-arabian-sea-october-2020]]
+- **Colorado Springs, February 2022** — Bean-shaped/oval white orb with polygon ridge surface pattern; 5 Army soldier witnesses; see [[entities/cheyenne-mountain-uap-2022]]
+- **Northeastern US, November 2021–October 2024** — Recurrent "plasma orbs" observed by civilian witness, captured on video, correlated with gamma radiation spikes and electronic anomalies; FBI agents directly observed similar phenomena during site visits; see [[summaries/fbi-uap-d004-northeastern-us-2024]] through [[summaries/fbi-uap-d008-northeastern-us-2024]]
+- **Northeastern US, 2025–2026** — Paired red orbs with central "white plasma sun," ~1 m diameter, merging behavior; see [[summaries/fbi-uap-d009-northeastern-orb-2026]] and [[summaries/fbi-uap-d010-northeastern-orb-2026]]
+- **Western US, 2025** — Orange/red orbs launching smaller orbs, 12–18 m "Fiery Orb," near-helicopter encounter; see [[entities/western-us-helicopter-orb-2025]] and [[summaries/western-us-event-slides-2026-05-08]]
 
 ## Related Concepts
 
@@ -37,3 +41,6 @@ confidence: high
 
 - `raw/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf`
 - `raw/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf`
+- `raw/fbi-uap-d004-fd-1057-02-northeastern-us-2024.pdf`
+- `raw/fbi-uap-d009-fd-302-67-northeastern-orb-sighting-2026.pdf`
+- `raw/fbi-uap-d010-fd-302-71-northeastern-orb-sighting-2026.pdf`

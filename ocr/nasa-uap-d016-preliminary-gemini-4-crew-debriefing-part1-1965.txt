@@ -1,0 +1,2097 @@
+
+
+===== PAGE 1 =====
+I /00 
+Authority:  DECLASSIFIED 
+NW 91526
+f Group 4: 82 
+CLASSIF!CAT:ON CHANGE 
+o____ 
+38 By authority of--~4,...L.11.1-...___.~~ L--L-....t.-e=-- -1 
+hanged by U~1:i:.~1 LDate 1973 42, 
+/ /4-
+PRELIMINARY 
+GT-4 FLIGHT CREW DEBRIEFING TRANSCRIPI' 
+PART I 
+Prepared By 
+Spacecraft Operat ions Branch 
+Flight Crew Support Division 
+June 16, 1965 
+This material contains information affecting the 
+national defense of the United States within the 
+meaning of the Espionage Laws , Title 18. U. S. C 
+Section 793 and 794, the transmission or revela­
+tion of which in any manner to an unaut horized 
+person is prohi bi ted by law. 
+Downgrade at 3 year intervals 
+Declassified after 12 years 
+NOTICE: This document may be exempt from 
+public disclosure under the Freedom of lnfor• 
+rnation Act (5 U.S.C. 552). Requests for Its ra• 
+lec1~e to persons outside the U. S. Government 
+should be handled under the provisions of 
+NASA Polley Cir-ecti11e 1382.2, I 
+
+===== PAGE 2 =====
+[No extractable text on this page]
+
+===== PAGE 3 =====
+COI\JFIDENTIAt 
+PREFACE 
+This preliminary transcript was made from voice tape recordings 
+of the GT-4 flight crew debriefing conducted aboard the recovery ship, 
+the USS Wasp, on June 9, 1965. 
+Although all the material contained in this transcript has been 
+edited, the urgent need for the preliminary transcript by mission 
+analysis personnel precluded a thorough editorial review prior to its 
+publication. Errors in this transcript will be corrected as soon as 
+possible and an official transcript will be published at a later date. 
+This document contains a transcript of the first part of the 
+debriefing, during which the crew described the mission generally 
+from an operational viewpoint . A preliminary transcript of the re­
+mainder of the debriefing will be published by June 23, 1965. It 
+will cover systems operations, operational checks, visual sightings, 
+experiments , pre-mission planning, mission control, and training. 
+
+===== PAGE 4 =====
+[No extractable text on this page]
+
+===== PAGE 5 =====
+TABLE OF CONTENTS 
+Paragraph Page Number 
+1.0 COUNTDOWN 
+1. 1 Crew Insertion. ...................... . . . .. . 1 
+1. 2 Cornmlll1ications . . . . . ............... .. ... . .. .. 2 
+1. 3 Crew Participation and Countdown .... ..............-..6 
+1.4 Comfort . ....................... . .7 
+1. 5 Environmental Control System .................... ' ..... . ,9 
+1.6 Sounds ...... . .... 11 
+1. 7 Vibrations ... . ... 13 
+1. 8 Visual .. . ....... .. . . ... 13 
+1.9 Crew Station Controls and Displays .1 5 
+2.0 POWERED FLIGHT 
+2. 1 Lift-Off Cues ....................... 17 
+2.2 Roll Program 
+2.3 Pitch Program ... . ..... 19 
+2.4 Aerodynamics ..... 20 • • M • • 
+2.5 Environmental Control System . .... "" ............... 20 
+2.6 Maximum g ....... . ....... 21 
+2.7 Windshear ...... . . . ......21 
+2.8 DCS Update ........................ 22 • • • • • • • M. • 2.9 Engine 1 Operation ..... . 22 
+2. 10 Engine 2 Status .. . .23 
+2.11 Acceleration g's .. . . ........ 23 
+2. 12 BECO ........ ....... . . ........ 24 
+2. 13 Staging . . . ....... ...................... 25 
+2. 14 Engine 2 Ignition . ..25 
+2. 15 RGS Initiate .... . ...26 
+2. 16 GO/NO GO . ............. . ................. . ..28 
+2.17 Systems Status ........ . ' .... . .....28 
+2. 18 Acceleration ................... . . .. .. 31 
+2.19 SECO......... ...................... . ....31 
+2. 20 Steering ....................................... . . .. ....32 
+3.0 INSERTION 
+3.1 Post-S.EDO •...34 3.2 SECO + 20 Seconds ................ .. 35 3.3 Insertion Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 
+ORBITAL FLIGHT 
+4. 1 Station-Keeping ...................... . .......... ...50 4.2 Extravehicular Activities ............ . . ......... -..87 
+
+===== PAGE 6 =====
+[No extractable text on this page]
+
+===== PAGE 7 =====
+Ot her Orbital Operations .....~86 
+Preretro Preparations ... . ........ .....250 
+5.0 
+6.0 
+1.0 REI'ROFIRE 
+5.1 
+5.2 
+5. 3 
+5.4 
+5.5 
+5. 6 5. 7 
+5.8 
+5.9 T -36 Events ... . 
+~ -22 Events .. . 
+:5:i-13 Events 
+:5:i-12 Events ... . 
+!R-5 Events ........... . 
+~R: 1 ~eennttss •••• • • • • • • • • • • • • • • • • • 
+iir.: 0 .c, v •••••••••••••••••••• 
+Ret ropack Jettison ........... . 
+Communications ............... . 
+REENTRY 
+6. 1 Reentry Parameter Update 
+6.2 400 K .................. . 
+6.3 0. 4 g ................ . 
+6.4 Acceleration Profile 
+6.5 Spacecraft Control ........ . 
+6.6 100 000 Feet . . . . . . . . . . . . . . . ....... . 
+6.7 50 000 Feet ............. . 
+6.8 Main Chute Deployment . . 
+6.9 CommUJ1ications . . . . . . . . . . ..... 
+6.10 Single-Point Release .... 
+6. 11 Postmain Checkli st Items 
+LANDING AND REDOVERY 
+7.1 
+7. 2 
+7.3 
+7.4 
+7. 5 
+7.6 
+7.7 
+7.8 
+7.9 
+7. 10 
+7. 11 Impact ...... . 
+Checklists 
+Communications ... . . ............ 259 
+. ... 260 
+...260 
+..261 
+. ...265 ....270 
+....273 
+. ...280 
+.•••281 
+.••••282 
+. ....282 
+. . ..284 
+.....290 ....296 ......296 
+.. •..299 
+. ......302 
+. ....303 
+. ........... . ....305 ......... ·•.......306 
+... 310 
+..313 
+... 314 
+Systems Configuration ..................... 316 
+Spacecraft Status ...... . .... . . ............ 320 
+Post-Landing Activities ..... . . ............... 325 
+C·omfort ............... . . .. . .. .......325 
+Recovery Force Personnel ..326 
+Egress ......... . .. . . . 327 
+Survival Gear ..... . ...•328 
+Crew Pickup ......... . . ....... 328 
+
+===== PAGE 8 =====
+[No extractable text on this page]
+
+===== PAGE 9 =====
+1.1 Crew Insertion 
+White 
+McDivitt 
+White CO ►~FIDE ►~TIAb. 
+1.0 COUNTDOWN 
+The only problem during insertion was that I 
+fogged up again in my suit before we got the fans 
+on. I think I'm just going to always fog up in 
+that suit of mine. We turned the fans on quick, 
+but with the visors closed it doesn't go out. 
+We did have a problem with crew insertion on the 
+Wet Mock and I think we had that probably pretty 
+well taken care of. They put us on the suit 
+loops and didn't turn the fans on. Normally you 
+wait for a clearance from the 1:t>acecraft Test 
+Conductor before you throw any switches. Well, 
+after we almost "died" of carbon dioxide poison­
+ing during this +,est~ we got this matter 
+clarified. As soon as we got in the spacecraft 
+and one of us was on the suit loop, we would go 
+ahead and cut the switches on to put us on two 
+fans. We did this during insertion in the Wet 
+Mock. It really went well. 
+We really went for a long time in Wet Mock. 
+was beginning to wonder if I was going to have to 
+open my visor. I was really uncomfortabl e. 
+COt74 FIDEt~TIAsb-I 
+
+===== PAGE 10 =====
+2 
+McDivitt 
+White 
+McDivitt 
+White 
+1. 2 Communications 
+White 
+McDivitt 
+White 
+McDivitt But everything worked out okay on this one. 
+Yes. 
+The timing was excellent , I thought. I didn't 
+think we had any problem at all. 
+No. I don' t believe they missed a stroke on the 
+insertion . 
+I think the communications were pretty well 
+worked out, Jim? 
+Right. One thing, the last three minutes or four 
+minutes, we got a little confused about who was 
+talking to who . I was getting the Spacecraft 
+Test CJnductor , the Booster Test CJnductor and 
+the CAP COM at the same time. 
+We got a split count, too, on lif't--off. 
+The first three or four minutes I was hearing the 
+B)oster Tast C?nductor . I heard what was going 
+on on his loop , and I was listening to him get 
+checks in f rom all of the guys . I really wasn' t 
+getting a clue as to what was going on. I was 
+supposed to be getting the booster clues from the 
+test conductor . I was supposed to find out when 
+the engines were going to gimbal and when they 
+-€9·NFl9E~TIA;t 
+
+===== PAGE 11 =====
+White 
+McDivitt COl>J~IDENIIA~ 3 
+were going to open the prevalves and stuff. I 
+wasn't getting it from him. We were getting a 
+lot of other information that made a lot of sense 
+to the Booster Test C:>nductor, but not an awful 
+lot to us . There were call -outs likeVSequence 
+05003 complete." Well, this just didn' t mean any­
+thing to us . On top of this we had the Spacecraft 
+~est Conductor calling out the times , and super­
+imposed on all of this was Al Shephard , the Cape 
+CAP COM, calling out events that he was reading 
+off that went on at certain specified times . He 
+called out','Stage 1 prevalves Vand we could hear the 
+fuel gushing downstairs and the whole booster 
+rumbling. He called out','Stage 2 prevalves','and 
+you could hear the same thing all over again. I 
+thought t hat was a lot more meaningful than the 
+test conductor comments. 
+I think that was wrong, the way they were doing it. 
+I think we weren't supposed to be on any loop 
+except CAP COM at that time. 
+Well, I think what happened was that we got this 
+thing over-coordinated. Al was going to give us 
+all this information, but then as a result of 
+GT-3, (Gus and Jolm said they didn' t get enough 
+-t:ON FI0 Er\JTl~L 
+
+===== PAGE 12 =====
+4 
+White 
+McDivitt r<3 eI<i FltEt>I TIRt 
+information about the boosters) they put this in­
+formation on the test conductor ' s loop too . We 
+ha.d too many guys talking. I think if just CAP 
+COM talked from three minutes on down we would 
+be all right . 
+This is the way I thought it was going to happen, 
+and then from three minutes on down it really got 
+busy with the yak, yak, yak of everybody talking. 
+I don't lmow whether we got off the Booster ~st 
+C)nductor's loop or not, but at final countdown , 
+Al gave me 2 minutes , 1 1/2, 1, 30, 20, 10, 9, 
+8, 7, 6, 5, 4, 3, 2, 1. I got a similar count 
+from the Spacecraft Test C~nductor but it turned 
+01·.t that they were a second out of sequence on 
+the countdown and Al was giving me 10 and our 
+Spacecraft Test Conductor was giving me 9. So it 
+went ten-nine, nine-eight, eight-seven. They 
+were at the same t ime . All I knew was that we 
+were getting close to engine ignition and then it 
+started. So, we got a little over-communicated 
+there . I think t hey kept us adequately informed 
+on the hold. As a matter of fact, I'd say we got 
+over-informed there at the end. We had too many 
+guys keeping us informed and I think the pendulum 
+<Ol<:JFIDel'4TIAl 
+
+===== PAGE 13 =====
+5 
+White 
+McDivitt 
+White 
+McDivitt swung from the GT-3 flight where nobody got in­
+formed of anything over to our flight where we 
+got i nformed by three different people about the 
+same event. 
+On our flight, too, we were really more 
+aware of the problem than those people were. We 
+could sit right here and see the gantry come 
+down and stop, that was really the only problem 
+they had in the whole count . 
+I don't think radio discipline is a problem, Each 
+guy was disciplined on his own channel . They were 
+conducting their tests on their own channel . But 
+we were lis tening to three different communica­
+tors at the same time. We should have had only 
+one. I think probably what we will need to do is 
+to get to about T-3, and then just cut in the 
+CAP COM. 
+That was the way it wa.s planned to be, I thought. 
+That's the way Al planned it. 
+That's correct. I think, because there had been 
+some lack of information on GT-3, that it some­
+how had been written into the SEDR so that we 
+were also on the Booster Test Conductor's MOPS, 
+so that we were also getting his countdown. I 
+COrq--pf0f:N fl1tt 
+
+===== PAGE 14 =====
+6 
+White 
+McDivitt think CAP COM, 'alone, would have been sufficient . 
+One further comment , I had to turn my ·11HF volume 
+all the way up to hear anybody . I was at max. 
+There we were sitting right on the pad , talking 
+to a gu:y two miles away, and there I was with the 
+volume full up. It didn' t give me much confi­
+dence as to reception I was going to get when I 
+was 200 miles away , or three or four or five 
+hundred miles away . I thought that the volume 
+control on the radio was inadequate. 
+We were wondering what we were going to have when 
+we got up a hundred miles. 
+That's right. At max volume we didn't have enough 
+and at minimum volume it didn't shut it off. We 
+will cover this later. 
+1.3 Crew Participation and Countdown 
+McDivitt I think it was just about right . I don' t think 
+we were over worked and I think we had enough to 
+do to keep us busy. 
+White Actually, all we really made was a check of 
+switches . There wasn ' t really too much else. 
+Having the back-up crew run that midcount was the 
+the right solution . I wouldn't have wanted to 
+participate in anymore of the countdown than I 
+-COt<JFtDEt'4flJ<l 
+
+===== PAGE 15 =====
+7 
+McDivitt 
+1.4 Comfor t 
+White €O ► 4FIDE ► ~TI/>,~ 
+did. 
+That's an excellent point. The flight crew's 
+participation should be the final count, not the 
+midcount and precount. It doesn't tire the prime 
+crew out doing a lot of chores that they don't 
+really have to do. I think this is a good pro­
+cedure. 
+Initially, the first 20 or 30 minutes, I was 
+squirming around and I felt a little uncomfor­
+table. But after I had been in for 30 or 40 
+minutes I didn't feel there was a real restric­
+tion on staying for several more hours. I would 
+have been very disappointed if they had said, 
+"Well you have been in there long enough and we 
+will work on this gantry and try it again tomor­
+row." I would have been happy to stay there 
+several more hours while they fixed the gantry 
+instead of pulling me out. 
+After an hour and 40 minutes,which is the end of 
+the normal countdown,I didn't feel uncomfortable. 
+We sat in the simulator and were a lot more un­
+comfortable than this. I didn't feel uncomfor­
+table. I had a chance to take a couple of little 
+CO ► 4FIDE~~TIA~ 
+
+===== PAGE 16 =====
+8 
+McDivitt 
+White 
+McDivitt 
+White COl'IFIDE~4TIAt 
+naps. I noticed Jim was napping too. 
+Yes. I concur with F.d, although I don't want 
+to get carried overboard. We shouldn't scrub 
+due to crew fatigue . 
+I think it is up to the crew. If the crew is un­
+comfortable they should come down. But I don't 
+think he should say, "Okay, two hours and 30 
+minutes. You cut this off.", because it is an 
+operational procedure. 
+When I first got assigned to the crew I always 
+fel t one of the toughest things to do would be 
+laying back for an hour and 40 minutes or so 
+prior to launch. The time we spent in the simu­
+lator laying on our back, I thought to be a very 
+uncomfortable position . As we went through all 
+the training and testing at McDonald , and again 
+at the Cape , ;ny back got more callouses on it. 
+I got used to laying with my feet over my head. 
+At launch time I wasn't a bit tired from laying 
+on my back. 
+This is brought out in one of our last simulations , 
+where we ran the whole four hour simulation and 
+we forgot to have them tilt us up to 30 degrees. 
+We just got used to running that way, 
+COl"I P"te E~~Tl,\l 
+
+===== PAGE 17 =====
+9 €Otr4FIDEttftAl 
+McDivitt That's right, I just don't think we should 
+scrub the flight because of fatigue.I don' t think we 
+should do that. We weren' t approaching this point. 
+White We had a long way to go. 
+1.5 Environm ental Control System 
+McDivitt I think we ought to get this water management 
+panel squared away and everybody figure out what 
+we are supposed to do with those switches. I 
+don 't think we should be arguing about where the 
+switches are supposed to be on the launch pad. If 
+I hadn't asked somebody where the waste manage­
+ment switches should be we would have probably 
+launched with it in · EVAPORATOR. I knew that 
+i t wasn't supposed to be in the evaporator . At 
+one of the ten thousand briefings we got on it, we 
+were told it shouldn't be there. We ought to get· 
+this kind of stuff squared away before launch day. 
+Thirty minutes before lift-off we were arguing 
+about where that switch was supposed to be. 
+White I wasn't confident that they knew where they 
+wanted that switch to be. 
+McDivitt Well, I didn' t think we should have it in the eva­
+porator. So, I think that water panel could have 
+cost as much as a wee~s slip on our launch because 
+coNFIDENTIAt-
+
+===== PAGE 18 =====
+10 €01'1FIE>Et<ITtAt 
+White 
+McDivitt they didn't know where to put those valves and 
+it's only got three valves on it. It ought to be 
+made much simpli er than it is . I think they 
+should get that squared away before the next 
+flight. F,d and I knew where we wanted it. We 
+wanted it off and the other two switches in 
+NORMAL and leave it alone. That's what we flew 
+with. That's the way it ought to be fixed . 
+We can get canned , though, for not flying with it 
+in the right position by the checklist. It 
+didn't say that on the checklist Every check 
+list we got was different . 
+That ' s right! Fach one was different . Fi nally 
+we decided we were going to do it as w.e did and 
+left it through out the whole flight. Evel;'y­
+thing worked fine . We had ECS briefings by a 
+mul titude of peoples from MAC including the 
+guys who designed it. Everyone of them dis­
+agreed , It probably started out to be one of the 
+simplest things in the whole spacecraft . By the 
+time they got through confusing us with it, I 
+got the feeling nobody knew what was s_i,,.pposed to 
+happen to it. I consider this the most danger­
+ous of all. 
+'€0 l<I F' IE> Et-q ftAt 
+
+===== PAGE 19 =====
+White 
+McDivitt 
+McDivitt 
+1.6 Sounds 
+McDivitt 11 
+I was convinced of that, too, after the mix-up 
+in putting all the water in the lithium hydroxide 
+tan.ks. 
+There would have been about a 30 minute four-day 
+mission. 
+The people that built the thing don't know how 
+it is supposed to go. They had better decide 
+this and let us know. I felt that George Roe at 
+the Cape knew what was going on except the Cape 
+personnel got the valves in the wrong position and 
+almost lost the lithium hydroxide canister full 
+of water with no water in the tanks. I 'm not 
+pointing a finger at George Roe • I think he'·s 
+pret.ty knowledgeable about the system.. Maybe 
+somebody just wasn't following directions. But 
+somebody ought to find out about the water 
+management system and make it clear to everybody 
+how it is supposed to be operated. 
+You can hear the prevalve~ both first and second 
+s tages. The prevalves and the fluid gushing are 
+very loud noises comparable to the engine gim--
+baling. I wasn't really aware that they were ~ 
+going to be that loud. 
+C-0t~FIDf~qflAb 
+
+===== PAGE 20 =====
+12 'COI\IFIDE~ ◄ llAl 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt I got that feeling when I read Gus and John ' s 
+debriefing . 
+Did you? I didn't. I got the impression that it 
+was going to be a much quieter noise. 
+Well, the whole noise level of the engine girnbal­
+ing was louder than I thought it was going to 
+be. It surprised me . 
+Yes. Engine gimbaling was much louder than I 
+heard before. We heard this during Wet Mock and 
+during precount and at midcount. You can hear 
+those engines gimbal around; they really shake the 
+spacecraft . But, I really wasn't prepared for 
+the big noise that the prevalves make, and such 
+a long noise as that fuel gushed down to the 
+bottom. I guess that was what it was. 
+I didn't like t he sounds and vibrations we got 
+when they raised and lowered the gantry. 
+It shook the whole spacecraft . 
+It shook the whole spacecraft--did you notice how 
+it never came up straight? The spacecraft was 
+supposed to line up kind of like this and then 
+wham! I had visions of them knocking us off and 
+laying us flat on the ground before we were 
+launched , 
+co~,Fl0Et'4TIAI: 
+
+===== PAGE 21 =====
+13 
+1,7 Vibrations 
+White 
+McDivitt 
+White 
+1,8 Visual 
+White 
+McDivitt 
+White 
+McDivitt cor:,-~FIDEl'~TIA I 
+Those are closely associated with the sounds. 
+Yes. I think that the engine gimbaling makes a 
+tremendous vibration in the spacecraft and pre­
+valves on opening and make a tremendous vibration. 
+The gantry going back and forth vibrated the 
+spacecraft. I don' t think there is anything else, 
+do you? 
+No. 
+Well, you can sure see the gantry lower and the 
+white room disappear. That is about all you can 
+see besides the sky. 
+That's pretty impressive. That's when I sort of 
+got excited,when the gantry went down. That 's a 
+new realm. 
+I thought they were going to launch me. 
+You're sitting there by yourself then, instead 
+of all those people milling around. 
+I do want to make one other comment on this visual 
+thing. We did Wet Mock about one or two o'clock 
+in the afternoon. The sun was shining right in 
+the window, almost straight down, such that the 
+sun came across my visor from about just at the 
+GOt~FIDEMTIM 
+
+===== PAGE 22 =====
+14 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt t:Ol-<IFIDEt'4T IAt 
+bridge of my nose on down. I had a tremendous 
+amount of reflection inside the helmet, and I had 
+a great amount of difficulty seeing the instru-­
+ment panel. As a matter of fact, I'm not sure I 
+could have seen the instrument panel at all. 
+~ose first few seconds there are extremely cri­
+tical on launch. You have to be able to see those 
+tank pressure sages. We ought to keep this in 
+mind for those late afternoon launches . 
+That is a problem, but the g loads are so small 
+at this time you could almost forget ab1ut look­
+ing up. 
+Did I fly like this for awhile during launch? 
+I don't think so but you could have, The g load is 
+so small. 
+I'm not sure whether I did or not. 
+"'his is what we had to do during Wet Mock. We 
+had to put our hand up and cover the window to 
+look down at our instruments to see them, 
+I 'm not sure I didn ' t launch that way . 
+I wouldn't be surprised if you did. 
+I don't think I launched that way, but as we 
+tilted over and we got in the sun, I think I put 
+my hand up for awhile. 
+COMftDEl'1 IIAI. 
+
+===== PAGE 23 =====
+15 
+White 
+McDivitt 
+White Well, if the g's are so low that--
+When sun gets in your face you can't see the in­
+strument panels because they are just too dark. 
+The sun gets in your eyes. The point that Jim 
+was making is towards a late-in-the-day launch, 
+which we might have later in the program, there 
+might be a bit of a problem of seeing the instru­
+ments during launch. Unless they put something 
+up, which I really don't think you want to d~ You 
+are just going to have to put your arms up and 
+shield the sun out and concent~ate on your in­
+struments or you won't see them. They are just 
+gone. 
+There is probably a point even in an early morn­
+ing trajectory as you start to pitch over where 
+the sun will come right in your window and you 
+won't be able to see your instruments unless you 
+shield your eyes. 
+1,9 Crew Station Controls and Display 
+White 
+McDivitt I found the switches all where they were supposed 
+to be and the cockpit all set up. 
+So did I, except the comment I made on the water 
+management system. They didn't have the control 
+where it was supposed to be. At least, they had 
+
+===== PAGE 24 =====
+16 
+White ~CNFIOEt~TIAt 
+it in the place where everybody was arguing about 
+whether or not it should be, 
+I certainly appreciated the work the backup crew 
+did getting the cockpit all set up for us. Every­
+thing was ready to go when we stepped in. That's 
+the way it should be. 
+COl<:tll10E~4T IAL 
+
+===== PAGE 25 =====
+17 
+2.1 Lift-Off Cues 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt €Ot ◄ Fl9ENllAl 
+2.0 POWER FLIGHT 
+CAP COM gave lift-off, about as good a cue as you 
+can get. 
+Wasn't any question either. Boy, you could feel 
+the first little motions of the booster as it 
+went up. It was really great! 
+I think you could feel the acceleration at re­
+lease. There wasn't a doubt in my mind that we 
+were loose. 
+That 's right. I don't know if I could feel the 
+bolts or hear them. 
+As a matter of fact, it seemed to steady out a 
+little bit. The vibrations seemed to decrease 
+a little. Pretty impressive! 
+Not much vibration at lift-off. Very low. 
+Very low. I got vibrations later on, though, 
+didn't you? 
+Yes. 
+Noise. There wasn't much noise, was there? 
+No. There was less than I had expected. 
+Noise wasn't a cue to lift-off. Noise was there 
+
+===== PAGE 26 =====
+18 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt if you were bolted down all day long. I don't 
+think the noise changed a bit at lift-off. 
+You could see the visual cues out the window. 
+You were watching your gages, Jim. 
+Were there clouds out there? 
+No, but I could see it in the clear blue sky. 
+Could you? 
+Yes. I could see the motion. 
+Okay. Well, I couldn't. 
+I was looking out, 
+I saw a little cloud go by and then I didn' t see 
+any more clouds at all, 
+It was beautiful! 
+The event timer started just like it should, Of 
+course, that 's the best display inside the space­
+craft for lift-off . The event timer starts, and 
+it did, 
+We got both clocks started with the t ime hack. 
+had a watch hack on lift-off and the ... handle 
+going. I knew when the engine ignited, within 
+half a second accuracy. Three seconds later I 
+was waiting for the lift-off and it came right at 
+three seconds, 
+We could tell ignition , too . We could hear the 
+'€0 ► ~FIDEJ>1TJAL I 
+
+===== PAGE 27 =====
+19 
+2·. 2 White 
+Roll Program 
+McDivitt 
+White 
+McDivitt 
+White 
+2. 3 McDivitt 
+White 
+Pitch Program 
+McDivitt 
+White things go. 
+I agree with you. I knew we weren' t going to hold 
+it when that lift-off went. 
+Roll program came in at ten seconds just like it 
+was supposed to. It was smooth, and it was just 
+the way it was planned, on at ten seconds and went 
+out at twenty seconds. Could you see it roll 
+out the window? 
+You can see everything out the window, I think. 
+You can probably tell by the way the sun rays are 
+moving, can't you? 
+Yes, by change in lighting. The right seat has 
+a better view. You have to watch the guages so 
+closely. 
+I didn ' t even look out the window. 
+I know you didn't. 
+Pitch program started just like it was supposed 
+to, at twenty three seconds. Pitched over the 
+proper amount, the pitch needles looked like 
+they were hanging in there all the way. 
+You could see the booster pitch definitely, and 
+that was mainly due to a change in the lighting . 
+
+===== PAGE 28 =====
+20 
+2 ,4 Aerodynamics 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+Whi te co~~FIDE~~TIAt: 
+We were getting aerodynamic noise, which built up 
+to max q. We got some pretty good vibrations at 
+max q. 
+That's where I had the most vibrations . It was 
+just shaking like this. 
+It was vibrating and noisy. 
+That was the loudest noise we received the whole 
+flight. 
+Right after max q it got very qui et. 
+This is where I had the most vibrations . There 
+were more than I expected. 
+Yes, me too. You can' t simulate this in a simula­
+tor. You get more vibrations than you do noise. 
+The only thing they have in the simulator is 
+noise, they don't have vibrations . It was pretty 
+loud and the spacecraft was actually shaking 
+around a lot. It was really vibrating . 
+Yes, it was. More than I expected . 
+The whole thing was really going at it. Almost 
+like a F-80 or a T-33 at a.bout 0.8 Mach. 
+Very good analogy. 
+2. 5 Environmental Control System 
+White The cabin started venting shortly after lift-off 
+~O~ ◄ FltJEf<tftAL 
+
+===== PAGE 29 =====
+21 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+2.6 Maximum q.... 
+McDivitt 
+White 
+McDivitt 
+White 
+2. 7 Windehea.r 
+McDivitt and continued so until about 40 seconds and sta­
+bilized out at 5.5 and I made my call in. I 
+think I might have called in on RECORD. 
+You did. 
+I switched and made the final call at about 1:10, 
+I realized I called on REDORD and switched over, 
+How high did it go? Did it go to 5.5? 
+5. 5 and it stayed right there. And then I 
+noticed later on it progressively leaked off until 
+it got to 4.9 where it stayed. The suit? There 
+really isn' t anything to say about the suit. 
+No, I don' t have anything to say about the suit. 
+It oi:erated like it was supposed to. 
+The noise built up gradually until we got to max 
+q, then it just dropped off. 
+The deterioration of the noise was almost instan-
+taneous. 
+Very quick, It wasn' t instantaneous , but it was 
+very quick. 
+In fact, it startled me when we separated . 
+I didn't notice anything on the rate needles that 
+had anything to do with the windshea.r I couldn't 
+
+===== PAGE 30 =====
+22 eot~FIDE~~"f1At 
+pick out windshear • on them. How about you, Ed? 
+White No. 
+McDivitt Did you see any attitudes? 
+White No . 
+McDivitt No big divergences from windshear . 
+2.8 DC~ Updates 
+White We got both of our ros updates right on time-­
+H'45 a.nd 2:25, 
+McDivitt No comment. Ed is in charge of ros updates. 
+White I 'm the button pusher. I do everything about 
+pushing the buttons. 
+McDivitt I can do this with this little stick. 
+White You can do it unless I have my knee over it. 
+2. 9 Engin,®. 1 Operation 
+McDivitt They operated the way they were supposed to as 
+far as I could tell. The tank pressures stayed 
+up fi~ on both Engine 1 and Engine 2. There 
+was never any doubt in my mind that they were 
+going to stay up there. There weren't any of 
+those things like we saw in those simulations 
+where they came on down pretty low on the gages 
+when they were supposed to be at 18 or 15. There 
+wasn't anything like that . They just stayed on 
+up there. 
+€0t'1Flf7EN f 1Al 
+
+===== PAGE 31 =====
+23 
+White Just where they were supposed to be. 
+McDivitt Yes. I followed them a couple of times and said 
+they were staying up fine. They were way up. 
+There wasn't any problem there, 
+2.10 Engine 2 Status 
+McDivitt Second stage pressure stayed right on up there 
+very high. Just the way they were supposed to. 
+There wasn't any problem there, They didn't 
+decay all during the first stage. 
+2.11 Acceleration g's 
+McDivitt They weren't bad and I don't know where they went 
+to on the g meter. 
+White Just like riding in an old saddle. 
+McDivitt That's right. It's very comfortable . Steady on-
+set. 
+White Not very long. Gee, we were below--
+McDivitt Wait a second. This might be a good place to 
+cover the pogo. I felt the pogo just prior to 
+staging, from about 2:15 on to 2:30. I could 
+feel pogo. 
+White How much were you getting? 
+McDivitt Very little, I could just feel it pull like this. 
+Did you feel it at all? 
+
+===== PAGE 32 =====
+24 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+2.12 BEX;O 
+McDivitt -COt~FIDEt ◄ TIM 
+No . 
+I could feel it. It wasn't uncomfortable enough 
+where I had to l ift my head or anything. I 
+wasn't thinking about a pogo at all. It wasn't 
+like I was trying to sit there and think about it. 
+But as we were going along I could feel this vi­
+bration. And then it just crossed my mind, well 
+there is pogo, and then we went on to staging. 
+But it wasn' t bad at all. The amplitude must 
+have been--
+You were paying more attention to your clocks 
+while I was watching the system ,gages and I 
+wasn't really aware of the times that were going 
+on. I had my eyes--
+It came around 2: 15 or so and lasted to about 2:30. 
+Maybe it was 2: 10 or 2:05 , but it wasn't bad . 
+We had one area that I will get into later that I 
+haven't told you about and that I didn't like. 
+Oh. So , I think we hit the pogo and the g ,. s . 
+Engine shut down properly . The lights came on. 
+Engine~-2 light went out and the Engine 1 lights 
+went out. Just the way it was supposed to at 
+B~O and staging. Two Stage 1 lights ON , Stage 2 
+EOt<I flf)Et ◄ Tl1'c b 
+
+===== PAGE 33 =====
+25 COt ◄FIB~1'1llAl 
+White 
+McDivitt 
+2. 13 Staging 
+McDivitt 
+2. 14 Engine 2 Ignition 
+McDivitt 
+White 
+McDivitt 
+White light OFF, Stage 1 lights OFF. 
+At that time I realized that we were going to 
+feel the pyros and stuf'f--feel the separation. It 
+was a very distinct feeling when we separated. Of 
+course, we immediately dropped in the thrust . 
+There wasn't any question,we had a good separation, 
+in my mind. This is just the way it was for all 
+of our separations. Ev-erytime we separated, it 
+was very clear that was what had happened. 
+Oh, yes, there wasn't a:ny doubt about it when 
+that first stage shut off--Voom! 
+Staging was just as it should have been. 
+Engine 2 started right on up. Like I mentioned 
+earlier~the light went out and the tank pressure 
+went down just a tad, but it stayed way up there, 
+about two or three times as high as was necessary 
+for staging. It never really did decrease. It 
+stayed up around 45 or 50 psi, and we need 20 for 
+staging, so--
+I couldn' t hear anything. 
+Didn't you hear the engine? 
+No. I was listening but it still was quiet. 
+€Ot~FIDENllAL --
+
+===== PAGE 34 =====
+26 
+McDivitt 
+Whit e 
+McDivitt 
+White 
+McDivi tt 
+2 . 15 RGS Initiate 
+McDivitt 'COl'4FIDEl'ff IA-t 
+I didn't really get much of a cue out of it at all, 
+except the lights went out and I could feel a 
+little bit of acceleration. 
+The acceleration decreased. Another thing I 
+didn't get--I got absolutely no pitch-up associ-· 
+ated with the--the way the centrifuge does you at 
+the end of an acceleration . I think that is 
+associated with the cab on--
+Yes . I think that's the way they rotate those 
+gimbals when you come on down. If they rotate 
+them a certain way you can get that pitching-up-­
+A very safe forward-type deceleration. 
+I think that pitching up on the centrifuge is not 
+a malfunction . It' s just the programing that's 
+hooked into the gimbals during the stop program. 
+You've got to get them all going the same way so 
+that you keep the vectors through you. During 
+launch the vector is right through you. It's not 
+varying around , but in the shut-down on the cen­
+trifuge those darn gimbals aren't always syn­
+chronized together . They get shifted back there 
+and it gives you that peculiar sensation. 
+Well, I was really watching closely but my rate 
+
+===== PAGE 35 =====
+White 
+McDivit t 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt needles just barely changed . We mus t not have 
+had any errors at al l . 
+Yes , I got a full error. 
+Did you have a full error? 
+Yes, my pitch error went all the way down , and 
+then it just steered slowly right back up. Re­
+member you--
+You did call and tell me you had a saturated- ­
+Di d you call saturated , or did you say we had a 
+bi g one? 
+I called it saturated, I believe. 
+That ' s right. 
+I called a saturated error and then I called you 
+that it was steering back to zero. 
+Yes. I remember that you did call that. 
+That's the way they showed this on the plot, that 
+i t would saturate there , am very quickly it 
+seemed to gradually steer right back up. 
+The steering rates that went in were on the order 
+of less than half a degree/second . 
+They were very low. 
+Very, very low because I was on high scale. 
+The needle just barely deviated at all at RGS 
+GO~JFIDEN"flAl 
+
+===== PAGE 36 =====
+28 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+2. 16 GO/NO GO 
+McDivitt 
+2, 17 Systems Status 
+White initiate. 
+It was beautiful steering. 
+Nominal, nominal, nominal, except like that 
+saturation on the error needle, but we have been 
+briefed on that. 
+That ' s right. That ' s something to be expecterui 
+When did it saturate? 
+Right at staging. No, right at guidance initiate . 
+Oh, okay. It saturated right there. 
+Right there at guidance initiate, which is what 
+you'd except. 
+They said they were GO and I said we were GO . 
+There wasn't much problem. Ed and I had been 
+checking back and forth on the systems. I knew 
+they were all right. 
+The systems were all pretty good. There was only 
+one I didn' t like and that was the stack readings 
+on the main ammeters. One was reading about 28 
+and the other was reading about 14, But I felt 
+that this was associated with bringing the batter­
+ies on. I went through and checked everything . 
+Everything was readi ng properly. The control bus 
+
+===== PAGE 37 =====
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White and main bus were all reading all right. I felt 
+it was just a misbalance of loading. I talked to 
+somebody previous to this time and it was 
+explained to me that this could happen this way. 
+I felt perhaps it was in the adapter batteries-­
+would feed through on one of the stacks causing 
+one of them to take more than the other. 
+Yes. You could have gotten into the knee of an 
+adapter--
+This is what I had figured- -that a couple of my 
+adapter aatteries were unbalanced, causing this 
+to occur. I also had seen this on the simulator 
+quite a few times. 
+When did the unbalance start? When we got in 
+they were-• As soon as we were on internal 
+power? 
+Right. And I didn't feel this was the time to 
+talk about it. It was still under 30 amps, which 
+was my point. So I didn't bring it up. 
+You didn't want to worry me? 
+I didn't want to worry you and I didn't want any­
+body on the ground to start hollering about it. 
+You should have written me a note. 
+I did feel that this was exactly what it was--
+~Q~~ftE)EN:rJA L-
+
+===== PAGE 38 =====
+30 
+McDivitt 
+White 
+McDivitt that it was adapter batteries. That was the only 
+abnormal type of indication we had in the systems. 
+They were all real good. 
+Well, we had good communications with the ground 
+during powered flight. 
+We had pretty good communications. I called the 
+"Roll Program", and nobody answered me. I said, 
+"Well, to heck with it, maybe they just aren't 
+ge t;ti.ng through." Then I was just starting to 
+call Roll Program complete when Gus called and 
+said,"Did you get the Roll Program?" Now that was 
+the only transmission I made that wasn't acknow­
+ledged. 
+Yes, I heard you calling, too. 
+So , if they lost communications it must have been 
+right at the 10-seconds t i me , and it should have 
+been for l ess than 10 seconds. It couldn't have 
+been for more than 20 seconds. I heard the count­
+down to lift-off and I heard Gus call and ask me 
+if I had the Roll Program started. This was a 
+little bit less t han 20 seconds-- around 18 or 19 
+seconds. That is the only period of time I 
+didn' t hear anybody I should have heard. So , if 
+we lost communications, that was where it was. 
+
+===== PAGE 39 =====
+31 
+2.18 Acceleration 
+McDivitt 
+White 
+McDivitt 
+White 
+2. 19 SECO 
+McDivitt 
+White 
+McDivitt Well we got up to 7 1/2 g's. The acceleration 
+wasn ' t bad at all. I guess when you are really 
+interested in what you are doing like on the boost 
+or reentry, those g's don't mean anything. I 
+don't like to ride the centrifuge . 7 1/2 g's is 
+7 1/2 g's on the centrifuge, but on the booster-­
+My vision was crystal clear. 
+Me, too . I wasn't even breathing hard. I wasn' t 
+huffing or :pui'fing or anything . I was just laying 
+<there relaxed . 
+Particularly on this one, The acceleration burn 
+during powered flight and insertion was very light . 
+SECO occurred as it should have on my clock. Ed 
+thought it ~s about--what did you say it was? 
+I thought it was a second or so early and it 
+concerned me because that meant we were going to 
+have to burn. So I was quite expecting to hear 
+a big 6V come up from the ground. There is no 
+question on that SECO either. It shuts off and 
+you get that linear straight deceleration. 
+The thing that surprised me was that we weren' t 
+talking about it at all. We were just going as 
+, CONFID·EN"TtAt 
+
+===== PAGE 40 =====
+32 
+White 
+2.20 Steering 
+McDivitt 
+White 
+McDivitt 
+Whi te straight as an arrow when that thing shut off. 
+There weren't any oscillations or roll. 
+I was getting a sinusoidal oscillation on my rate 
+needles, and I don' t know now whether it was 
+pitch and yaw. I called it out at the time, to 
+you a:nyway, Eli . 
+Right. And my attitude arrows were--
+Your attitude arrows were right on? Okay. But I 
+was getting an oscillation, very small, about 
+plus or minus a quarter degree in rates . Not so 
+that the needle was actually moving back and forth 
+across the dots. It was pretty obvious that it 
+was. Now, I sort of felt that I could feel that 
+movement a little bit, like this, but not annoy­
+ingly and certainly the stabilization was holding 
+it close enough. But it wasn't that the rate 
+needles were just constantly oscillating back and 
+forth. It seems to me it was in pitch but I'm not 
+really sure. A booster pitch, 
+The attitude error needles were the only deviation we 
+had at any time. Yaw was just about nominal all 
+the time. We had the pitch deviation at guidance 
+initiate. It went to full scale and steered right 
+• COt~Ft0ENflAL 
+
+===== PAGE 86 =====
+78 
+\ White 
+I 
+~ 
+r:IcDivitt page six,I have already covered the things on 
+platform alinement. I did not have time to aline 
+the platform . I tried to get it to somewhere near 
+the local horizontal so that in case we had to do 
+a retrofire I 'd be able to do the Etrofire . I 
+brought the spacecraft up to a pitch attitude that 
+I hoped was zero,but I never got the spacecraft 
+alined to see that it was zero. So we really went 
+into this thing without my ever having seen a zero 
+pitch attitude on the spacecraft . Obviously 
+I didn' t get a chance to see the 30 degree pitch 
+down on the retrofire attitude. I didn't really 
+have time to look out the window and do a single 
+thing that would have prepared us to reenter at 
+2-1 because we were so busy keeping track of--
+You know another thing I 'd say also is that we 
+were eternally optimistic. We felt we were going 
+to aline the platform and watch the booster at the 
+same time. 
+As a matter of fact, while I was trying to get the 
+alinement it became apparent to me that I could not 
+aline it. I even thrusted vertically--
+
+===== PAGE 87 =====
+79 
+McDivitt 
+White 
+McDivitt 
+White I was in a horizontal position and I thrusted 
+down using my top thrusters , so that I would 
+try to keep the booster in my view. Thrusting , 
+chasing the booster, and alining the platform 
+all at the same time--those are the kinds of 
+things you have to do. So, I never did get the 
+platform alined. I did not have time. I got 
+it somewhere near local horizontal . If I was 
+within pl us or minus 5 degrees in the axis, I 
+think I did a reasonably gooi job, The 
+Thruster Control Mode Checks that took place at 
+15 minutes I didn't do as such. I would just 
+thr ow it into a different mode and thrust. I 
+just did it with a catch~as~atch-can . I did 
+check out the different modes. 
+Everything seemed to be working. You weren ' t 
+getting My thrusters that weren' t f iring, and 
+your modes all seemed to me to be working 
+properly. 
+It looked pretty good. 
+I had one comment on the Co~munic ations System 
+Check. Remember we lost good communications 
+with No . 1 UHF and we switched to No . 2 and 
+seemed to have good communications with it 
+
+===== PAGE 88 =====
+80 
+McDivltt 
+White 
+McDivitt 
+White 
+McDtvitt from th~~1 on? Now this wasn ' t representative 
+that we lost UHF No. 1 beca 1lse w0 used bo:h of 
+the sets at different tiJWS throughout the 
+mj_ssion later 0:1. But at this particula:-:- time , 
+UHP 1 didn' t give us good reception 13:1d we 
+swit<~hed . 
+I thought comm t"li:-:at.i::ms through the fi1•-it :liv 
+of the flight wi;re atrocious . They were 
+terrible . Finally we switcht~d to th•) .-~~en~ry 
+St ub Antenna and that seemed to fix L!w p:>oblern. 
+IDidn t you thL1k so? But you know we went back 
+to reentry a n tenna, over Carna:::-vo:i one tine. 
+WH got just as good r~cept i ::>:1 o.ff of it that 
+ti.me as we di.d any other ti-:ne. 
+I remember when you were rnak i.ne-yo·.1r 
+Cornmuni catio:J.s Check. That wa.1 ·.-.r1hm I was 
+ai:;leep. You were ,;hecki:,1g the two and you 
+end<id up with the r eentry antenna . 
+Yes, later on in the flight, as I said, at the 
+end o.f the fir.st d9-Y or :30. 
+We seemed t o get better communications . 
+fact , I W'.:iS a little concerned that the 
+comm..micati.ons w1;re so lousy th~t W'; might h1we 
+ce~~FIDEl~T~L 
+
+===== PAGE 89 =====
+81 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt to come back in, because we were really losing 
+communic~tions. We were trying HF and all kinds 
+of things. Information just wasn't getting 
+up to us. 
+That was after EVA. 
+Right. Communications just weren't getting 11p 
+to us. 
+I figured we didn't have any communications 
+with the ground during EVA. 
+No, we didn' t . Our VOX blocked t hem out. 
+I know it. 
+But the Communications Systems Check that was 
+supposed to be performed at 15 minutes--
+we sort of already accomplishe d the thing, 
+because we'd used UHF No. 1 and No. 2. 
+I made the check with them. 
+Did you make the check? --that ' s right you made 
+the check but we didn' t use the HF because we 
+weren't going to put the antenna out until after 
+EVA. We didn ' t do anything with the urine 
+bags except keep them right where they were. 
+At this time we didn't pressure check both 
+suits, because we did this later. 
+We didn' t aline the platform , as I mentioned. 
+C:0NFt0ENlt ~ L 
+
+===== PAGE 90 =====
+82 GQ~<IFIDEl>JT IA.L 
+White 
+McDivitt 
+White 
+McDivitt 
+McDivitt The Control Mode Check was a catch-as-catch­
+can. You did unstow, the equip~ent that we 
+were supposed to unstow. The bl ood pressure 
+bulb, the Hasselblad camera and its packs, a11d 
+a 16 mm camera. During this time when I was 
+chasing the booster, I did manage to get to 
+reach back behind my seat and pull out the 
+bracket for the 16 mm camera. You tracked the 
+booster while I smoothed the thi.ng out . 
+That I s right . 
+We didn't get out the urine nozzle. How about 
+the utility cord? Did you get out that fancy 
+utility 0ord, the three-axis utility cord? 
+Yes, I knew where i t was. I didn't give it to 
+you beca~se you didn ' t need it. 
+No, I didn't need it. That's right. As Ed 
+said, we did not pressure check our suits at 30 
+minutes like we were supposed to. 
+There's this little thing here that says meas11re 
+all LV~ . All I did was put the co~puter in 
+Catch-Up, hit the Start Comp button, and just 
+let the numbers fall where they would. At the 
+time that we stopped chasing the booster around, 
+I had about 60 feet/ second in one window, 
+C-O~ ◄ Ftf}EMTIAL 
+
+===== PAGE 91 =====
+McDivitt 
+White 
+McDivitt -€0Nf-U)ENT1Al 03 
+30 in another, and 30 in another. I never really 
+ea..11e to a positio:1. to try to ni1ll all these 
+things out to see what the total 6V was. I 
+was putting in the thrust with mostly the aft 
+thrusters and the down-firing top thruster. 
+I don't think I used the left and right thruster, 
+at all. I don1 t think I used the bottom 
+thurster at all. There was no difficulty 
+controlling a~y of them. I used the forward­
+firing thrusters once or twice to try to slow 
+dow:i, to take out total velocity. 
+Then there was the Accelero~eter Bias Check lwhich was another one of those things. I don't 
+know hon I let it get into the flight plan. 
+We both joked about that one, huh, Mac? We 
+were really going to get an Accelerometer 
+Check when we were trying to track the booster. 
+I was putting 16V 's on the IVI 1s at a rate of a 
+foot per minute at least. We ended up with over 
+a foot per minute, I think, over that period 
+of time. We couldn I t have checked anybody 1 s 
+accelerom eter bias, so I just didn't even fool 
+around with it. We were supposed -to take a 
+blood pressure. Did you take that blood ~F.10ENTIAL 
+
+===== PAGE 92 =====
+84 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McD.ivitt 
+McDivitt 
+White 
+McDivitt OONFIDEN II.A:L 
+pressure , Ed? 
+Yes. 
+You did ta!<e the blood pressure . 
+I think I did. I had it out. I don't know 
+whether they asked for it or not . 
+Okay. 
+I don 1t remember on that . 
+Okey. We got the ~antity Read off. I guess 
+we got a t.ime hack so:newhere in there . 
+They called up I believe. I remember them calling 
+the Quantity Read-Off, and I turned it 0?~'. 
+That's right. 
+Then it says at one hour we were supposed to 
+W1stow and assemble the maneuvering unit in its 
+16 m:n mount. I don' t think we had that stuff 
+out by then, did we? 
+No. 
+You see, this whole flight plan was based on me 
+being able to track the booster witho~t using 
+any thrust , a~d essentially having the space­
+craft stationary near the booster, without 
+any maneuvering at all, where the station­
+keeping was a matter of just looking out at the 
+thing and co:1.trolling your attitude with pulse. 
+
+===== PAGE 93 =====
+85 
+White 
+McDivitt 
+White 
+McDivitt 
+White We thought that if the booster was stationar~ 
+we could get in close to it. We could 
+essentially fly a formation by it with mo~e 
+a:titude co:1trol than translation control , 
+which l eft me then free to help F.d assemble all 
+this stuff for the EV~. Well, it turned out that 
+I didn' t dare take my eyes off the booster for 
+half a second. So all tne things that we were 
+supposed to do together up until the t ime we 
+f inally said goodby to the booster, Ed had to 
+accomplish himB11lf. I was completely unable to 
+help him. The only thing I ma.~aged to do was 
+to unstow the 16 lllDl camera bracket and put the 
+16 mm camera on. 
+I ~ouldn't quite get at that one. 
+No. I could nardly get to it. So we w~re 
+probably behind at the hour mark. Right? 
+Yes . 
+Not by an awful lo~. 
+I knew we had a probl em with the booster, and I 
+was more concerned with our problem with the 
+booster t han getting the gun and stuff o:it 
+then. I felt that they w~re both tied together 
+and once w~ lost the booster we didn't have a 
+EONFIDEN :f.lAt" 
+
+===== PAGE 94 =====
+.86 
+McDivHt 
+W"nite 
+McDivi t t 
+W!1ite 
+McDivitt 
+McDivitt sweat time-wise on making o:1r EVA. So , I was 
+trying to be of what assistance I could to Jim 
+on watching the booster during these first .. 
+critical periods. 
+Yes. It wasn' t unappreciated because this 
+booster was becoming a speck on the horizon, and 
+if you blinked your eyes you co:1ld very well lose 
+thn dar.r1 thi"lg. 
+When wa were out that seconi day, I think you 
+said one tiine you did. lose it for a minute. 
+Tha~' s right. 
+I was lucky enough to still be seeing it, un~il 
+yo0.i started picking it up again. 
+That ' s r.·I.ght . So, I'm saying it really took 
+t ~o pairs of eyes constantly looking at that 
+booster to keep it in sight. It's juAt one of 
+those thingH that just took so much time thkt 
+we hadn't planned on. It was almost unbelievable . 
+In o:.ir flight plan from an ho:.ir to at1 hour and 
+twenty minutes we don't really show a'.1.ything. 
+Although, here again, we were busy with the 
+booster. So, when we got l:l.1'.'0und to closing with 
+the boost~r, there wasn't any closing. We 
+finally got clearance over the United States to stop 
+L 
+
+===== PAGE 95 =====
+McDivltt ~Ot~R0ENrtAf ~ s1 
+fooling with the booster. I think this was ·.t.n 
+extremely wise dP.cisioo . 
+I got to Guaymas and I said the booster was 
+pulling aw,zy from us. We'd already used abo~t 
+100 6.V to stay with it, and I recommended 
+that w~ just give up on it. We had to get a 
+deeision imm,0idiatel y because I couldn ' t stay 
+with it and 11ot use f\1el at the same t Lme . They 
+came back from Texas. I talked to Guaymas and 
+got their confirmation from Texas, which was 
+only a "Tlatter o.f a couple of m'i.nutes, saying 
+leave the booster. Th9.t was about the only 
+thing tney could 3ay. 
+Wnite 
+McDivitt And this was the time I went after the gun. 
+Okay. At th9.t time we reve.rted fror:i station­
+keeping, which we were both attempting to do 
+to EVA preparation , which we both had to do . 
+IThats when Ed went after the gun, and we 
+st8J'.'ted our ...,c,.;pa::at.i.0 .11. We wc-::-do' t .rea1 ly 
+far bt-~h..:.nd llt this time. All WH had to do was 
+get the gun out and get the m!'l.neuvering unit. 
+The cameras we·c(: already out. You had the 
+Zeiss too, didn' t yo~? 
+-E0NFIDENTJAL 
+
+===== PAGE 171 =====
+163 
+McDivitt 
+White 
+McDivitt 
+White helmet. Also, my visor was quite difficult for 
+me to raise and lower. Once it was dowr it fit 
+quite snugly, for which I was happy. But it was 
+difficult for me to raise and lower. It was 
+actually a two-handed operation, which is one of 
+the reasons why I didn't raise it outside; 
+although, I had no impulse to raise it when I was 
+outside. I think that we might be able to design 
+them to be raised up and down more easily. 
+Let me make a comment on that visor. I never 
+did see any need for the little lexion visor. 
+That's exactly the point I was going to get to 
+next. I think that one single visor made as 
+close to the helmet liner as possible, p~oviding 
+the maximum amount of headroom and a minimum 
+amount of interference, is what we actually need. 
+I don' t believe we need that lexion outer visor. 
+As they pointed out to us, it doesn't really 
+protect, because it bows in a.~d it doesn't 
+really give you the protection th~t it should 
+be affording. I would recommend one visor, one 
+sun visor only. It'll be simpler to operate. 
+I think so, too. 
+Okay. The ·v;ntillation Control Module, I can say 
+CO►~f JE>EN+IA..L 
+
+===== PAGE 172 =====
+164 
+White 
+White CQtqflOr:NTl"L 
+without qualification, worked exactly as it was 
+planned to work. There was not one complaint 
+that I had with it. It provided me with the 
+proper flow. The flow was lass than with the 
+no.:-mal ECS suit system, but it was adequate to 
+keep me cool and ventilated, except for two times 
+during the flight. Those times were when I 
+atta~hed the camera right before departing the 
+spacecraft and reenterdngthe spacecraft. But 
+I think it performed without fault. 
+The umbilical was another item that I thought 
+performed its part of the flight quite well. 
+had no complaints about it. I did tend to get it 
+tangled up with the bag and the strings that were 
+attached to the bag during EVA. 
+I am very thankful that we decided to design the 
+gloves in the manner in which we did, the two­
+piece glove that was easily donned or doffed 
+under pressurized conditions. As it turned out, 
+I took them on and off twice while pressuri zed. 
+I was quite happy that we had them designed in 
+this manner. As it turned out, the heat on t he 
+side of the spacecraft, or the cold on the side 
+of the spacecraft when we ca.:ne out of the dark I 
+
+===== PAGE 173 =====
+COl<tFtOf:M'f lA'i. 165 
+side , were not noticeable to the touch at all . I 
+didn't use a right hru1d thermal glove at any time 
+during the flight . I took it off w~en I was 
+opening the l'.e.tch and, as I pointed out earlier, 
+it floated off during the EVA operation . I didn ' t 
+have opportunity to use it again if I had wanted 
+to. Coming back i n we had difficulty closing the 
+h~tch, and I , at this time , removed my left hand 
+glove and used the plain pressure s-.1it gloves 
+for this operation . The press'.lre suit gloves 
+were comfortable . In fact , there were no sen­
+sations of either hot or cold through my gloves . 
+White Th: gcU1 , I think, was an outstanding point in 
+the flight, a highlight of the flight. It 
+worked just as we had felt it would work and it 
+was , I felt , simple to operate. The training 
+t hat I had. on the air-bearing platform provided 
+me adequate orientation in the use of the 
+space gun. I think that now that we have a little 
+more t ime to prepare ourselves for the next time 
+we use this gun, t raining with it on zero-g 
+flights would be appropriate . I don ' t believe 
+we will have any trouble using it in the zero-g 
+aircraft . 
+• COt«lf tf)[NTIAl ¥ 
+
+===== PAGE 174 =====
+166 , CONflDE~ff~At-
+White One mistake lhat we made o~ our E'fA equip~ent 
+was the rno·.mting of the Co, tarex camercl. . This 
+camera s):-iould h,•,ve been attached by velcro to Ill:) , 
+s o that I could use it independently of the gun . 
+It W'.)Uld have been easier for m,3 to us9 and I 
+would have had a nnlch higher probability of 
+getting satisfactory pictures with it. It was a 
+case of lumping too mu~h together--vJtting tha 
+g-~n and the camera together . 
+White The attachinAnt of the VCM to the h~rness was 
+a good type of attachment . It was easy to dis­
+co~nec' Lhe two velcro attachment s anti move 
+the che~t pack in and out . I hai to do this 
+both when I opened the sp:1.cecraft hatch, so it 
+would clear the hatch handle, a,d I had to ~)ve 
+it out of the way when I cl osed the spacecraft 
+and p~mp~d the hatch handle . 
+White Now we can get into some concl usions . While I 
+was out , I decided to put a piece of velcro strip 
+on the side of the adapter to see if later on we 
+might use this as a method for attaching i tern:, on 
+tha outside of the spacecraft , if the velcro was 
+still there and if it was in good shape . I think 
+the velcro could be madeinto c.. very useful item for 
+co~~Fi0£N-l1Al-
+
+===== PAGE 175 =====
+167 
+a type of tether. I think you m.ight even be able 
+to do something alo~g the line of just having 
+some fenale velcro on the gloves and pieces of 
+the male velcro at points along th~ adapter. 
+This might provide us at least some attach:nents 
+so th~t we could maneuver o'.lrselves back to the 
+adapter sect.i.oP.. This wo'.lli be about the sim•­
+plest kind of handle that we could use. I do 
+believe that we need some type of handles on the 
+outside of the spacecraft . Jim suggested one o~ 
+the nose and in the cover on the R & R section 
+up there. I think this is an area that we cer­
+tainly have a possibility of using. I certainly 
+would have found it useful. I woul d still be a 
+little h~sitant, though, o.f breaking the an-
+tenna. You wo'..lld want to be sure that this 
+wouldn't be hroken during EVA . I think the 
+feeling I had o'..lt there, again, was like 
+holding onto an 8-foot tree . There wasn't any­
+thing to hold onto. You definitely need some 
+kind of hand-holds . The decision to leave the 
+hatch open was one of the best decisions that 
+we made . It provided me with a center of oper­
+ations for my work. I was able to stabilize my-
+€Ot ◄ FIDEN--lJ AI 
+
+===== PAGE 176 =====
+168 
+McDivitt self by holding onto the hat ch. It was also 
+surprising to me how much force it took to open 
+the h.:i,tch the first time against the p·!'eload and 
+the actuaters , due to the seals. One other very 
+good decision was to have me wear the heavy suit 
+and Jim the light suit. I think thi~ was one 
+of the thine-s that made our opera.tio;1. easier. It 
+certainly m~de my getting back in the spacecraft 
+a::1d Jim's assista.1ce in closing the h;~tch much 
+easier for him , Hlso , I was handing him things 
+in a"'.ld out . He was performing quite a bit 
+of coordination in the operation with pieces 
+of equ.ipt1ent thA-t were going in 'ind o·.1t of the 
+spacecraft , and I l:>elieve t hat by being in 
+that 1ight s:.ii t he ·11as able to do this tni.1,::h 
+easier than if he had been in a heavy suit . 
+I might make a comment on that suit, too. When 
+we opened up t he hatch we were in~ vacuum. 
+n::iticed that the temperature of thA suit dropped 
+slightly so thci.t the suit was a little bit 
+cooler inside . I was w)ndering if I was going 
+to get too cold through the suit, but the rest of 
+the time we were out the the temperature never 
+changed. I don' t remember looking ~t the suit I 
+
+===== PAGE 177 =====
+169 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+White inlet temperature, but the suit itself stayed 
+reasonably warm. I had sun in the cockpit and I 
+had the cockpit open w:i.thout the s1.m iii it for a 
+rel.:1.tively long period of time, four or five 
+minutes at a time. This didn't seem to affect 
+my temperature inside the suit. 
+I think you felt the temperature more than I did. 
+I felt the temperature go down, rather than up. 
+I felt that also while outside. I would say 
+H was lery co::nfortable figu.re. I figure that I 
+was probably at 68 degrees temperature out 
+there inside the suit, which was cooler than I 
+had been anytime during the flight . It wasn't 
+a cold feeling, just a very natural comfortable 
+temperatnre . 
+~uit inlet temperature was running about 55 
+degrees during most of the flight . It got d•:>wn 
+around 52, s0 it probably might have even been 
+cooler than yo'ir 68. 
+Well, it was cooler insi1e the suit when I was 
+outsi:ie the spacecraft thn.n at any other time 
+during the flight . It wasn't uncomfortably cool 
+there at all. 
+I t hink that we can go on with some co::1clusions . 
+
+===== PAGE 178 =====
+170 
+McDivitt 
+White 
+McDivitt Some conclusions that I had were: 
+1. I didn' t notice any extremely hot temperatures 
+on the outside of the spacecraft . I al so 
+didn' t co~tact surfaces for any period of 
+time to tra~sfer much in the way of a hea~ 
+load to any part of my suit including the 
+gloYes . 
+2. There Is a de.fi·-iite req-.ii rement for som(3 type 
+of hand holds outside the spacecraft . 
+3. We should think a little more o~ where we want 
+to operate during EVA and where to attach 
+the tether . The tether was not attached at 
+a po.int that wo·.1ld provide me the capability 
+to operate in the area that I wanted to . 
+You coul dn't get to the nose. It p.i:-ovided great 
+operatio~ for directly above. 
+Straight above. 
+I just don' t know how you would get the thing 
+out there . You would have to run it along the 
+spacecraft , then attach it somewhere at thfi 
+" front . 
+It would preclude operations in other areas. You 
+would either have to accept ,,,here we a.re going 
+to operate or--. 
+
+===== PAGE 179 =====
+171 €0~4FIOENT+AL 
+M.oDiv:itt 
+White 
+McDivitt 
+White 
+McDivitt ·::·ou conld have n::..lt iple attachment points around 
+the spacecraft . 
+Of course , now , if you have a g-..m with a good air 
+sour0e, I wouldn't particular l y care where it 
+was attached . I thi.nk you could go ahead a..'ld, 
+maneuver to a:ny point you want if you have a gun. 
+Again, when you're p~shing off of surfaces , you 
+tend to go perpendicular to the surface from 
+which you push off. I found when I p·.lshed as 
+hard as I wanted to I'd still tend to go straight 
+up above that hatch instead of ou t toward the 
+fron·~. I think this is a fairly obvious con­
+clusion, but it proved out . Everytime I pushed 
+off I went straight up instead of at an angle 
+to the surface where I wanted to go . 
+So!lle thi.ag that you should bear in mind is that 
+yo•.1 were pushing off fro!ll the front whi.ch 
+tended to make the front go down as you went 
+out . 
+Yes. Everything was working against getting 
+where I wanted to go. Everything I did tended 
+to put me up. 
+When you started you went in a straight li.ne 
+forward and tended to p~sh the spacecraft down. 
+
+===== PAGE 180 =====
+172 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White CO►J Flf)fNf1M 
+I think, initially , where I was holding the 
+attitude, yo'J. didn't have that much trouble. Of 
+course, you weren' t pushing 13.S hard ei·~her, be­
+cause you had the gun . 
+No, I wasn't. 
+Later on , when we started free drifting, you 
+w,~re ba~k behind m~J where I couldn' t see. 
+Did you feel me stomping around back on the 
+adapter and hitting the adapter. 
+Weil, I felt you hitting things back behind me 
+and once you went behind the line thEit was dir­
+ectly over'.,.ead the spacecraft. l cottldn' t see 
+you t hrough your open hatch. 
+I never reaEy had a good co.!ltact with the 
+adapter back there . 
+Just as -:,.r,21 l . We W':r:.ildn' t want to disturb those • 
+radiator tubes too much . 
+No, Well, now that we 're back, we'll have some 
+conclusions on the adapter area. I made it a 
+point right from the beginning -~o take 
+a look at the thermal lines, the thermal p~int 
+on the adapter. It looked like it was in good 
+shape . It was all there. There was discolor­
+ation arou.~d the attitude thrusters , particularly, 
+GONFIDEt>ilTIA! 
+
+===== PAGE 256 =====
+248 'CONFtDt:t+l~A l:--
+McDivitt You were still asleep, and I think you got up 
+around 92: 3(), I would guess . Sometime around 
+in there. I know that I got up three hours 
+before retrofire and I slept about an hour and 
+a half. You can go back and say that you got 
+up about 92: 30 or 93 elapsed. Ed had urinated 
+in the bladder and the bell ows was full . As it 
+got towards the end, i t started going out very 
+slowly, but it did all go out . So , I turned 
+the thing off normally. I l eft preheat on for 
+a short time, two or three minutes , and then 
+turned it off. After my urine dump, I had 
+about half air and half urine in the bladder, 
+and the bellows filled out. It just.stop ped. 
+It was pretty obvious that it wasn't going to 
+go any farther . I turned off the OVERBOARD 
+position and went to PREHEA:T on the other 
+switch. I then went over to the evaporator 
+and dumped through the evaporator and it 
+dumped right overboard . We used the evaporator 
+dump system one other time during the flight. 
+We played back the tapes and the things we 
+were supposed to do unt il about 93 hours, I 
+CONF-10EN"FIAl ... 
+
+===== PAGE 257 =====
+-----ceNFl0EN ·;pJAL 249 
+believe, and that's when I went to sleep. I 
+woke Ed up and I went to sleep at this time. 
+White Actually we got our update while you were 
+asleep the time before. We got the update for 
+how to perform the retro. We figured that with 
+the procedure they gave ue, if we followed it, 
+we would get a three-sigma miss distance of 
+70 nautical miles. We were to use an 0AMS 
+r etor with a manual retro. At this time, we 
+were going to push the manuel button. They 
+didn ' t know at this time that the TRS was 
+working all right . They later came in and 
+told us to use the automatic mode of time. We 
+were to use zero-lift rolling. We were to 
+start the terminal maneuver at the 400 000 foot 
+marker. They told us to expect to encounter 
+about 8 g's during the reentry. We were told 
+the recovery area had three to four foot waves, 
+18 knot winds, and good weather. I 1 ll cover 
+this more later. 
+White There wasn ' t much more. We got an update. I 
+took a few more pictures , and I did a medical 
+pass. During that hour and 40 minutes there,·wasn ' t 
+CONFl0ENTIAL 
+
+===== PAGE 258 =====
+250 
+McDivitt 
+White 
+White 
+McDivitt .u1.ything else. Nothing else was scheduled . 
+We were down through what we felt was all the 
+fuel we wanted to use, so about all I did was 
+a couple of tracking tasks. 
+Going back for a moment, -at 17:19 I did an 
+Apollo D-6 on Yuma. Okay, I think that brings 
+us to the preretro portion of the mission. 
+Right, Ed? 
+Yes, sir. I think you 'll find there are ~uite 
+a few errors and omissions in what we've put 
+on the tape right now. I think you have to com­
+pare them both--the two tapes together--to get 
+anything. 
+That's like air to ground tape, also.· 
+That's right. It has to all be put together . 
+This is just a piece right here. 
+White We really started our preretro preparation 
+about three hours prior to preretro . At this 
+time we started stowing equipment and pre­
+paring the spacecraft and ourselves for the 
+retrofire. I think we worked for probably 
+30 ±o 45 minutes without making a very bi g 
+CQ~~F-IDENTI--Ab 
+
+===== PAGE 259 =====
+251 
+White 
+McDivitt -eOl'<tflDEN Tl~L 
+dent in the pile of junk that we had in the 
+spacecraft . IL.was apparent to1,me at ·I.hat 
+time that we were going to have to go a lot 
+faster than we were going or we'd still be up 
+there stowing stuff away at retrofire time. 
+So , Ed and I then went into high gear and we 
+really started stuffing stuff away. We put 
+the film in the middle food box, and we put 
+the caJDeras and some of the refuse, including 
+three defecation bags, exerciser, and some 
+other things, in the left-hand aft food b·ox. 
+I took a lot 1,nger to stow the equipment than 
+we had planned. Do you have any comments on 
+that? 
+Yes , I thought this also . We had just every­
+thing out prior to this time. We hadn' t 
+really been able to stow anything . We used 
+every piece of our equipment right up to the 
+time we started our stowage. In fact, I think 
+you were getting a little uneasy there for a 
+little while that we weren' t going to get it 
+all in, 
+That's right. At the rate we were going, we 
+c,;J ~~FI f:}E·NT·IAL-.. 
+
+===== PAGE 260 =====
+252 
+White 
+McDivitt 
+White 
+McDivitt 
+White COl<IFIDEt\fltA L 
+wouldn' t have. 
+That' s right. We had to accelerate our pace a 
+l ittle bit and perhaps get a little faster and 
+not quite as thorough in o~r stowage as we 
+would liked to have been. I think everything 
+was put away. Everything was put away except 
+for the umbilical . We knew we weren't going 
+to stow the urine hose, so we put that in the 
+umbilical bag. The two meals that we had left 
+we put in the umbilical bag aleo. 
+We had some other things. We had the extra­
+vehicular sleeves off your sujt, the blanket 
+that went over my leg, the launch-day urine 
+bags , and a couple of other things were down 
+underneath my legs. They were between my l egs 
+and the seat. 
+Right. I put my launch-day urine bng in the 
+bag also , so that things wouldn 't ric.oohet·. 
+around. 
+I think we had all your stuff in the bag and 
+I had all my stuff wedged between my legs and 
+the seat. 
+We both also had a trash bag on either side. 
+€0~<1FIDENTIAL 
+
+===== PAGE 261 =====
+253 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt We had that on the l aunch also. 
+The trash bag was full. 
+Did yours stick on the side? 
+It stuck. 
+So did mine. I put mine further up --
+It didn ' t have anything heavy in it. It was 
+light weight. 
+It was all trash. 
+Dry trash. 
+It all stayed there pretty well. We di d get 
+the stowage done in time. I think we had about 
+10 or 15 minutes in which to collect our wits 
+f or the --
+That's right. I was trying to make an-effort 
+such that at the time we arrived over Carnarvon 
+the greatest part of the stowage would be 
+down. However, we didn't quite make this. I 
+had a time powering up the spacecraft , and I 
+had the IGS power on. I had already turned 
+the IMlJ on. I was beginning to warm it up, 
+and had it in the Cage Mode . 
+When we got to Carnarvon we were still stowing 
+things away. I think by that time I had al-
+t0NF1Dc1'ff~L 
+
+===== PAGE 262 =====
+254 
+I GOt\J FIDE~I-A=l 
+White 
+McDivitt 
+Whit e ready strapped myself into the spacecraft. 
+had my survival gear hooked up, my shoulder 
+harness hooked up and my lap belt on loosely. 
+We did the things that I could do by myself, 
+such as stow·ing the ventilation module and 
+stowing the cabl e. You were doing other things. 
+That's what I said. We were coming up to 
+Carnarvon . I was shooting to have all this 
+stuff put away by then. We didn't have it all 
+put away but we had most of it done, where I 
+could actual ly get around to flying the space­
+craft again. We checked in with Carnarvon , and 
+confirmed our retrofire time. We weren't 
+really supposed to pick up our retrofire dat a 
+until we passed over the States. From Car­
+narvon on up to the States, we ~ontinued to 
+stow away little bits of pieces that we had. 
+I think you were still eating. We finally de­
+cided that you'd better stop eating or we 
+weren't going to be ready for reentry. 
+With a little prethought I had taken one meal , 
+prepared it and set it aside so I could eat 
+it just before reentry. This is what I was 
+
+===== PAGE 263 =====
+255 
+McDivitt 
+White 
+McDivitt 
+White doing. 
+As we came up on Carnarvon , I thought that we 
+were in excellent shape. We had a lot of spare 
+time . We could get ready for retrofire . We 
+came up to the United States and ran a pass 
+across the United States. We got the update 
+times and we got all the reentry quantities 
+~hat we needed, both with and without OAMS . 
+They told us that they had a valid load in the 
+TRS . At this time, I assumed that they 
+checked the TRS, but when we got our early 
+retrofire, I wondered if anyone really had 
+checked the time. 
+I know it was off at least a second. · I'd 
+estimate it was off a little more than a 
+second. 
+A second and a half, probably. No more than 
+two seconds because we didn't arm it until 
+three seconds• But it sure fired shor tly after 
+that. 
+Yes. One thing that we got was different . All 
+our quantities checked out except for one. 
+They called up a landing time which, the first 
+
+===== PAGE 264 =====
+256 
+McDivitt C.QNFIDENT~AI. 
+time, I copied it as 15: 55, and the sec.;ond 
+time I copied it as 17:10. This was prior to 
+firing anything , so I think they corrected one 
+time only. I thought the rest of it was very 
+well h8J1dled . We had the times called up and 
+verified several times . 
+As we started our pass across the States , I 
+started alining the :EDJ.atform .. We had the best 
+alined platform although we didn' t really need 
+an alined platform since we didn't have a 
+closed loop guidance system. But we sure had 
+the best alined platform at retrofire that the 
+space business will probably ever see . I 
+alined the platform across the United States, 
+and then I went to Orbit Rate. I had about 
+a 20-minute alinement on it and went to Orbit 
+Rate. We left it in Orbit Rate. I did this 
+alinement small-end-forward because I wanted 
+to see where I was going for a change. We 
+went into the dark side, and we really got 
+into our checklist then. We performed the P~e­
+retro Checklist well in advance of when it was 
+supposed to be done. It shows it in the flight 
+
+===== PAGE 265 =====
+257 ,.CO~ F ID"EMltAt 
+plan at about 96:40 with the retrofire at 
+about 97:45. I think we did the Re,tro Check­
+list right after we completed our pass across 
+the States. We did it right at about 1+30. 
+Then I did it at one hour. At TA-1 hour we 
+went through the checklist again, and got· all 
+those things that we skipped. Some of them we 
+didn't want to do as early as an hour and a 
+half. We went through it again in an hour, 
+and we did the Preretro Checklist step by 
+step. I think at that time we had everything 
+stowed away. We took a couple last drinks of 
+water, and put the water gun away, and then 
+proceeded on down. 
+White I had one comment on that checklist. I still 
+think our HF procedures are not too well de­
+fined--when we do and when we don' t put the !::IF 
+out. Not out, but when we put No . 2 on HF. 
+It popped up in the checklist again and we 
+questioned this prior to the flight. Why put 
+No . 2 audio on HF during this time? I do not 
+feel we want to be on HF. We had the HF on. 
+We could hear them calling us, if they did call 

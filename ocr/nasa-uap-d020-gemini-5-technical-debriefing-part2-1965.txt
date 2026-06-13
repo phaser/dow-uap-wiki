@@ -1,0 +1,1913 @@
+
+
+===== PAGE 1 =====
+22 
+Authority: 
+NW 91526 GEMINI V 
+j Technical Debriefing 
+Part ~I_I_________________ _ 
+CLASSIFICAT:ON CHANGE 
+o_ ----.......,,_~ s:..;;...:1:...::...,::.1-=-= c L~A o_~ s F E 
+By authority of • o I G !>-.2. -/ -? "'t.. 
+Chanied by C'~~ , Date NOV 2 0 
+NOTICE: This document may be exempt from 
+public disclosure under the Freedom of Infor­
+mation Act (5 U.S.C. 552). Requests for its re­
+lease to persons outside the U. S. Government 
+should be handled under the provisions of 
+NASA Policy Directive 1382.2. 
+THIS MATE,-IAL CONTAINS INF09'MATION AFl"£CTING 
+THE NATION"L DEFENSE OF TH t: U NITED STATES 
+W ITHI N THE MEANING OF TH£ ESPIONAGE LAWS .. 
+TITLE 18. U .S.C. SECTION 793 AND n• . THE T9'ANS­
+MISS ION OR REVELATION OF WHICH IN "NY M"NNIEl'I 
+TO AN UN ....UTHORIZ£D P'EASON IS PIIOHIB ITED BY LAW. 
+GROUP 4 
+DOWNGRADE D AT J YEAR IN TFRVALS 
+CECLASSIFIEO AFT£9' 12 YE...,,-5 973 
+l 
+
+===== PAGE 2 =====
+COt~FIDEt~TIAL 
+PRELIMINARY 
+GT-5 FLIGHT CREW DEBRIEFING TRANSCRI PT 
+PART II 
+Prepared By 
+Spacecraft Operations Branch 
+Flight Crew Support Division 
+September 2, 1965 
+This material contains information affecting the 
+national defense of the United States within the 
+meaning of the Espionage Laws, Title 18. U.S. C. 
+Section 793 and 794, the transmission or revela­
+tion of which in any manner to an unauthorized 
+person is prohibited by law. 
+Group 4: Downgrade at 3 year intervals 
+Declassified after 12 years 
+co~~FIDEt'4TIAL 
+
+===== PAGE 3 =====
+(' 
+PREFACE 
+This preliminary transcript was made from voice tape recordings 
+of the GT-5 flight crew debriefing conducted August 30, 1965 thru 
+September 2, 1965 at the Crew Quarters, Cape Kennedy, Florida . 
+Although all the material contained in this transcript has been 
+edited, the urgent need for the preliminary transcript by mission 
+analysis personnel precluded a thorough editorial review prior to its 
+publication. Errors in this transcript will be corrected as soon as 
+possible and an official transcript will be published at a later date. 
+This document contai ns a transcript of the second part of the 
+total debriefing . A prel iminary transcript of the first part was 
+published on September 1, 1965, and it contains the crew's description 
+of the mission from an operati onal standpoint. 
+
+===== PAGE 4 =====
+;CAts4flOEt!!IIA b 
+TABLE OF CONTENTS 
+Paragraph Page number 
+8.0 SYSTEMS OPERATION 
+8. 1 Pla t f o:rm. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . • . . . . • • 1 
+8. 2 O.AMS •• ...... ........ . . ......... . . . .....•.. •. •• ••••• 16 
+8. 3 RCS •....... ...•....•..... . .•..••........•.•••••• ••• 47 
+8.4 Environme ntal Control System·•·•·•··•·••····•••••• • 54 
+8, 5 Comm.1.lllications .... . . ................. . ... ...••••••• 66 
+8. 6 Electrical System ... . ... . ......................... . 80 
+8. 7 Compute r ...... .. . ... ............ . ........ . .. . . . .... 82 
+8.8 Cr ew Station ....................................... 90 
+9,0 OPERATIONAL CHECKS 
+9.1 Apollo Landmark Identific ation •••••·••·••·•••• •••· 132 
+9. 2 Cabin Lighting Survey . . . . . . . . . . . . . . . . . . • . . . . • . • . • • 146 
+9. 3 SPADATS Tracking Check . .. . ... .. . . .. . . . . .. •..• • . . .. 147 
+9.4 UHF Antenna Pattern Test ..................••.•.••. 147 
+9.5 Thruster Illumination Checks ........... ..•....•••• 148 
+9.6 Dual Command Transmitter Test .................•••• 148 
+9. 7 Radar Test s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . • . • • . 148 
+9. 8 ID1 Evallla. tion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . • • . • . 150 
+10.0 VISUAL SIGHTINGS 
+10. 1 Powered Fl ight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152 
+10.2 Orbital Flight .............................••..•.. 153 
+10. 3 Reentcy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172 
+11.0 EXPERIMENTS 
+11.1 Visual Definition of Celestial Objects (D-1), 
+Nearby Object Photography (D-2), and Terrest rial 
+Feature s (D-6) ••····•·•·••···•·•••· •···••••••••••· 210 
+11.2 Celestial , Space and Terrestri al Radiometry ..•.••• 222 
+11.3 Synoptic Terrain (S-5) and Weather (S-6) . 
+J?rl.otogr aphy . . . . . . . . . . . . . . . . . . . . . . . . . . . • . . . • • • • • • • • 228 
+11.4 Visual Acuity and Astronaut Visibility (S-8/D-13) 
+and Vision Test (M-9) .......... ................. .. 233 
+11.5 Electrostatic Charge (MSC-1) .......... ••..•.•••••• 242 
+11.6 Zodiacal Li ght Photography (S-1) .............• ••.• 243 
+11.7 In-flight Exer ciser (M-3) ........... . ..... ........ 243 
+11.8 In-flight Phonocardio gram (M-4) ••••··•••••••· •··•• 244 
+11.9 Cardiovascular Reflex Conditioning (M-1) .•••••••• • 244 
+11. 10 Cloud Top Spectrometer (S-7) •·•••••··•••·•• •••· ••• 246 
+11.11 Miscel laneous ............. ........•...... ....••••• 248 
+
+===== PAGE 5 =====
+CQ t-4 F-1 DEt-4TIAL 
+12.0 PR.EMISSION PLANNING 
+12.1 Mission Plan (Trajectory) ... .. ............ ......... 255 
+12.2 Flig}lt Plan .................... ......... ...........255 
+12.3 Spacecraft Changes ................................. 255 
+12.4 Mission Rules . ...... . ................. .............256 
+12.5 Experiments ...... . ... . ...... . .. ..........•......... 256 
+12.6 Training Activities . . .. . .. .. ......... ..........•...257 
+MISSION CONTROL 
+13. l GO/NO GO ••.....•............... .. .......•••. ••• .... 261 
+13. 2 FLA and CLA Updates ................................261 
+13. 3 Consumables .•... .. . . . .. .................. . ......... 261 
+13.4 Flight Plan Changes •....... . . . .... ......•....... . •. 264 
+13. 5 Systems .••................... .........•.•..•• . . . ...267 
+13.6 Experiments Real-Time Updates ............... ....... 268 
+TRAINING 
+14.1 Gemini Mission Simulator ................... ........ 270 
+14.2 LT\T , DCPS • , ......... .. ..•............•• ..••..••..•• 284 
+14.3 MAC Engineering Simulator •••••·•·••· •·•·•••••••·•••285 
+14.4 Centrifuge .......... .... ... ........................ 286 
+14.5 Translation and Docking Trainer ••• · •····•·• · ··•••··286 
+14. 6 PlSlletaritllD. ... ..... ................... . ............ 288 
+14. 7 Systems Briefings .................................. 292 
+14.8 Flight Experiments ...... ..... ...... ..........•. ....293 
+14.9 Spacecraf t Systems Tests ........................... 294 
+14.10 Egress Training ............ .. .. ....................296 
+14.11 Parachute Training ......... ....... . .... ............ 297 
+14.12 Ia.unch simulation ............. . .. .................. 298 
+14.13 Network Simulation .................................298 
+14.14 Reentry Simulation ............................... .. 298 
+14.15 Simulated Network Simulations . . ... . . ........ ....... 298 
+14.16 Zero "G" Fligh.ts ............ .... ................... 299 
+14. 17 Flight Plan Training ......... . . . . . ............ ..... 300 
+15.0 CONCLUDING COMMENTS 
+15.1 Crew Qu.arters .... ; ....... ... ... ... . ...•........... . 30 2 
+15.2 Physical Training and Aircraft Flying .............. 303 
+15.3 Sea I.a.b . . .. ........ .......... . . ..... . . .. . ...... . ...304 
+15.4 Watches and Clocks .................................304 
+15.5 Miscellaneous Discrepencies •• · ··•·• · ·· ••••••••••••• 306 
+15.6 Medical Aspects ........... . .......... ..............310 
+
+===== PAGE 6 =====
+1 
+8.1 Platform 
+Cooper 8.O SYSTEMS OPERATIONS 
+By day we used standard procedure of finding a 
+zero yaw, which is a little easier to do down at 
+about retro position. The nose is a little bit 
+in the way for determining zero yaw unless you 
+pitch down just a little past nose low in zero­
+zero-zero position. When pitched down just a tiny 
+bit, zero yaw was very readily apparent to within 
+a fairly reasonable degree of accuracy, and then 
+ease it right on up. We had lines for the zero­
+zero position to give us our pitch and roll on the 
+horizon. This was the regular day alinement. 
+Night was pretty much the same except we 1d get 
+zero yaw by a star, get roll and pitch by the zero 
+lines on the window (or knowing where they were 
+approximately) line this with the top of the air­
+glow or the horizon. At that point you'd go into 
+Cage, hold it there at that position until it 
+caged) then uncage the platform to BEF or SEF 
+whichever the case might be, and then to to Plat­
+form and Attitude on the FDM and FDI's. Then 
+aline the platform fine aline SEF or BEF by keeping 
+, 
+
+===== PAGE 7 =====
+2 
+the needles zeroed. It would slowly gyro torque 
+itself and correct out the small errors for fine 
+alinement. Anything to add, Pete? 
+Conrad Well, I didn ' t hear all of that, but I think the 
+alinement is straightforward . One thlng I had not 
+read in either the GT-3 or GT-4 debriefings on 
+this subject on out the window alinement was that 
+we have a window gage that you can us1i t hat will 
+put you right on in roll and pitch ancl, of course, 
+for yaw you still have to use the same out the 
+window reference. 
+Cooper One thing that I think that should very definitel y 
+training wise be readily available anc. we looked 
+and looked and looked and couldn't fir..d any was an 
+actual scale picture of the left hand wi ndow and 
+the right hand window with what the hcri zon should 
+look like at zero-zero-zero and at retro attitude 
+and at minus 90 degrees left and 90 degrees r ight 
+and at 60 degrees left and 60 degrees right and 
+this type thing. I've never seen an a~tual drawing 
+showing the horizon line on a window a·'ld what i t 
+should look l ike. 
+
+===== PAGE 8 =====
+3 
+Conrad Yes 
+Cooper I think this would be a tremendous benefit and 
+shouldn't be difficult to come up with. 
+Conrad If you place your eye so that it goes through the 
+lower left corner of the right window or the lower 
+right corner of the left window and run that eye 
+position right through the front RCS yaw thruster, 
+the lower yaw thruster in the front ring, I guess 
+that's ring A, anyway, you take a line between 
+your eye, the corner of the window and the front 
+RCS yaw thruster, right through the middle of it, 
+and put that line on the top of the airglow or the 
+horizon. Then the spacecraft, and this looks like 
+an excessively nose up attitude, but it's not, 
+you're zero degrees in pitch then the window frame 
+is just about vertical to the horizon and it forms 
+a perpendicular angle. 
+Cooper The inside edge of the frame . 
+Conrad The inside up and down edge of the window corner 
+makes a perpendicular angle to the horizon and you 
+can use that as a roll gage. If you set it up 
+
+===== PAGE 9 =====
+4 
+that way that platform isn 't 
+i n roll or pitch. off 4 or 5 degrees 
+Cooper So, i t really looks like, when you fir3t start 
+lining it up, it appear s to you that f::-om the 
+left seat that you ' re actually rolled l eft, 
+Conrad Yes, that's right. 
+Cooper And f r om your seat it would look l i ke j t 
+actuall y r olled right. was 
+Cooper It doesn' t look horizontal at al l, but that ' s due 
+to the fact t hat you 're sitting off by thi s offset. 
+Conrad One other thing that you might say about platform 
+alinement is that if you ' re not on in roll and 
+pi tch, mainl y roll, t his really will ea t you up 
+in alinement time . 
+Cooper Roll and yaw are 
+you can be off a 
+out. t he bad errors creator:,. 
+l ot i n and it'11 correc:t Pitch 
+r ight 
+Conrad Not if the other two (roll and yaw) are off . 
+Cooper But if you 're off in roll and/or yaw th€n it 
+really takes a long time and its real rcugh . 
+
+===== PAGE 10 =====
+5 
+Conrad You don't want to be deceived by the fact that 
+the needles are holding in the center pretty well. 
+Cooper That's right, one thing that we found when we 
+were going through this real, real long platform 
+alinement prior to getting all l i ned up for retro­
+fire was that we had the needles all alined, t hey 
+were sitting all glued out. But you have to si t 
+there with them for a little bi t glued out. They 
+sit there all zeroed out, it looks like everything 
+was all alined and al l of a sudden yaw begin to 
+ease off quite a bit showing that we weren ' t 
+alined. 
+Conrad At one time we went to Orbit Rate when we had not 
+pulled the yaw all the way in and, boy, it showed 
+up in roll as we started moving around. 
+Cooper Orbit Rate and Horizon Scan. 
+Conrad I mean it shwed up in the roll axis . 
+Cooper Oh, yes. Right. 
+Conrad You have to take t he time and be careful with the 
+platform alinement, no doubt about i t. 
+° CSf*fDEt ◄ TIAl 
+
+===== PAGE 11 =====
+6 , 
+Cooper And i t takes t ime to do it and do a 
+job on it. r ~ally good 
+Modes. The only thing I can say about 
+that it takes an excessively long tim1; Cage is 
+to Cage . 
+Conrad I 'll comment on this even though we d:i. dn't get a 
+chance to do the rendezvous , but even in simula­
+tion, it was apparent and the l i ttl e bit t hat 
+we did in flight caging the ~latform , getting 
+ready for alinements and t hings l ike -;hat, it 
+was very time consuming . I think tha·; you could 
+find use for a fast slave cycle. 
+Cooper Very much so. 
+Conrad Fast Cage cycle is what I should say. I 'll say 
+it's a luxury item but it sure could be helpful . 
+Cooper SEF and BEF worked just like advertisE id. SEF 
+for fine aline and small-end-forward, BEF for 
+reYersing your phase angles so that you ' re still 
+steering to and fine alining blunt encl forward. 
+Conrad J i m and Ed made the comment that t hey never alined 
+BEF, that t hey always alined SEF. We alined SEF 
+normally through the flight and when ,:e were ready 
+60 ►◄~ ~ 
+
+===== PAGE 12 =====
+7 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad to retro, we wanted to save as much fuel as 
+possible, so we alined BEF and I think alining 
+BEF is easier than in SEF. 
+Yes , 
+I think you can tell yaw better going backwards 
+than you can going forward. 
+Yes. 
+I don't know why, maybe it was just psychological . 
+I agree with you, I really think you're right. 
+I think you can tell it better. It streams away 
+from you a little more . 
+Yes. It was easier to pull in in yaw. I thought 
+it was a little more comfortable feeling. I 
+enjoyed the riding around alining the platform 
+BEF much more than when we alined it SEF, and I 
+felt we were closer to being on most of the time 
+when we pulled it in in yaw. 
+Of course, we had a little better control system 
+there, it does help. 
+Yes . 
+Mt ◄ FIDE►~TIAL • 
+
+===== PAGE 13 =====
+8 ~NftDE~~TIAt ·,_ 
+Cooper I think either way (SEF, BEF) is good, both worked 
+very adequately and it just depends on which way 
+you want to aline for what you ' re going to do . 
+BEF is certainl y at least as acceptable as SEF. 
+ORBIT RATE was not bad off at all. We didn't 
+have any l arge errors in it due to t he fact that 
+we had more nearly circular i zed our oroit from 
+t he burns that we did. 
+Conrad We were about at 171-60 at that time p<=:riod. I 
+don't know what t hey had picked as an orbit rate 
+number at the end finally for the REP. 
+Cooper We were about 107, 166. 
+Conrad Yes . I was really surprised with how ,..,ell the 
+platform stayed on after just t aking a quick look 
+at zero-zero-zero, not even trying to ali ne these. 
+We just passed freely through this in dr ifting 
+flight and uncaged the platform right into Or bit 
+Rate, and it didn't get off five or ten degrees 
+in any of the three axis. 
+Cooper For about 20 hours . 
+'i0 ►~FIDE ►~TIAL 
+
+===== PAGE 14 =====
+9 G©t◄ FIDl!~~TIAL 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+,, 
+Cooper Yes, for about 20 hours that we drifted around. 
+It was finally off the most in roll. It got about 
+15 degrees off in roll. 
+Orbit Rate worked very well. 
+Other than inertial work, I just didn't see any 
+big advantage in free. You'd still think in 
+terms of the local horizon up there most of the 
+time. 
+Yes . 
+We just never had much occasion during the f light 
+to use FREE. 
+Platform displays . 
+Bal l operation through the poles was just 
+fantastic! It was so smooth. The only way you 
+could tell that you were going through a pole 
+is you could see the roll index, vehicle is on the 
+roll gimbal, flip. 
+Yes. This is something we had trouble finding 
+out, whether this was the case or not and we 
+deliberately ran several specific checks of this. 
+<!rJ~~FIDEt~TIAL 
+
+===== PAGE 15 =====
+10 
+Regardless of which way you approachec. it from, 
+whether you approached i t fast or slm.-or whether 
+you 're going through the 90 or 270 pojnt on the 
+ball, you can go right smack through the middle 
+of it, you can sit right in the middle of it, 
+you can move up or down, r ight or left and the 
+ball doesn't jump, doesn't j itter, doesn't do 
+anything . It's just beautiful . 
+Conrad Yes . 
+Cooper We did a burn right through each one of the poles. 
+I think the controls are pretty simila-r to what 
+they are in the simulator . There are t wo 
+exceptions, one of which I think i s valid and 
+which I think may be influenced by the fact that 
+we had a lot of s low degredation in ou:~ OAMS 
+system. I thought that the PlJISE system in the 
+spacecraft had a lot less torque, a reasonable 
+amount less torque and it got a lot leBs, as we 
+went along it got less and less and leHs . 
+Conrad Yes . 
+Cooper But even i nitially, it felt like thP-PlLSE system 
+
+===== PAGE 16 =====
+11 
+had less authority in the spacecraft than it does 
+in t he simulator. On the other hand, I felt the 
+RATE COMMAND system had a heck of a lot more 
+authority in the spacecraft than it does in the 
+simulator . 
+Cooper That RATE COMMAND just flat snaps you in. In the 
+simulator, when you come around in RATE COMMAND 
+and you let off it will go through 5 to 10 degrees. 
+You have to let off on it 5 to 10 degrees early. 
+By golly, in the spacecraft you didn't have to 
+let off even a degree early. When you let go, 
+it stopped right there just like you put on the 
+brakes. 
+Conrad Yeah. It was good and it was tight. 
+Cooper It was so tight that you almost had to --
+Conrad That was OAMS Rate Command. 
+Cooper You almost had the feeling that the OAMS Rate 
+Command was almost bending the Adapter Section. 
+I t had such high torquing rate. 
+Conrad On day 2 and 3, our OAMS system was working 
+completely correct. I was extremely impressed 
+
+===== PAGE 17 =====
+12 • 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+FCSD REP 
+Cooper 
+Conrad with how nice a control system i t was. We made 
+several maneuvers using this control Eystem and 
+didn't have any gripes on that system at all. As 
+Gordo said we were really impressed wjth the 
+Rate Command system. 
+When you turned around 90 degrees in crder to get 
+rid of the REP, did you use the 8-ball ? 
+Yes. 
+FDI 's are on this Gimbal flip busi ness too, you 
+see. They do that in the trainer, but they were 
+steady as a rock in the spacecraft. 
+Yes, we used the FDI's for the fine al ine. Al­
+though to get there we used the 8-ball. 
+We had trained to use the IVI's. 
+That 's right. 
+We used the IVI 's, not the FDI' s . We used the 
+IVI 's as the real fine measure of being lined up. 
+We used the FDI 's too. 
+You can use anything in the spacecraft. 
+
+===== PAGE 18 =====
+13 
+Cooper 
+.. 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad • 
+You can't use the FDI's or the 8-ball as a 
+reference in the mission simulation because you 
+have this gimbal flip which just gives you fits . 
+We didn't use Rate Command very much, mainly just 
+for the burns. In fact, the burns are the only 
+times we used Rate Command. I used the Direct 
+system several times and I thought the Direct was 
+really good. It was good and crisp and you had 
+good authority with it. 
+I had the impression that the spacecraft was a 
+lot more stable vehicle in Di rect than it was in 
+the simulator . 
+Tmt's right. 
+In t he simulator you tend to sit there and go 
+too much and go too much. When Gordo'd stick a 
+shot of Direct in to go someplace, it never 
+showed up in another axis. An equal shot in the 
+other direction would stop it ri ght now. 
+Yes. 
+The effects momentum of the spacecraft didn ' t seem 
+to be as great in flight as they were i n the 
+~f:HDEt ◄TIA ~ 
+
+===== PAGE 19 =====
+14 "t OMFtDE~ ◄ TIAL 
+simulator . You didn ' t have to lead a:, much. 
+Cooper That's right. 
+The Direct system was a much more precise system 
+in the spacecraft than it i s in the s' mulator . 
+Conrad I thought it was quite easy to fly, but there's 
+no doubt about it, boy, that Rate Corrunand eats 
+up the fuel . 
+
+===== PAGE 20 =====
+15 • 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper Direct uses quite a bit of fuel also. 
+We did use a little fuel t hat one day. We were 
+doing so many experiments in a row that we had to 
+very rapidly get the spacecraft back to a zero­
+zero-zero or a pitch down 30 position. When you 
+track one of these targets and come through the 
+nadir and keep on going, boy, you're really smoking 
+towards a rearward direction . 
+You're sitti ng i nverted BEF. 
+That's r i ght, you' ve got rates built up going away 
+from you and you 'd have to use Direct to stop those 
+rates, get yourself moved all the way back up here 
+and stop them again. Maybe it'd be so tight that 
+you'd use Di rect to get down and start on it, and 
+then switch to Pulse and track in Pul se and then 
+r i ght back up and start doing something else. Well, 
+we di d eat up a lot of fuel that day, but we got 
+everything done that day. We hit darned near all 
+targets. 
+Di rect is a real responsive , real fine way to 
+maneuver. 
+60t~Fl0Et.t:tAt 
+
+===== PAGE 21 =====
+16 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+8.2 OAMS 
+Cooper 
+Cooper •i Q:Mf~Cf1stIIAla .. 
+Platform controls were very straight fc,rward. I 
+thought they all functioned as expected. 
+The Platform took the full 25 minutes to go through 
+the fast heat, and the first time on it was really 
+cold and took another 3 minutes worth before start 
+of the Cage Cycle. After that, it seemed to stick 
+right around 25 minutes to get the platform up and 
+on the line and start into Cage. 
+Right now, I've got extreme confidence in that 
+Platform . I really think it does well. 
+'.Ihe platform did an outstanding job during the 
+entire flight. 
+I t sure did. 
+We fired the OAMS on the pad and it was mushy. You 
+couldn't hear them fire just gas mainly, About 
+the third round of firings however, you could really 
+feel them fire off, they were all good. 
+During flight the OAMS started out very good and in 
+about the third day began to degrade. ~:he f i fth day 
+
+===== PAGE 22 =====
+~liUi iAL 17 
+i s when we found the two thrusters that were not 
+operating correctly . 
+Conr ad 'Ille number 8 thruster was working real good when we 
+found that the number 7 thruster was out. So we 
+shut the system down again and had a big talk with 
+Houston about this. We went one more revolution 
+and they gave us some tests to perform on 7 and 
+that 's when we di scovered 8 wasn ' t working. 
+Conrad 'lwo of them quit, within an orbit of one another. 
+Cooper We had already run complete tests on it and 
+number 8 had been working on the previous tests and 
+quit on the next one. 'Ille story of the old OAMS 
+inflight system was that gradually as the days went 
+by there was more, and more that went wrong with 
+it unti l f inally at the end we had less than half 
+the thrusters left and they were pretty bad. 
+Conrad I realized a couple of heater blankets were probably 
+out on the OAMS system, but I'm still convinced 
+unt i l somebody convi nces me otherwise, that the 
+thing that shot the OAMS system down, was the 
+decision to turn off the OAMS heater. I had ques­
+ioned the decision in the air to only point that 
+
+===== PAGE 23 =====
+18 
+I could. I didn 't think we were in that much 
+trouble for electrical power. I still think it 
+was a mi stake because I think even with a couple 
+of blankets out, if we'd have kept the ,3ystem warm 
+wi th the rest of the heaters, we'd have never froze 
+them up. 
+Cooper 'llie thrusters themselves were actually ·vorki ng 
+because you could actually get a glow off of them. 
+There was a little bi t of fuel or oxidiier coming 
+out of it and burning, but it wasn't getting the 
+proper amount of mi xture ratio. 
+Conrad Now, they could have been dirty. That :ould be it, 
+but it was purely in the valves i n the thrusters 
+themselves because they were putting out thrust 
+even at the end. I f you wanted to hold it i n full 
+D:Lrect w i th 7 and 8 circuit breaker engs.ged, you 
+were getting wet fuel thrust. 
+Cooper Yes. You were getti ng a little wet thr~st. 
+Conrad let's go into how the whole thing occurred . We 
+had shut the heat er down a long time ago and we 
+really hadn't agreed wi th that, but there wasn't 
+much we could do about it. We were i n the mi ddle 
+
+===== PAGE 24 =====
+, 19 
+of doing experiments on the fifth day, and we had 
+had a little trouble alining the platform. What 
+was happening, apparently was the number 7 thruster 
+was getting cranky, but we also knew we were vent­
+ing hydrogen and we knew this because we were 
+getting some torqueing out of that. At the t ime 
+Gordo was having trouble ali ning the Platform, we 
+thought it was because the hydrogen was venting. 
+Finally Gardo said, "There's something wrong with t 
+the control systems. " Once we decided there was 
+something wrong wi th the control system, that 's 
+when it went just like back i n the simulator . We 
+shut everything down, went to Direct, thought about 
+it for a second and turned off all the circuit 
+breakers , turned them all back on one at a time, 
+tested all of the thrusters and, sure enough, when 
+we got to number 7, it was out, completely out. 
+Conrad So then I tri ed secondary ACME bias power. We 
+tried the seconday yaw and the secondary attitude 
+drivers with no effect so we were relatively as­
+sured that something had happened in either the 
+hand controller or the fuel was not feeding. We 
+decided to power down r i ght there , which we did, 
+and we advised flight of what the problem was. 
+£ 8.M&HW~Jl~i I 
+
+===== PAGE 25 =====
+20 
+think that's about the time we really decided the 
+scanner wasn't any good, or had we already told 
+them about that? 
+Cooper Yes. We 'd already t old them about that. 
+Conrad Yes, you' re right. I know what it was. That's 
+when we discovered that the voice tape was out. 
+We were right i n the middle of several experiment s 
+and it occurred approximate l y like 16:30:54 on 
+the f i f th day. We reported to Houston that the 
+voice tape was out, the number 7 yaw L~ft thruster 
+was out and that I had turned the OAMS heater back 
+on. I was suspicious of that all the ·;ime. That's 
+when they called up and gave us this m:i.nimum power 
+down. Why did we go i nto that? They had us power 
+down everything . 
+Cooper At about the same time that we came up with this, 
+they came up with this idea that the hrdrogen was 
+boiling off so fast that we were going t o be out of 
+hydrogen by about the end of the f i fth day at the 
+rat e we were goi ng i f we di dn't power down and stop 
+the usage of it . 
+.iO~~FIDEMTf ffl:• 
+
+===== PAGE 26 =====
+21 
+Conrad 
+Cooper 
+Conrad 
+FCSD REP 
+Conrad Yes. That's when we came around on the next 
+revolution. 'Illey had us fire up everything again 
+to take a look at i t and that's when we found out 
+number 8 had just gone down the tubes too. But 
+number 8 was still givi ng us something; number 8 
+was stil l burning, but it was burning off mi xture. 
+You could see a flame. 
+You could see a glow out of it. 
+You couldn' t hear it like you could hear the other 
+thrusters, but you could see lights on the ni ght 
+side so you knew something was coming out. 'Ille 
+drivers just weren't openi ng all the way or some­
+thing. 
+The fifth day at 16:30 is the first problem you 
+had with the OAMS, is that right? 
+No, earlier. When we first powered the system 
+up, we were having trouble with that very f irst 
+platform alining and we felt we were having some 
+hydrogen venting problems. 'Ihat's when we drifted 
+way off, and Gordo said, "'Ille Pulse system isn't 
+going to hack this hydrogen venting. " He went 
+t o Di rect and blipped the yaw left thrusters . 
+• 
+
+===== PAGE 27 =====
+22 
+All kinds of garbage came by the spacecraft. It 
+looked like we blew a whole bunch of junk out of it. 
+I remember distinctly seeing gold balls. 
+Cooper Great bi g balls of l iquid. 
+Conrad So it must have been raw fuel . Something at this 
+time wasn't working right, but I guess number 8 
+was putting out full thrust and number 7 was still 
+worki ng but not all the way. Now mayb<? right then 
+and there if we'd have really worked that system 
+over; fired all the thrusters in Direc1; and a 
+couple of good healthy loads throug it,., and put 
+the heater s back on the line, we might have sal­
+vaged thew 
+vaged the whole system. It must have been right 
+at the point of freezing up. 
+Cooper This was early i n the fifth day. 
+.£:Obi:EIOEttllAL 
+
+===== PAGE 28 =====
+23 
+Conrad We didn't hit the direct thrusters long enough to 
+heat them I don't think. I do distinctly remember 
+saying to Gordo "We blew all this junk out of there. " 
+Conrad We' d never seen anything like that before and we'd 
+been up there 5 days and seen all sorts of things . 
+We could see liquid oxygen when we vented it, if we 
+vented i t under the right light conditions . We 
+could see when we vented hydrogen under the right 
+lighting conditions. It would all float by the 
+spacecraft and at low sun angles, either at sunup 
+or sundown any one of these quantities, ECS o2, 
+CRYO o2, or RSF hydrogen , you could see it come 
+whistling by the spacecraft. We were continually 
+floating around in these old silver balls of either 
+hydrogen or oxygen. 
+Cooper Okay, well that was pretty well the background of 
+what happened. Some thrusters that had checked 
+out good would subsequently check out bad or be 
+completely inoperat ive as the days went by. So 
+finally we wound up with maybe half of the total 
+OAMS thruster s still operating properly. 
+
+===== PAGE 29 =====
+24 
+Conrad • 
+We had some thrust remaining in every axis but yaw 
+l eft. We had some in yaw left if you just wanted 
+to dump raw fuel overboard . I don ' t know whether 
+it was fuel or oxidizer. 
+Cooper Generally, what we'd do is roll and pitch to get 
+our yaw left. 
+Conrad I f we were tumbling and wanted to damp we just 
+waited until we translated into the right axis in 
+which we had some authority . 
+Cooper The one axis that always seemed to work pretty good 
+so far as control authority was pitch. 
+Conrad Yes 
+Cooper Pitch up and pitch down seemed to work reasonably 
+well all the time. 
+Conrad Yes . I wonder i f that had something to do with the 
+pitch thruster lines on the manifold being close 
+to the source. Pitch was always good. Our trouble 
+was mainly coupling in the yaw thrusters both right 
+and left. 
+Cooper Source pressure was easy to monitor . SJurce temper­
+ature we could monitor and it was too CJld. 
+
+===== PAGE 30 =====
+Conrad 
+Cooper 
+Cooper 
+Conrad 
+Cooper 
+Cooper 
+Conrad Cooper 
+Conrad 25 
+It ran down in the 48 degree area. 
+It showed that it was running too cold. That's why 
+we questioned turning the OAMS heater off, 
+Regul ated pressure was fine . 
+Right on the money. 
+Propellant quantity seemed to read r easonably good 
+until it got down towards the end. At that point 
+(from about 10 percent on down) the propellant 
+quantity just went on down to the bottom of the 
+scale. It was reading below zero and yet ground 
+readouts indicated OAMS propellant quantity remaining . 
+Monitoring of OAMS propellant r emaining onboard 
+information was fairly good. 
+Yes. I thought we were fairly close. 
+Gr ound i nformation agreed fairly good with onboard 
+information in general. 
+The whole OAMS systems got to be reviewed . I 
+think that they think we wasted a lot of fuel and 
+I think that on day 3 we probabl y were a little 
+overgenerous with our fuel usage. But I ' m still 
+ret◄ FtE>Et.~TIA ~ I 
+
+===== PAGE 31 =====
+26 
+Cooper 
+Conrad 
+Cooper 
+Conrad COt--1 FIDEt◄ :rIA~ ,; 
+convinced that because we went so long with the 
+OAMS heater off that we were not burning a nominal 
+fuel to oxidizer ratio. 
+Yes . Even though we were in a rush to get a lot of 
+.... 
+these things done, I was still extremelr conscious 
+of fuel usage . Although I'd used Direct to get 
+i t started, I wouldn't just fire all the way around 
+in Direct input, let it coast around, a~d then stop 
+it right there. 
+Yes. I never saw fuel usage in the sim1lator like 
+we saw in flight. 
+I t just seemed to go down very rapidly on the gauge 
+during that one period of time. 
+And yet we went night after night all night long in 
+Horizon Scan or in Pulse and would hardly use any 
+fuel at all. As a matter of fact, the ground gave 
+me the figures. This was when we were ::unning all 
+ni ght long in Horizon Scan so that we had a nice 
+reference . They said "You're using about 2 pounds 
+a night. 11 Now, that seems like a r easonable amount 
+for what we were doing. 
+• 
+
+===== PAGE 32 =====
+27 
+Cooper We were using it for Attitude Hold and for getting 
+pictures and to get through the day side. 
+Conrad Oh Yes. We never used Rate Command except for the 
+maneuver burns. 
+Cooper We were tracking the missile using Diredt. 
+get on it in a rush so I went to Direct. Had to 
+Conrad 
+Cooper I questioned propellant quantity prior to lift-off. 
+It was 87 percent at lift-off, I thought we were 
+supposed to be 100 percent on the gage at lift-off. 
+I thought we had propellant quantity loaded to the 
+maximum? 
+Well, they said we were about 50 pounds under. 
+Conrad Yes, they said we had about 50 pounds less fuel 
+than we were supposed to have. 
+Cooper We asked them about this before we l ifted off, 
+Cooper At about 4 or 5 minutes before lift-off, 
+them about this. we asked 
+Conrad We got a "We ' re checking" and that's the last we 
+heard from it. And off we went . 
+
+===== PAGE 33 =====
+28 
+Cooper So then we asked again when we wer e in orbit, 
+"About this under load on GA.MS fuel". I suspect 
+t hat something was fouled up because we didn ' t get 
+a full 0AMS load. That was pretty bad. 
+Cooper I think monitoring onboard of propell~mt remaining 
+t o compl et e the mission was pretty good. The fore­
+cast fuel for missi on completion of GE,mini V ought 
+to be reviewed because somebody didn' t quite come up 
+with the right fuel figures . Twenty-six percent 
+remaining after the REP would not havE been nearly 
+enough to have ~one the r emainder of the mission . 
+Conrad Yes . I t hi nk t hat in computing the a.mount of fuel 
+used t o perform a maneuver, they figure out how much 
+to get the rates going but they must stop there. 
+They must not f i gur e how much fuel it takes you to . 
+get back to, say, zer o-zero-zero. Appirent l y t hey 
+assume that whenever you get done with a tracking 
+maneuver, you just drift to get back to zero-zero­
+zero. Over the U.S. we had maybe 6 or 7 minutes be­
+t ween a 30 degree pitch-down target to the next 
+30 degr ee pitch-down target. You ' ve got to t r ack 
+it all t he way through, bing the spacecraft all the 
+way back up and then go to and track the next target. 
+
+===== PAGE 34 =====
+29 
+Cooper And stop your rate at the back. 
+Conrad As a matter of fact, that's about twice the fuel 
+usage. They may take this into account, I doubt 
+it. They're very conservative on their estimates . 
+Cooper Selector controls and switches were all right. 
+Attitude controller was fine . Maneuver controllers . 
+( 
+We had every intention of checking the right one and 
+we never did check it because of other problems . 
+Inflight malfunction irregularities we've already 
+covered pretty well. 
+Cooper Attitude Control Modes, Rate Command was excellent . 
+Reentry Rate Command we never checked. 
+Conrad I don't even think you need it. 
+Cooper And I think it could be removed from the spacecraft 
+as far as I 'm concerned . I never used or need it on 
+the simulator . I never liked it. 
+Conrad Pilots aren't going to tolerate these higher r ates . 
+They will damp before these rates are reached. 
+Cooper Direct is a good mode. There' s nothing at all 
+wrong with Direct. I thought it was much crisper, 
+much crisper in the spacecraft than in the simulato r 
+
+===== PAGE 35 =====
+30 
+Conrad 
+Cooper 
+Conrad 
+Cooper shows that it is . The Pulse mode was very economical 
+on fuel and I felt that in the sinru.latc,r you had a 
+little more authority than you actually did in the 
+spacecraft . The spacecraft had slightly less 
+authority in Pulse than the sinru.lator does . Inci­
+dentally , you can use Pulse just for a month of 
+Sundays and never see the fuel go down on the 0AMS 
+gage at all. You can use Pulse all day long with 
+using little fuel usage. Horizon scan, the primary 
+Scanner was inoperative as was stated e3.Tlier. The 
+Secondary Scanner worked fine. The sca::mers, I 
+think, operated quite satisfactorily. We had a lot 
+of scanner dropout in the primary and eiren in the 
+secondary . We had some dropout in the :iecondary 
+when we first were going in and out of i;unlight 
+areas. 
+But then it seemed to work allright . 
+Horizon Scan Control Mode worked fine . Real good. 
+It's a loose mode but it still works fir..e . 
+It's got wide limits on it of course, -which i s 
+okay. The mode itself works fine. There was some­
+thing really fouled up in the platform rnode. It didn't 
+work at all like it's supposed to. The platform mode 
+is supposed to be plus or minus 5/loth of a degree. If 
+it was plus or minus 10 degrees I 'll eat my hat ... • 
+
+===== PAGE 36 =====
+Conrad 
+Cooper 
+Conrad 
+FCSD Rep 
+Cooper 
+Conrad 
+Conrad 
+Cooper 31 
+I thought it held to about a degree and a half . 
+Not in yaw, you remember . It allowed yaw to wander 
+off by probably a good 10 degrees there. Remember 
+it allowed right yaw to wander off by about 10 degrees 
+and just sit off there in right yaw several times. 
+It wouldn't even bring it back. 
+Yes. That was the trouble. 
+Do you think this had anything to do with your con­
+trol problem? 
+W-ell, it may have been. It may have been that con­
+trol was somewhat intermittent right there. I don ' t 
+know, but it might have been. But Rate Command sure 
+worked good using those same controls. 
+Yes. I suspect that being the first time that it 
+was cranked up since spacecraft number 2, it may not 
+have been tweeked as well as it could have been. 
+It certainly didn't work like it did on the simulator , 
+I 'll put it that way. 
+It didnlt work properly, and it was no good the way 
+it was. We never used it after we originally tried 
+it out and after we 1d tried doing this one burn on it 
+to see if it would hold. The one that it did hold 
+on, our first perigee adjust, it held beautifully . 
+During the next one, it got so bad it wasnI t any 
+
+===== PAGE 37 =====
+32 
+Cooper 
+Conrad 
+Conrad good. There again, it might have been a function of 
+the thrusters going out. 
+In any event, I think that 1 s an error ,;hat somebody 
+needs to look into. I'm not sure that pl atform mode 
+is doing what i t should. I know that, t heoretically , • 
+and by t he diagrams on it and the limit s that it 
+ought to be a very precise control modE!. 
+Spacecraft separation at SECO + 20 couldn ' t have been 
+better, just fine. Translation per igeE! adjust went 
+like cl ockwork. 
+That was our first real burn and I thir.k we got 
+something like 9. 6 ft/sec on the IVI ir.stead of 
+10.0, but the burn wasn' t that criticaJ . 
+I checked accelerometer bias and it seE•med like the 
+accel er ometer bias incr eased l at er in the f light . 
+I specif ically checked it f or the REP end it was 
+okay. I 1d just set up zeros in the wirdow and 
+went to Catch-Up and they stayed zero for 3 or 
+4 minutes or longer . So that satisfied me. I 
+checked it later on in the flight and I don' t think 
+we r an more than a minute and we clickEd up a 
+f oot per second on the fore-aft window. That can 
+be checked on the tape. In the beginning it was 
+entirely acceptable for the REP. 
+
+===== PAGE 38 =====
+33 
+Cooper I think we had some bias, just how much I don' t lmow. 
+The timing of the translation was fine , updating was 
+fine. Operations and checklist were okay. Computer 
+usage, okay. 
+Conrad It was easier to make a burn on the simulator that 
+had no up-down or left and right in it than it was 
+in the spacecraft . Gordo did a real good job of 
+tracking on every burn and I didn't see it wander 
+hardly at all. 
+Cooper And all the IVI ' s would be zero. 
+Conrad And all the IVI 1 s would be zero, but we'd have .4. of10 
+a foot in one axis and ~O in another. 
+Conrad 8Yes. The worst cross-coupling , we had 10 in one 
+axis, and when we burned in the platform mode, but 
+we were checking that. It could have been accelero ­
+meter bias again, or, the spacecraft is more sensi-• 
+tive to picking up up-down and l eft-right velocities 
+than I thought it was . 
+Conrad Gordo did a real good job of tracking . He tracked 
+as well as he did in the simulator and we never had 
+this show up in another axis in the simulator . 
+Cooper It would be zero , zero, zero in the simulator . 
+Conrad It was hardly worth my time checking address 81 and 
+82 in the simulator because I could just tell he 
+
+===== PAGE 39 =====
+34 
+wasn't going to have any velocities in there , and 
+very seldom did. But we never failed to have fairly 
+sizeable ones, like fa and fo fps, in another axis 
+and I'm not quite sure how it got therE·. I guess 
+the spacecraft is extremely sensitive . If you' re 
+going to make pr ecise burns, you I ve gotta really burn 
+precisely and i f you want to take out the errors, take 
+out the address 81 and 82 errors so that you don ' t 
+introduce anything else. During the difficult ren-
+dezvous maneuvers, you have to plan on more 
+f uel usage because you're going to have to take it out 
+with the up-down thrusters . 
+Cooper I think what you' re going to have to do is stop 
+short of burning off all your forward or aft velocity, 
+particularly the forward velocity, and then use the 
+canted thrusters to burn off the right-Left and up-do,m 
+and that will take out part of the remaLnder of the 
+forward velocity . If it hasn't taken it all out, 
+then bleep out the rest of the f orward . I think 
+that 1s the only way you can do it if you want to 
+burn them al l t o zeros. I don' t believe you can t r ack 
+any more precisely if you keep all your IVI ' s zeroed 
+right down the money. If you burn it off and stop 
+just at the right time so that everything should turn 
+
+===== PAGE 40 =====
+35 
+Cooper 
+FCSD Rep 
+Cooper 
+FCSD Rep 
+Cooper 
+FCSD Rep 
+Cooper 
+FCSD Rep 
+Cooper 
+Conrad 
+Cooper ;COtsifH0E1t~I IAL 
+up zero, then youst i·11 win• d up wi·th .1_ 2-or10, 10, 
+6 Iin all your windows. I just don t t know how you re10 
+ever going to do any better than that. (Unless you 
+use the above procedure). 
+Translation REP deployment was passable . 
+This one you didn' t . You didn ' t fire back at the REP 
+after jettison? 
+No. 
+Let's replace this maneuver with the simulated opera­
+tion (phantom rendezvous). 
+We did deploy the REP and the radar did operate 
+properly . 
+Originally when the debriefing guide was made out, 
+this section covered the translation back after REP 
+deployment and the subsequent translations . 
+Okay. 
+We 'll just have to use the translations that they 
+made on the simulated run. 
+We kicked the REP out at 90 degrees right yaw. 
+We kicked it out at 02 07 + 15, or 15 seconds l ate. 
+The reason we were 15 seconds late, as we stated 
+earlier, was that going into the night side the night 
+before, after all our careful platform alinements , 
+all of a sudden the horizon scanner began to drop 
+
+===== PAGE 82 =====
+77 
+Cooper Yes , I pulled my ear plug and put the ear plug right 
+in the bottom of my ear where it was barely hanging 
+there and I could hear anybody calling then. Then 
+I put the plug back in. I thought the quality of 
+the communication.ewas really, as far as we were 
+concerned, in the air a:n:yway, was excellent . 
+Conrad Our beacons worked satisfactorily both adapter and 
+reentry, C band beacons most of the time they were 
+in the command position, the people used them 
+as they wanted them. 
+Cooper Let's see, the sl eep configuration, we covered 
+that, yes, that worked fine . 
+Conrad Antenna selection. I went to adapter and I really 
+couldn't tell much different and then we decided 
+we would go back to the check off list which called 
+for reentry. Oh, I know how I got in adapter position . 
+Cooper Somebody asked you ... . Oh, it was that test. 
+Conrad Yes, it was the UHF test that we pulled and we 
+were switching from reentry to adapter, from 
+reentry to adapter, and I finally left it at 
+adapter one time and the thing was working just 
+great as far as I could tell. 
+Cooper Yes, it was there for a day or so. 
+Cooper Yes, it was there for a day or so. I really 
+
+===== PAGE 83 =====
+78 
+Cooper You could dUlllp OUZD or something. 
+Conrad Yes, I .... 
+Cooper But the neoprene things are hard to see· through, 
+you could actually push them up to the control 
+knob to read what you got on there. 
+Conrad Let' s face it Gordo, once we got those controls 
+set, we never moved them. 
+Cooper Yes, that ' s right, Once you set t hem you very 
+seldom ever set them from there on. Sc,, I guess it 
+really isn' t too bad. It's kind of a :Mickey Mouse 
+thing..,, -..net iit works-, I guess. 
+Conrad Those light weight head sets, Those PlEll'ltronic 
+head sets that we had, I don't think 8J'tybody can 
+argue about the voice quality and they are really 
+comfortable up there. 
+Cooper Yes, and they were really good reception , too. 
+Conrad Just pull a plug out of my ear and l et it hang 
+and turn the sleep switch on when I W8J'tted to sleep. 
+Never took the think off my head in 7 or 8 days I 
+don' t believe. I'd sometimes take it off and hook 
+it under here for sleeping, but after E1 'While I 
+just got so used to having it on my head I just 
+unpull the ear plug and let it hang ancl turn the 
+sleep switch, and the sleep switch worted great ...• 
+
+===== PAGE 84 =====
+79 c:.COMElllB!PYM • 
+couldn't see, we didn't have too much problem with 
+that, but they wanted it back to reentry and I 
+presumed that they will get the right data out of 
+that UHF test to know what's wrong with the adapter 
+antennas, if anything' s wrong with it. But we 
+stayed in reentry configuration most of the time. 
+Conrad E™ controls? 
+Cooper We didn't have a:ny problems with i t . 
+Conrad We had no problems there at all. 
+-.;_COMFHDEffFIAA. • 
+
+===== PAGE 85 =====
+80 
+8.6 Electrical 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper C@ t l~ liEt◄T IAL 
+Electrical system monitoring . 
+Well, I can't say enough for the fuel c:ells, they 
+really performed they --
+They sure did, boy those little rascal Et really work. 
+The purging, I recommend that we changEi those purge 
+switches, and I don't think this is dar.gerous. 
+recommend that we change those purge swi tches to 
+three position . Maybe guarded ones. Yes, maybe 
+guarded ones. 
+What you might do was put a little thrEie position 
+guard there. 
+But that spring loaded business, that Bpring 
+tension on those, so I tell you my fingers are still 
+sore from doing that. I used my toothbrush ...• 
+that's what I used all the time to purge them 
+with. You had to jack them up with your tooth-
+brush because we've got them guarded u.nd they are 
+spring loaded, and you just don' t think about it 
+but you just try and hold that spring :'..n that 
+position for two minutes , it's like a :rear. 
+Particularly under zero g. You don't have anything 
+to push against. 
+E@t l~IDEWI1hL I 
+
+===== PAGE 86 =====
+81 ~'it l'FIOEt•l'fl P 1 ... 
+Conrad So I recommend they make the purging switches. 
+Well, I recommend that they either cane up with a 
+gimmick that you can insert on the switches when it 
+is time to purge so that you can flip them on and 
+time it and then f l ip them off, or ~beyma.ke the 
+switches three position. Especially in that 14 
+day flight. You purge every 6 hours you know, and 
+that's minimum. If you are running higher loads 
+you are purging every 4 or every 2. So, that's 
+quite a chore and it's like house keeping. 
+Those fuel cells have to be purged and 5 minutes 
+of switching is what it takes, holding those spring 
+loaded switches. 
+Cooper 2, 2 and almost 1, Yes, 2, 2 and half a minute. 
+26 seconds. That's really hard on the fingers , 
+hiding behind these guards we have, makes it even 
+more difficult but the guards should be there. 
+Let's see , monitoring electrical power remaining. 
+Conrad There was no big argument there. 
+Cooper No problem there at al l, just watching the hydrogen 
+fa.11. 
+Conrad They were either there or they weren't. 
+Cooper Ground information required to complete mission. 
+
+===== PAGE 87 =====
+82 eOl <U'IDEl ◄ T I At 
+Well, that there again. Ti-ie cryos were really 
+the only problem we had with electrical. The main 
+bat teries ... the times that Pete touched them they 
+were just exactly like advertised . 
+Conrad Yes, they were 22½ volts every time we tested them, 
+Cooper No problem at all. Squib batteries were fine , no 
+problem. 
+Conrad Squib batteries came down about, I would say 
+2½ volts during the whole flight. We 
+st arted out with a common ccmtrol bus t hat had been 
+27½ volts and at the end of the flight it was 24. 7 
+or something like that, 24,8 or something. It came 
+down about 3 volts. But one thing that nobody ever 
+tol d me, was man, when you fire thrusters and 
+things like that you can see a l ot of t ransients on 
+that common control bus. That thing really gets 
+to oscillating up and down. I wasn't sure some­
+thing wasn't wrong at the beginning, SlJd I just pass 
+that on as a tip to people who go later. 
+8, 7 Onboard Computer 
+Cooper On.board computer, 
+Conrad I can' t say too much for t he computer 6ither. 
+It worked fantastically, 
+
+===== PAGE 88 =====
+=€8t 4Flli'0@1A1-- 83 
+Cooper It couldn't have worked better. It really 
+did. 
+Conrad The IGS Guidance was indicating everything that we 
+did. We knew that we were going to loft a little 
+bit and boy, it showed that we should pitch down 
+at second stage and RGS did pitch us down, and when 
+it pitched us down and put us on the IGS was 
+centered up. I never saw any big needle deviations. 
+I didn' t see this big pitch transient at the end 
+of the flight. I think it did wander just a little 
+bit in pitch but none of this off the scale stuff. 
+It looked like it was on the money all the wey, am 
+I felt that if we ever switched we would be right 
+down the pipe with it. 
+Cooper Yes. I did too. Real good. 
+Conrad In the insertion, boy, that math flow 6 ca.me up 
+with all the right numbers. The numbers were just 
+right. You didn't read the numbers. Where the ta~e 
+began the numbers were on tbe money. Address 72 
+was 25,808. Address 94 R dot was plus 20 feet :pga 
+97 was plus 2 feet. 52 said we had a perfect 
+:insertion that we had no apogee adjust. At perigee 
+there was 00000 and then calculated, even though 
+
+===== PAGE 89 =====
+84 
+Cooper 
+Conrad 
+Cooper 
+Conrad -e8 tsl □P Fls1TIAL 
+we didn't need one, the directions should be applied 
+at 3,042 seconds and the nominal value io ?,008 
+seconds and I just don't think you can ask for 
+better computations than that. 
+Okay. I think that everything that we did on it 
+worked out quite well. 
+Catch-up mode worked well. The .... tl:.e one 
+thing it did though, there was one ancmaly that 
+I saw on there and I almost had a heart attack at 
+the beginning of the flight. Remember, we got 
+into orbit and I don't know whether I did it or 
+what, but I got in the mo::le where I got the darn 
+IVI 's running and it wouldn't stop running, and 
+the worked until I switched into pre-launch nav 
+again a couple of times and I finally got the IVI 1s 
+to quit and then I was very careful about how I 
+did any switching after that and I don't know what 
+that was. I'll have to sit down and talk to the 
+computer people about that. It seemed to me that 
+what I did .... 
+It happened once more. 
+Yes, it happened one other time and we got out of 
+i t by going to pre-launch and letting it sit for 
+•@Ot ◄FID E► ~.tA I 
+
+===== PAGE 90 =====
+85 c€~F,6Ef~ fI 
+Cooper 
+FCSD REP 
+Conrad 
+Cooper 
+Conrad 
+Cooper awhile and it finally ran itself out and stopped. 
+But it looked l ike the accelerometer bias took off 
+or did something that just made IVI's run. I 
+don't really understand what happened but I wanted 
+to note that an anomaly. I felt that the thing 
+was running right and that this might have been a 
+little glitch so I didn't report it to ground 
+because, well, later on we didn' t really have any 
+need for catch up or anything like t hat and it 
+seemed to operat~ okay. 
+Okay , let's see. Orbit maneuvers. I don't think 
+there was 
+How about the powering down and powering up? 
+It shut down and started up d~t as advertised . ON 
+with the on switch and 18 seconds it went through 
+it's self check and the green start comp light ca.me 
+on green and it did it every time. 
+Okey, Orbit maneuvers we have already covered that. 
+We powered it up for all our updates and it accepted 
+it every time, llO strain·. 
+Retro fire, you got those numbers through, We gave 
+the number to ... . IVI's after retro fire. Read 
+269 aft and 10 left and 181 down. 
+
+===== PAGE 91 =====
+86 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper @@ I 4FIDEr4fliAll 
+10 left and 181 dOWl\, 269 010 181. 
+Yes. 
+And as soon as those retro's fired the llght came 
+on green and it went right into reentry ,5',lidance 
+. . . reentry guidance 
+Reentry guidance was right on the money when it came 
+on, it came on exactly on time. Roll neeclle, roll 
+bug .... 
+Stopped at 400,000 feet , right at the tine Houston 
+gave us our computed time to 400 K. 
+And the 290 K steering commands came in ~ ust right. 
+Came in just where they should, the direction they 
+should come in and everything ~ 
+At about the r ight magnitude • ••• 
+And about the right magnitud e. Then the problems 
+star t ed. 
+And tbat was the loose nut on the ground and not 
+in the air, f ortunately . 
+MDU , t hat worked fine. 
+That apparently worked fine. 
+Computer modes. Let's see, pre launch worked good. 
+Ascent worked beautifully, catch up .... Ne didn' t 
+really do any catch up except the one ... . 
+:m O b4 F 19 itL4il.Air 
+
+===== PAGE 163 =====
+158 
+polarization. I just can't find any linear defini­
+tion of it. When the sun is setting you can get 
+some linear polarity in a vertical plane, but other­
+wise I just can't see anything different one way 
+than the other. I took the filter out and rotated 
+it a number of times. I took the whole filter out. 
+We saw a Zodiacal light. We saw--
+Conrad Yes, we really did a couple of times--just could 
+see it where night vision was right. We had t he 
+lights out in cockpit and everything . Boy, you 
+coul d really-,:-
+Cooper Pete spotted an interesting phenomenon that he pointed 
+out one night that I had never seen before. It 
+looked like an Aurora. It was an Aurora type l ight 
+and it was a very bright green. It changed in color 
+and was in the airglow layer. It actuall y changed 
+the height of the airglow below. It brightened it 
+above where it --but below it, it seemed t o cut it 
+down and make it more definitive. Where it wasn't 
+it was kind of fuzzy along there and then where t his 
+glow was the airglow kind of jumped up and was sort 
+of chopped off very sharply. This was very bright. 
+I don't know what it was . It was apparently some 
+kind of a Aurora effect. We saw a lot of meteorite s 
+
+===== PAGE 164 =====
+in Australia was a good example. Two different 
+days it was completely clobbered in where you 
+couldn't see anything on the ground in that imme­
+diate area. This point Rhir was clobbered in 
+one day. We were going to get an Apollo landmark 
+on it and it was just back in under the clouds in 
+fact. And Kano we were going to get a shot of 
+the Kano air field, wasn' t it? 
+Conrad Yes, that was clobbered . 
+Cooper Yes, it was clobbered, We got right up close to 
+i t and there were these low clouds hanging in 
+there just scattered to broken clouds and we 
+couldn't see. 
+Conrad Actually on the D-6 stuff most of the time the 
+experimenters were up on what was clobbered and 
+they didn't even bother to give it to us , or if 
+they gave it to us it became clobbered before we 
+got there. They usually were able to tell us that 
+it was going to be clobbered and then many times 
+they gave us that the weather was pretty good, 
+but there's three tenths cloud coverage so you 
+may or may not, It didn't bother us too much 
+around the coastal regions. 
+
+===== PAGE 165 =====
+, 
+:, 
+.... 
+
+===== PAGE 166 =====
+159 A 
+Cooper Cloud Coverage. We had varied cloud coverage 
+t hroughou t the flight . 
+Conrad Boy, I think we saw every phenomenon you could 
+think of with t he clouds. 
+Cooper Just about everyt hing you could t hink of. We saw 
+typhoons , and hurrican es , and--
+Conrad We saw well defined eyes in these tropical storms 
+and others without--with such ci rrus cover t hat you 
+couldn' t define an eye. We saw some of the most 
+fant asti c thunder st orms we have ever seen. 
+Cooper We saw hundreds and hundr eds and hundreds of miles 
+of t r ememdous big thunder storm lines with squall 
+lines going across it. 
+Conrad Near Sout h America. 
+Cooper Had at times as many as 15 to 20 thunderstorms 
+that were lighting up all at the same time. 
+Conrad I think I have some good 16 mm camera coverage of 
+t he thunderstorm lightning at night . 
+Cooper And these are--then we saw--then we had great 
+expanses over the same areas of excel lent weather, 
+clear weather. We saw a lot of dust storms 
+
+===== PAGE 167 =====
+159 B 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper < 0~4'1Dcl~TIM • 
+in Arabia and Africa. 
+Yes . You could see those desert storms real clear-
+ly. 
+The wind picking up and moving the sand al ong. 
+Other days we saw the same areas just as clear with 
+no wind. Beaut iful weather. 
+It was interesting in those deserts to notice that 
+you could really pick up the prevailing wind t rails. 
+Yes. 
+You know from the sand flow. 
+The way the sand dunes were--
+And which as I sort of remember back e1omewhere 
+there was a lot of explanation about how the 
+whole desert moves , you know, and you could r eally 
+see these great --! mean for a hundred miles-­
+hundreds of miles you could pick out these great 
+obvi ous prevailing wind tracks in t he sand that 
+just stretched for hundreds of miles. 
+Yes . 
+And again t his was in Egypt and south of Egypt -­
+down in t hat area. 
+Well, you could actually see by the c1oud 
+format ion--was odd, too. The thing I noticed was, 
+
+===== PAGE 168 =====
+Cooper 
+FCSD Rep 
+Cooper 
+FCSD Rep 159 C 
+you really could see the lower altitude prevailing 
+winds in the cirrus clouds or the lower altitude 
+stratus type cloud you all around and you really 
+could see the wind pattern and one thing that 
+really impressed me, was the--on cloud formations 
+low altitude cloud formations--up in the Himalayan 
+areas ,how t hat stratus-type cloud would hang--
+would just completely define the land shape. You'd 
+see it hang in the valleys and swirl right down 
+in the valleys and you'd see where the peaks 
+were, i t would puff and was quite definitive of 
+the land mass. And then coming in off the--
+you could see the prevailing wind direction in 
+the l ower altitude clouds . You could see the way 
+the wind would come in and you'd get the wind 
+shear where it would hit the mountain peaks 
+coming in off the desert areas there and it would 
+kick it up over the peak areas. 
+Okay. 
+Let me ask one question. 
+Okay. 
+Was ther e--as far as good pictures are concerned -­
+how many pictures did cloud coverage prevent you 
+
+===== PAGE 169 =====
+159 D co•lE.-laEhtllAL ~ 
+from getting? 
+Cooper Oh, well, a great many. Some areas--well , just in 
+general let's just say that some areaB of the 
+country would be completely clobbered in and we'd be 
+traveling over an undercast for great long expanses 
+of hundreds and hundreds of miles , and anything ·, 
+that was in there would be--anything t o do with 
+any areas we desired to photograph in there whether 
+they were specified immediate areas 01· whether 
+they were just general pupose or S-5, S-6, were 
+not available for photography, and yet the next 
+day it might be wide open. The Himals.yas was 
+an ideal example of that too. For twc, different 
+days we traveled over that, you couldr..' t see 
+any of the craters or any of the ice flows or 
+anything due to the clouds . You could. see just 
+occasional areas and some of the lakee would be 
+open, so it was just heavy cloud cover-through 
+there for about a 2 day period and then it just 
+broke up wide open one day. Eut there were a great 
+many areas that there were cloud covered to the 
+point that you could not f i nd it. For instance, 
+the Carnarvon or I should say the woodly side 
+
+===== PAGE 170 =====
+®@r ◄ r1~Tr~t 159 E• 
+in Australia was a good example. Two different 
+days it was completely clobbered in where you 
+couldn't see anything on the ground in that imme­
+diate area. This point Rhir was clobbered in 
+one day. We were going to get an Apollo landmark 
+on it and it was just back in under the clouds in 
+fact. And Kano we were going to get a shot of 
+the Kano air field, wasn't it? 
+Conrad Yes, that was clobbered . 
+Cooper Yes, it was clobbered. We got right up close to 
+it and there were these low cl ouds hanging in 
+there just scattered to broken clouds and we 
+couldn't see. 
+Conrad Actually on the D-6 stuff most of the time the 
+experimenters were up on what was clobbered and 
+they didn' t even bother to give it to us , or if 
+they gave it t o us it became clobbered before we 
+got there. They usually were able to tell us that 
+it was going t o be clobbered and then many times 
+they gave us that the weat her was pretty good, 
+but there 's three tenths cloud coverage so you 
+may or may not. It didn't bother us too much 
+around the coastal regions . 
+
+===== PAGE 171 =====
+160 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+Cooper The carrier was the one thing that it really 
+bothered us on. Two different days on the carrier 
+shots doggone it you could see one day--for in­
+stance we saw the carrier wake and--
+But the sunlighting was such-­
+The sunlighting and the--
+You lose the wake and everything--
+And then the scattered clouds, too were such that 
+you were kind of hunting for him in and around the 
+scattered clouds and sunlight angle was low on it 
+and we lost him. 
+The day we got him there were clouds b~ck there 
+but gee we could see him for 500 miles out and we 
+never lost them. 
+Just the lighting conditions were ideal that day 
+and he was also out in kind of an open area in 
+t he clouds . 
+Okay, horizons. The horizons were of ~curse, as 
+usual, I t hink day and night were fairl;r well defined " 
+except as you come into the--as you go in out and 
+out of the terminator . Just at that p,~riod of time 
+where you're going into the light or out of the 
+light through the terminator it's a ve:-:y fuzzy 
+
+===== PAGE 172 =====
+161 
+Conrad 
+Cooper 
+Conrad Cooper 
+Conrad 
+FCSD Rep ill-defined, odd area-­
+Yeah, looking down the sun. 
+Where you have no defined horizon at all. It's 
+very--a real messy situation. The only thing I 
+noted different about the horizons this time was 
+at one morning, at one sunrise, when we saw 
+those tremendous thunder heads out clear on the 
+horizon--you remember that? 
+Yes. 
+Where we saw the horizon well-defined and these 
+great big thunder heads with the handles on them 
+sitting up above the horizon. They were those 
+big thunder storms. I would guess that those 
+things must have gone well in excess of 50,000 feet 
+probably to be that well defined--clear out on 
+the horizon some 12 to 15 hundred miles away you 
+could see that profile of them. Do you have any­
+thing more on horizons? 
+No. 
+One thing we might mention here while we're 
+talking aoout these thunderstorms, you mentioned 
+before the l ighting in the spacecraft from this 
+lightning. 
+
+===== PAGE 244 =====
+FCSD Rep 
+Cpnrad 
+11.4 Visual Acuity 
+Cooper 
+FCSD Rep 
+Conr ad 233 
+Japan, Japan weather, night pies, stars, Milky Way, 
+thunderstorm and lightning , something village, China, 
+something Shanghai , Marshall Islands, tropical storms, 
+oil well fires in Africa, geol ogy in India, Tibet, 
+Solomon Islands, sequences across Arabia, New Guinea, 
+China coast, Islands due west of someplace can ' t 
+• Iread it --West Coast Africa, I cant read any of 
+Gordo's wr~ting, some other islands, 102 Rev 
+Australia, Canaries , S-5 no. 48 --wonder what that 
+was --East Africa, very hazy, African geology, Cape 
+Kennedy, ice particles, and that's it. Pretty 
+varied (laughter) . That's a lot of film there, I'll 
+tell you. 
+Greed on Tibet? 
+No , that was Gordo --he real ly goes for that Ti beten 
+country up ··there --that I s where he sees all his 
+goodies. It's pretty clear and pretty·up there. 
+and Astronaut Visibilit y (S-8/D-13) and Vision Test (M-9) 
+Okay . 
+Why don't we go --
+Okay --updating techni ques and communications pro­
+cedures. Again remain the same as before. Equipment 
+set up --the thing we had there, of course, was a 
+CE1NFPDE ►◄lt>6.i: 
+
+===== PAGE 245 =====
+234 
+vision tester and photometer and the f :Lrst thing there 
+on the photometer --I got t he first day measurement 
+with the photometer which required a 30 degree sun 
+angle and this was really --had been given a loca­
+tion to put the sun on ,the --Gordo 1 s nide of the 
+instrument panel to assure that we had the right sun 
+angle --okay, we made that measuremen t. We had the 
+photometer in the window whenever we went by the 
+S-8/D-13 target --we got t hose measurEiments, but we 
+didn.1 t get the last day photometer mea~iurement be­
+cause we were in drifting flight and di dn't have the 
+fuel to set it up. But I don1t think the wi ndow 
+changed. 
+Cooper I don' t either. 
+Conrad Yeah, okay. 
+Cooper Let's see, ·the vision tester, I thought worked very • 
+well. No problem on it --everything "·orked just as 
+advertised and we did run it just as we had agreed to 
+run it and was scheduled to run it. I n fact, in­
+creased our numbers of runs on it later on. Every­
+thing went fine on it. I sure noticed a variance 
+from day to day in our perf ormance back and forth, 
+back and forth --it would seem to me like we --and 
+I think thi s is probably a function of how much we 
+• 
+
+===== PAGE 246 =====
+235 ~Ot~FIDE~ ◄ llAL 
+have been looking out the window --
+Conrad Yeah, I think you hit the nail right on the head with 
+that one --
+Cooper Because once you have been looking out the window for 
+a while , if you come back in and do anything for a 
+while until your eyes kind of got settled down was 
+very difficult . The M-9 --it' s not the M-9 vision 
+test --it was the M-9 vestibular functions tests of 
+we ran that just as we had said we 
+would run it we held our heads alined with the 
+headrest , as straight as possible, and turned the 
+thing on --I took mine in my right eye, Pete took 
+his in his left eye, so t hat I could read along the 
+side of his and he could read along the side of mine. 
+I alined with the top of my instrument panel which 
+is offse.t by some 30 degrees, or so, and I assume 
+that Pete alined with the top of his also. And we 
+would spin the dial and then while looking in there, 
+aline with what we thought was the parallel alinement 
+with the top of the panel and then say read, and the 
+other man would read their reading or would record 
+the reading down then, and we did this five times to 
+get the readings --enough said for that . I just 
+will say that I --my personal opinion on this thing 
+ct>J\,FK) E►~T I,._. 
+
+===== PAGE 247 =====
+236 
+Conrad 
+Cooper 
+Conrad 
+Cooper 
+Conrad ~t◄ FIDE►4TI~ 
+is that it was put in here political l y , that it was 
+ill planned, ill defined, and is a worthless experi­
+ment. I hope someday somebody will have the courtesy 
+t o check some of these things out more thoroughly . 
+Ground observat i ons --we can't even say about the 
+Austr alian site --the Woodleigh site because the 
+weather was such that we never got a look at it --
+two times we could have gotten a look at it, the 
+weather was very bad over the area and one --
+We saw the smoke so clearly though,~ and the weather 
+was so clear that I could sort of put that in a 
+category with Yuma, you know, I just wished we had 
+seen it 
+Yeah, I do too. 
+That darned Laredo site --even when we saw the 
+smoke --the contrast ratio was down so much on the· 
+target outlines 
+Yeah 
+That we had a great deal of difficulty finding the 
+target. Now Gordo found them a couple of times when 
+I didn' t even f ind them even looking right at the right 
+spot and I --when I 'd find them, why I 'd be too 
+late --I mean we'd be already at the Nadir and 
+going away from i t and by that time , we 'd usually be 
+
+===== PAGE 248 =====
+237 co~~FIDE~~TIAL 
+in rolling flight because of the tracking involved 
+and the couple of times we saw the marks, you'd be 
+messed up trying to decide whether it was the 1, 2, 
+3, or 4, just from orientation. 
+Cooper Well, here again, we were trying to salvage a little 
+bit out of drifting flight and I realize why we con­
+tinued that experiment where we could and doing what 
+we could, but it' s almost worthless to try and do 
+anything of this type if you don ' t have attitude 
+control systems --
+Conrad And a platform 
+Cooper And a platform because you have got t o be able 
+to get powered up, you have got to be able to have 
+pointing information, be able to get on the thing 
+at an early enough date to get your angles right 
+and to get all set up and to be able to control the· 
+spacecraft so that you can take the right look angle. 
+When you are trying to climb all over one side of the 
+spacecraft, peer out the back corner of the other 
+window and one in one another' s lap, one peering out 
+of one window and one out the other and there ' s just 
+a mess and it doesn't do the experiment justice and 
+it doesn't do us justice. If the experiments going 
+to be done at all, it ought to be done right and 
+@0 ►4FIDE~~TIAL 
+
+===== PAGE 249 =====
+238 
+here again, I say I realize why we wer,= trying to 
+salvage what we could out of a bad sit11ation but 
+it didn1t really do justice to the expt=riment . We 
+never r eally once really gave the expe:C'iment as far 
+as the ground observation, a really fa:Lr chance. And 
+the one time when we really did give it the most 
+fair chance, when we did have attitude control , was 
+extremely bad weather --the haze was ·)ad --it was 
+just about like the day when we went over it in 
+the airplane trying to do those observations , it was 
+a low sun angle and haze and the vis:Lbility in the 
+area was not real overly good. Pete' s already 
+covered the window measurements checkli st. I think 
+that t his whole _experiment was very well laid down 
+and very well prepared for and that the people con­
+cerned with this experiment did a real fine job of • 
+it --
+Conrad I have to make one comment though, I think that the 
+target size was small enough such that the target 
+itself, although it had the high contrast ratio with 
+the surrounding background , that they were looking 
+for, you know so it would stand out, was lost in the 
+acquiring --in other words, th3.t thing was designed 
+for our close overhead work to see it, and therefore, 
+
+===== PAGE 250 =====
+239 EO~ ◄ FIDE~ ◄ TrAt 
+besides the smoke there was nothing else to --in 
+a contrast nature --to attract us to the target area 
+Cooper That ' s right. 
+Conrad And that --the problem was acquiring it --we were 
+always in the process of acquiring but by the time we 
+acquired it, we were already overhead where we should 
+have been making readings . 
+Cooper Yeah, I think that they might do ~ell to put some 
+big colored panels out or some type of something 
+that would be more distinctive 
+Conrad Let ' s (Say this --the times that we saw the ships, 
+the time we found the carrier, we had the carrier 
+wake in sight for 500 miles even though we didn' t 
+have the ship in sight and we were boresighted , 
+tracking, ,spacecraft pitching down keeping track of 
+that thing when we got close enough to actually 
+see the aarrier with our naked eyes, why it's because 
+we had been tracking and looking and focusing right 
+in the right spot all this time. You can' t do that 
+with that type target, and this was the thing that 
+I was afraid that was going --they've tried to 
+control everything in this S~S/D-13 experiment 
+measure the atmosphere , they have measured our eyes, 
+they have made the targets the right size, but they 
+
+===== PAGE 251 =====
+240 
+left out the one thing that reall y made --just like 
+being in the desert --you are flying along out there 
+over the desert and a very, very small ·;hink road 
+stands out and the reason it does, is because it's 
+got the r i ght contr ast ratio. You can put a 6 foot 
+road in brown in a brown field and you' re not going to 
+see it from 100 feet in the air. And this was.the 
+whole trouble. The targets were to small that their 
+contrast ratio didn' t help us acquire. I feel the 
+experiment was really a good one . I re~lly feel 
+badly about not getting the data, but ~1 opinion 
+hasn' t changed from before flight --I ·,ras worried 
+before flight that the contrast was gob.g to be 
+such that we would never locate it and that was 
+exactly what our problem was. Now the Woodleigh 
+si te, I feel might have been a little bit different: 
+We had such a good sighting cue in that Sharksmouth 
+Bay, and there was no doubt in our mind where the 
+target was the one time we saw it with t he smoke and 
+in relation to Sharksmouth Bay, and eve:cything that 
+if we had had some fuel up there, we ve:cy well may 
+have seen those targets far enough out t o acquire the 
+si te and start tr acking and then we might have gotten 
+them some useful dat a . No doubt in our mind that we'd 
+lu€0MFIDE~fF JAL 
+
+===== PAGE 252 =====
+241 ~F.IDENT!ts#-
+Cooper 
+FCSD Rep 
+Conrad have had a heck of a lot easier problem if the visual 
+acuity targets had been located up in Yuma and not 
+Laredo. Everytime we came over the West Coast , if 
+I didn't see Yuma, why I was surprised because I 
+think!I acquired Yuma every time --it' s real easy 
+to pick it out of the desert and there was many clues 
+to lead you right where those vis targets might have 
+situated if they had been in the Yu.ma areas, and I felt 
+that you would probably see them. And I still think 
+this is a real worthwhile experiment . I think it' s 
+good for 7, but it's got to be revised considerably . 
+They have got to move that Laredo l ocation, 
+Okay. 
+Have you got anything in the book ther e that you 
+want to put in? 
+Well, yeah. Let's just run by it real quick. What · 
+happened on each one of the I have several passes 
+l isted and I have on the first day 00 hours 00 minutes 
+that we took a vision test, well, those are all in the 
+flight plan and they are all marked on the cards so 
+that ' s not necessary to record. It was on the f i r st 
+day, 18 hours 26 minutes , when I did the window scan. 
+The Laredo siting we did at 1 day, 18 hours, 34 min­
+utes, 38 seconds and we didn' t even see it. Then 
+
+===== PAGE 253 =====
+' 242 t:€ 0bt~IDEt ◄ TIAL • 
+at 18:25:05 on the second day, Gordo s~w the targets 
+and I didn't. On the third day, 13:32:40 we saw the 
+smoke --no targets bad sun angle --then the 
+third day, 18 hours, 16 minutes, 14 sei::onds, we 
+saw a 1 in the first row, and a 4 in t:'le second 
+1 in on the second row --then on the 3eventh day, 
+16 hours, 40 seconds, we saw the smoke , saw the 
+targets on Gordo1 s side and he scored :1. 4 and a 1 
+in the first two boxes and the window measurement 
+was made at that time also. We had to, you know, 
+had the photometer and that's the only S-8/D-13 data 
+I have down. 
+11.5 Electrostatic Charge fuse :.1l.. 
+Cooper We did 
+that just according to the flight plan, 
+I I IConrad Yeah, well, lets see --Ive got --I 11 give the · 
+readings here, if I can find them. MSC-1 --We had 
+.... 
+an MSC-1 at 01+21+52+00 which ended at 01+22+44+00 
+and another one at 03+07+40+00 that encied at 
+03+08+40+00 . And another one at 04+05--50+00 that 
+ended at 04+07+00+00 and another one a·; 06+05+24+00 
+that ended at 06+06+24+00 . Another orni at 07+05+24+00 
+t hat ended at 07+06+25+00 and another one at 
+07+20+50+00 and that got cut short by a thruster 

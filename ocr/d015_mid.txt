@@ -1,0 +1,1672 @@
+
+
+===== PDF PAGE 41 =====
+Figure 1 
+I 
+Vertical path (No. 1) 
+No. 3 
+No. 2 
+Figure 2 
+
+===== PDF PAGE 42 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVl:R ■ ITY Of' CAI.IP'ORNIA 
+LO■ AI.AM0e, Nl:W MUICO 
+ro: DATE: Ju}¥ 13, 1962 
+Fox-th, followins I will assume that the concentr .ation ot absorbins mo1ecu1es 
+in the region of interest can be described adequate}¥ by an exponential decrease 
+w1th altitude above the bottom, of the layer, hence, can be represented by 
+where Y is the scale height in the layer and H must lie in the .ia.yer • . Then the 
+.number of molecules per cm2 is found to be 
+(4a) 
+(4b) 
+• RPo e (4c) 
+'I J ~ [-1 + V1 + y2 + ·2y sin e ] dy 
+(5) 
+where the integral is over the range of y desired (usua.l.ly O ➔ ex,). 
+·For a vertical view (sin 8 • .l) path, the sollltion is simpJ.¥ 
+(6) 
+where Po is the density at the base of the layer. 
+L 
+
+===== PDF PAGE 43 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVll:llalTY 0,, CAL.1,,0IINIA 
+LOe ALAM0e, NIEW MUICO 
+• 1'0z nr. Jocelyn Gill DATBz July 13, 1962 
+For a horizontal path (sin 8 • 0) te.nsent to the baae of a layer (path No. 3) 
+we ·note that y << l in the contributing region, hence, can get an approximate form 
+l ~r.~ ex, Y2N • RPo •e ccy (7) 
+O 
+which has the value 
+~­N•\J 2 Po (8) 
+Here Po is the density at the base of the layer, as in eqµation (6). 
+'I 
+An astronaut's view thru a layer :from above would see twice the path computed I 
+by equation (7), ·giving 
+N3 • Po ✓ 2nRY molecu.les/-cm2 (9) 
+f • 
+Aline of sight tangent to the earth and passing thru a layer at base altitude 
+H (path No . 2) will have 
+. .1!J., 
+N-~y [pl e y J (10) 
+..fu. 
+and we note that [P1. e ~] is the density at H1 , the base of the layer, which we 
+set eqµal to Po as in equations (6) and (9), 
+RY • ~ N,a • Po -L • Po - (11)2H1. 
+r-
+
+===== PDF PAGE 44 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVEllelTY Of' CAl.lf'OIINIA 
+LOe AI.AM09, NllW MIIXICO 
+tO: Dr. Jocelyn Gill DATE: July l.3, l.962 
+Aaeuming that 'Y • 7 km 1n ~ abaorbing layer, ve note that a. surface obaerver 
+vieving a layer at an altitude near l.00 km vill have availabl.e the ratio 
+(12) 
+An astronaut ·vieving along path No. 3 woul.d have a mu.ch greater thickness, as 
+2,rR ; 75 y . (l.3) 
+Viewing thru the layer to a point ne.ar the surface and out again the enhancement 
+would be mu.ch less, 
+(14) 
+Light received by an observer :from a "point source" in space is attenuated by 
+-uN • a factor e where CT 1s the absorption plus scattering cross section, giving 
+I -aN-• e (15a)Io 
+and I•. 
+1n .!_ • -CTN (15b)Io 
+
+===== PDF PAGE 45 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVl:RatTY 01" CALll"ORNIA 
+L.09 ALAM09, NIIW MUICO 
+TO: Dr. Jocelyn Gill -5- DATI: July 13, 1962 
+From the repcrt 1n Science, I infer that for the layer reported, 
+(16) 
+or 
+(17) 
+giving 
+aNi • o.o4 ± 0.027 (18) 
+and 
+0N2 • 0.22 ± 0.15 (19) 
+Any such absorbing layer present during the day would result in rapid heating, and 
+•I 
+reradiation in the infra-red range from whatever bands may be present. However, 
+the absorbers postulated below would be destroyed by photodissociation and/or 
+heating during the day. Hence, it is not surprising that solar spectra have not 
+shown such an absorbing layer. 
+StellarJplanetary or lunar spectra might show the existence of such a layer, 
+if the absorption spectrum has sufficient structure. 
+Setting (20a) 
+we find the effective path length Xi. 
+(20b) 
+~ • 3.9 x 106 cm (starting absorption at (20c) 
+.100 km altitude) 
+' 
+
+===== PDF PAGE 46 =====
+LOB ALAMOS SCIENTIFIC LABORATORY 
+UNIVltRelTV 01" CAL.ll"ORNIA 
+LOe AL.AM09, NltW MUICO 
+Dr. Jocelyn Gill DATB a July 13, 1962 
+(20d) 
+X4 • 7 .8·x 106 cm (20e) 
+Absorbers Present in the Upper Atmosphere 
+'lliree constituents of the atmosphere near 100 km altitude absorb light through 
+most or •all of,the visible range, as would be re_quired to get a noticeable d1mm1ng 
+of starlight. 
+They are: l) 
+2) N~ 
+-0 (nitrogen peroxide) 
+(negative atomic oxygen ion) v 
+3) 02 (negative molecular oxygen ion) 
+Of these, I found no cross section data for o;.· For 0-, Massey (Negative Ions; 
+Cambridge U. Press) gives curves showing absorption cross sections starting at 
+• • -l.8 • . • 
+5620 A and approaching~ 4 x 10 cm2 /ion 1n the region A< 5000 A. 'lb.ere is 
+• very little structure (only the onset at 5620 A). 
+From ecpation (17) we find that 
+~3 ± 2 l.7N3(0-) • _ (7.5 ± 5) X 1018 • 
+4 X 10 
+could explain the observed attenuation. 
+x 1010 For an effective path length of 5.4 x 107 cm, we have Po• (1.4 ± 1) 
+negative ions/crn.3 • 
+Since the daytime free electron concentration in the E layer is 1.5 x 105 and 
+the night vallle is~ 104 it seems-hard to believe such a high nighttime concentration 
+•of negative atomic ions. 
+
+===== PDF PAGE 47 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVll:R ■ ITY 01" CALll"ORNIA 
+L.09 ALAMC>e, NllW Mll:XICO 
+tO: Dr. Jocelyn Gill July 13, 1962 
+NitroGen peroxide haa been extensive~ studied and two papers were fou.nd 
+' ' which gave absorption coefficients in the visible region of the spectrum. Wiley 
+and Foord (Proceedings of the Royal Society Al35, 174 (1932) give a coefficient 
+which I convert to 
+-l.9 2/er ~l - 3 x 10 cm molecule 
+depending on the wavelengths selected by their filters (the lower value was for 
+the range 4900 < ). < 525·0 A) • 
+Hall and Blacet (J. Chem. Phys. 20, 1745 (1952) give a curve obtained with 
+' . a Cary spectrophotometer having ~ 5 A resolution. Maxinrum absorption occurs in 
+the range 3500 < ). < 4500 Aand drops to ~1/2 the peak value at 5000 A. They 
+give no data for longer wavelengths. I convert their absorption coefficients to 
+~6 x 10-ia cm2 /molecu.le at 4000 A, and~ 3 x 10-ia cm2 /molecule at 5000 A. 
+Structure produces changes in cross section of~ 2 x 10-ia cm2 /molecule at wave­
+lengths separated by a· few angstroms. 
+Ta.king an 'average value of 4 x10-ia cm2 /molecule1 ·we find 
+• and using X3 • 5.4 x 107 cm 
+Po• (1.4 ± 1) x 1011 molecules/cm3 
+. •. 
+
+===== PDF PAGE 48 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVIEll81TY OP' CALIP'OIINIA 
+LOIi ALAM09, NIEW MUICO 
+TO: Dr. Jocelyn Gill DATE: July 13, 1962 
+Readily detectable structure would produce ve.r1e.t1ons of o-N1 and aNa ot 
+about half the attenuation figure given in equations (18) and (19) which is 
+near the threshold of detectability. 
+I have not yet found an author who estimates the concentration of Ne or 
+N02 'in the atmosphere; Bates and Nicolet discuss the reactions which lead to it 
+in the book "'lhe Earth as a Planet", edited by G. P. Kuiper (Volume II of 
+The Solar System). 
+Nicolet calculates the photodissociation time as 200 seconds during daytime, 
+and shows the concentration must be so low that no effect on solar observations 
+would be found. 
+As a general conclusion, it seems to me more likely that N02 would be 
+responsible for an absorbing layer, generated perhaps with the aid of downward 
+diffusion of NO to higher pressure regions favoring oxidation to N~. 'lhe 
+color suggested by Glenn fits very well', as may be quickly verified by looking 
+thru. the vapor space above concentrated nitric acid. 
+Experimental Proposal. 
+Ideally, one could ask for the absorption coefficient as a function of wave­
+length (over a very wide spectral range) and time after sunset on the air volume 
+investigated. 
+It seems possible to get very useful data with a relatively simple experiment 
+perhaps possible of inclusion in one of the manned orbital flights. 
+Using a slow-speed movie camera, photograph the star field and such planets 
+(including the moon) as opportunity permits, with approximately a 10° field of 
+view and enough exposure to pennit photometric measurements as the light sources 
+
+===== PDF PAGE 49 =====
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVERSITY OP' CALIP'ORNIA . . . ' . . L.09 ALAM09, Nl:W MUICO 
+1'0: Dr. Jocelyn Gill DATE: July 13, 1962 
+"pasa through" the atmoaphere, especially the abaorbill6 layer (perhap auch 
+• ••• sequences already exif:>t). At the expected orbital height, I estimate a 7 km 
+thick layer w~ld subtend,.., 1/2 degree and a given light source would "pass 
+through" it in eight seconds. Attempts to derive a density distribution would 
+requ.ire a fair number of points in the 111-1/2 or 2 degrees" (divide by 3 ?) 
+so a frame interval near one per second _seems desirable. If operated continuously 
+thru the ni.ght passage approximately 100 feet of 16 mm film would be required 
+per passage • 
+As a crude attempt at spectroscopy, color filters could be used on some of 
+✓ the sequences, without too serious light loss. For example, a Corning No. 5030 
+or No. 5543 filter would limit exposure to the wavelength range of maximum 
+absorption by N02 (light loss may be considerable) ·and a Corning No. 3480 filter 
+would limit exposure to the wavelength range where 0-absorption is negligible. 
+Relatively broad band interference filters would be useable on the brighter 
+stars and planets. Direct visual observation through such filters would also be 
+useful, especially if photography is impractical and the astronaut tries to 
+reproduce any attenuati on noted by neutral density filters in combination with 
+the same filters and stars used in space. 
+Photometric observations of some of the "intense" airglows mentioned by 
+various authors would also be very instructive • The increased intensity due to 
+J 
+external tangential viewing woul~ help a great deal, and precise height de­. 
+terminations could be made • 
+It may be useful to ask Glenn and Carpenter to reproduce the dimming (as well 
+' / as memory allows) by narrow strips of neutral density filters against the star 
+1• I 1 
+
+===== PDF PAGE 50 =====
+LOS ALAMOS SCIENTIFIC LABORATORY . ' .. UNIVERSITY OP' CALll"ORNIA . . l.09 ALAMO., NIEW MUICO 
+TO: Dr. Jocelyn Gill -10-DATI: July 13, 1962 
+field they saw, or to compare the intensity and color changes noted with that 
+thru an absorbing cell containing N02 •• 'Ihe required thickness is readily availabl.e. 
+Acknowledgments 
+The author has benefited greatly from discussions with several associates, 
+especially as regards references to sources of upper atmospheric .and photochemical 
+data. 
+Dr. Robert Sherman has assisted in location of data on the absorption cross 
+section of N02• Dr. Arthur Cox suggested a number of references and confirmed the 
+author's belief that reasonably accurate photometric observations could be made on 
+photographs of a star field. Dr. Ieston Miller has emphasized the importance of 
+even crude control of the wavelengths responsible for exposure. All of the men 
+mentioned ·above are members of the Los Alamos Scientific Iaboratory. 
+Dr. J. A. 0'Keefe of the Theoretical Division of the Goddard Space Flight Center 
+generously discussed the observations of J. Glenn and S. Carpenter, and my hypo­
+thesis regarding N02 absorption. He has referred me to the excellent articl.es in 
+"'Ille F.a.rth as a Planet" and encouraged my submission of this letter. 
+Future Work 
+I would, of course, be interested in your opinion, and that of other experts in 
+the field, of the above hypothesis. If your group recommends inclusion of such 
+J observations on a future flight, we may be ·able to help on some points in data 
+acquisition. I am sure the project would deserve review and .control by a panel 
+of men such as Bates and Nicolet. ---.......... 
+Respectfully submitted, ~y--~ 
+BOB E. WATI' 
+Assoc. J-Div. Ldr.BEW:jo and Grp • .Ldr. J-16 Distributi on: 
+l -Dr. Jocelyn Gill. .I 
+' 
+
+===== PDF PAGE 51 =====
+In ~ly refer to: SGC:Mt:llll. 
+21 Feb~ 1962 
+MQl)BANDt){ 
+Subject: Poeaible 1eritit1c Viaual IIitoruat1on 
+Obtained 1>f J. H. Gl.enn 
+1. Two (2) 1ntentl'ting obaervationa re~ in the Pree , 
+as ddcribed by Colonel GJ.enn ~ the NA-6 flight. It 11 ot 
+Vit4U. 1ntereat to obtain a more 4ataUttd deacl'iption at tbfte ob e~ 
+t1ona in order that the &ccur&cy Md the detail• ot 'What,.. obseried 
+may~ Pl'Ol*.rly Neoi"decl for ,oientitic eriJ.:uat1on. The two obaer­
+vatioDB wre: 
+()The~ ot the ~t m.Jl!lbW or lUIJliriowl particles ap~tl.y travelling Vith t 1Pt,Cecratt at 1'r1endlhip-7 euifri1t ; 
+and 
+(b) Th altitudel or angular view o~ the -upper limb 
+ot the tmo•ph&re. 
+2. The thouunda ot 1Ulll1n0ul parttcl.• • <!ascribed u 
+travelling with tM apaoeoratt. It la in;IOrtant that Glenn describe 
+1n a.eta:11 preci~ th• obaervationil characteristic ■ under 'Which he 
+aaw the piirt,1,.cl.. 1n or4ir to obtain an ..timate of the b~tne•e 
+ot th•e ~lcl•. 'fhe quat1cma that ww.d like anawerad 
+What-. the bMi1 ot 01mn'• 4eterminat1on wt that the particles 
+vere tuall.y t:s'Yell.1.ng ¥1th tho •pacecn:'aft and. vh4tther thia condi• 
+t1on peraiated on aubuquent c>i'bit . In .a.dition, the ge<JDetey-or 
+the obaMrrYatiana ehow.d be turther deacribed in order to ~rive th 
+geanetric 41itrtbut10n at the parbicles relative to the e&pacecratt•a 
+v:l.iuknr. (~ preoue obeervat1onal tw and th4I poe1t1on of sun-
+1.ight lum1noa1ty can NllkJ:U:y be a.t4tj,ni;ned trom the orbit of the 
+pacecratt itaelt). 'l'hee• particl• ~ be pocentr1c 1n origin 
+and may' be ••pended in the -~- '1'bera ~ .t leUt tw 
+hypot 1• tor a;pla1n1ng pantclAa tr&vellbJg v1th the apacecn,tt. 
+'l'he intensity c~ to atarl~t aboul.4 lMt 4-termlned 8.1.ao 
+tbia 1.nformat1on ia ot ~• 1n 4-~ turther ~ormation 
+about the a olute JIUlabex-and cros1•aectiona ot the 1)$'t1cl• may 
+rel.ate to tbe dujt content or zodiaciil 11~ u WU u the gegen­
+echein. 
+
+===== PDF PAGE 52 =====
+[No extractable text]
+
+===== PDF PAGE 53 =====
+HAND-CAR BX 
+NATIONAL AERONAUTICS AND 
+SPACE ADMINISTRATION 
+WASlijNGTON . O.C. 
+SPECIAL 
+GPO 16-76611-1 
+
+===== PDF PAGE 54 =====
+\ NASA HEADQUARTERS ROUTING" SLIP 
+ACTION ~ 
+CODE NAME (if necmary) APPROVAL 
+1-n ~ ~ CONCURRENCE 
+1. ~ -I J.. ---•• r FILE 
+--11h-l .-"" "" Rec'd INFORMATION 
+l;._ IR·~/C. 1 OU \,fC INVESTIGATE AND ADVISE 
+,,,_ II NOTE AND FORWARD 3. V I I '/ I / II I 
+, ~ JA ~ .il/f.l -NOTE AND RETURN -
+1'Jif1 PER REQUEST
+4. -/ r A ~ RECOMMENDATION-- , .... 
+SEE ME 5. .5(] ~ 011~ SIGNAT.t.JRE -REPLY FOR SIGNATURE OF, 
+6. 
+7. 
+REMARKS: 
+oJ~ 
+:;, ,~fa 
+~ ODE, 
+FROM: GC I NAME, 
+Dubin l~?h/62 
+NASA form 26 (Rev. July 19~9) • U. S. GOVERNMENT PRINTING OFFICE : 1959 Ol'-51302.1 
+
+===== PDF PAGE 55 =====
+In reply refer to: SGC:ML:ml 
+21 February 1962 
+MEMORANDUM 
+Subject: Possible Scientific Visual Information 
+Obtained by J. H. Glenn 
+1. Two (2) interesting observations were reported in the Press, 
+as described by Colonel Glenn during the MA-6 flight. It is of 
+vital interest to obtain a more detailed description of these observa­
+tions in order that the accuracy and the details of what was observed 
+may be properly recorded for scientific evaluation. The two obser­
+vations were: 
+(a) The report of the great number of luminous particles 
+apparently travelling with the spacecraft at Friendship-7 sunrise; 
+and 
+(b) The altitudes or angular view of the upper limb 
+of the atmosphere. 
+2. The thousands of luminous particles were described as 
+travelling with the spacecraft. It is important that Glenn describe 
+in detail precisely the observational characteristics under 'Which he 
+saw the particles in order to obtain an estimate of the brightness 
+of these particles. The questions that we would like answered are 
+what was the basis of Glenn's determination~ that the particles 
+were actua.lly travelling with the spacecraft and 'Whether this condi­
+tion persisted on subsequent orbits. In addition, the geometry of 
+the observations should be further described in order to derive the 
+geometric distribution of the particles relative to the spacecraft's 
+window. (The precise observational time and the position of sun­
+light luminosity can readily be determined from the orbit of the 
+spacecraft itself). These particles may be geocentric in origin 
+and may be suspended in the atmosphere. There are at least two 
+hypothesis for explaining particles travelling with the spacecraft. 
+The intensity compared to starlight should be determined also as 
+this information is of importance in determining further information 
+about the absolute number and cross-sections of the particles and may 
+relate to the dust content of zodiacal light as well as the gegen­
+schein. 
+
+===== PDF PAGE 56 =====
+, 
+- 2 -
+In a similar manner, the observations of the horizon and the 
+extent of the atmosphere are of great interest in determining the 
+distribution of various atmospheric characteristics. The precise 
+lighting conditions regarding the position of the sun and the 
+intensity of the outer edge of the horizon as observed by Colonel 
+Glenn may be used in the consideration of what Glenn actually saw. 
+For example, he may have seen the limit of the atmosphere (based 
+on the 8 degree limb described in the press, the atmosphere 
+apparently extended to over l50 Km) by Rayleigh scattering; he 
+may have seen the airglow; or he may have seen the MIE scattering 
+from dust in the atmosphere. The true limiting angle of his 
+observations and a graph of the itltensity drop-off with angle from 
+the earth should be obtained in addition to the lighting conditions. 
+It is recommended that this information be obtained from 
+Colonel Glenn as soon as possible. 
+Maurice Dubin 
+Head, Aeronomy Program 
+Geophysics & Astronomy Programs 
+Office of Space Sciences 
+___FL SG_ ........fl ______ 
+Fellows 
+
+===== PDF PAGE 57 =====
+DRAFT OF NOTE ON THE SCIENTIFIC OBSERVATIONS 
+Toward the end of the flight, between 16 hr and 47 min (UT) and 17 hr 
+and 03 min (UT), 24 May 1962, Lt. Cdr. Carpenter made a series of observat ions 
+on a luminous band visible around the horizon. The most decisive observation 
+was made wi th an airglow f i lter supplied by Mr. Iawrence Dunkelman of Goddard 
+Space Flight Center. The fi lter transmits a narrow band of wavelengths, 
+approxi.mately 11 Angstroms wide at the half power poi nt and centered at the 
+wa,velength of the strongest radiation of the ni ght ai rglow, namely 5577 Angstroms 
+The f i lter cut out all other Ught, but passed the light of the , luminous band, 
+which is thus identifi ed as the 5577 layer . 
+Lt. Cdr. Carpenter noted that the layer was very bright. He found 
+that Phecda:Ursae Majori s, magnitude 2.5 was lost to si ght at the brightest 
+part of the layer. Assuming that the image of Phecda occupi es about 1 SY.Uare 
+-8 o_,)J-minute of' arc on the retina, or 8.18 x 10 steradians, O.ssuming that a star of 
+6 2 magnitude o.8 yields 10-lux (1umensJm ) we find that the brightness of the 
+layer is about 3 lumen1m2)(steradian) or 3 x 10-4 stilbs. This is e~uivalent 
+~t (S"-~)to about 4 x 104 erg;,m2 )(sterad :i.anh_, taking the least mechani cal ey_ui valent 
+of light as 1. 6-1 x 10-3 watts per lumen for 556o A as per the AIP handbook. It 
+is about 50 t imes as bright as a white surface i lluminated by moonlight. 
+The angular hei ght of the layer was found in 5 di fferent ways: 
+1. By direct estimate -8° to 10°. 
+2. By noti ng that it is approximately twice the height of 
+t he twilight layer. Lt. Cdr. Carpenter estimated the hei ght of the twi light 
+layer a,s 5 sun diameters, which means 2-1/2 degrees, hence the hei ght of the 
+5577 layer would be 5°. 
+3. By observation of the star Phecda (ju Ma) as it passed 
+t he middle of the luminous band. 
+
+===== PDF PAGE 58 =====
+t 4. By noting the time when Phecda was halfway f rom the 
+luminous oand to the horizon. 
+5. By noting the fact that when the cross of the reti cle 
+,th(.. 'A1,( ·1 r.~ i)~ /).\ \>.-.( ! 
+is set diagonally,~ just covers the distance from the band to the hori zon. 
+By method 3, we make use of the time of passage through the middle 
+J 
+of the layer. This point is marked by a reference to a mark on the telemeter ing. 
+enl:y: ee found on ~he gr ottae. etatiea ta:r;,e s, 
+.:i. ~ '-"'' .;i.--,c.:h •" .,.;.~1 ).."f' cn\:!r . L\tr fe,,4er 
+v a:'.. efl 1:,Pe Mt yet svail:a:til.e, ~ l,y careful timing of the capsule t ape'/\it 
+,,. 
+appear s to have been very close to a 4h "1,m j.9s, capsule elapsed time, i.e., 
+16h5cPl/5s. UT. For this instant the capsule coordinates as i nterpolated from 
+the Woomera tracking data, were -longitude -127° 40:0 
+latitude = -18° 49:8 
+hei ght = 226 kilometers 
+At thi s moment, the l i ne of sight to ( Ursae Majoris was t angent to 
+the layer of maximum thickness of 5577. The angular zeni th distance oft U Ma 
+at this time was found to be 101°421• A line of this zeni th distance is tangent 
+t o a spherical shell of the proper radius whi ch i s 137 ki lometers below the 
+capsule or 89 ki lometers above sea level. Accordingly, this observation should 
+be interpreted as indicating that the densest part of the 5577 layer is at a 
+height of 89 ki lometers, which is in good agreement with rocket measures. 
+The lower limit of the visible light appeared to be near 78 ki lometers ; 
+rt / ht 5/derrmtat1f . i3/no.t pnie1d aysif1fi,/ bt,j~i n1 a 1/1111io/u~ / hell 
+/1 s /ex-p/c~ to/dim/nisVgragla11r d~wara i/a6arentlbri~~e9i , e4en} r /4 is 
+. , 
+faf~8}1/ _v}r/ ¢1/1• . 
+#J.JJiJlliJJJlfl:!J°Y:!iJJJ,~v.~ir 
+The f i lter observat i on on the airglow was made at 17h 0~ 6s, UT. 
+
+===== PDF PAGE 59 =====
+Sunrlse was observed at about 1m later, while the observation was going on. 
+It follows that the airglow is visible even when the twilight band is very 
+strong. An attempt to observe it in the day is certainly indicated. In this 
+connection, it should be noted that Capt. V. I. Grissom reported a grayish band 
+at the top of the blue sky layer. (Pesults of the Second U. S. Manned Subqrbit al 
+Space Flight, NASA, GPO (1961). le remembers this layer as narrow and grayish 
+i n color, representing an actual i ncrease in intensity. He poi nted out the 
+approximate position of the layer on one of Lt. Cdr. Carpenter's photographs 
+at the height of 1.7 degrees above the horizon. Grissom may have observed the 
+daytime airglow. 
+Carpenter did not note any structures, either vertical or horizontal, 
+in this layer. He did not observe it completely around the horizon but believes ·1 l 
+to be continuous all the way. It does not appear possible that this layer can 
+actually absorb starl:ight. Any layer at this level capable of absorbing a 
+noticeable fraction of the light (25i or more) would also scatter light strongly; 
+it would therefore be a very prominent object on the daylight side. In fact, it 
+is not definitely visible on the photographs of the day side. Thl s i s entirely 
+i. n agreement with Lt. Cdr. Carpenter's impression, namely that the decreased 
+visibility of stars passing through the layer was a contrast effect. 
+A remarkable feature of this observatton is the discrepancy between 
+the eye estimates of 8',.10° for the altitudes above the hori zon, on the one 
+hand, and the results of timed observations on the other. The latter indicates 
+altitudes of 2° to 36 . The latter are clearly correct; f or example, Carpenter 
+noted that when one ann of his reti cle was at an angle of 45°, it covered the 
+space between the horizon and the bright band. The crossann is 1.21 centimeters 
+i n length and it is a distance of 26.2 centimeters from the astronaut's eye. 
+At an angle of 45°, i t subtends a vertical angle of about 2°.6. 
+
+===== PDF PAGE 60 =====
+It thus appears that there i s a strong i llusion whi ch exaggerates 
+angles near the horizon, and which was evidently also present in MA-6, since 
+Lt. Col. Glenn also reports 7° to 8° as the height of the luminous band. The 
+i llusion is perhaps comparable to the well-known illusion which makes the moon 
+seem larger near the hori zon. 
+Carpenter also noticed and photographed the Glenn ef fect. He reports 
+white objects resembling snowflakes, seen at sunri.se on all three orbits. ' 
+However, he also saw these objects 7 minutes after the fi rst sunrise and again 
+43 minutes after sunrise; and zll, llm, 23m, 26ffl, 3(1!! and 45m after the second 
+sunri se. It i s thus quite clear that they are not related to sunri se, except 
+perhaps i n the sense of being most easily visible then. 
+Carpenter managed to photograph a few of these particles. Some of them 
+were very considerably brighter than the moon, which was then very near the fi rst 
+quarter. At this time, the moon is about -10; the particles may have been be­
+tween -12,5 magnitude (10 x brighter than the moon) and -15 magnitude (100 x 
+brighter than the moon). The second is -considered more likely, in view of the 
+appearance of the full moon (-12,5) as shown on MA-6 photographs. At -15, the 
+particle brightness i s consistent with centimeter size snowflakes. The 
+particles were verbally described by Carpenter as between l mm and 1 cm in size, 
+and having a strong visual resemblance to snowflakes. 
+Shortly before reentry, just at sunri se, Carpenter performed the de­
+ci sive experiment of hitting the capsule walls with hi s hand. The blows promptly 
+resulted i n the liberation of large numbers of particles. It i s thus clear that 17 
+at least those particles observed in the MA-6 flight emanated from the capsule. 
+The possibility that the particles might be dye marker or shark re­
+pel lant , both of which are green and both of which are exposed to the vacuum, 
+was considered by Mr. Frank M. Crichton, NASA capsule inspector. Crichton had 
+tests made which demonstrated that nei ther material tended to escape from the 
+
+===== PDF PAGE 61 =====
+package in a vacuum. The possibility that it might represent small particles 
+from the fiberglass insulator was also considered; in view of the smallness of 
+the fibers, it appears l :lkely that they would have been blown away at once, 
+l Lke the Mylar confetti. The dynamic pressure of 1 dyne m2 is sufficient to 
+L\I'" \\,••''\ 2remove at once~weighing less than about 10 to 100 milligrams cm ; which 
+corresponds to a thickness of the order of 0. 3 to 1 mi llimeter for most 
+ordinary substances. 
+As menti oned in the MA-6 report, there are two plausible sources 
+withi n the capsule for these particles. 
+(1) Snow formed by condensation of steam 
+from the life-support system. 
+(2) Small particles of dust, waste, bits 
+of i nsulation and other sweepings. 
+The latter are very conspi cuous in a zero g environment, when there 
+l s nothing to keep them down; it is found to be extraord inarily difficult to 
+free the i nterior of the capsule of such material. Undoubtedly, the exterior 
+parts of the capsule which are exposed to the environment will contain these 
+things, and they undoubtedly play a part i n the Glenn effect. In particular, 
+a corkscrew shaped piece observed by Carpenter was probably a t urning or 
+perhaps a raveled piece of insulation. 
+On the other hand, there is considerable evidence which points to 
+snow as the source of the majority of the material. In the first place, water 
+is dumped out of the capsule i n far larger quantities t han any other substance. 
+In the second place, the material looked like snowflakes both t o Glenn and to 
+Carpenter. In the third place, the fre~uency with which the Glenn effect is 
+reported by Carpenter appears to be correlated with the temperature of the 
+exterior of the capsule as recorded by thermocouples in the shi ngles. The 
+temperature was always lowest at night, falling to temperatures of -35°C just 
+
+===== PDF PAGE 62 =====
+bef ore sunrise, and rising to plus 10°c just after sunr"ise. DJ.ring the second 
+day, the temperatures were lower, reaching about -25°c during portions of the day. 
+From about 3h 3dn, CET, on the second period of sunlight, the temperatures were 
+h i.gher, ·,.nd, bnly one partlcle is mentioned. 
+If' the effect i.s indeed due to condensation of moisture, t hen t he 
+broad end oi' t he capsule is a more likely source than the narrow end, because 
+t he temperatures were 200c or more higher at the n;:i.rrow end. 
+The condensation probably took place ·Lnside the capsule, rather than 
+outside, because even at the lowest recorded sh i.ngle ·i..<::l.ilJ;)r.::-:.l·ture, around -50°c, 
+the vapor pressure o ver ice amounts to about 0.039 millibars. Although this 
+pressure is very low, i. t greatly exceeds the ambtent pressure at the lowest 
+capsule altitudes. Accordingly, it is not possible that snowf lakes should form 
+under these circumstances, even though it is true that the capsule must be 
+surrounded by an expanding atmosphere of water vapor. 
+If the water-vapor expands freely, ;_t is clear that the pressure at a 
+distance of 1 meter from a hole 1 cm in diameter wi.11 be of the order oi' 
+1/10,000 of the pressure at the hole. Hence it i.s fairly clear that the pressure 
+i nside the capsule will be far higher than the outside pressure, i n sp i.te of the 
+presence of 18 one-centimeter apertures. Hence condensation within the capsule 
+ls more likely than condensation outside. It is noteworthy that no formation 
+of rime was noticed either on the window or on the balloon string. It is con­
+sidered most likely that tne particles of the Glenn effect are snowflakes formed 
+-Ln the capsule, between the cabin bulkhead and the heat shield by the steam 
+exhaust from the li.fe-support system. It is suggested that they escape i nto 
+space through the porte, being driven outward. by the expanding vapor. Note 
+that at 02 52 47, Carpenter noted a particle moving faster than he. At 02 50 00, 
+he planned to observe sunrise and was facing forward. This particle was thereby 
+probably seen east of him. Most of the particles are seen behind him and falling 
+
+===== PDF PAGE 63 =====
+• • J ... 
+back. This supports the idea that the partlcles probably are pushed outward by 
+t he expanding steam from the capsule, before they begin to stream backward. It 
+l s probable that many of the particles lodge on the outside of the capsule, 
+since Carpenter i s quite sure, from the direction of streami ng across the 
+wi ndow, that the particles came from a point near where the knocking was done. 
+Carpenter obtained two excellent photographs of the sun when just 
+abov~ the horizon. These photog.ra:phs plainly sh~w. the flatte~ed ,, sa\.lsage- . .. ·kc.h""' ,,+ ~\:~ 
+Ct, fft.,;~c. ( n~'(':, thh \-v:,h .. 1" \\(. ';,(..\.v .,.,_,, \ , \(~ \-h<v ~h-'-y--r,'> •,,110,v I>' • ~"',\,( ei,., tr,-,,,1 ·t )c,.,.., ,rr l " '"~'> 
+shaped fonn photographed earlier by Glenn.,'\ Calculations of this theoretical 
+shape are being made at this ,time for compar.ison with the astronaut observations . 
+The flattened shape is due to the fact that the lower portion of the sun's di sk 
+is seen through layers whtch refract the l.ight much more strongly than those 
+through which the upper part is seen. As a conse~uence, the whole d Lsk appears 
+flattened. A similar, but much smaller flattening has long been known to be 
+observab le from the ground. A part of the interest of thts phenomenon comes 
+from the fact that at great distances, as at the moon, the effect of this re-
+fraction is to make the sun appear as a red ring of light around the earth. 
+
+===== PDF PAGE 64 =====
+r 
+SCIEN'.rinc DEBRIEFING , .. . . 
+•' Ji.me 1, 1963 
+(First Experiment • Flashing Light) 
+John McKee: One of the first questions that I have regards some estimates 
+you made of the beacon distance. Were those based ·entirely on the knowle 
+of how bright it was tram p~vious aircraft training ·or do ·you feel there 
+was some other distance cue somehow involved in the ·test. 
+J 
+Cooper: No. If I had no prev;ous experience on the light·, I donVt believe 
+I would have had any possibility of telling how far it was except· that on 
+that second night pass after ejecting the light. Apparent'.cy the sun was 
+shining on it as I saw this steady glow, up to about·my level on the orbital 
+path. At that time I bad a little bit more depth perception on it ·and could 
+') . 
+seem tp note the proper drift on it. That was the first time that I • saw it. 
+and t o the experiments we _q;f,d on :the aircraft When we had radar measurement • 
+I 
+you notice the pitch rate.? --or what was the sensation? 
+.Cooper: ·No, I ~idn't notice any 'rate as such. I cou1d really feel 
+the spacecraft and to me it felt Jµst like there were doors banging ·open 
+down there,.,as it departed and Just a li~tle bit .of a Jolt: through_~he : t' h .· 
+• • \ I • ' ~. A~ ~ ... . ' . 
+spacecraft. It was a good so~d thump when it'took·oft. • ·' • • •• '. , '' ,r~·:/; ._, : 
+ri-~ 
+
+===== PDF PAGE 65 =====
+Scientific Debriefing 
+Bill .Armstrong: Act~ Gordo, it turned out, it gave you about a half of • 
+a degree per second in the opposite direction. This was very apparent on th 
+postfiight record. You can see your ·thruster ·acti~ when you start to pitch 
+' ' up El.lld then as you come right to the bottom of the curve you can see this 
+little blip on your rate; and then the attitude started back'the other we;yo 
+.It was real definite. Something on the order of a half of e. gegree per ·secon 
+or e. little moreo It was real definite where it occurred. Well what it does 
+is start your pitch back the other ·~• 
+·' a:riy thruster action to go ,back 1n the other _direction, to pitch back down .afte~ 
+' I you deployed. You. went to cage -to retroattitude and the attitudes just 
+and start back .over. It was real ·clear on the records where it went 1out.. 
+/ Shepard: Say, in regard to the first question, do you think because you . ' 
+had th~ earth as background you could Judge d~stan~e, . because you ha~ e , 
+as background 'l 
+Cooper: I think possibly so~ Of course it's like an airplane when it·•s ' 
+a considerable distance out. It is almost impossible to judge the distan 
+awe;y. You can talk yourself into believing it -is almost any distance fro 
+I 
+you, ,. And when it gets . 
+on 1n closer you really have a bit . 
+m?re perspective 
+on ito I did feel that I had almost Judged the distance on that first t 
+In fact I didn't even "!:>elieve that was it when .I first saw ito t cou1tln't 
+• I I• 
+, . ." think of anything ·else that it could be but it was just solid lighto ~d -~ {_ 1 
+-, ' . . •·,. • . . ., i .. • . ;r. ~ t ..._.., ··~~ ,[!,'"' 
+it turns -' out looking back now 6n it,· I -am.sure this was because_the s~.'. :~-::· -~~ .~ 
+~' . .... . ,, 
+
+===== PDF PAGE 66 =====
+Sci~ntific Debriefing -3-
+had not completely set; !')11-sure 1'113' ·retro pack .area was in the eunligh~• -,. , . 
+I'm sure that is what I saw glowing,--was the sun reflecting ·off ' of it. . ' 
+. AJ.though I had, not seen it tram·previous viewing OD tbe day side or the 
+night _si~eo 
+McKee: When you didn't see it OD the first night side, did ~ou have any 
+personal feeling that the light' wasn't ~hing? Did you correct your 
+1; 1.·attitude when you didn't see .it or· did you have any feeling what the problem .··:. F,.. ~ ...,, 
+., , - • I • l •, • 'I- -• •~ -, • ' 
+, was? ,. • -,-~ ;' _·•: 
+....,~ '-.... 
+-Cooper:. I Just don't have any idea. I kept doubting Jey"Sel~~ • This was 
+the first time of course that I had ever tried aligning to small end forward, . • . . . 
+·,.'., a180° yaw -as weJ.call it and of course aligning on the night sideo I begaxi, I 
+. . /'to doubt that I was aligned properly, I went to the star charts and rechecked 
+, • • ., " r 
+!' r and found 1n fact that I was not quite aligned correctly at· first . . ·But then ..• :•..:, 1 
+,, 
+, ¥ ,, ~ 
+I did double check'and found that I was ---I'm sure several times thru the ' .·,· >.'.--~ i 
+..: • ~ -• " • t 
+• , l't J ') • f •"''"night I was aligned exactly · on and in using the horizon .line J~t about 1n : ,,: • • , 
+,1• ~. 
+•. I , . . 
+.the middle of the window even moving up and down almost 
+,.invariably •.. 
+---• 
+don't have any idea why I didn't see it. 
+Bill .Armstrong: You .did change your ·attitudes? ·That was one of·the th 
+. . 
+I wanted to Knowo • I?o you remember at the beginning of t~e night phase, 
+. you first start looking : low and then toward th~.'·eni· • • ~ o/ -did·. • ' 
+' . 
+ust sort of scan the area or vb&: / 
+
+===== PDF PAGE 67 =====
+Scientific Debriefing -4-
+Coo:per: Well first I started trying to get Tfl¥. 180° yaw point. This is 
+not the easiest thing in the world to get on the night side, and particular~ ... , ,_ 
+...... 
+when you have to go into your ■tar charts 50 ~ute1 ahead ot Where :,ou had • 
+norn:ia.;uy been used to using them. ir:.finally did find star patterns that gave 
+' me the proper orientation. ,I was wiing, around 15 to120 degrees pitched downi ·,.' ,·.- \ .,, ' ,. :• 
+I .was just keeping the horizon ~ th~ sort of bottom p~ of the Window ~d~•:-1·!_·, :./·:~'l~·~ ;{ 
+\ ')" \ •' 
+I • t .., ,f-
+I got_around. ·this area, I then tried varying ·the· attitude ~P and down to- '· • , •• ·, 
+look for the light~ 
+. .. 
+I1She:pard: You mentioned ' in your repOrt that,--you talked about approx 
+25 minutes a:f'ter you caged your gyros, that you saw' a ·lot of li'ghtning 
+par'tfcularly in that area. .: •'.o:. 
+Cooper: · Well, · this is .,one possibility · that there was a slight compromise 
+to the.light. 1 Particularly on the first night side there was co~iderabl 
+large lightning down ther_e. I found concentrations of large thundersto 
+•right up .in there and saw quite a lot iof -light flashing through fairly 
+I 
+large areas. I still don't believe that even on the other night 
+spite of these I still could\see the light even with -:this as a ba.ckgroun
+.• .. ... . . : , ~ ·•· ·-. 
+It is r~ally not an excuse for ·not seeing it ,and I really honest]¥ _ ••C 
+I ', . . ~--; .-~ ...... -----··· -•• 
+say why I didn•t.. I had 'b~gun ~o doUbt th~t ,1~ was re .. flash 
+~ .., ~ • • • I • I • 
+
+===== PDF PAGE 68 =====
+Scientific Debriefing -5-
+Cooper: The moon was probably 14-al. It was down to about a third moon. 
+It was a ver:, distinctive moon vb~ you ·could see it but it' wasn.'t causing 
+the great amount of light tbat a. twU moon would have caused. , , I could see 
+I 
+the glow on the ground, on. the· clouds :~d on the land, from the moono ., It'. 
+up just at t1:ie .last part c,f the ~n1Jtrt. ·It-was never ·close to 1 th~ moo:Q. 
+deylighto 
+. Bill ,Armstrong: 
+' i. in-the retro pack area; they ·ran•.cooler, this flight. 
+Bill Carmines said th$t they-b-4: ~;ualJ~· flashed the light at thi~ lo~r ' 
+temperatures without .any probla. Re talked to Langley people and he says 
+' 
+.that i~ the light had fail~ 1;0. work the first time it would have never . . 
+: , ·warmed enough later in the n:1~t to start flashing. It is hard to visuali~T .. ~: ; . ' 
+- , .'· •• ,1 ~tip'. • • ;. 
+it no~ having been ·working t-he f:Lrst time Bll;d then ·worked the second t:1.me.,,.·, • 
+Do ·you think your _att,itude . ,..~~ •-eauld you tell any difference •in your 
+attitude , the second night vl,Am -~ $.alf the ·llgbt. In yaw as C?JDPared 
+·: st • do you think 70\1. . • : • • ~ed d~~b~ter the 
+.. ·, ( 
+
+===== PDF PAGE 69 =====
+I' .' 
+Scientific Debriefing -6-
+Cooper: Well, not realq. As I went into both night sides I cc;>u.ld pretty 
+well estimate 18o0 yaw. The first' night side I was not complete:cy around,, ,·~ 
+I started :,awing around &114 ni,gbt wu audde~ upon me and I wasn°t quite in ' ' 
+• / I 0 0 ' the :t'ull 180 positi~, so I did have to hunt ,for 'the 180 posi~ion a little' • 
+' bit• .On the second n:i..ght -side af'ter-I ejected the -light, I was alre&q¥ in_' 
+I • I ' · m:, 180~ position before ·going -into the night side. 
+..... ~+~• 
+Merce;: H6w·liigb above or ·below horizon line or -~dow did you look ·for light! ./; :; , • • 
+• I I , . I , 
+. ' , • 
+In other words how .far down"or:how; high did you go with your·pitch.attitude? 
+/ ¾:,' 
+. • • 
+')} I 
+::.;,.. 
+Cooper: On the first night s.ide I .allowed it to drift very, very slow:cy and •·~ • _• .., : , 
+.,. . ... ' "'J. :, , \t. , .. , .. t 
+' changed them as I needed to, 'very very · slight:cy to keep m:, yaw on 180° and· // '., Y· ... 
+\ t, 
+it varied back and forth very ·sl.igbt:cy. But Xwent '&1.1 tlle ~ down to ~;~·,~ . •' ;~ ,,,.)
+' I t\ '• ' , 
+where the horizon ·1would fill the ·whole window and up to where. I Just ba.re:cy , ..,-¼·.J., ·;\ • •, · •.. • . . • ., • ~... , __ i .1,.·.t-\,. r 
+• r ~ • \,. • • • ' • • ;"' ,' "..' •' :'i # ~ h¢ the horizon in sight. / "7 ' 
+. ,· . . ' 
+Bill ,.Armstrong: ·Did you see it cane right a'WIQ"·when· you·:iooked .on 
+I nigb.t'l 
+'I 
+/ ,,. 
+; ' 
+/In oth · ·-:rd8°you :picked it up. 
+• • J 
+
+===== PDF PAGE 70 =====
+Scientific Debriefing -1-
+Cooper: .Almost. Almost as it began to get dark. Of course it gets dark 
+Just like that. Zam it gets dark~ I had Just,--it was dark earth background 
+and as I say 'lI13 first teeling on at,eing it was definitely coming :f'rom below_ 
+j 
+very very slowly. As I watched it was getting higher in 'lI13 line of sight to the 
+I 
+·earth. In other words as I ·was holding -the earth on .a fixed place1ton the 
+window this was coming u~. It was · coming up in relation to me, and was 
+finally ·up to 'lI13 level. And ·.as I saw it coming up it was solid light. My 
+first though. on it was -that it looked Just like th·e missiles that I have seen . 
+I , ' • • • • I • ' ~ 
+launched at night :f'rom Cape C~veral; when rou're t:cying at night at a·high·• 
+altitude . and see them launched. It didn't have the same glow but it· was ....., 
+• ' •• ' .. ' • ' ':,I •• 
+• • ·1 I' -very·very bright, and solid and <seemed to becoming up. ,, •' 
+Bill Armstrong: _ That is something else we checked into• . It would have be~--;~ 
+impossible for this light to have been steady_for -you. It is neceSS_!ll'Y to 
+, /' fully charge the condenser and then get a quick discharge. •,· • 
+Cooper: That's why I think .it mat have been the suns~ine on it 
+Because of t~e altitude we were both at, the sun ·would be shining on it at 
+that point. I had Just gone • into :the night side.~ Even though i~ was dark 
+• I ' .. 
+• . I if I had yawed around to zero _yaw it ·would have been in·.the bright sun., 
+. ~ f • • • 
+' 
+I I 
+
+===== PDF PAGE 71 =====
+.Scientific Debriefing -8-
+of t he window when I first picked it up. By the time it got up to where 
+• • : ' 
+was may'be 15 degrees higher (1n relation _to me and m:, l.ine •of sight) 1 
+.• I 
+suddeacy saw it flashing. 
+. I \ Bill Armstrong: ~at'a ,.1ust where it would have been. If woul.d have· 
+-. 
+just coming to the horizon. '. ' 
+John Boynton: ·Was this predominantly ~bove the horizon? 
+Bill Armstrong: In the first orbit, no. On the first orbit it is' very-1low~ 
+That is why' he •might not have seen it the initial part of the orbito 
+I 
+about 20 or 30 minutes thru the1night s~de, it passes through the horizon 
+and then it goes about 25 or 30 degrees high. It goes· through a fai,rly 
+large angle change. at first, and the further out it gets of course the 
+smal.ler1the angle.change is. 'l'he second night a:f'tier depl.oyment •Just ·about .,,_ 
+. . at sunset 1t start·s up through the.horizon and 'then all the time.during the ' 
+• ' 
+second night phase it is .above th~ horizon. · Then the third C)ne is· above the 
+hor.:Lzon all of the·'time. 
+
+===== PDF PAGE 72 =====
+,. 
+Scientific Debriefing -9-
+Bill Armstrong: You get a 30 degree angle view througb'._the window. 
+the top of the window to the bottom, 
+variation of ·.30 degrees. 
+'·' John: How far ·would he have to pitcp down'l 
+Bill Armstrong: He would probably have to be below retroattitudeG 
+to almost have all earth· in the window. Probably about 30 degreesG 
+Cooper: I had a~-:few comments that I made·on the onboard tape about the 
+. . . "1· . "I am at 4st daylight going ixlto dark" I had been ·looking ,for that flashing · 1 . . . ~ 
+·beacon. "This light in sight is below me. It is quite a brownish 
+b;rown and considerable ~titude above the ground." In other words I was 
+convinced it was not a light down on_the ground but _it had ·movemento I 
+t 
+mentioned several other items here such as this light being ·visibl_e_among 
+the starso "The ligJ;it is f.1lashing, now. It is· the lighto It is quite 
+I I 
+bright and quite discernible. It appears to be about -10 to l2 miles awayo 
+I'm keeping it exactli in the windpw. About the order ·of a second magnitude .. • ' 
+\. 
+star now." and that time was 05:ll:34. ".The light is sM.µ in sight in .the ··. • 
+• -· . . ;' ~ .; ' 
+' center of the window. 11 • 
+l • 
+Bill Armstrong: Did you,--acc?rding to -the voice tape it. 
+xruq, have yawed away a_little bit then ·.and then c;:ame .-back.. 
+Did you yaw away and -t?hen •come right back to ~t'l , 
+
+===== PDF PAGE 73 =====
+Scientific Debriefing 
+Cooper: Just once. 
+Bill Armstrong: Did you do it twice or Just once? ·' 
+.1, 
+Cooper: No, , I kept it 1n s,ight for quite awhile ·ap.d then yawed away from ·it 
+and then came right back. 
+Cooper: At 05:13:40 I made some coments on the Mi1q Way and varioW;J 
+things and at 05:16:35 the light was still in sight. Thunderstorms were 
+in under it at the moment but it was still quite distinctive.. And this 
+at 05:18:05. 
+Bill Armstrong: What brightness do you think you need if you ·.are .going to 
+try to acquire some target in space. 
+Cooper: It was very distinctive both t1I!1-es. At this brightness where i~ 
+was on the second .night side af'ter the ejection, both times it was very 
+' distinctive more than·the brightness of course, it was the flashingo , On 
+the third night side it was extreme~ faint but the ·flashing allowed me,to 
+' pick it up.· I wouldn't have been.able to see it .the third night but 
+fl.ashing. 
+Bill .Armstrong: Do you think that either at the initial acquisition -of the 
+. > 
+.thing ·or ·e,ven toward. the end of the second night phase the 1?rightness l would "_ 
+- . ... .. : 
+b~ sufficient if you wOUld be • t7:Ying to l~cate a re~de~vous target'l :· 
+
+===== PDF PAGE 74 =====
+,. • I 
+Scientific Debriefing • -ll-
+Cooper: I think so. I think with that brightness~ if you know approximately 
+'. 
+where to look for the thing and with _it flashing, you certa~ ought to be 
+( 
+able to find it pretty· readily. 
+Day: , Do you think similar experiments should be carried on ·or is this 
+sµfficient'l 
+Cooper: I think this prob~bly shows us 'What we:-really want to seeo I think 
+ther e is going to be problem like there is in .aircraft a As YO:U move 
+to it you are going to have to have something that gives a little bit more 
+capability to obtain distance f'rom it at the time; su~ as perhapa ,-two lights , 
+that you cou.l~ raµge on; like naVigation lights on aircra:t'to 
+I 
+QuestiQn: Were internal lights .on in the night observations? 
+,.. . 
+' Cooper: On most night aides I had all the lights down complet.ely and used 
+' I 
+I just the glove lights to read,critical items. 
+Bill Armstrong: On ·t;he third night phase you say you had to do a good bit ,, 
+of' searching. ; Were you searching the entire third night, and when did you 
+fir-st see it'l ·, 1 
+I 
+·cooper: Slightly past the middle of the night. I think that on the third 
+~ight side the· brightness was such that it was sheer accident that I found 
+\. 
+If_)rou Just happen to pass it' in t~e scan pattern you might _see it flashing, 
+, I ( 
+:tt would, however, · be very easy to miss. .. •,/ I 
+
+===== PDF PAGE 75 =====
+·,scientific Debriefing •l2-
+Bill Armstrong: You feel brightness suitable f'or a rende~vous 
+be something on the order. of second or third magnitude. 
+I • l • .' • . ~ l • • . •. • -
+' ' 
+Cooper: Yeso 
+Bill: That 1s one of t he main things we wanted to ·rind out.. Does 
+of the secon~ night l ook about right? Was the third night too d:l.m'l 
+. ' 
+.,Cooper: Yes, the third one is .getting ·a little too d:l.mo I • 
+Bill: Do you think you have got to have good sighting information .to pick
+• I • . ,. 
+these up ev:en 'W'ith bright light7 
+J' 
+IC~o:per: Well, it is a pretty big sky at night .up there and there are a lot 
+of bright starso I t hink ·you're going to have to have some -sight~g ,..date. 
+to get within a ~easonable ~one area to hunt.for ito 
+McKee: What about the flash ·:rrequency r ate'l 
+• Cooper: I think the flash rate could be cut downo I think you could maybe 
+IhaJ.ye the flash rateo • I woul.d rather .-see it twice as bright and see it fl.ash ·\ 
+. , . ,half as of'teno, A flash, rate, even -one every two seconds is stii;t distinctive. ·: . . ,. 
+. . I 
+May1>e not quite as distinctive as ·the one per second, but it •Still wbuld . ' 
+attract your ~ttention. 
+_Bill: •How about the· deploy marks? 
+
+===== PDF PAGE 76 =====
+.Scientific Debriefing -13-
+Cooper: Those deploy marks worked real well. They were excellent for getting 
+in 1·etroattitu de also. They-position your head ·to a real positive position, 
+' , I " 
+I 
+Bill: We have read the attitude ·records pretty carefull:yo You were between ' 
+20 a.nd 22 degrees, so you were right in .there. Do you think the window 
+Ismudges, the discoloration of the window, might have had significant effect? 
+Do you think it produced enough attenuation to cause any trouble? 
+, . Act~ I tried and tried to note how much attenuation you get at 
+.night. It's just a few seconds until the time you get dark-adapted; I thought, . 
+you became dark .adapted very rapidly, and I didn't see or note any real attenuationo • 
+• I am sure there was some as there was definitezy smudge layers there.. .-But·,,. 
+it didn't seem to be.... The bright stars sure seemed bright. 
+' . ,,,. (,Bill Armstrong: • J)id you act~ see the light against the ground'l • , • . \ . 
+Cooper: Yes. I made this comment ·here that I even saw it against the 
+thunderstorm. 
+I ·o 
+John Boynton: Go:;t.;do, you talked about the flash rate. The flash rate in 
+, your debriefing ·might have been ·. slightzy below a flash per ·second. 
+, Cooper: I did it on the tape• . I counted off here on the. tape so. you could 
+get it of~ the t~pe. I counted 1,2,3,4,5,6,7 ; It seemed to me that 
+slightzy s+ower ·than ·one flash .per. second .. 
+
+===== PDF PAGE 77 =====
+.. 
+I 
+Scientific Debriefing 
+Question: . What did it check out'l 
+i 
+-ii' • .1j ~ 
+Carmines: ·.62 (flashes per minute). 
+l \ 
+Bill: Did you make attempts to see it· on the day side'l 
+Cooper: I sure did. I never saw it then• 
+. Armstrong: It should ·have been closer on the dey side than in the night 
+portiono It came 1in c;l.oser, arid started out away some time during ·the f:t,rst . , 
+day. pass) Before you picked it up it had started out again. It should 
+have been in to about two miles sometime during the first day sideo 
+didn't find it, but e·efore I got to the next night side,-I brought yaw back ,' • Cooper: At first I was on 180 degrees .yaw, and allowed it to dri:f't offo ·, 
+' ' ' _ 
+. • ~ ,,,.,)II'~ • • ••; 
+to 180 degreeso · There was a possib_ility I .missed•it thereo . 
+, , 
+McKee: Did the flash seem very consistant'l 
+Cooper: Yes, it seemed to be very consistant . 
+~ . Carmines: Did you see it tumble'l 
+Cooper: 
+Carmines: 
+
+===== PDF PAGE 78 =====
+Scientific Debriefing -15-
+Bill: The spread of light isn't too great. 
+J ', 
+Coope~: It is pretty hard to Judge the;light 
+Mercer: Did.you see the ·stars during this• ~'l 
+, I 
+Cooper: Not this particular ··orbit. No I didn't. 
+I I 
+(Second Experiment • Balloon J?.ra,g) 
+Dey: Mr. Carmines will you give. us a quick run-down on ·.the -balloon ·expe 
+failure? 
+Carmines: I tal.ked with Instrumentation people and everyone agreed that 
+we really don't know what happened. We had one relay actuateo There are · 
+several possibil.ities • . To me the most l.ikely place of trouble is the final • 
+plug. The pins are on the pigtail and in putting this together you can bend 
+' \ I 'these pins and get a misalignment. W~ checked the plug :and.in this case the 
+:pin is near ·the case ~d if it ~ent it could ground .. 
+I . • 
+Bill: The squibs were in parallel and a number ·of ·tests showed' eithe:x: • one '.-·• 
+.. I ' of the squib would fire the latch. The most probable cause, is in ·the circ,uitry.,
+I '-
+I ' 
+(Discussion oon·G~ound Light _Observation) , 
+Bill Armstrong: How hard wa.s it to pick up the light when .you .first 
+Did you have -trouble picking ·up this ground light at all? 
+, I , , • -' ,' '·.. . ..-. , . ---: -, :, • , • • • . . ' I , 
+-· l, 
+
+===== PDF PAGE 79 =====
+',, 
+' ; Scientific Debriefing •. -16-. 
+>fl' ' '·' ,. 
+Cooper: No. It was just a bit :further to the l.e:f't than I thought 
+be. 
+Bill: More toward'. the· center of' the window? 
+Cooper: Noo More slight]¥ to the le:f't of' the window. I coul.d have been 
+yawed·off a l.ittl.e. I thought the pattern of the l.ittl.e town, .it was by 
+was rea.l.ly more distinctive than the l.ight. , If' I hadn't "imown _the light was 
+there I 'WOul.dn_'t have sel.ected it in preference to· l.ots of other lights I saw' 
+on t he ground,--•if' it hadh't been for the l.ittl.e horseshoe-shape towno 
+,Bill Armstrong: What brightness did you see at thi's attitude? 
+• I . . 
+I woul.d sq it,was about between third and fourth magnitude 
+BaW it. 
+'7· . 
+Bill: AB you continued to obse;rve it·did Y9U notice ~t dimming? ,, 
+Cooper: Noo I coul.d see it f'or se:veral. s_econds-. One f'alicy of the ground 
+lights is ·that you are moying on the ground pretty rapidlyo _ You don't have 
+mariy seconds to ·observe any ·:f'ixed points op. the groundo It's moving right 
+on past you and gone fair]¥. rapid]¥. . ·of' course as it gets on .out it gets dimmer 
+·t ,, ,. ~ : ; ' \ 
+and dimmer • 
+•,Question: · / Havet yOU .&J;IY idea how~_lo~· you ·~ able -to ob,serve it? 
+
+===== PDF PAGE 80 =====
+' ,' I Scientific Debriefing -17-
+I Cooper: Maybe as long as a minute. I doubt if it was that long, 
+I 
+30 or 40 seconds. I lost it because it got too weak. It was a long~ 
+:f'rom being. straight out on the horizon but as it got. on up towards that ,, 
+direction it faded outJ 
+Bill: In checking the plot, it ·1ooks like it varies from a little over 
+second magnitude when you forst saw it to about a sixth magnitude when the 
+light was turned off. ' ' 
+• I 
+/ 
+McKee: Do you know what angle you pitched down to'l 
+Cooper: . I believe it was to -40. I was then at ~he angle we were 
+to pitch to. . I apparently had eased off in ya~. However ·it tracked pretty 
+well right up the window. So the yaw was fairly ~ell: ·on. But the., · • -
+i light was off a li~tle further to the lef'to 
+" ·, . 
+Bill:· Did you· ever look away from the light and then .look. back? 
+able to do this and·pick it up again? , 
+Cooper: .I took ray eyes off of it and had them on the photometer and looked 
+• • through the hole in it and extincted it. Turned the dial the wrong way in 
+/ ',.,1 
+• the ,dark,,' and I-did extin.ct ·all right.· I thought I'd ge1; a good reading on ·, • • .: ' 
+• ,,, I I ,I 'll~ , ~ ' • ' I : ~... I • 
+, , it. I gave that device ·up. It did extinct. 
+Bill: ;• Did you ever notice any change 
+
+===== PDF PAGE 81 =====
+,. 
+1' ' Scientific Debriefing -J.8-
+Cooper: Yes, it got dimmer. 
+Mercer: Cou1d you see _lights of cities through J.a¥ers of cl~dst 
+Cooper: 'I saw a lot.of cities underneath the clouds. 
+yaw ~ignments was over Shangpai. • 
+.., 
+i 
+Mercer: Were light patterns more •distinctive than individual bright lights? 
+Cooper: Yes. I was ,over the ·east coast of.Australia. · . I saw t~e very: 
+distinct city l.ight patterns there around the Melbourne area. 
+. , ' . 
+Paul: When the light dim:Ded .out did·you lose the-l.ight 
+Cooper: I l.ost both in ·much the same period of ·time. : 
+·Jones: Did the ground-li~ _appear sharp as a point .source or·was it 
+diff'u.sed? 
+'I 
+·Cooper: :Ct was more' diff'u.sed. Not a sharp point. 
+single light but it -was not like the stars. 
+Smith: You think a: flashing light would be preferable? , . 
+/, '. 
+
+===== PDF PAGE 82 =====
+Scientific Debriefing -19-
+Cooper: ~finite~: The ideal would be a series of lights. A better 
+combination would be a series ot flashing ·lights arranged in .some pattern. , 
+~e like a running rabbit strobe pattern. I am sure it wouldn't have to 
+be synchronized. 
+Bill: 'You mentioned how fast :fast you were moving. Do you think you had 
+enough time to make use of some sighting ·device such as -a sextant? . 
+Cooper: You aren·!t going to be able to take very long. readingso Youvre 
+going to ~ave ✓ to be set up and ready to go, and you're going to have to have 
+some devices .that are •re~ usable. You figure that when you get from the 
+west coast of the United states to the east coast of the United States, the , 
+ground is moving under you fair~ rapi~ in ten minutes. The ground is . ' . 
+moving t .oo fast. You need to have some devices that are re~ usable and 
+you need to be se~ up and ready t(? go. I guess you have about 20 to 30 
+' . 
+seconds for a reading. _ 
+Bill Armstrong: One·of the• ·,·phas·es· of the Apollo mission .requires a position··.' 
+fix ~ile still' in a holding orbit. Before going into·the translunar ·phase·· , , 
+I • J 
+sightings of earth fixed targets for navigation would be ab~ut the same 
+yqu experienced in the · ground light. Would this .be practicable2 
+
+===== PDF PAGE 83 =====
+I 
+i ' I 
+Scientifi c Debriefing -20-
+Cooper: You 're going to have to be right on in .attitudes. You 're g~ing 
+to have to know exact~ what time it's going to occur. I'd guess you have 
+I 
+about 20 to 30 seconds to do your ·actual sighting and you have to have a_ good 
+angle ' off to do it. 
+• I • 
+Bill: How about the brightness Gordo? How do you .feel about this part and 
+leaving .the flas~ part' out of it? · Was it bright enough light to be seen 
+eaai:cy? 
+Cooper: Tl;l.ere were a iot brighter ·lights on the groundo 
+Bill: I'm sure of that but do you think this is sufficient? 
+Cooper: You can see it. If you look for it and know it is there and if 
+you're J.ucky. Knowing where to look for it and no cl.ouds there, Y9U can , 
+.spot it. (And awe::, :f'rom other ·background lights.) · I still think a pattern. 
+woul.d be better than going ·to a brighter •light. I !l,on•t think the cha.nge • 
+in the brightness of the light would be as effective as making .some kind . I • ./• 
+of a patterno ~ l 
+Did the ground lights twinkle? 
+Cooper: Yes; Just like the stars do looking at them :f'rom the ~01:1-lld, 
+as the' stars don't1t~e there. 
+McKee: I would like to ask. You seemed to have seen our ·-lights as we 1 
+expE:cted • . You .saw some objects on -the ground better than we expectedo 
+
+===== PDF PAGE 84 =====
+out 
+see t Sci entific Debriefing -21-
+/'I 1, ,, 
+, i (McKee continued) you say why you saw such small items? 
+ii, 
+,\ • 
+!~ 
+l '' Coo;pcr: I was coming :f'rom Houston the other day in a 102 and I not ed I 
+coulcln't see nearly as clear around ·40,000 feet, particularly in one area,.. 
+. that I was in. There was· a lot of haze and it .was quite humid and I couldn't 
+I 
+disti nguish things on the ground very well but yet when I got into the west 
+coast of Florida and got into an area that was somewhat clearer, at t he same 
+altitude I could see many things. I think again, that it depends on how much 
+humidity _you have and how much haze is in an area. I passed right over the 
+vicinity of Los Angeles and San Diego and never saw them at all. I waoo't , 
+very surprised. I could see where they were but I couldn't see them. I 
+passed right over Miami and Miami Beach and I could see that there was a 
+t 'own there. . Ther~ was a lot of build up and civilization. I could see 
+the streets but the buildings were not very distinct. But yet over areas 
+of El Centro:·and the Salton Sea and ·the dry lake areas I could see tremendously 
+greater detail, 8J1.IJ. individual roads. Over the Himalayas, up in Tibet, of 
+course there you'r~ above a good portion a certain amount of the atmosphere , 
+J • 
+i I suppose, I was really surprised: what I could see. I found some real 
+detai ls and little, villages with maybe 20 or 30 houses I suppose, stood out 
+i ' • • 
+very distinctly. You .could estimate the number of houses and if a house was 
+individually away f'rom ahythirig else I guess against the right color 
+background, the yard, I could discern individual buildings. I saw a number 
+of t hem with smoke1 coming out of the chimney. There was snow on this upper 
+very sandy blowy, dusty; Tibetan are.a. I could see a lot of lakes some partial.ly. y 
+f'rozen over and some f'rozen solid. The visibility was tremendous. I could 
+vehicles that ,:;t assumed were trucks. I could see them kicking up ' dust. 
+... 
+:. 
+
+===== PDF PAGE 85 =====
+. .. 
+Scientific Debriefing -22-
+(MIT Horizon) 
+Dr. Peterson: The purpose of these pictures is that we are teying to 
+find definite informa.tion ."about the earth for Apollo guidance. This is 
+of a group of four pictures taken in four_different yaw directions, one 
+the sun. Is this maneuver an expensive and troublesome · thing to do'l 
+Cooper: It takes control power; ·it takes control fuel, , it takes time. 
+However, it is not real expensive as far as fuel. You have to stay power 
+up. We debated back and forth about 'the most accurate wa;y of making sure we· . 
+get these 90° points. We were a little concerned about accuracy and decided 
+to stay powered up and utilized .the gyros ~o locate the 90°·positions. • But 
+it does take that period of time of power ·to dr;Lve the automatic system; 
+does take that fuel to move around• 
+.,, 
+Dr. Peterson: I noted you mention 25 hours 20 minutes. A1; that ~t 
+there is a hole in the transcript. 25 hours and 26 minutes. , 
+' ·Co0per: I got those at 25 hours and some odd minutes when the moon was set 
+in the west. It was right where ·we had plann~d to get it the first time. 
+We rescheduled them later in the flight if we didn't get them at the original · 1 
+time. But I took them as planned initial.:cy,. Did those come out all right'l 
+Dr. Peterson: On two of those ~twas possible to locate.the moon. 
+I I 
+~ not all of them. 
+Bill .Armstrong: Yes, .these are all of them. (Looking ·at p~ctures) 
+I• 
+·•' ' I 
+
+===== PDF PAGE 86 =====
+Scientific Debriefing -23-
+Dr. Peterson: · There is a smudge in the middle of the window. It could 
+have been accidently concealed. Since these negatives are on1¥ suitable 
+microdensit9JI)etry there doesn't need·to be e:a,y discussion Qt the details ot • • 
+their significance • 
+. (Inf'ra.red Weather Photographic Experiment) 
+I 
+• Mr. D~: I would like to move on to m Weather photography. 
+\ ' 
+Soules: This experiment went very well ~d we got the. information we ·· 
+' 1 wanted. Thank you very JIDlch. 'Did you· have aey-trouble with·the 
+filter holder? 
+' ' -None at all. It. worked • very well.' • 
+And the lens opening of 5.6? 
+' Cooper: ·It was exactly-on ·what ·was marked on the magazineo 
+Soules: · There are si; pictures at the end of the series and I canVt 
+-them. • Do you· have aey-idea' where they could have been taken:'l 
+(There was a lot of table discussion of pictures here) ·· 
+This was a:f'ter, :the. Florida series. 
+
+===== PDF PAGE 87 =====
+Scientific Debriefing -24-
+Soules: You ma.de the remark that you were coming over A:t'rica. 
+aey more information? There was none in the tra.ns9ript. 
+~ Cooper: What base was this oni 
+\ 
+/ 
+I Bill: Wasn't one of them over the coastline? 
+Cooper: Yes, I did one right on the .coast of A:t'rica. I got one coming 
+~ight over the coastline. Another ·one I got almost over ·the other coast; 
+:toward Johannesburg; it was· ·an inland picture, almost the northern areao 
+.,' 
+Soules: The last four are a ~stery. • 
+Bill Armstrong: It, looks like you had about a quarter inch motion .on 
+I'm sure. I didn't. · 1I ' was ·holding the camera just 
+Soules1
+: We might ,check the camera. 
+, -Soules: What was the do~t color of the ·earth over Baja California? 
+I 
+Cooper: I :found that the green showed up very little. The only really 
+•djstinct green that 'I saw which showed up much was in the high Tibetan area. 
+It. was a \right emerald green, by·some o:f those lakes. It looked like a 
+,copper sulphate mining area. The browns ·of the. .Arabian Desert Sand show,ed : 
+up quite distinct. •Th~. Sahara was :not quite so brown although i~ .did' have 
+I 
+
+===== PDF PAGE 88 =====
+Scientific Debri efing -25-
+( Cooper continued) ·a brown look, Everything predominan tly had a. bluish 
+cast . .All. the :wat er, all the sea water, looked very very bright blue. 
+Even the Salton Sea looked very blue. And areas -we ,know 'were heavy toreat • '. 
+areas looked kind of blue-green. The areas that a.re definitely brown you can 
+tell they a.re brown~ 
+' I 
+Soules: I have a. question on the thunderstorms. Could you hear ·sta.tic'l 
+Cooper: I could hear. it day or night and on both HF and UHF.. It was. almost. 
+instantane ous. As I woul~ --see the lightning and the clouds light up, I : 1 • .. 
+would get the static. ~ 
+• ·: Soules: What i s the frequency band on HF'l 
+Cooper: HF is 15 megacycles. The. static was louder in:the HF the.µ ·in tbe 
+r UHF. You could just hear ·it, it wasnlt high magnit ude. 
+•. 
+Soules: Was there a difference in loudness between day and night'l 
+Cooper: I think night side w.as considerably louder. Of course I noted 
+' thUDderst o~ were louder,on 'night side. There were large _masses of 
+thunderst orms out to the east of Australia. 
+" 0 
+' SoV,les: Did the flash come tram below the (?a.psule or • could you look off 
+/~t ~ -. angle'l 
+
+===== PDF PAGE 89 =====
+Scientific Debriefing 
+Cooper: I could not see distinct lightning patterns. It ju,st all lit ~• 
+. I The whole cumulus mass of clouds would light up. 
+Soules: Did.you notice thunderstorms between Hawaii and Ce.liforniao 
+Cooper: -Yes, several off the west coast of the United Stateso I don•t 
+remember just how far. There were several cumul.us buildups. 
+Soules: Did they look like the usual thunderstorms? 
+Qooper: They went on down·to a stra'j;us deck on into coast on .down about 
+Los Angeles. They stood further -off the coast than up north.. 
+\ 
+- • r/•Soules: Did you see any long white bands of clouds along the east coast in 
+,,.' the tropical 'areas'l ,, 
+Cooper: Yes. One was over the Arabiap. desert that was quite distinct .. 
+took a color photograph of that. 
+Soules: was· it a very sharp line of clouds with bµ.ild-up in it'l 
+Cooper: Yes. Number 10 picture is over the Arabian desert area.. 
+Soules: Over the oceans did you notewwide bands with perhaps clear ·area 
+,over it'l . 
+
+===== PDF PAGE 90 =====
+Scientific Debriefing -27-
+Cooper: No. I noticed several large cyclonics. I did not notice any very 
+I distinct sharp bands. However I ~id notice tropical thunder~torms. Near 
+-the Solomon Island Areas there were a lot of low streets and ridges ot • I 
+smaller cumulus clouds. There were little rows of them. 
+' . 
+; 
+/. 
+I 
+. I 
+
+===== PDF PAGE 91 =====
+•... 
+it 
+scenes.. 
+real distinct 
+if it 
+fairly 
+_it 
+' ; f'~. 
+\ . fcient~.f'ic Debriefing -28-
+' ·i SoU::.es : Was the horizon always ·a sharp line? 
+Cooper: Yes, day and 'night the hqrizon was sharp. In the day you have this bright 
+I I 
+blue 'bund around it. 
+Soules: Some photos show the horizon seemed fuzzy. 
+Cooper: In the Himalayas on a couple of occasions where the horizon was rough 
+due to the mountains, the horizon was ·still very distinct. 
+Squles: Did you se-e the moon at the time of occultation? 
+' • 
+Cooper: Yes, several times. I was sorry I d.i;d not get picture·s. 
+Soules.: ' Did you see a halo around the moon? 
+Cooper: I saw no sign of a halo. It was quite sharp. 
+I Soules: Did you ever see a slight flash? Did the moon's color chang~ at all as 
+went through the atmosphere? 
+1 Cooper: No. I was looking for this too. I was disappointed in the moon 
+·r didn't see anything di'stinctive at all. 
+Soules: I made a sketch of haze layer. Would you take a look· at 'it and tell me 
+what you think? 
+Voas: Gordo, would .you draw it on the board? 
+(Period demonstrating on blackboard of horizon, haze, etc.) 
+Cooper: This is the earth with a sharp horizon on the earth. The lower haze 
+level was always under me separated from the horizon. This was not a 
+line. It was a little more distinct and it appeared to be the same color as 
+were a cloud and as the stars would pass down through it y:ou could track a 
+• high order of magnitude of star and you could track it ,down thro~gh haze and 
+would appear real bright as it came down through it. 
+Soules: :About what magnitur could you see? 
+,,.' I I I 
+\ 
+
+===== PDF PAGE 92 =====
+I 
+[ ~ 
+1cientific Debriefing -29-
+l ., I\ 
+I i~1ooper: The stars in the Big Dipper could just be seen. I noted the Big Dipper 
+·~ 
+'!1th the bo.ttom star sinking down into it. l~
+If, 
+1;t1 
+Soules: The top of the layer would be bow ;:nany degrees above the horizon?i . • 11,.' )Ooo:per: I figured it was about six or seven degrees. ,, r l 
+l 
+(Long period of sketching.) .. I 
+Peterson: Would you estimate any appraisal in terms of stellar magnitude? You 
+explai:c.ed that the fifth magnitudes could be seen, did the weaker =-stars go out 
+in that area? • I 
+' 
+(Still illustrating.) 
+Note: During this period when ,900:per wa..s talking and sketching on the board, 
+the recorded comments are meaningless. 
+Cooper: I can't recall a single ti.me at night but what I saw the haze leyer. 
+Dr. Voa.s: I described the earth as. being d.a.I:k. Which is darker, the earth 
+or the 11ttl.e band of sky? 
+Cooper: When there was no moon the earth was darker. In general. there was more 
+light from the sky. It is a difference in two different blacks. The sky·is a 
+,· shinier black. The earth is a du.11 black. 
+Dr. Voa.s: The horizon is very wel~ defined? 
+Cooper: It is actually a different black. There is a· distinct line of horizon 
+and the earth is darker. This is in complete night. 
+Dr. Voa.s: When the moon comes up the earth becomes lighter as the moon shines on it? 
+Cooper: It shows up distinctly,' especially when there are c;:1.ouds. 
+Soules: Here is a picture that Wally took. Does that look like a haze band on the •. 
+horizon? .. 
+O'Keefe: When was that picture taken? 
+. 
+Soules: Is that too high? 
+. . -• 
+
+===== PDF PAGE 93 =====
+Scientific Debriefing -30-
+l ~---------
+' I 
+'i f( oules: You saw something over South America? 
+,! l I fooper: Yes, there is this other higher level I saw over South America. 
+ptanley Soules: Did you see different cloud layers at night? 
+' ~ooper: Only i:t there was moonlight and if there were towns or cities below 
+them. On several occasions I could see reflected light particularly through 
+stratus type clouds. 
+Soules: You could distinguish clouds. Does the earth appear as blue to your eye , , 
+as it does in the photos? 
+Cooper: Yes. The overall color is pretty blue. 
+Soules: What is the color of the· twilight zone? 
+I Cooper: It is a baby blue~ It is a pure~ pure blue, very, very_ bright. 
+I 
+Soules: Did you see any meteor trails? , I 
+Cooper: No~ 
+,,Soules: Did you see ·a lot of sun? 
+I T.TCIIY'l't to tell you I did'.C<:> Oper : I Sure did• "....... ., ' 
+Soules: Was there any evidence of a corona? 
+Cooper: No. In fact, the sun appeared to be like the moon 'does i'rom the earth. 
+Very bri ght. You know down here there are all those rays around it. But up there 
+it is just a glob and it is very very whitish bri_gb.t. It doesn't look the same 
+color. It is a very arc-like color, bluish white. ' ' ' -
+Question: What about the looks of the ds.y slcy? 
+Cooper: ! The ds.y slcy just is not as dark as the nie,:it slcy. It is black and dark 
+but not as dark as the night sky. You can see the brighter .stars on the day side 
+when you are away from the sun and neither it nor the earth shine are coming in the 
+window. Give yourself a few seconds to get dark adapted and you can see the brighter · ' 
+On·the order of '3rd magnitl.lde.
+I stars. They };lave to be fairly ~right to see them. 
+
+===== PDF PAGE 94 =====
+;-, pcientj f ie Debriefing -31-
+1~ l .pr. Voe.s : The day sides get a lot lighter, at night they are about the same ,, 
+i 
+fia.rkness as the inside of the spacecra.f't. 
+Cooper: The night sky and the day sky is about the same as the difference between 
+I . 
+~ jet black and a dark gray. . (It is about the same difference b_etween the night 
+\ , .. ' 
+sky and the day sky.) It is a sorter kind of dark during the day. Not nearly as 
+dark as the night sky. 
+Dr. Voe.a: Is it a smooth overall gray on the window? Do you see any chance at a.l.l 
+that the grayness you noted could be minute amounts of scattered light from fog on-
+the window? 
+Cooper: I don't believe . so, Bob, because immediately when ·you got a faint amount 
+of oblique llght on the window it immediately looked like it was iced-over. All 
+you had to do was get just a faint amount on it and it appeared to be just like a 
+I 
+canopy frozen over. 
+O'Keefe : Was this scattered light 1n the window or not? I hoped you could see,, 
+some kind of a pattern. 
+Cooper: That• s what I •m saying. When you have any kind of scattered light on the 
+window, when the window was in any kind of an attitude (demonstrated) say this is 
+• the window and out here is. the sun, any time the window was moved around where . . • 
+there was any kind' of light shining on the window -just a faint amount of it 
+. would completely obliterate the vision through the window. I just went completely 
+IFR. There was just no looking through the window. Of course, the earth gives off 
+an awful lot of light, and you can't see anything as long as the earth i s shining 
+in the window. Any time the sun was back here fmd I was faced away from the earth, 
+regardless of attitude, the sky appeared to be a smooth gray. 
+O'Keefe: You could see the griton\the window? 
+• Cooper: You could see the light actually impinging on 'the Wind.ow. You could see 
+•the scum all over the inside of"the outside ~e. I· 
+
+===== PDF PAGE 95 =====
+( 
+. -32- fcientific Debriefing 
+' II~'Keefe : Somevlhat of a pattern? 
+I • 
+•i¢,ooper: That's right. A pattern over the outside of th~ window as well as the 
+scum on the inside; 
+( l · ()'Keefe: It this had 'been scattered light you would have had this pattern? 
+•. Cooper: That's right• . 
+(Dim Light _photograpbs.) . 
+Presentation of Dim Light Phenomena.: 
+1 Roach, 0'Keefe, Huell. Day: 
+Roach: You had above this haze layer another layer. •Would you sketch that'l 
+(Illustration.) • 
+I am almost certain this was .about 24 hours I Cooper: This one time I did have it. 
+and 30 minutes over South America. , I was facing to the east and was on dri:f't, I 
+think. I was_looking to the east, northeast area. I was in ful1 dri:f't. 
+0'Keefe: Reference was on page 26. 
+Cooper: That was the luminous activity on page 37. "Righi? now I can .make ou1; 
+a lot of luminous activities in an easterly direction." This was at 05 11 34 and 
+on a 05 13 40. The Milky Way was quite distinct. This particular time (over South 
+' America) I couldn't make out on this layer. I wouldn't say it was mu~ like a. layer. 
+' / ' • It wasn't distinct and it didn't last long; but it was higher than I was. It wasn't 
+/ 
+in the vicinity of the horizon and was not well defined. 
+Roach: More like a patch? 
+Cooper: Smoother. It was a good sized area. • 
+Roach: You didn't feel this bad' a discrete shape? 
+It was a faint glow with a reddish brown It was very indistinct 1n·shape. ; Cooper: 
+. cast. 
+· Roa.ch: Because of your altitude or what'l . 
+: I . 
+,---.- ~--~--~-~---___;·.......1-1.--
+
+===== PDF PAGE 96 =====
+Scientific Debriefing -33-
+l 
+l ' It wasn't so distinctive as to move back on to it. It was very faint . ' Cooper: 
+1, ' l •'4,nd definitely lighter than the sky. It was picking up some light of.•some type, 
+" '" 
+-'jt was light in contrast to the sky • 
+• 'ick Day : Could you see this better out ot the corner of your eye? 
+C\'poper: Yes. Sort of that type of thing. I'm almost certain· that this was 
+over South America, just coming up on·to the northeastern part of South America. 
+It was around 50 degrees West and about zero degrees of latitude. 
+Roach: This reminds me of what Mr. Schirra saw off Madagascar. 
+Cooper: He saw .it off North Africa. It seemed to be ·quite extensive but not .well 
+defined. I-twas rather diffused but not covering the whole earth. 
+Roach: Could you tell us what happens when you pass from day into night, around 
+twilight? . We are interested in horizon effect after sunset• 
+. \' (Cooper draws some more pict~es.) 
+Cooper: You never tire of looking at the sunsets. As the sun begins to get downI 
+towards the horizon it is very well defined and not diffused as it is 'when looking 
+It is quite whitethrough the atmosphere, and it is quite difficult to look at. 
+and as it gets on down to where the sun begins to impinge on the horizon line it 
+does give ·a spreading effect. The sky is getting quite dark here and you get the 
+1 I . 
+impression of blackness up here. (Illustrating.) The layer is bright orange· 
+color and light spreading out in this direption••• 
+As the sun begins to go down it is replaced by this' bright gold orange. It extends 
+out ·for some way. It defines the horizon line fairly well at this ·time. The sun 
+' does begin to get this flattened effect. 
+Roach: What was it'·s maximum flattening? . \ 
+Cooper: I never got too much. It appears to get down part way below the horizon 
+/' n 
+
+===== PDF PAGE 97 =====
+-------f j _. . Scientific Debriefing -34-! 
+I 
+;._~d _spread. It doesn't take long. As it goes on down you still have this orange 
+I• • • fight on the horizon and this area is all considerably ligliter althou~ black is 
+.,, 
+goming on down. You do · ge~· glow up off it. You could actu~ sWing away and tell 
+l light w ere tlle sun ll&d set a number of seconds after. It is not ray-like. It 
+:,? 
+/, 
+is hard to describe. ~e sky area: is lighter but there are not any rays. , 
+\ 
+Note: At this time there was a general discussion of the night sky ,immediately 
+af'ter sunset. The transcript is too incomplete in this region to give a recorded • 
+account of this discussion. It appears that after describing the sunset and the 
+airglow layer someone Ast. Cooper an additional glow extending vertical above the 
+i 
+position on the horizon 'Where sunset occurred. Obviously reference was being
+I 
+made to observation of the Zodiacal light. 
+Cooper: That' s right. After this effect disappears ( glow of sunset) and you • 
+think you're on complete darkness, I would guess on the order a minute after 
+I 
+sunset, you get this other. I gue.ss two different times I saw faint glow but not ., 
+very far along. It lfS.S more on the order of 3 to 4 degrees farther on 
+•and a fainter order. . , 
+Roach: Did you 'notice this was cone shaped? 
+Cooper: A little bit cone shaped. 
+J 
+Roach: Did you happen to sweep across it that way? 
+' ' Cooper: It was a minute or so prior to sunrise and I moved back across and about 
+the time I got back the sun was there. 
+Roach: Did it seem to be confined in your Window'l 
+Cooper: Yes. The bright 0blue-band grew wider as you moved away. 
+Roach: Was this jus~ before sunrise? 
+Cooper: The sun is. getting ready to come up and at' this particular time I got 
+this glow prior to getting a blue band and in a few seconds the blue widens and ' 
+I 
+. widens. , 
+... 
+' . 
+
+===== PDF PAGE 98 =====
+l §~ientific Debriefing . -35-
+Rpach: Is 'this :phenomenon very close to the sun'? 
+Cpoper: I had the feeling that this was just a glow off the su.µ._ It was not 
+1: ' • ·'i 
+7,1.', 
+~P bri©J.t as the Millcy Way. :1 
+~ : 
+Mercer: Was it tipped to the right or le:f't of sunriseZ 
+C~oper: I was sitting tipped myself and don't rememb~r vb.ich way it was. I have 
+the imp.ression it was not vertical. 
+Dr. Voas : It appears the red and gold you• described at sunset does not occur 
+at dawn. 
+. I 
+Cooper: Sunset is more of a golden orange. 
+Dr. Voas: Did you notice any of the flattening as the sun rose? 
+Cooper: Not as much) but you do get a little bit. ,( 
+Roach: Going back to the time just preceding retro, were you constantly on stellar 
+observat ion before the dawn? Were you able to follow any stars'? . ... 
+Cooper: Yes. With the sun to my back, the first thing I got -was the moon glow.. 
+and through the cloud below I got Shanghai. The first •indication ·you get of the 
+sun going up behind you is the lightening of the clouds underneath and you note 
+the clouds getting iighter and lighter and you can still see the stars. As you 
+\reach a certain point., your window gets enough light -your window appears 'completely 
+frosted over. 
+Roach: What star were you using? , 
+Cooper: I was using Betelgeuse and tracking on.~ up from that to Sirius and Procyo~ 
+and then I had a bS-l7ren area. Then I believe Castor and Pollux and Corvus was 
+the last . I couldn't pick up Antares. By this time I -was getting good light on 
+clouds.. The stars don't give ·you much yaw determination. You can si there for 
+a long t ime and if'you hold rates very close to zero you can get a fairly good . ' . . 
+indicati on, but it is a lengthy process when you are determining yaw by seeing the 
+' 
+·--·movement ' of stars. 
+·-~...,.. ----. -.·---' --~-~ f . 
+
+===== PDF PAGE 99 =====
+I moved 
+, (Again 1'1 
+~ 
+' i I I 
+.S~ientific Debriefing -36-
+l \ ; 
+~ . 
+~iach:' From that standpoint, is it better to retro in the da.yl~ft? 
+cqpper: . You could probably do .it at night, but it is preferabl~ ;-to do it in the day. , ' 
+Njte: ~'he next few comments are not interpretab le, but 1t appe,-.rs eom one raised 
+~ . a ~question about the blue horizon band visible during daylight, 
+Co'pper: This is ·predominantly blue· and if you have land masses or things that . 
+' , ' 
+you know are not blue -- -but this is about a two degrees thick band. It isn't 
+quite as thick as the band underneath - - -the last layer at night is thicker 
+' l 
+I . . 
+1 than this blue band and it is a brilliant blue. 
+Roach: Then, is there some structure above the blue layer? 
+Cooper: I never could see pattern structure above that. It is really not black. 
+This is any time you have earth shine. This is not a real sharply defined - --
+There is a little blue gray going thru this area here. The overall band is real' 
+bright pale bluw and just faintly diffuse on this side. (Explanation is made using 
+a sketch at the blackboard.) 
+Question: Is it diffuse on the upper side? 
+Cooper: It is not just a real sharp line or two different distinct colors. It does 
+diffuse very slightly ,. 
+Question: .How wide is that band in angle? 
+,, Cooper: It is about 11iwo degrees. .,. 
+Huch: I understand it gave a little problem in roll and yaw. You said just as the 
+sun was sinking. _ 
+Cooper:. That's right•. Tb.is is where I could tell where the sun had been. 
+back to t hat andIput the gyros to free and went into the automatic mode. 
+using sketch.) 
+Huch: , Wi th reference .to the sunset, do you estimate the time when the Zodiacal light' 
+sequence was started? 
+' 
+-:----....,.. •• p ,--• ..-:-T"'7- ;---
+
+===== PDF PAGE 100 =====
+-37- Scientific Debriefing 
+.J 
+."i ' ·,qooper: I would guess it was on the order of 20 to 30 second.s 1af'ter sunset, that is / , 
+jµst a guess. And this is all the counting I was doing to give ·you the timing and 
+:I 
+•. ~ ~ere ~as interferen ce from the ground stations. i I 1 1, .~ ,-llch: Did you observe capsule sta.bility -did you :f'eel it ~s holding sufficient'.cy I 
+·f_ 
+~till for time exposures? 
+cboper: Of course, we knew it would be moving. Did better than I thought i t would. 
+Huch: For the most part they came out quite clear. 
+Bill Armstrong: You get pitch up at the rate of 4° per minute. 
+Cooper: Actual:cy , you had more than that. 
+Shepard: During the Zodiacal light sequence, you had over .5 degrees :per minute. 
+Question: What are your attitude tolerances •in ASCS? 
+Cooper: I would say within about 5 l/2 degrees. This will be a very slow variance. 
+Question: How fast is this per minute? The period is 2 to 3 minutes per oscillation. 
+John Ve:n Beckel: It is about .05 degrees per second. ,, 
+Shepard: The limits could be as much as 11 degrees. 
+John Van Beckel: It is pretty close to plus or minus 10 degrees. 
+Cooper: Did you ge~ anything :from·,.the latter portion of the picture? The airg.l.ow 
+pictures? 
+Mercer: Yes. 
+Cooper: I worried that the angle of the camera was down too much. 
+Huch: was there anything unusual that happened through the night? 
+Cooper: There was a lot of lightning. 
+Huch: Was there an accumulatio ·n of moisture on the window? 
+Coop-er: No. To me it didn't seem to cut down too much. 
+Huch: You reported a lot 
+\ of lightning. 
+-Cooper: Right when I was taking dim light pictures there were several thunder-
+. storms and a lot of lightning. 

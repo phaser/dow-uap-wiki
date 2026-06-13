@@ -22,6 +22,7 @@ The **All-domain Anomaly Resolution Office (AARO)** is the U.S. Department of De
 ## Documented in Sources
 
 - All `dow-uap-d<N>-*` files in this corpus name AARO as the receiving authority — see e.g. [[summaries/dow-uap-d3-mission-report-arabian-gulf-2020]].
+- [[summaries/ica-uap-d001-analysis-colorado-springs-uap-incident]] — ICA-UAP-D001, analysis of the 2022 Colorado Springs / Cheyenne Mountain UAP incident with [[concepts/backscattering]] assessment
 
 ## Related Entities
 
@@ -30,6 +31,8 @@ The **All-domain Anomaly Resolution Office (AARO)** is the U.S. Department of De
 - [[entities/afcent]]
 - [[entities/indopacom]]
 - [[entities/nasa]]
+- [[entities/cheyenne-mountain-uap-2022]]
+- [[entities/fort-carson]]
 
 ## Related Concepts
 
@@ -37,3 +40,4 @@ The **All-domain Anomaly Resolution Office (AARO)** is the U.S. Department of De
 - [[concepts/range-fouler]]
 - [[concepts/transmedium]]
 - [[concepts/multiple-object-formation]]
+- [[concepts/backscattering]]

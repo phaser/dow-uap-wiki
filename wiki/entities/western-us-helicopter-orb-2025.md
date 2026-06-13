@@ -1,10 +1,10 @@
 ---
 title: "Western U.S. Helicopter Orb Engagement — 2025"
 type: entity
-tags: [aaro, dow, 2020s, conus, incident]
+tags: [aaro, dow, fbi, 2020s, conus, incident]
 created: 2026-05-08
-updated: 2026-05-08
-sources: ["raw/usper-statement-redacted.pdf", "raw/western_us_event_slides_5.08.2026.pdf"]
+updated: 2026-06-13
+sources: ["raw/usper-statement-redacted.pdf", "raw/western_us_event_slides_5.08.2026.pdf", "raw/fbi-uap-d014-digital-rendering-incident-1-1-western-us-event-2023.jpg"]
 confidence: high
 ---
 
@@ -23,6 +23,7 @@ A **2025 multi-witness UAP event** in the Western United States in which a helic
 
 - [[summaries/usper-statement-redacted]]
 - [[summaries/western-us-event-slides-2026-05-08]]
+- [[summaries/fbi-uap-d014-d023-western-us-event-renderings-2023]] — FBI digital forensic renderings of Incident 1 (3 scenes) and Incident 2 (7 scenes from Witness_01 perspective)
 
 ## Related Entities
 

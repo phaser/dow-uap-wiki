@@ -23,7 +23,7 @@ Dr. Lincoln LaPaz was Director of the Institute of Meteoritics and Head of the D
 ## Documented in Sources
 
 - `[[summaries/62-hq-83894-section-6]]` — 10-point analysis of green fireballs vs. meteors; Los Alamos conference participation; Stanfield photograph analysis
-- `[[summaries/dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the-us-101-172]]` — LaPaz's 11 April 1948 letter on the Norcatur, Kansas explosion: disputed the meteor explanation, documented witness testimony conflicts, noted "not a trace of meteoritic material" found, and concluded either "the earth is under a most unusual cosmic bombardment or many of the fireballs are not meteorites at all"
+- `[[summaries/dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the-us-101-172]]` — LaPaz's 11 April 1948 letter on the Norcatur, Kansas explosion: disputed the meteor explanation, documented witness testimony conflicts, noted "not a trace of meteoritic material" found, and concluded either "the earth is under a most unusual cosmic bombardment or many of the fireballs are not meteorites at all". Also consulted on the Memphis mass sighting (Incident #117, 7 May 1948) — 50+ objects observed, with Dr. Herget of Cincinnati Observatory ruling out meteors, and Dr. Hynek and Dr. LaPaz to be consulted about meteor shower possibility.
 - `[[summaries/dow-uap-d084-usarmy-flying-saucer-study-1949]]` — 1949 Army flying saucer study conducted overlapping with LaPaz's green fireball investigations
 
 ## Related Entities

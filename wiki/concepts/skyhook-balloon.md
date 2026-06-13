@@ -1,10 +1,10 @@
 ---
 title: "Skyhook Balloon"
 type: concept
-tags: [1948-1955, methodology, conventional-explanation]
+tags: [1948-1955, 1950s, methodology, conventional-explanation, cia, air-force]
 created: 2026-05-08
-updated: 2026-05-08
-sources: ["raw/65_hs1-834228961_62-hq-83894_section_6.pdf"]
+updated: 2026-06-13
+sources: ["raw/65_hs1-834228961_62-hq-83894_section_6.pdf", "raw/cia-uap-003-the-central-intelligence-agency-and-overhead-reconnaissance-the-u-2-and-oxcart-programs-1954-1974.pdf"]
 confidence: high
 ---
 
@@ -22,6 +22,15 @@ confidence: high
 ## Documented Examples
 
 - Liddel's Skyhook hypothesis applied to the [[entities/mantell-incident]] — see [[summaries/62-hq-83894-section-6]]
+
+## Air Force Project GENETRIX (1955–1956)
+
+Project GENETRIX was a separate balloon reconnaissance program — camera-carrying polyethylene balloons launched over the Soviet Bloc — that also generated UFO reports. Unlike Skyhooks, which were scientific, GENETRIX was a direct intelligence-gathering operation. Key details from [[summaries/cia-uap-003-cia-overhead-reconnaissance-u2-oxcart]]:
+
+- 516 balloons launched from Western European bases between January and February 1956; only 34 yielded useful photography.
+- The cover story was **"weather research"** connected to the International Geophysical Year — the same cover later used for U-2 flights.
+- Widespread Soviet-bloc protests and unfavorable publicity led President Eisenhower to halt the program on 7 February 1956.
+- The political fallout from GENETRIX nearly killed the U-2 program before its first operational flight — CIA officials feared the administration would sour on all overflights.
 
 ## Related Concepts
 

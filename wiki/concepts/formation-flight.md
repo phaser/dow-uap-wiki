@@ -23,6 +23,12 @@ UAPs frequently appear in groups of two or more flying in coordinated formation 
 - **Muroc AAF 8 July 1947, Incident 1** — 2 silver discs at 8 000 ft heading 320°, later joined by a third — see [[summaries/army-incident-summaries-1-100]]
 - **Portland police wave, 4 July 1947** — 5 disc-shaped objects (2 south, 3 east) — same source
 - **Oswego, OR, 3 September 1947** — 12–15 round silver objects at high altitude — same source
+- **Lake Meade, NV (28 June 1947)** — 5-6 white circular objects in "very close formation" at ~10,000 ft — [[summaries/dow-uap-d087-us-airforce-analysis-of-flying-objects-in-the-us-1-100]]
+- **Twin Falls, ID (1947)** — Successive waves of 3, 5-6, then 35-50 objects in triangular formations — same source
+- **Logan, UT (1 Sep 1947)** — 5 groups of 35-50 objects each (~175-250 total) circling city — same source
+- **Memphis, TN (7 May 1948)** — 50+ objects, most in straight lines, some zig-zagging — [[summaries/dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the-us-101-172]]
+- **Fielding Lake, AK (9 Jul 1948)** — ~20 objects in "shotgun blast pattern" formation, 500+ MPH — same source
+- **San Acacia Dam, NM (22 Jul 1948)** — 7 objects, V to L to echelon formation, 1,500 MPH — same source
 - **FBI 1999-12-31 NFOV frames** — paired dark blobs across multiple frames — see [[concepts/paired-object]]
 
 ## Related Concepts

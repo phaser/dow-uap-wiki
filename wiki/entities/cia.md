@@ -1,10 +1,10 @@
 ---
 title: "Central Intelligence Agency (CIA) — Role in UFO Investigation"
 type: entity
-tags: [1940s, 1950s, 1960s, 1970s, 2000s, cia, intelligence, robertson-panel, ufo, uap, covert]
+tags: [1940s, 1950s, 1960s, 1970s, 2000s, cia, intelligence, robertson-panel, ufo, uap, covert, u-2, oxcart, overflight]
 created: 2026-06-12
-updated: 2026-06-12
-sources: ["raw/cia-uap-002-scientific-advisory-panel-on-unidentified-flying-objects-report-1952-1953.pdf", "raw/cia-uap-019-australian-dept-of-defense-scientific-and-intel-aspects-of-the-ufo-problem.pdf"]
+updated: 2026-06-13
+sources: ["raw/cia-uap-002-scientific-advisory-panel-on-unidentified-flying-objects-report-1952-1953.pdf", "raw/cia-uap-019-australian-dept-of-defense-scientific-and-intel-aspects-of-the-ufo-problem.pdf", "raw/cia-uap-003-the-central-intelligence-agency-and-overhead-reconnaissance-the-u-2-and-oxcart-programs-1954-1974.pdf"]
 confidence: high
 ---
 
@@ -28,6 +28,16 @@ The Central Intelligence Agency (CIA) was established by the National Security A
 - **Robertson Panel (January 1953)**: Convened by OSI; produced the "training and debunking" policy that shaped U.S. government UFO posture for decades.
 - **Post-Robertson implementation**: According to the Australian assessment, the CIA "in a report dated 16 February 1953 showed a preference to publicly abandon the investigation whilst intensifying the collection of data" — diverging from the Robertson Panel's recommendation to continue publicly. By September 1953, the CIA's position had been "largely achieved."
 - **JANAP 146 (1953)**: Service personnel gag order, progressively tightened.
+
+### U-2 / OXCART — Direct Generation of UFO Reports (1956–1968)
+
+The CIA's 1992 internal history of its overhead reconnaissance programs ([[summaries/cia-uap-003-cia-overhead-reconnaissance-u2-oxcart]]) confirms the CIA's role as an **active, deliberate generator of UFO reports**:
+
+- **U-2 and OXCART flights accounted for "more than one-half of all UFO reports during the late 1950s and most of the 1960s"** (CIA project insider James Cunningham, cited in the history).
+- **BLUE BOOK investigators regularly called the CIA's Project Staff in Washington to check reported UFO sightings against U-2 flight logs.**
+- The mechanism: U-2s at 60,000+ ft caught twilight sunlight on silver wings, appearing as "fiery objects" to airline pilots in darkness at 20,000 ft. Daylight reflections created ground-visible glints. Since "no one believed manned flight was possible above 60,000 feet," these were reported as UFOs.
+- The CIA enforced **non-disclosure of the true explanation** — Blue Book could eliminate reports internally using U-2 flight logs but could not reveal the cause to the public without compromising the program.
+- The public cover story (approved by President Eisenhower in 1956) was **"high-altitude weather research"** under NACA/NASA. When Francis Gary Powers was shot down on 1 May 1960, this cover collapsed under Khrushchev's staged information release.
 
 ### Documented incidents in CIA UAP files
 - Hungary 1955 wave (reported via civilian correspondence)
